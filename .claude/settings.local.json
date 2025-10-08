@@ -13,7 +13,12 @@
       "Bash(git -C /mnt/e/GitStack status --short)",
       "Bash(/mnt/e/GitStack/auto-deploy.sh:*)",
       "Bash(bash:*)",
-      "Bash(git -C \"/mnt/e/GitStack\" status)"
+      "Bash(git -C \"/mnt/e/GitStack\" status)",
+      "WebFetch(domain:huangf06.github.io)",
+      "Bash(git -C \"/mnt/e/GitStack\" add config.yml)",
+      "Bash(git -C \"/mnt/e/GitStack\" commit -m \"fix: Update baseURL to correct GitHub Pages URL\")",
+      "Bash(git -C \"/mnt/e/GitStack\" push origin main)",
+      "Bash(git -C \"/mnt/e/GitStack\" pull origin main --rebase)"
     ],
     "deny": [],
     "ask": []
