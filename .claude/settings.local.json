@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(hugo:*)",
+      "Bash(mkdir:*)",
+      "Bash(git init:*)",
+      "Bash(git branch:*)",
+      "Bash(git submodule add:*)",
+      "Bash(chmod:*)",
+      "Bash(export WDIR=\"/mnt/e/GitStack\")",
+      "Bash(git clone:*)",
+      "Bash(git -C /mnt/e/GitStack submodule add --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod)",
+      "Bash(git -C /mnt/e/GitStack status --short)",
+      "Bash(/mnt/e/GitStack/auto-deploy.sh:*)",
+      "Bash(bash:*)",
+      "Bash(git -C \"/mnt/e/GitStack\" status)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

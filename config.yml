@@ -1,0 +1,180 @@
+baseURL: "https://yourusername.github.io/blog-portfolio/" # Update with your GitHub username
+languageCode: en-us
+title: "Philosophy & Literature Portfolio"
+theme: PaperMod
+paginate: 10
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: "Philosophy & Literature Portfolio"
+  description: "A collection of philosophical and literary translations and essays"
+  keywords: [philosophy, literature, translation, essays, Kant, Dostoevsky, ethics]
+  author: "Your Name"
+
+  # Theme settings
+  defaultTheme: auto # auto, light, dark
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+
+  assets:
+    disableHLJS: false
+    disableFingerprinting: false
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+
+  label:
+    text: "Philosophy & Literature"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # Profile mode (for homepage)
+  profileMode:
+    enabled: false # Set to true for profile-style homepage
+    title: "Philosophy & Literature Portfolio"
+    subtitle: "Exploring moral philosophy, classical literature, and personal reflections through translation and analysis"
+    imageUrl: "/images/profile.jpg" # Optional
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: "Profile"
+    buttons:
+      - name: Philosophy
+        url: /categories/philosophy/
+      - name: Literature
+        url: /categories/literature/
+      - name: Essays
+        url: /categories/essays/
+      - name: Tags
+        url: /tags/
+
+  # Home Info mode (alternative to profile mode)
+  homeInfoParams:
+    Title: "Welcome to My Portfolio"
+    Content: >
+      A curated collection of philosophical and literary translations and essays.
+
+
+      Explore works on moral philosophy, classical literature, and personal reflections.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/yourusername"
+    - name: linkedin
+      url: "https://linkedin.com/in/yourusername"
+    - name: email
+      url: "mailto:your.email@example.com"
+    - name: rss
+      url: "/index.xml"
+
+  # Analytics (uncomment and configure when ready)
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+
+  editPost:
+    URL: "https://github.com/yourusername/yourusername.github.io/tree/main/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
+
+  # Search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: philosophy
+      name: Philosophy
+      url: /categories/philosophy/
+      weight: 10
+    - identifier: literature
+      name: Literature
+      url: /categories/literature/
+      weight: 20
+    - identifier: essays
+      name: Essays
+      url: /categories/essays/
+      weight: 30
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 40
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 50
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 60
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 70
+
+# Taxonomies
+taxonomies:
+  category: categories
+  tag: tags
+
+# Privacy settings
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+
+  instagram:
+    disabled: false
+    simple: true
+
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+# Output formats
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
