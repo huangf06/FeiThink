@@ -2,7 +2,9 @@ baseURL: "https://huangf06.github.io/GitStack/"
 languageCode: en-us
 title: "Philosophy & Literature Portfolio"
 theme: PaperMod
-paginate: 10
+
+pagination:
+  pagerSize: 10
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -159,7 +161,7 @@ privacy:
     disabled: false
     simple: true
 
-  twitter:
+  x:
     disabled: false
     enableDNT: true
     simple: true
