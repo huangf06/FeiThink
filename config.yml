@@ -1,4 +1,4 @@
-baseURL: "https://yourusername.github.io/blog-portfolio/" # Update with your GitHub username
+baseURL: "https://huangf06.github.io/GitStack/"
 languageCode: en-us
 title: "Philosophy & Literature Portfolio"
 theme: PaperMod
@@ -84,7 +84,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/yourusername"
+      url: "https://github.com/huangf06"
     - name: linkedin
       url: "https://linkedin.com/in/yourusername"
     - name: email
