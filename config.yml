@@ -18,32 +18,32 @@ languages:
         subtitle: "Thoughts on philosophy, technology, and life"
         buttons:
           - name: Posts
-            url: /en/posts/
+            url: posts/
           - name: Archives
-            url: /en/archives/
+            url: archives/
           - name: Tags
-            url: /en/tags/
+            url: tags/
     menu:
       main:
         - identifier: posts
           name: Posts
-          url: /en/posts/
+          url: posts/
           weight: 10
         - identifier: archives
           name: Archives
-          url: /en/archives/
+          url: archives/
           weight: 20
         - identifier: tags
           name: Tags
-          url: /en/tags/
+          url: tags/
           weight: 30
         - identifier: search
           name: Search
-          url: /en/search/
+          url: search/
           weight: 40
         - identifier: about
           name: About
-          url: /en/about/
+          url: about/
           weight: 50
 
   zh:
@@ -59,32 +59,32 @@ languages:
         subtitle: "哲学、技术与生活的思考"
         buttons:
           - name: 文章
-            url: /zh/posts/
+            url: posts/
           - name: 归档
-            url: /zh/archives/
+            url: archives/
           - name: 标签
-            url: /zh/tags/
+            url: tags/
     menu:
       main:
         - identifier: posts
           name: 文章
-          url: /zh/posts/
+          url: posts/
           weight: 10
         - identifier: archives
           name: 归档
-          url: /zh/archives/
+          url: archives/
           weight: 20
         - identifier: tags
           name: 标签
-          url: /zh/tags/
+          url: tags/
           weight: 30
         - identifier: search
           name: 搜索
-          url: /zh/search/
+          url: search/
           weight: 40
         - identifier: about
           name: 关于
-          url: /zh/about/
+          url: about/
           weight: 50
 
 pagination:
