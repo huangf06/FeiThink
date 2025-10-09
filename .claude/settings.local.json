@@ -3,7 +3,10 @@
     "allow": [
       "Bash(head:*)",
       "Bash(done)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(./deploy-bilingual.sh:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []

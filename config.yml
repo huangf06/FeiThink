@@ -1,6 +1,6 @@
 baseURL: "https://huangf06.github.io/GitStack/"
 languageCode: en-us
-title: "Bridging Worlds | 桥接世界"
+title: "Huang Fei's Blog"
 theme: PaperMod
 
 pagination:
@@ -19,9 +19,9 @@ minify:
 
 params:
   env: production
-  title: "Bridging Worlds | 桥接世界"
-  description: "An intellectual journey bridging Eastern and Western thought through philosophy, literature, and personal reflections | 通过哲学、文学和个人反思连接东西方思想的智识之旅"
-  keywords: [philosophy, literature, bilingual, essays, Kant, existentialism, 哲学, 文学, 双语, Rick and Morty, mental health]
+  title: "Huang Fei's Blog"
+  description: "Personal blog about philosophy, technology, and life"
+  keywords: [blog, philosophy, technology, life, essays, writing]
   author: "Huang Fei"
 
   # Theme settings
@@ -58,33 +58,28 @@ params:
 
   # Profile mode (for homepage)
   profileMode:
-    enabled: true # Set to true for profile-style homepage
-    title: "Bridging Worlds | 桥接世界"
-    subtitle: |
-      An intellectual journey across cultures
-      一段跨越文化的智识之旅
-    imageUrl: "" # Optional
+    enabled: true
+    title: "Huang Fei"
+    subtitle: "Thoughts on philosophy, technology, and life"
+    imageUrl: "" # Optional profile image
     imageWidth: 120
     imageHeight: 120
     imageTitle: "Profile"
     buttons:
-      - name: Essential Reads
-        url: /essential/
-      - name: Philosophy Journey
-        url: /dialogues/
-      - name: Timeline
-        url: /timeline/
+      - name: Posts
+        url: /posts/
+      - name: Archives
+        url: /archives/
+      - name: Tags
+        url: /tags/
 
   # Home Info mode (alternative to profile mode)
   homeInfoParams:
-    Title: "Welcome | 欢迎"
+    Title: "Welcome"
     Content: |
-      > "The unexamined life is not worth living." - Socrates
-      > "未经审视的生活不值得过。" - 苏格拉底
+      Hi, I'm Huang Fei. This is where I write about philosophy, technology, and life.
 
-      An intellectual journey bridging Eastern and Western thought through philosophy, literature, and personal reflections.
-
-      通过哲学、文学和个人反思连接东西方思想的智识之旅。
+      Feel free to explore my posts or browse by tags.
 
   socialIcons:
     - name: github
@@ -123,46 +118,32 @@ params:
 
 menu:
   main:
-    - identifier: dialogues
-      name: Dialogues | 对话
-      url: /dialogues/
+    - identifier: posts
+      name: Posts
+      url: /posts/
       weight: 10
-    - identifier: reflections
-      name: Reflections | 反思
-      url: /reflections/
+    - identifier: archives
+      name: Archives
+      url: /archives/
       weight: 20
-    - identifier: critiques
-      name: Critiques | 评论
-      url: /critiques/
+    - identifier: tags
+      name: Tags
+      url: /tags/
       weight: 30
-    - identifier: journeys
-      name: Journeys | 旅程
-      url: /journeys/
-      weight: 40
-    - identifier: essential
-      name: Essential | 精选
-      url: /essential/
-      weight: 50
-    - identifier: timeline
-      name: Timeline | 时间线
-      url: /timeline/
-      weight: 60
     - identifier: search
-      name: Search | 搜索
+      name: Search
       url: /search/
-      weight: 70
+      weight: 40
     - identifier: about
-      name: About | 关于
+      name: About
       url: /about/
-      weight: 80
+      weight: 50
 
 # Taxonomies
 taxonomies:
   category: categories
   tag: tags
-  philosopher: philosophers
-  concept: concepts
-  theme: themes
+  series: series
 
 # Privacy settings
 privacy:

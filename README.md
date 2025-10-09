@@ -1,12 +1,6 @@
-# Bridging Worlds | 桥接世界
+# Huang Fei's Blog
 
-A bilingual philosophy and literature portfolio showcasing an intellectual journey across Eastern and Western thought.
-
-一个双语哲学与文学作品集，展示跨越东西方思想的智识之旅。
-
-## 🌏 Overview
-
-This Hugo-based static site presents 55+ bilingual essays exploring philosophy, literature, mental health, and cultural criticism. The content bridges Chinese and Western intellectual traditions through parallel translations and cross-cultural analysis.
+A personal blog about philosophy, technology, and life, built with Hugo and hosted on GitHub Pages.
 
 ## 🌐 Live Site
 
