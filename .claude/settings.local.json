@@ -12,7 +12,16 @@
       "Bash(chmod:*)",
       "Bash(hugo:*)",
       "Read(//mnt/e/**)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Bash(for:*)",
+      "Bash(do base=\"$f%.en.md\")",
+      "Bash(if [ ! -f \"$base.zh.md\" ])",
+      "Bash(then echo \"Missing ZH: $base\")",
+      "Bash(fi)",
+      "Bash(do base=\"$f%.zh.md\")",
+      "Bash(if [ ! -f \"$base.en.md\" ])",
+      "Bash(then rm \"$f\")",
+      "Bash(echo:*)"
     ],
     "deny": [],
     "ask": []

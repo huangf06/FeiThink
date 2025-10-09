@@ -1,10 +1,10 @@
 ---
-title: "Prologue - 序章"
+title: "Prologue"
 date: 2017-08-26
 lastmod: 2017-08-26
 draft: false
 categories: ["Essays"]
-tags: ['writing']
+tags: ["philosophy", "personal-growth"]
 summary: ""
 author: "Huang Fei"
 showToc: true

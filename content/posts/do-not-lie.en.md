@@ -1,10 +1,10 @@
 ---
-title: "Do Not Lie: 不要说谎"
+title: "Do Not Lie"
 date: 2023-11-23
 lastmod: 2023-11-23
 draft: false
 categories: ["Essays"]
-tags: ['personal-growth']
+tags: ["philosophy", "personal-growth"]
 summary: ""
 author: "Huang Fei"
 showToc: true
