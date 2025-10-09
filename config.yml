@@ -1,7 +1,91 @@
 baseURL: "https://huangf06.github.io/FeiThink/"
-languageCode: en-us
 title: "FeiThink"
 theme: PaperMod
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+
+languages:
+  en:
+    languageName: "English"
+    languageCode: en-us
+    weight: 1
+    title: "FeiThink"
+    params:
+      description: "Personal blog about philosophy, technology, and life"
+      profileMode:
+        enabled: true
+        title: "FeiThink"
+        subtitle: "Thoughts on philosophy, technology, and life"
+        buttons:
+          - name: Posts
+            url: /en/posts/
+          - name: Archives
+            url: /en/archives/
+          - name: Tags
+            url: /en/tags/
+    menu:
+      main:
+        - identifier: posts
+          name: Posts
+          url: /en/posts/
+          weight: 10
+        - identifier: archives
+          name: Archives
+          url: /en/archives/
+          weight: 20
+        - identifier: tags
+          name: Tags
+          url: /en/tags/
+          weight: 30
+        - identifier: search
+          name: Search
+          url: /en/search/
+          weight: 40
+        - identifier: about
+          name: About
+          url: /en/about/
+          weight: 50
+
+  zh:
+    languageName: "中文"
+    languageCode: zh-cn
+    weight: 2
+    title: "飞想"
+    params:
+      description: "关于哲学、技术与生活的个人博客"
+      profileMode:
+        enabled: true
+        title: "飞想"
+        subtitle: "哲学、技术与生活的思考"
+        buttons:
+          - name: 文章
+            url: /zh/posts/
+          - name: 归档
+            url: /zh/archives/
+          - name: 标签
+            url: /zh/tags/
+    menu:
+      main:
+        - identifier: posts
+          name: 文章
+          url: /zh/posts/
+          weight: 10
+        - identifier: archives
+          name: 归档
+          url: /zh/archives/
+          weight: 20
+        - identifier: tags
+          name: 标签
+          url: /zh/tags/
+          weight: 30
+        - identifier: search
+          name: 搜索
+          url: /zh/search/
+          weight: 40
+        - identifier: about
+          name: 关于
+          url: /zh/about/
+          weight: 50
 
 pagination:
   pagerSize: 10
@@ -19,10 +103,8 @@ minify:
 
 params:
   env: production
-  title: "FeiThink"
-  description: "Personal blog about philosophy, technology, and life"
-  keywords: [blog, philosophy, technology, life, essays, writing, thinking]
   author: "Huang Fei"
+  keywords: [blog, philosophy, technology, life, essays, writing, thinking]
 
   # Theme settings
   defaultTheme: auto # auto, light, dark
@@ -56,23 +138,6 @@ params:
     icon: /apple-touch-icon.png
     iconHeight: 35
 
-  # Profile mode (for homepage)
-  profileMode:
-    enabled: true
-    title: "FeiThink"
-    subtitle: "Thoughts on philosophy, technology, and life"
-    imageUrl: "" # Optional profile image
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: "Profile"
-    buttons:
-      - name: Posts
-        url: /posts/
-      - name: Archives
-        url: /archives/
-      - name: Tags
-        url: /tags/
-
   # Home Info mode (alternative to profile mode)
   homeInfoParams:
     Title: "Welcome to FeiThink"
@@ -102,7 +167,7 @@ params:
     hiddenInSingle: false
 
   editPost:
-    URL: "https://github.com/yourusername/yourusername.github.io/tree/main/content"
+    URL: "https://github.com/huangf06/FeiThink/tree/main/content"
     Text: "Suggest Changes"
     appendFilePath: true
 
@@ -115,29 +180,6 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-
-menu:
-  main:
-    - identifier: posts
-      name: Posts
-      url: /posts/
-      weight: 10
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 20
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 30
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 40
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 50
 
 # Taxonomies
 taxonomies:

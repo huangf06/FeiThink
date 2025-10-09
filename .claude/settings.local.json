@@ -6,7 +6,11 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(./deploy-bilingual.sh:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(git fetch:*)",
+      "Bash(chmod:*)",
+      "Bash(hugo:*)"
     ],
     "deny": [],
     "ask": []
