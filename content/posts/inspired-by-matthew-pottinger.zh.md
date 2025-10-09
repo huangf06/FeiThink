@@ -11,7 +11,6 @@ showToc: true
 TocOpen: false
 ---
 
-This afternoon I read something about Mathew Pottinger, and I was inspired by his encouraging deeds. He said in 2005, "Living in China shows you a nondemocratic country can do to its citizens." While his experience of repression in China had fired his patriotism, I've fired my anti-patriotism. If you really love your country and people, how can you ignore their sufferings? 
 下午读了一些关于马修波廷格的东西，被他的人生经历鼓舞了。他在2005年说，在X国的生活给你展示了一个非MZ的国家可以怎么对待他的公民。他说他在X国的压抑经历点燃了他的爱国热情，对我则是点燃了我的反爱国主义。如果你真的在乎国家和人民，你怎么能忽视他们的痛苦？
 
 I've been told by many people that you shall see the better side. No. I said no. I choose the truth. Most of the better part has nothing to do with the government.In a larger and higher vision, achievements are just the success of market and nature. You loosen the control of your people and the prosperity is naturally guaranteed.
