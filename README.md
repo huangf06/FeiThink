@@ -1,10 +1,10 @@
-# Huang Fei's Blog
+# FeiThink
 
 A personal blog about philosophy, technology, and life, built with Hugo and hosted on GitHub Pages.
 
 ## 🌐 Live Site
 
-Visit: [https://huangf06.github.io/GitStack/](https://huangf06.github.io/GitStack/)
+Visit: [https://huangf06.github.io/FeiThink/](https://huangf06.github.io/FeiThink/)
 
 ## ✨ Features
 

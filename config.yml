@@ -1,6 +1,6 @@
-baseURL: "https://huangf06.github.io/GitStack/"
+baseURL: "https://huangf06.github.io/FeiThink/"
 languageCode: en-us
-title: "Huang Fei's Blog"
+title: "FeiThink"
 theme: PaperMod
 
 pagination:
@@ -19,9 +19,9 @@ minify:
 
 params:
   env: production
-  title: "Huang Fei's Blog"
+  title: "FeiThink"
   description: "Personal blog about philosophy, technology, and life"
-  keywords: [blog, philosophy, technology, life, essays, writing]
+  keywords: [blog, philosophy, technology, life, essays, writing, thinking]
   author: "Huang Fei"
 
   # Theme settings
@@ -59,7 +59,7 @@ params:
   # Profile mode (for homepage)
   profileMode:
     enabled: true
-    title: "Huang Fei"
+    title: "FeiThink"
     subtitle: "Thoughts on philosophy, technology, and life"
     imageUrl: "" # Optional profile image
     imageWidth: 120
@@ -75,9 +75,9 @@ params:
 
   # Home Info mode (alternative to profile mode)
   homeInfoParams:
-    Title: "Welcome"
+    Title: "Welcome to FeiThink"
     Content: |
-      Hi, I'm Huang Fei. This is where I write about philosophy, technology, and life.
+      A place for exploring philosophy, technology, and the human experience.
 
       Feel free to explore my posts or browse by tags.
 
