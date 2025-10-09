@@ -1,0 +1,118 @@
+---
+title: "Do Not Lie / 不要说谎"
+date: 2025-10-08
+lastmod: 2025-10-09
+draft: false
+categories: ["dialogues"]
+tags: ["philosophy", "Kant", "morality", "Chinese-society", "lying"]
+philosophers: ["Kant"]
+concepts: ["categorical-imperative", "moral-philosophy", "truth"]
+showToc: true
+TocOpen: false
+description: "A philosophical reflection on truth, morality, and society through the lens of Dostoevsky and Kant, examining the pervasive culture of lying and its moral implications in contemporary China. / 通过陀思妥耶夫斯基和康德的视角,对真相、道德和社会进行哲学反思,审视当代中国普遍存在的谎言文化及其道德含义。"
+author: "Huang"
+---
+
+## English Version
+
+> And above all, above everything else—do not lie. Above all, do not lie to yourself. A man who lies to himself and listens to his own lie comes to a point where he does not discern any truth either in himself or anywhere around him, and thus falls into disrespect towards himself and others. Not respecting anyone, he ceases to love, and having no love, he gives himself up to passions and coarse pleasures, in order to occupy and amuse himself, and in his vices reaches complete bestiality, and it all comes from lying continually to others and to himself.
+>
+> — Fyodor Dostoevsky, *The Brothers Karamazov*
+
+When I first read this passage two years ago, I didn't find it particularly profound, dismissing it as trite. Now, revisiting it, every word strikes me as insightful.
+
+Perhaps two years ago, I hadn't encountered Kant's metaphysics of morals. Dostoevsky, through the character of Elder Zosima, simply provides the answer, while Kant systematically proves it in *Groundwork of the Metaphysics of Morals*. Ultimately, I am convinced by rationality rather than moved by emotion.
+
+Not lying is our complete duty to others in Kant's moral system. A complete duty is an unconditional obligation that must be fulfilled without compromise, regardless of circumstances.
+
+My disappointment in China stems from their pervasive lies in all matters. This is particularly true in Henan, where I was born and raised. A classic Henanese survival tip concerns weight conversion: how many ounces are in a pound? It varies—sometimes eight, sometimes twelve. People always make up stories for the smallest advantage, never telling the truth, even to family. This deception disgusts me. I sometimes wonder: after decades of knowing each other, who doesn't see through whom? Yan Fu perfectly encapsulated the flaw in Chinese culture: starting with deceit, ending in shamelessness.
+
+Meanwhile, I also dislike the attitudes of some "city folks." During a recent incident at the Nanyang Music Festival, some advocated for strict measures in chaotic times. I'm not suggesting we tolerate such disorder, but the elitist mindset it reveals repels me. This represents another value I increasingly detest in Chinese society—elitism. Those deemed less elite aren't worthy of humane treatment.
+
+Morality is the law of freedom. Trying to elevate morality by restricting freedom is fundamentally misguided. By moral law of freedom, I ask: do you believe these people possess the same rationality as you? If, in a parallel universe, they were granted complete freedom and full political rights, do you believe the situation would spontaneously improve? (1) You don't believe so; (2) you can't wait; (3) you think it doesn't affect you. Because you don't live there, then you're just an onlooker to the chaos, unconcerned as long as it doesn't impact you.
+
+I see Henan's chaos as a result of limited political rights. The government prioritizes stability over solving problems or governing effectively. Consider the recent incident where a couple was attacked by a real estate company; the government silenced them instead of seeking justice. As a commoner, you're powerless. Born in Henan, I avoid Henanese, but I can't blame them. You live in big cities with more knowledge, resources, and legal protections. Have you ever treated them as equals or contributed to granting them the same freedoms you enjoy? If not, what right do you have to judge? You might be worse off if born there.
+
+And why do I have the right to lecture you? It's because of another moral principle: greater ability entails greater responsibility. Everyone is born with different talents and environments. How can morals be universal? The answer is straightforward: your obligations correspond to the extent of your freedom.
+
+You might ask what I've done. As a dissident writing here, hoping for a constitutional China, this is the most meaningful action I can think of.
+
+A line from the film *Frost/Nixon* lingers with me:
+
+> "That still leaves ten percent where he [Nixon] was doing the wrong thing, and knew it."
+
+Just that is enough to negate his ninety percent achievements and ruin his political career. Nixon might regret not being born in China, where his mistakes could be overlooked as his counterpart. But there's no such thing as balancing good and bad deeds. Knowing when you're doing wrong matters. When we can progress to this point, the false assessment that Mao Zedong's legacy into 70% good and 30% bad can be corrected, shedding the moral mentality like Americans scrutinizing Nixon, then our national spirit will have modernized.
+
+Today's lengthy writing is hard to conclude. Another time, I'll write from a personal perspective: when did I become a jack of all trades? (From the day I lost my moral foundation)
+
+As a master of none, what should I do now?
+
+Be true, both to others and to yourself.
+
+Be a person of integrity and hold your ground.
+
+---
+
+## 中文版本
+
+> 最主要的一点是——勿说谎。
+>
+> 主要的是勿对自己说谎。对自己说谎和听自己说谎的人会落到这样的地步：无论在自己身上还是周围,即使有真理,他也无法辨别,结果将是既不自重,也不尊重别人。
+>
+> 一个人如果对谁也不尊重,也就没有了爱；在没有爱的情况下想要消遣取乐,无非放纵情欲,耽于原始的感官享受,在罪恶的泥淖中完全堕落成畜类,而一切都始于不断的对人和对己说谎。
+>
+> ——《卡拉马佐夫兄弟》
+
+两年前初看这一段时,并不以为如何厉害,还道是开水白话,一碗鸡汤。
+而今重新读过,只觉字字珠玑。
+当初只道是寻常。
+
+可能两年之前还没有看到康德的道德形而上学。
+陀斯妥耶夫斯基只是借佐西马长老之口给你说了答案,而康德却在《道德形而上学奠基》里系统地给你证明了何以如此。
+(说到底,我还是只能被理性说服,而无法被感性推动。)
+
+而不要撒谎就是康德道德体系里我们对他人完全义务。所谓完全义务就是无条件的义务,无论何时何地何种情境都应该不打折扣贯彻到底。
+
+我对中国如此失望的一大原因就是他们在一切事情上对一切人撒谎。尤其是我出生长大的地方——河南。
+例子就不用我多举了。一个经典的河南生存小常识是：一斤等于几两？答案看情况,有时候五两,有时候八两。无论多么鸡毛蒜皮的小利,人总要编出一套话来骗你。原则就是绝对不能说实话。
+连父母兄弟也概不能免。想给你商量点啥事儿,一定要编套瞎话出来。对此我简直深恶痛绝。有时候心里不免嘀咕：大家都认识几十年了谁还不了解谁。
+严复先生八字道尽华风之弊：始于作伪,终于无耻。
+
+但我也同样不喜欢另一拨儿「城里人」的作派。
+前段时日我的家乡南阳发生音乐节「零元购」事件,网络上有些人就主张乱世重典严打。
+我倒不是认为这种乱象应该听之任之。而是道德直觉上觉得这种天龙人思想令我厌恶。因为这代表了另一个我越来越反感的中式价值——精英主义。不够精英的人不配活得像个人,不值得被当成人对待呗。
+
+在我看来,道德是自由的法则。而你希望通过限制自由的方式来提升道德,这从根本上是南辕北辙。
+我说道德是自由法则的意思是：你相不相信这些人和你有一样的理性？如果假设有一个平行宇宙,这些人被赋予完全的自由,每个个体都享有充分的政治权利,你相不相信情况会自发改善？
+(1)你不相信；(2)你等不及；(3)你觉得反正你不生在那个旮旯。
+反正你觉得乱世重典的铁拳不会落到你头上,就可劲儿看热闹不嫌事儿大。
+
+以我之见,河南的乱象,正是这里政治权利低下的后果。
+政府是不解决事情,也不认真治理的,首要任务是维持稳定。你看最近的"眼里有光"的夫妻被地产公司打了,政府不是主持公道,而是直接封嘴。而你一介草民是毫无办法的。
+我生为河南人,歧视河南人,不想再多认识一个河南人。但我无法指责河南人。
+对,你是生活在大城市,拥有更多的知识视野、物质条件、教育资源、法治环境等等。那你可曾把他们视为和自己一样的人而不是应该使劲儿用棍棒调教的狗,或者又可曾出过一份力创造条件让他们享有和你一样的自由？
+如果都没有,你有啥资格说话？你要是生在那地方可能还不如他们。
+
+那我又为啥有资格来教训你。根据就是道德的另一个属性：能力越大责任越大。
+我们所有人生来天赋有差异,环境有优劣。那道德义务又如何能够普世,对所有人都适用？其实答案不难推理,那就是你有多少自由,就有多少义务。
+
+当然你也可以反过来问我又干了啥。那我就会跟你说：
+身为一个反贼,在这里写文章,冀望中国终有宪政的一天,这就是我能想到为此我能做的最有意义的事。
+
+电影《对话尼克松》里一句台词我仍然印象深刻：
+
+> 这仍然留下百分之十的情况,他(尼克松)做错了事而且明知故犯。
+
+单这一点就足以否定他百分之九十的功勋,断送其政治生涯。
+尼克松可能后悔怎么没生在中国,怎么美国大众不跟他讲功过三七开？别说三七开了,一九开行不行？我九分功一分过还不行？
+没有这一说,你做错事的时候,你自己知不知道,这很重要。
+什么时候我们能快进到这一步,彻底改掉「功过三七开」这种"毛"病,像美国人审视尼克松一样审视道德。那我就觉得国民精神完成了现代化。
+
+今天一往大了写就收不住。
+改天再写个人视角：我是从什么时候开始变成一个水货的？
+(答案是从我失去道德根基的那一天)
+
+那身为一个水货,现在的我应该怎么办？
+对自己真实。
+不要撒谎,不管是对别人还是对自己。
+做一个正直的人,坚持住立场。

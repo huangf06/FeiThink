@@ -1,0 +1,329 @@
+/* Bilingual Content Display Styles */
+
+/* Typography optimizations for bilingual content */
+:root {
+    --font-chinese: "Source Han Serif", "Noto Serif CJK SC", "SimSun", serif;
+    --font-english: "Charter", "Georgia", serif;
+    --font-code: "SF Mono", "Monaco", "Inconsolata", monospace;
+}
+
+/* Language-specific typography */
+body {
+    font-family: var(--font-english), var(--font-chinese);
+    line-height: 1.75;
+}
+
+/* Chinese text optimization */
+:lang(zh),
+.chinese-text,
+h2:contains("中文版本"),
+h2:contains("中文版") {
+    font-family: var(--font-chinese);
+    line-height: 1.9;
+    letter-spacing: 0.02em;
+}
+
+/* Bilingual section separators */
+.bilingual-separator {
+    margin: 3rem 0;
+    border: 0;
+    height: 2px;
+    background: linear-gradient(to right, transparent, var(--tertiary), transparent);
+    position: relative;
+}
+
+.bilingual-separator::after {
+    content: "• • •";
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--theme);
+    padding: 0 1rem;
+    color: var(--tertiary);
+}
+
+/* Language toggle button for mobile */
+.language-toggle {
+    display: none;
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    z-index: 999;
+    background: var(--code-bg);
+    border: 2px solid var(--border);
+    border-radius: 50%;
+    width: 3rem;
+    height: 3rem;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.language-toggle:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.language-toggle::after {
+    content: "中/EN";
+    font-size: 0.75rem;
+    font-weight: bold;
+}
+
+/* Side-by-side bilingual display for desktop */
+@media (min-width: 1200px) {
+    .bilingual-content {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 3rem;
+        margin: 2rem 0;
+    }
+
+    .bilingual-content .english-version {
+        padding-right: 2rem;
+        border-right: 1px solid var(--border);
+    }
+
+    .bilingual-content .chinese-version {
+        padding-left: 2rem;
+    }
+
+    /* Synchronized scroll indicator */
+    .bilingual-content.synced::before {
+        content: "⇄";
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 1.5rem;
+        opacity: 0.3;
+        pointer-events: none;
+    }
+}
+
+/* Enhanced blockquotes for philosophical quotes */
+blockquote {
+    border-left: 4px solid var(--primary);
+    padding-left: 1.5rem;
+    margin: 2rem 0;
+    font-style: italic;
+    position: relative;
+    background: linear-gradient(to right, var(--code-bg), transparent);
+    padding: 1rem 1.5rem;
+}
+
+blockquote::before {
+    content: """;
+    position: absolute;
+    top: -10px;
+    left: 10px;
+    font-size: 3rem;
+    opacity: 0.3;
+    font-family: Georgia, serif;
+}
+
+/* Special styling for Rick & Morty quotes */
+blockquote:contains("Rick"),
+blockquote:contains("Morty") {
+    border-left-color: #97ce4c;
+    background: linear-gradient(to right, rgba(151, 206, 76, 0.1), transparent);
+}
+
+/* Philosopher name tags */
+.philosopher-tag {
+    display: inline-block;
+    background: var(--code-bg);
+    padding: 0.2rem 0.6rem;
+    border-radius: 3px;
+    font-size: 0.85rem;
+    margin: 0 0.2rem;
+    border: 1px solid var(--border);
+}
+
+/* Timeline styling */
+.timeline {
+    position: relative;
+    padding: 2rem 0;
+}
+
+.timeline::before {
+    content: "";
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 2px;
+    height: 100%;
+    background: var(--border);
+}
+
+.timeline-item {
+    position: relative;
+    margin: 3rem 0;
+    display: flex;
+    align-items: center;
+}
+
+.timeline-item:nth-child(odd) {
+    flex-direction: row-reverse;
+}
+
+.timeline-item::before {
+    content: "";
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 12px;
+    height: 12px;
+    background: var(--primary);
+    border-radius: 50%;
+    border: 3px solid var(--theme);
+}
+
+.timeline-content {
+    width: 45%;
+    padding: 1.5rem;
+    background: var(--code-bg);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.timeline-date {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: -2rem;
+    font-size: 0.85rem;
+    color: var(--secondary);
+    font-weight: 600;
+}
+
+/* Essential reads card layout */
+.essential-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.essential-card {
+    background: var(--code-bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1.5rem;
+    transition: all 0.3s ease;
+}
+
+.essential-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    border-color: var(--primary);
+}
+
+.essential-card h3 {
+    margin-top: 0;
+    color: var(--primary);
+}
+
+.essential-card .bilingual-title {
+    font-size: 0.9rem;
+    color: var(--secondary);
+    margin-bottom: 0.5rem;
+}
+
+/* Language statistics visualization */
+.language-stats {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.5rem 0;
+}
+
+.language-bar {
+    flex: 1;
+    height: 8px;
+    background: var(--code-bg);
+    border-radius: 4px;
+    overflow: hidden;
+    display: flex;
+}
+
+.language-bar .english {
+    background: var(--primary);
+}
+
+.language-bar .chinese {
+    background: var(--secondary);
+}
+
+/* Mobile optimizations */
+@media (max-width: 768px) {
+    .language-toggle {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .bilingual-content {
+        display: block;
+    }
+
+    .timeline::before {
+        left: 20px;
+    }
+
+    .timeline-item {
+        flex-direction: column !important;
+        margin-left: 40px;
+    }
+
+    .timeline-item::before {
+        left: -20px;
+    }
+
+    .timeline-content {
+        width: 100%;
+    }
+
+    .essential-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Dark mode adjustments */
+.dark blockquote {
+    background: linear-gradient(to right, rgba(40, 40, 40, 0.5), transparent);
+}
+
+.dark .essential-card {
+    background: rgba(40, 40, 40, 0.5);
+}
+
+.dark .timeline-content {
+    background: rgba(40, 40, 40, 0.5);
+}
+
+/* Smooth transitions */
+* {
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Print styles for bilingual content */
+@media print {
+    .bilingual-content {
+        display: block;
+    }
+
+    .language-toggle {
+        display: none;
+    }
+
+    .english-version,
+    .chinese-version {
+        page-break-inside: avoid;
+    }
+
+    hr {
+        page-break-after: avoid;
+    }
+}

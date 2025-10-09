@@ -1,24 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(hugo:*)",
-      "Bash(mkdir:*)",
-      "Bash(git init:*)",
-      "Bash(git branch:*)",
-      "Bash(git submodule add:*)",
-      "Bash(chmod:*)",
-      "Bash(export WDIR=\"/mnt/e/GitStack\")",
-      "Bash(git clone:*)",
-      "Bash(git -C /mnt/e/GitStack submodule add --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod)",
-      "Bash(git -C /mnt/e/GitStack status --short)",
-      "Bash(/mnt/e/GitStack/auto-deploy.sh:*)",
-      "Bash(bash:*)",
-      "Bash(git -C \"/mnt/e/GitStack\" status)",
-      "WebFetch(domain:huangf06.github.io)",
-      "Bash(git -C \"/mnt/e/GitStack\" add config.yml)",
-      "Bash(git -C \"/mnt/e/GitStack\" commit -m \"fix: Update baseURL to correct GitHub Pages URL\")",
-      "Bash(git -C \"/mnt/e/GitStack\" push origin main)",
-      "Bash(git -C \"/mnt/e/GitStack\" pull origin main --rebase)"
+      "Bash(head:*)",
+      "Bash(done)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []

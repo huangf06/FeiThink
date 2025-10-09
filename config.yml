@@ -1,6 +1,6 @@
 baseURL: "https://huangf06.github.io/GitStack/"
 languageCode: en-us
-title: "Philosophy & Literature Portfolio"
+title: "Bridging Worlds | 桥接世界"
 theme: PaperMod
 
 pagination:
@@ -19,10 +19,10 @@ minify:
 
 params:
   env: production
-  title: "Philosophy & Literature Portfolio"
-  description: "A collection of philosophical and literary translations and essays"
-  keywords: [philosophy, literature, translation, essays, Kant, Dostoevsky, ethics]
-  author: "Your Name"
+  title: "Bridging Worlds | 桥接世界"
+  description: "An intellectual journey bridging Eastern and Western thought through philosophy, literature, and personal reflections | 通过哲学、文学和个人反思连接东西方思想的智识之旅"
+  keywords: [philosophy, literature, bilingual, essays, Kant, existentialism, 哲学, 文学, 双语, Rick and Morty, mental health]
+  author: "Huang Fei"
 
   # Theme settings
   defaultTheme: auto # auto, light, dark
@@ -58,31 +58,33 @@ params:
 
   # Profile mode (for homepage)
   profileMode:
-    enabled: false # Set to true for profile-style homepage
-    title: "Philosophy & Literature Portfolio"
-    subtitle: "Exploring moral philosophy, classical literature, and personal reflections through translation and analysis"
-    imageUrl: "/images/profile.jpg" # Optional
+    enabled: true # Set to true for profile-style homepage
+    title: "Bridging Worlds | 桥接世界"
+    subtitle: |
+      An intellectual journey across cultures
+      一段跨越文化的智识之旅
+    imageUrl: "" # Optional
     imageWidth: 120
     imageHeight: 120
     imageTitle: "Profile"
     buttons:
-      - name: Philosophy
-        url: /categories/philosophy/
-      - name: Literature
-        url: /categories/literature/
-      - name: Essays
-        url: /categories/essays/
-      - name: Tags
-        url: /tags/
+      - name: Essential Reads
+        url: /essential/
+      - name: Philosophy Journey
+        url: /dialogues/
+      - name: Timeline
+        url: /timeline/
 
   # Home Info mode (alternative to profile mode)
   homeInfoParams:
-    Title: "Welcome to My Portfolio"
-    Content: >
-      A curated collection of philosophical and literary translations and essays.
+    Title: "Welcome | 欢迎"
+    Content: |
+      > "The unexamined life is not worth living." - Socrates
+      > "未经审视的生活不值得过。" - 苏格拉底
 
+      An intellectual journey bridging Eastern and Western thought through philosophy, literature, and personal reflections.
 
-      Explore works on moral philosophy, classical literature, and personal reflections.
+      通过哲学、文学和个人反思连接东西方思想的智识之旅。
 
   socialIcons:
     - name: github
@@ -121,39 +123,46 @@ params:
 
 menu:
   main:
-    - identifier: philosophy
-      name: Philosophy
-      url: /categories/philosophy/
+    - identifier: dialogues
+      name: Dialogues | 对话
+      url: /dialogues/
       weight: 10
-    - identifier: literature
-      name: Literature
-      url: /categories/literature/
+    - identifier: reflections
+      name: Reflections | 反思
+      url: /reflections/
       weight: 20
-    - identifier: essays
-      name: Essays
-      url: /categories/essays/
+    - identifier: critiques
+      name: Critiques | 评论
+      url: /critiques/
       weight: 30
-    - identifier: tags
-      name: Tags
-      url: /tags/
+    - identifier: journeys
+      name: Journeys | 旅程
+      url: /journeys/
       weight: 40
-    - identifier: archives
-      name: Archives
-      url: /archives/
+    - identifier: essential
+      name: Essential | 精选
+      url: /essential/
       weight: 50
-    - identifier: search
-      name: Search
-      url: /search/
+    - identifier: timeline
+      name: Timeline | 时间线
+      url: /timeline/
       weight: 60
-    - identifier: about
-      name: About
-      url: /about/
+    - identifier: search
+      name: Search | 搜索
+      url: /search/
       weight: 70
+    - identifier: about
+      name: About | 关于
+      url: /about/
+      weight: 80
 
 # Taxonomies
 taxonomies:
   category: categories
   tag: tags
+  philosopher: philosophers
+  concept: concepts
+  theme: themes
 
 # Privacy settings
 privacy:
