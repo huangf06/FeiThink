@@ -52,7 +52,7 @@ params:
     apple_touch_icon: "/apple-touch-icon.png"
 
   label:
-    text: "Philosophy & Literature"
+    text: "FeiThink"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
