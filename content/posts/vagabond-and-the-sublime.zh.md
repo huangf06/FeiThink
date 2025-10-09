@@ -4,7 +4,7 @@ date: 2023-10-01
 lastmod: 2023-10-01
 draft: false
 categories: ["随笔"]
-tags: []
+tags: ['writing', 'politics', 'literature']
 summary: ""
 author: "Huang Fei"
 showToc: true

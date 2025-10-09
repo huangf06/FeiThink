@@ -4,7 +4,7 @@ date: 2019-12-10
 lastmod: 2019-12-10
 draft: false
 categories: ["Essays"]
-tags: []
+tags: ['essay']
 summary: ""
 author: "Huang Fei"
 showToc: true

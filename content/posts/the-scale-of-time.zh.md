@@ -4,7 +4,7 @@ date: 2025-08-30
 lastmod: 2025-08-30
 draft: false
 categories: ["随笔"]
-tags: []
+tags: ['随笔']
 summary: ""
 author: "Huang Fei"
 showToc: true

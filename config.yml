@@ -187,9 +187,6 @@ taxonomies:
   tag: tags
   series: series
 
-# Disable taxonomy rendering to avoid broken links
-disableKinds: []
-
 # Privacy settings
 privacy:
   vimeo:

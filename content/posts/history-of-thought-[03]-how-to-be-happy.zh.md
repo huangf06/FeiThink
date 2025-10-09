@@ -4,7 +4,7 @@ date: 2021-01-17
 lastmod: 2021-01-17
 draft: false
 categories: ["随笔"]
-tags: []
+tags: ['psychology', 'philosophy']
 summary: ""
 author: "Huang Fei"
 showToc: true

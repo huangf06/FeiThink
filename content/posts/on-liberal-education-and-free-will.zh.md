@@ -4,7 +4,7 @@ date: 2020-05-11
 lastmod: 2020-05-11
 draft: false
 categories: ["随笔"]
-tags: []
+tags: ['education', 'personal-growth']
 summary: ""
 author: "Huang Fei"
 showToc: true

@@ -4,7 +4,7 @@ date: 2024-10-18
 lastmod: 2024-10-18
 draft: false
 categories: ["随笔"]
-tags: []
+tags: ['writing', 'personal-growth', 'philosophy']
 summary: ""
 author: "Huang Fei"
 showToc: true

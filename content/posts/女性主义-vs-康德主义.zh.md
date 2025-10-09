@@ -4,7 +4,7 @@ date: 2025-07-30
 lastmod: 2025-07-30
 draft: false
 categories: ["随笔"]
-tags: []
+tags: ['feminism', 'writing', 'reading', 'philosophy']
 summary: ""
 author: "Huang Fei"
 showToc: true

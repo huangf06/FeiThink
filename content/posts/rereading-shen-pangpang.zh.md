@@ -4,7 +4,7 @@ date: 2019-06-12
 lastmod: 2019-06-12
 draft: false
 categories: ["随笔"]
-tags: []
+tags: ['life', 'reading']
 summary: ""
 author: "Huang Fei"
 showToc: true

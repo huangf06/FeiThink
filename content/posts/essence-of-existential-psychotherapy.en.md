@@ -4,7 +4,7 @@ date: 2024-03-29
 lastmod: 2024-03-29
 draft: false
 categories: ["Essays"]
-tags: []
+tags: ['psychology', 'philosophy']
 summary: ""
 author: "Huang Fei"
 showToc: true

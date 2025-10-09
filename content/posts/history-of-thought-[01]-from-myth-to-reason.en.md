@@ -4,7 +4,7 @@ date: 2020-12-25
 lastmod: 2020-12-25
 draft: false
 categories: ["Essays"]
-tags: []
+tags: ['life', 'reading', 'philosophy']
 summary: ""
 author: "Huang Fei"
 showToc: true

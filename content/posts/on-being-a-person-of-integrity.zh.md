@@ -4,7 +4,7 @@ date: 2023-05-02
 lastmod: 2023-05-02
 draft: false
 categories: ["随笔"]
-tags: []
+tags: ['life', 'personal-growth']
 summary: ""
 author: "Huang Fei"
 showToc: true

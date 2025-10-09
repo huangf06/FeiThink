@@ -4,7 +4,7 @@ date: 2019-10-14
 lastmod: 2019-10-14
 draft: false
 categories: ["随笔"]
-tags: []
+tags: ['psychology', 'writing']
 summary: ""
 author: "Huang Fei"
 showToc: true

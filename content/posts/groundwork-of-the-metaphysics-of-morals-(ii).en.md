@@ -4,7 +4,7 @@ date: 2023-08-01
 lastmod: 2023-08-01
 draft: false
 categories: ["Essays"]
-tags: []
+tags: ['philosophy']
 summary: ""
 author: "Huang Fei"
 showToc: true

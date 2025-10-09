@@ -4,7 +4,7 @@ date: 2020-02-10
 lastmod: 2020-02-10
 draft: false
 categories: ["Essays"]
-tags: []
+tags: ['life']
 summary: ""
 author: "Huang Fei"
 showToc: true

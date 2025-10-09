@@ -4,7 +4,7 @@ date: 2025-01-17
 lastmod: 2025-01-17
 draft: false
 categories: ["Essays"]
-tags: []
+tags: ['life', 'personal-growth']
 summary: ""
 author: "Huang Fei"
 showToc: true

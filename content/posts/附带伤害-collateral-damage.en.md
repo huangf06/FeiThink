@@ -4,7 +4,7 @@ date: 2022-09-19
 lastmod: 2022-09-19
 draft: false
 categories: ["Essays"]
-tags: []
+tags: ['psychology']
 summary: ""
 author: "Huang Fei"
 showToc: true

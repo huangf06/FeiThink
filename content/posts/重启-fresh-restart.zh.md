@@ -4,7 +4,7 @@ date: 2022-09-17
 lastmod: 2022-09-17
 draft: false
 categories: ["随笔"]
-tags: []
+tags: ['society', 'writing']
 summary: ""
 author: "Huang Fei"
 showToc: true

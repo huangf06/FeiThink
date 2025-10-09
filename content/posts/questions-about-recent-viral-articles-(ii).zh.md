@@ -4,7 +4,7 @@ date: 2019-11-19
 lastmod: 2019-11-19
 draft: false
 categories: ["随笔"]
-tags: []
+tags: ['reading', 'politics']
 summary: ""
 author: "Huang Fei"
 showToc: true
