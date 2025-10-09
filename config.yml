@@ -187,6 +187,9 @@ taxonomies:
   tag: tags
   series: series
 
+# Disable taxonomy rendering to avoid broken links
+disableKinds: []
+
 # Privacy settings
 privacy:
   vimeo:
@@ -212,3 +215,14 @@ outputs:
     - HTML
     - RSS
     - JSON # necessary for search
+  page:
+    - HTML
+  section:
+    - HTML
+    - RSS
+  taxonomy:
+    - HTML
+    - RSS
+  term:
+    - HTML
+    - RSS
