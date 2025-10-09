@@ -10,7 +10,9 @@
       "Bash(git remote set-url:*)",
       "Bash(git fetch:*)",
       "Bash(chmod:*)",
-      "Bash(hugo:*)"
+      "Bash(hugo:*)",
+      "Read(//mnt/e/**)",
+      "Bash(python3:*)"
     ],
     "deny": [],
     "ask": []

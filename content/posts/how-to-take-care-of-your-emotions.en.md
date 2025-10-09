@@ -1,0 +1,104 @@
+---
+title: "How to Take Care of Your Emotions"
+date: 2024-09-23
+lastmod: 2024-09-23
+draft: false
+categories: ["Essays"]
+tags: []
+summary: ""
+author: "Huang Fei"
+showToc: true
+TocOpen: false
+---
+
+A few days ago, I stumbled upon an old article I had written, "*Rereading Shen Pangpang*," and felt as if an arrow from the past had struck me. One sentence in particular stood out: 
+
+**When you make a few friends who appreciate you, do you find yourself suddenly becoming lively at the dinner table, as if you’ve transformed into a different person compared to your previously shy and introverted self**?
+
+My conclusion is no—I still speak very little. In any setting with more than three people, I basically just listen and don't talk. It’s no wonder I haven’t felt genuinely happy lately. I’ve been feeling quite lonely, with few people to connect with.
+
+In the past year, I forced myself to improve my English by avoiding my linguistic comfort zone, and as a result, I hardly spoke Chinese. A year later, my language skills have improved, but not significantly. Most of my progress has come from repetitive solo practice rather than actual conversation.
+
+But I lack a social life. It’s truly lonely when there’s no one to talk to. There’s a language and cultural barrier with Europeans, and a values and philosophy barrier with Chinese. I feel trapped in the middle, ‘yellow on the outside but Western-minded,’ is tough. Moreover, most Europeans, or rather most people, have a hedonistic default setting. For an INTJ like me, who believes in *Per aspera ad astra* (Through hardships to the stars), it’s hard to find someone I can connect with deeply.
+
+I spent the last two months of summer alone. Although it was lonely, it felt good. Occasionally, I would yearn to be part of a lively crowd, but when I actually found myself in such a setting, I felt bored and silent again. I still prefer a small circle of close friends.
+
+Moving forward, I need to acknowledge my own needs and be more proactive in taking care of my feelings.
+
+But I’m really bad at this. I often pride myself on having high intelligence and refuse to acknowledge the concept of emotional intelligence, thinking it’s something invented to comfort those with low IQs. I used to find the vulgar interpretations of EQ nauseating. If you have a strong sense of self and free will, are hard to manipulate, you get labeled as having low EQ. Oh yes, highly intelligent people have low EQ, rich people are unhappy, and beautiful people can’t marry well. God is fair—when he gives others happiness, he blinds you so you don’t get upset seeing it.
+
+But I can’t deny that EQ, in the sense of emotional management, does exist and is directly linked to individual happiness. I saw a sentence on Twitter that resonated with me: being ~150+ IQ is basically god mode relative to the average person, you are most likely smarter than the average adult by age 10. yet, many people who are ~150+ IQ spend most of their lives feeling deeply misunderstood and often suffer emotionally.
+
+I want to learn systematically how to treat myself kindly and take care of my emotions.
+
+So, I started reading some books on emotional management. After going through a few highly rated ones on Amazon, like *Master Your Emotions*, I felt they were just so-so, nothing too impressive. Instead, a simple admission of limitations in the book struck me deeply:
+
+You might think that with the knowledge gained from this book, you’ll never feel depressed again. Of course not! You will continue to experience sadness, frustration, and resentment. But each time these emotions arise, you can stay rational and remind yourself that it will all eventually pass.
+
+*Master Your Emotions*
+
+Another enlightening point is the emotional ladder model. A person's emotional state doesn’t leap from one extreme to another; there are steps in between. When encountering negative emotions, try transitioning to a slightly more positive negative emotion. For example, when feeling depressed and helpless, why not go fuck the world?
+
+There aren’t really any profound principles or methodologies involved, including high-energy postures, regular exercise, music, and so on. Emotional management is actually more of a practical art, one that involves continuously honing your ability to take better care of yourself.
+
+I plan to go jogging in the park for an hour before sunset each day and learn to appreciate music that requires some taste. I’ll also cook.
+
+Apart from these things that I can do alone, relationships are still the most crucial way to combat isolation. Saying you don’t need friends may sound cool, like some lone wolf, but it’s not honest. I remember my friend Ti mentioning that I don’t pay attention to building my social circle. It’s true that I’m used to being alone, and I haven’t learned this yet. Maybe it doesn’t need too much deliberate effort—just unlock the suppression and constraints on emotions and expression, let the energy flow freely, greet and chat with someone if they come to mind, strike up a conversation when you feel like it.
+
+Leave room for the unknown. During the Mid-Autumn Festival dinner at a friend’s house, I was still lamenting that I didn’t understand the meaning of travel. But after spending a lovely afternoon this Saturday exploring the windmill village with a French girl in Rotterdam, I got it. Life isn’t just about what’s predictable or unchanging. Some experiences simply won’t happen if you stay at home all the time. You need to create opportunities for these unexpected delights. Here’s to those unexpected encounters and surprises in life. À la tienne!
+
+When browsing old articles, I also read the first one, "Prologue." I’m glad I made that decision back then, so my thoughts wouldn’t scatter with time and become untraceable. For example, seeing the word "philately" immediately reminded me of its true meaning.
+
+What I’m dissatisfied with now is that I write too much proper stuff. Not cursing anymore makes writing less satisfying, and without satisfaction, I have no motivation to write more.
+
+Not good, not good. I’m just doing this for fun. If I can’t write what I want and curse who I want, then what’s the point?
+
+From now on, I plan to jot down more random thoughts, just writing whatever comes to mind, wherever my brain takes me.
+
+No limits on topics or style—just limited skills and patience.
+
+前两天翻看从前写的文章《重读神胖胖》，突然感觉被来自过去的一箭射中了。尤其是看到下面这句时：「当你交上几个欣赏你的好朋友以后，看饭桌上你是不是突然变得活跃、跟你之前害羞、内向的性格相比好像变了一个人一样？」
+
+我的结论是没有，话特别少，只要三个人以上的场合，我就基本只听不说。也无怪最近确实地不怎么快乐，比较孤独，没什么人可以交流。
+
+过去一年为了强迫自己提高英语不致掉入语言舒适圈，一年没怎么讲过中文。
+
+一年过去了，语言好点儿但不多，主要还是归功于一个人时重复训练的笨功夫。
+
+但是社交方面是欠缺的，没人能交流是真寂寞。和欧洲人跨着语言和文化的障碍，和中国人跨着价值观和生存哲学的障碍。黄皮白心，卡在中间很难受。而且大部分欧洲人，或者说大部分人，基础设定就是享乐主义的，像INTJ这样的受虐狂，信奉Per aspera ad astra（循此苦旅，以达星辰）的还是少数，难以满足我深层次交流的需要。
+
+暑期时间自己独处了两个月，虽然孤独但是感觉良好。偶尔也会向往和一群人呼朋引伴，但是当真身在其中，就又感觉无聊，沉默寡言了。还是更喜欢少而精的朋友圈。
+
+接下来，还是需要正视自己的需要，更加发挥主观能动性地照顾好自己的感受。
+
+但我这方面实在弱得很。虽则日常自诩高智商，而且拒不承认情商这个概念，认为那是智商低的人发明出来安慰自己的。主要是以前被那些庸俗化的情商概念，给我恶心吐了。你身上有主体性，有自由意志，不好忽悠不好操纵，就给你安个情商低的帽子。嗯，智商高的人情商低，有钱人都不幸福，长得漂亮嫁不好。上帝是公平的，给别人幸福的时候还要蒙上你的眼，怕你看了心里难受。
+
+但是不能不承认，作为情绪管理意义上的情商是存在的，而且直接关系着个体的幸福。在推上看到一句话让我深有共鸣：智商150+相对于普通人来说几乎是上帝模式，你可能在10岁时就比普通成年人更聪明。然而，许多智商150+的人一生里大部分时间都感到被深深误解，常常在情感上受折磨。
+
+我想系统地学学怎么善待自己，如何照顾好自己的情绪。
+
+于是专门搜索阅读了一些情绪管理方面的书籍。看了一些亚马逊上高分的书以后，如《情绪由我》，感觉不过尔尔，没有多少惊艳的地方。反倒是书里一句承认自己无力的话让我深有启发：
+
+你可能会认为，凭借从这本书中获得的知识，你再也不会感到沮丧了。当然不是！你还是会不断地体验悲伤、沮丧和怨恨。但每当这些情绪出现时，你都可以保持理智，提醒自己这一切总会慢慢过去。
+
+《情绪由我》
+
+另外一点有启发的是情绪阶梯模型。人的情绪状态不是直接从一极蹦到另一极，中间有阶梯过渡。遇到负面情绪时，可以试试更积极一点的负面情绪。打个比方，实在抑郁无助时，不妨日天。
+
+其他没什么高深的原理和方法论了，包括高能量姿势，有规律运动，音乐等等。情绪管理其实更多是一门实践的艺术，通过不断地驾驭来更加炉火纯青地照顾好自己。
+
+计划以后每天日落前1小时去公园跑步，学着欣赏一些需要一定门槛的音乐，做饭。
+
+除开上面这些可以自己独立完成的事情。对抗孤独，最重要的途径还是关系。说自己不需要朋友虽然酷到没朋友，有种孤狼大佬的错觉，但这显然没有诚实地面对自己。想起提老师说我不注意构建圈子。确实独来独往惯了，我到现在也还没学会。可能也无需太多刻意，就解开自己对情感和表达的压抑和封印，让能量自由流动不去阻碍它，想起谁了问候一下聊一聊，想跟人搭话的时候就搭话。
+
+为那些未知的事情留出空间。中秋那天在朋友家晚餐时，我还在感慨自己不理解旅行的意义。这周六在鹿特丹认识一位法国姑娘一起游览风车村度过一个美好的下午以后，我就理解了。生活里不只有一眼望尽和一成不变。有些事情你宅在家里那几乎是必然不会有什么惊喜的，应该为这些意外的美好创造条件。敬那些生命里的不期而遇和意想不到。***À la tienne*** !
+
+翻看旧文时还看了第一篇《序章》。庆幸当时的决定，使思绪不致散逸在时光里无可觅处。比方说看到“集邮”二字就立马想起这个词的真正用意。
+
+让我不满意的是，现在写得规规矩矩的东西太多了，不骂人了以后写得不痛快，写得不痛快我就没动力更。
+
+不好不好。我就一玩票的，不能想写啥写啥，想骂谁就骂谁还玩个蛋。
+
+接下来，我准备多写点潦草东西，想到啥写啥，脑子用在啥地方写啥。
+
+领域不限，文体不限，水平有限，涵养有限。

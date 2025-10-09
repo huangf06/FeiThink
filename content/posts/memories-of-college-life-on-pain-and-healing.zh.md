@@ -1,0 +1,453 @@
+---
+title: "追忆大学时光——关于伤痛和治愈"
+date: 2020-02-10
+lastmod: 2020-02-10
+draft: false
+categories: ["随笔"]
+tags: []
+summary: ""
+author: "Huang Fei"
+showToc: true
+TocOpen: false
+---
+
+# **Memories of College Life: On Pain and Healing**Cleaning up my social media recently, I stumbled upon old scars from my college days. Those years remain a wound that never quite heals—each time I touch it, melancholy floods back. But I need to face this pain, dissect it with brutal honesty, and put it to rest once and for all. I can’t let it keep gnawing at me. It’s time to make peace with myself.
+
+## **Part One: Memories**High school was grueling—5 AM to 9 PM, six days a week—but those hard days had a certain brilliance to them, the glow of youth. College was different. It was a black hole, completely devoid of light. Every time I try to untangle those memories, a thousand thoughts surge at once, driving me to cigarettes, not knowing where to even begin. So let’s divide and conquer.
+
+### **1. Poverty and Helplessness**What hits me first about college: poverty. Crushing poverty. It was the first time I truly felt the wealth gap. I remember reading on Renren (China’s Facebook) about Zhao Fei’s family trip to Hong Kong—tens of thousands of yuan a day, casually spent. I was shocked. Then in calculus class, I overheard Zhao Fei and her friends mocking someone’s clothes. I’d never met people so casually cruel.
+
+My first faith crisis hit me then. Surrounded by classmates who were smart, worldly, talented—and held values completely foreign to me. Before, when my beliefs clashed with others, I’d always assumed I was right. But at Tsinghua, for the first time, I felt backward. Their ideas seemed more sophisticated, closer to some truth I couldn’t grasp. I felt ashamed of how provincial I was, how little I knew. Deeply confused, with no one to guide me.
+
+That first National Day break, I went home and tried talking to my parents about all this. They accused me of being corrupted by wealth and extravagance. I was so furious I couldn’t speak. From that day on, I never took another yuan from home.
+
+I survived on 10,000 yuan annual scholarship plus a 6,000 yuan student loan. Minus 5,000 for tuition and 1,500 for housing, that left 9,500—about 800 per month for everything: food, clothes, phone, computer, books, everything. Sounds doable, right? Ten yuan a day for meals is 300, leaves 500. So why did it feel impossible?
+
+Mark became class secretary and organized a trip to his home. Nothing fancy—just train tickets. But it broke me financially. I had to borrow from Mark just to make it to the next aid disbursement. He forgot about it for three days. I went hungry for three days.
+
+Remembering this, I can’t stop crying. How I wish I’d been less proud, less stubborn. How I wish I’d had the shamelessness to ask for help from anyone who could give it. Two years ago, staying at an InterContinental at 2,000 yuan a night, all I could think was: Back then, I couldn’t even dream of the GRE because the 1,000 yuan registration fee was unthinkable.
+
+First semester, I pursued Liu Han. She rejected me cleanly. I’m grateful for that now. But honestly, pursuing her wasn’t really about her. It was panic about college, about city life, grasping at anything. What I really needed was help. That rejection deepened my helplessness. I’d scored 95 on the calculus midterm. By finals, I failed outright.
+
+Sophomore year was freefall. I failed everything: Ben Koo’s Data Structures, Zhou Jian’s Probability... just watched myself crash. Data Structures—I had weeks to salvage it. But I just lay there whimpering like a beaten dog, doing nothing, watching the deadline pass. When I retook Probability, Zhou Jian asked: “You clearly understand this—how did you fail?” I said nothing. Thought to myself: I didn’t fail because I couldn’t do it. I just didn’t show up for the exam.
+
+I told Geng: “It’s like being trapped in a box. Every direction I push, I hit a wall.” Years later, I learned the term for it on Zhihu: learned helplessness.
+
+There were kind classmates around. Counselors, advisors. But I was facing a complete worldview collapse. Where could I even begin to ask for help?
+
+Spring at Tsinghua must be beautiful—lush trees, flowers, birdsong. I dreaded spring. All that brightness and glamour just made me feel more ashamed, more out of place. The spring sun was so bright I couldn’t look at it.
+
+Gaming and the library were free. That’s what I remember: Zijing Apartments cutting internet at exactly 4:52 AM. Checking out 400 books over four years.
+
+None of those books were for my major. When the Industrial Engineering orientation explained that our field only cuts costs, never generates value, I lost interest immediately. Don’t ask why I didn’t research before choosing. I just picked based on the name—and it was my first choice. Single-handedly raised Henan’s admission cutoff for that major by ten points.
+
+In the library, I devoured social science. Crashed lectures and seminars. Just the other day, a friend I met in Germany mentioned taking Professor Lin Yanzhi’s class. I was stunned—I took that class twelve years ago and it changed my thinking. I’d raved about it to Tang, who sat through one session and shrugged.
+
+Compared to those mind-numbing, incomprehensible engineering courses, I had a whole world of questions that needed answering. I remember telling my roommate once, staring at a screen showing both games and porn: “I’m contemplating life’s path.”
+
+### **2. Recognition and Belonging**Boys’ Day, first semester. I believed the warm words at our class gathering. Moved, I rode home and fell off my bike. Broke a tooth. I know it wasn’t all bullshit—they were decent people. The rich father in *Parasite* wasn’t evil, was he? We were just separated by misunderstanding and prejudice.
+
+And I made it worse—the ugly duckling acting out. When my dark mood descended, I could make a whole room want to die of awkwardness. But that wasn’t my real self. My natural state is energetic, exuberant, intense. The gloom came from frustration, from desires unfulfilled.
+
+All I wanted was recognition of my abilities. Never got it from my classmates. Even close friends like Xu Xu or Dage Cheng—they’d call me loyal. But that’s not who I am at my core. First and foremost, I’m a genius—imaginative, romantic, visionary.
+
+### **3. Desire and Love**Can’t remember when I fell for Ajiao. Probably from that flirtatious “Ah Fei” she called me second semester—pierced right through me. Lasted until junior year. I pursued her relentlessly, shamelessly: Brought her breakfast. Saw her sniffling, bought medicine and delivered it. Stuffed melons in her tiny bike basket. “Manufactured chance encounters” at predictable times and places (Wang San’s phrase). Watched her dance rehearsals at Mengminwei Building. Once even blocked her bike—total hooligan move.
+
+Started smoking over this failed romance. Burns on my palm and wrist, permanent reminders: July 25, 2008. Twelve years ago. Went drinking with Mark after she broke my heart. He pounded Tsingtao, I pounded baijiu. Didn’t talk, just drank. Our intensity attracted some business school jocks at the next table—they joined us. Ended up at a KTV outside the east gate. First time I learned “princess” was an actual job.
+
+Can’t say I truly loved Ajiao. At first, I just thought she was the only girl who wasn’t completely ignorant. Later, it was pure stubbornness—refusing to lose.
+
+I’ve tried finding something meaningful in that relationship. There’s nothing. Doesn’t make her a bad person—whether she’s Falun Gong or whatever those “passionate photos” in the email leak were about. Things that scandalized us then seem trivial now. It just means we were nothing to each other. Two strangers who happened to cross paths.
+
+Repeated romantic failures deepened the darkness of those years. Suppressed hormones eventually rebound with a vengeance. My views on love got warped around then. I told Li Xiaowen I wanted to be a veteran of the bedroom wars. Are you satisfied now? I’m no moral saint, clearly. I can even sense a certain inevitability to it all. Things that fascinate me—I always find a way to study them thoroughly.
+
+### **4. Ugliness and Cowardice**These days, poverty doesn’t weigh on my mind. Nothing to repent about poverty itself. But courage and conscience—those judges I can’t escape. I’m deeply ashamed of the ugly things I did—out of poverty, lust, vanity, whatever the excuse.
+
+I’m ashamed for being a pussy. Ashamed for being intimidated by flashy posers like Q. Ashamed for being paralyzed by imaginary obstacles. Ashamed for whimpering instead of fighting back. Ashamed for hurting people who liked me—like KYMM—because of my own insecurity.
+
+“Big Pussy Fei.” The nickname was accurate.
+
+I’m ashamed for being a jerk. Ashamed for the chaos I caused, swinging between crushing insecurity and arrogant rage. Ashamed for how I treated some women—contemptuous, offensive. Ashamed for stealing someone’s tennis ball.
+
+## **Part Two: Pain and Healing**What exactly am I in pain about?
+
+The regret of wasted years. The damage to my confidence. The regret of never competing at full strength with the nation’s best minds. Ten years of wanting to make up for it. Seeking recognition and respect that never came. Friendships that should have formed but didn’t. Shame over my ugly behavior. The judgment of courage and conscience.
+
+These pains haunted me for a decade. Midnight awakenings. Nights of weeping. Only recently have they begun to heal.
+
+### **1. Rebuilding Confidence**Like I said: all I wanted was recognition. Never got it in college.
+
+My classmates were confident people who didn’t hand out praise easily. Too damn smart. When I showed off desperately, begging for validation, they saw right through me. Denied it, and I swear I could see them mentally noting another point against me.
+
+Popular wisdom back then: mentally strong people don’t need external validation. But even now, strong as I am, I remember desperately craving just one word of recognition.
+
+First job, state-owned enterprise. Everyone knew I was smart. But they’d always add “high IQ, low EQ” with a knowing smile. People always expect you to be someone you’re not.
+
+Then came short-lived jobs. Brief acquaintances, forgettable. Some truly despicable bosses—a Peking U PhD, this guy Quan Er.
+
+Until Boss Du. He said: “We’re not trying to please 99% of people. We’re here for the 1% who appreciate us.” Such simple words—Little S thought nothing of them. But for me, a decade-old knot untangled. I was comforted.
+
+### **2. Letting Go**This happened recently: arguing with Wang San during the Hong Kong protests. He’s representative, you know—outstanding graduate, success story. We reached no consensus, no resolution. No right or wrong—just that he was born on third base.
+
+That conversation released something in me. I’ve seen plenty of classmates since. Many haven’t grown mentally much in a decade after graduation.
+
+From my Weibo back then:
+
+I was terrible in college not because I’m inferior to them. My talent exceeds most of theirs. I came from herding sheep—spent enormous energy in college rebuilding my entire worldview. We weren’t even on the same starting line.
+
+Looking at those successful classmates now—sure, many are still excellent. But some success doesn’t inspire admiration, just bitterness about unfairness. Strip away status, wealth, connections, income—all the things heavily correlated with birth. What’s left in pure intellectual capacity? Many of them—I don’t even want to talk to anymore. So now I think: being slow isn’t so bad.
+
+That conversation killed my desire to catch up, to make up for lost time. Why bother competing with people I no longer respect?
+
+### **3. True Standing**Saw a post on SMTH asking: “When did you feel intellectually crushed?” Couldn’t think of anything. Posted it in the class chat. They started blowing smoke.
+
+But genuinely—I couldn’t think of anything. My grades were shit but I respected no one. Ego? Sure. But more than that: I knew they only beat me in accumulated knowledge. CPU speed clearly higher than mine? Can’t think of one. Significantly slower? I can count them. Night before last, went through names one by one. My real ability was massively underestimated. By my count, my natural talent exceeds two-thirds of them. True capability easily top ten, no clear hierarchy within that. But this can never be proven now. Unverifiable.
+
+I respect Mark because Mark is good people. Wang San said I don’t respect him. He’s right—never have. From that dinner freshman year when he said he wanted to be “more approachable,” I couldn’t take him seriously. Don’t respect him more because of his ignorance. Xiao Shan, top of our department—clearly brilliant. But limited interaction with women means we’d have to test each other directly, and our only real interaction was one lab where I dominated until missing a formula from not reading ahead. Among close friends, highest IQ has to be Xiao Liao—Tang and I agreed recently. I know Tang meant math ability. But I’ve noticed many math whizzes are surprisingly weak in social sciences. Terrible resistance to propaganda and conspiracy theories. So now I’m skeptical—leaning toward specialization instead. Question is: is mathematical ability the only marker of intelligence? Doubtful. Professor Yuan Juzheng at Taiwan University, lecturing on Rousseau, said: humanity produces one mathematical genius every 50 years, one literary genius every 500 years. Seems to confirm my suspicion.
+
+More importantly: intelligence matters, but it’s not everything. We’re all judged ultimately by our courage. For those of us with sufficient talent, achievement comes down to will, not intelligence. In *Harry Potter*, Ravenclaw and Hufflepuff represent intelligence and diligence. But the real story is always Gryffindor versus Slytherin—courage versus ambition.
+
+Let this end here. I know this is your deep desire—to prove your worth. But give up. It can never be verified. And overturning established hierarchies and prejudices—that never comes easy. Let this restless heart be still.
+
+Bottom line: whether you’re an idiot or a genius, if you don’t admit defeat, nobody’s better than you. Take back all sovereignty. Reclaim every knee you ever bent. Anyone who tries framing me with old prejudices—I’ll spit in their face.
+
+### **4. Recognition and Friendship**Cleaning up social media, I realized: many people and I share various connections, various roles—but we were never friends.
+
+I never forget. Even when others have forgotten, I remember every trace of kindness shown to me. Lezhen, Acen, Yanmei, Chen’er—their Boys’ Day gifts. Li Zilong’s text after I broke my tooth. Wang San’er helping when I couldn’t find an internship team. Acen, Shitou, Zhang Xiaoshan—casual words of encouragement.
+
+Sadly, most of these people aren’t friends. Just classmates. The recognition never obtained. The friendships that should have been but weren’t. These are permanent now. Irretrievable.
+
+The truth stings, but there’s no point dwelling. People come and go. It’s normal.
+
+### **5. Shame Over Ugly Acts**People like me—independent, refusing blind obedience, needing to test everything personally—you can’t just tell us what’s good, evil, beautiful, ugly. Doesn’t work that way.
+
+Under given conditions, I do everything, try every means, observe results, watch reactions, understand my own inner experience. That’s always been part of how I live.
+
+The beauty and ugliness, good and evil displayed along the way—do individual data points matter? No. Only our final choices matter. Our deepest identity. Our repeated patterns of behavior. That’s what defines us.
+
+## **Part Three: Who to Blame**Who caused this pain? Who should I blame?
+
+Should I blame myself forever? Heap reproach on myself endlessly? No. I won’t blame myself anymore because I performed well enough.
+
+Many of you now bend over backward teaching kids to read. I just think: middle school, I wanted to buy a pirated copy of *The Ordinary World* for 9 yuan. My father hemmed and hawed forever about it. With zero investment, from a village where 63% of kids never made it to high school, I got into Nanyang’s best high school. Then ranked 40th among Henan’s 780,000 test-takers and entered Tsinghua. Was I really so inadequate?
+
+My classmates: put yourselves in my shoes. Not one of you could have done what I did. If you think you could, you’re counting all the education and information that came with your birth. That’s cheating. I’m the one with the strongest life force among all of you.
+
+### **On Personality’s Influence**Tried using MBTI to explain my college behavior recently. Compared myself to Qiang—others too different for comparison. I’m INTJ, he’s INTP. One line nailed it: INTJs tend to structure their understanding of the world first. I spent huge amounts of energy in college structuring my worldview. Still doing it. Will keep doing it.
+
+My cognitive level then, my personality, my interests—they determined my actions. So even if I could do it over, starting college fresh: I’d still spend time familiarizing myself with terrain others already knew. Figure out why I’m competing. Study the rules. Only then decide on strategy and action.
+
+If I shouldn’t blame myself excessively, who should I blame?
+
+Mentioned poverty in a job interview once—female interviewer rolled her eyes. Sounds like whining. Unprofessional. But I’ve never been purely professional. I’m also a sociologist.
+
+Many people think their education and information are naturally part of their own abilities. They’re not.
+
+Whenever you feel like criticizing any one, just remember that all the people in this world haven’t had the advantages that you’ve had.
+
+*The Great Gatsby*
+
+About what happened to me personally—I have no complaints. I was given intelligence at the one-in-ten-thousand level. Talent most people never possess. I’m already among the favored.
+
+Let me revise that statement: The root cause of my painful memories wasn’t poverty itself. It was inequality.
+
+See the difference? “Don’t resent scarcity—resent inequality.” And this: If the problem were simply poverty, lifting myself out would suffice. But if the real problem is inequality—then saving myself alone is meaningless.
+
+If possible, I want to dedicate myself to changing this unjust world. However much I can. As Martin Luther King said in his famous speech:
+
+I have a dream that one day this nation will rise up and live out the true meaning of its creed: We hold these truths to be self-evident: that all men are created equal.
+
+I have a dream that one day on the red hills of Georgia the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood.
+
+I have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice.
+
+I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.
+
+“I Have a Dream” — Martin Luther King Jr.
+
+最近清理朋友圈，又触碰到大学时代留下的伤疤。
+大学时代是我心中永远的痛，每每触碰总让我心情沉郁。
+我觉得我有必要直面伤痛，最真实地自我剖析，一劳永逸地解决这个问题。
+不能再任由它无止境地吞噬心力。和自己真正地和解。
+
+## **一、关于大学的回忆**高中时代虽然过着596的生活，日子苦逼但有那么光辉闪耀的青春。
+而大学时代则是我人生中少有的让我感觉纯暗无光的黑洞。
+每每想要理清楚，却总是千头万绪齐涌上心头，常要逼得自己烟瘾发作，又不知从何落笔。
+且让我们分而治之(divide and conquer)。
+
+#### **1 关于贫穷和无助**我对大学最深的印象是贫穷，极度的贫穷。
+大学时代我第一次深切地感受到贫富差距。
+当我从校内日志上看到赵菲家去香港玩，每天成万成万地花钱，着实震惊了我。
+我也第一次在高数课上偶然从赵菲和其他女生的聊天里，发现真有人会因为别人的衣着而嘲笑人。此前我从没见过这么恶劣的同学。
+
+我第一次遇到信仰危机。我发现周围那么多的同学聪明而见多识广多才多艺，有跟我很不一样的价值。以前遇到价值冲突我都会觉得我是对的别人是错的，但在清华里我第一次感觉自己是落后的，而别人的想法明显更时髦可能更接近真理。
+我对自己的土鳖和孤陋寡闻感到自卑，深深困惑，又缺少必要的指导。
+
+大一上国庆放假回到家里，我和父母谈起这些大学的见闻，他们指责我奢侈腐化，把我气得说不出话来。
+从此终我大学时代再也没拿家里一分钱。
+靠着每年一万的助学金和六千元的助学贷款读完大学，除去每年5000的学费和1500的住宿费还剩9500元，平均每月八百，所有衣食住行电脑手机学习用品都从这里出。
+现在听上去好像也还行，因为每天十块饭钱也就三百还剩五百呢。
+可我为什么感觉那时过得那么艰难？
+Mark当上团支书以后组织过一次去他家的旅行，印象也没花什么钱就个车票费，可我马上现金流就断了。找Mark借钱才撑到助学金发放。还因为他没当回事晚借三天而饿了三天肚子。
+
+回忆起这些我眼泪止不住。
+我多希望自己没有那么刚烈的性子；
+我多希望自己当时能厚脸皮地去求助一切可以求助的资源。
+当我前年开房开两千一晚的洲际时，我满脑子想的都是：
+当年我因为一千块的报名费，而对考GRE出国留学这种事想都不敢想。
+
+大一上追求过刘涵。刘涵倒是干净利落地拒绝了我，为此我要感念她。
+但是，我对刘涵的追求实际是我对大学乃至大城市生活的茫然无措和病急乱投医，我实际的真实情感诉求只是求助。
+求助的被拒加重了我的无助。大一上的微积分期中还考95，期末直接就挂了。
+
+大二更是自由落体地下坠，挂了很多科：Ben Koo的数据结构和数据库，周建的概率论……就是眼睁睁地挂科。
+数据结构我记得明明还有几周时间，可我就是像一只败犬一样哀嚎着却什么也不做，眼睁睁地看着挂科。
+重修概率论时周建问你这明明都会呀怎么还能挂了。
+我不吭声，心里说我又不是因为不会才挂科，我是压根就没去考试。
+
+那时我和耿导讲：我感觉四面都是墙，无论我朝哪个方向努力都是在碰壁。
+直到多年以后我在知乎上学到了一个名词叫『习得性无助』。
+周围有很多热心的同学，还有辅导员班主任。
+但是我面临的是一整个世界观的困惑，我该从何问起？
+
+清华的春天想来很美，校园里绿树成荫，花香鸟语。
+可我在清华里最怕的就是春天，在一众的光鲜亮丽里我只感觉自惭形秽格格不入，明媚的春光晃得我睁不开眼。
+
+游戏和图书馆不要钱。
+所以我能回忆起的细节还有紫荆公寓每天早上4:52会定时断网，以及大学四年里四百本书的借阅记录。
+
+借的书当然都跟专业没有关系。当我从开学第一节的工业工程导论上听说，我们这专业只会节流不能开源的时候，就瞬间对这专业失去了兴趣。
+别问你报专业的时候不了解吗。我就是自己看名字瞎J8报的，还是第一志愿，以一己之力把这专业在河南的录取分数线拉高了十分。
+
+在图书馆我看过很多社科类的书，蹭过很多课和讲座。
+前些天有位在德国认识的小朋友讲他上过林炎志先生的课，我都惊呆了。因为十二年前我也上过林先生的课，受益颇深。
+阿汤在我的极力推荐下去听了一节，但这家伙完全不感冒。
+
+比起专业课那些无聊的不知所云的玩意儿，我还有一整个世界的困惑需要寻找答案。
+我记得曾经对着电脑屏幕上的游戏和A片跟室友讲：我在思考人生的道路。
+
+#### **2 关于认同和接纳**大一上男生节，我信了大家聚会时讲的温暖的鬼话，心情激荡，回来的路上骑车摔断了一颗牙。
+我知道也不全然鬼话，他们本心都不坏。
+《寄生虫》里的富人爸爸又坏到哪里去呢？
+我们之间隔膜的只是互不理解和成见。
+
+而我又是丑人多作怪的典型。
+我低气压的气场全开以后可以让周围人尴尬想死。
+但那不是我本来面貌。
+我正常的气质应该是热情跳脱而凌人的。
+我阴郁的气质属于典型的欲求不满状态。
+
+我唯一关心的是别人对我能力的认可，可我在同学那里从没得到过。
+就连徐旭、大哥成这些相熟的人，说起我来会说讲义气，但那并非我的本真，我的第一重身份首先是天才，富有想象力和浪漫气质的天才。
+
+#### **3 关于情欲和爱情**我是从什么时候喜欢上的阿娇我已经想不起了。大概是从大一下一声娇媚的『阿飞』开始一发入魂，一直贯穿到大三。
+我大学期间死缠烂打地追求阿娇，做过各种没脸没皮的事：
+给她送过早餐；看她用纸擦鼻涕给她买药送药；在她那迷你小车的筐里塞维多利亚；徘徊在规律的时间和地点『制造偶遇』（王三语）；到蒙民伟楼看她跳舞排练，有一次还很流氓地锁了人的车。
+
+因这失败的爱恋学会抽烟。手心手腕的烙印提醒我，那是2008年7月25日，尔来一十有二年矣。
+因为失恋跟Mark去喝酒，他干一瓶青岛我干一瓶金六福。期间也不说话就干喝酒。因这惊人的举动惊动了旁桌几个经管体育生，然后一起拼桌继续。完了后去东门外KTV唱歌，第一次知道公主原来是种职业。
+
+要说我对阿娇有多深爱那也谈不上，起初只因我认为她是女生里唯一不那么ignorant的人，后来只不过是因为我不认输。
+
+我刚刚反复想从这段关系里找出一些可以慰藉的东西。结论是没有。
+这并不能说明她是坏人，不管她是个法轮功也好，还是邮件门里说的什么激情艳照。这些当年我们惊掉下巴的事，现在看来根本就不算事。
+这只说明你们什么恩怨都没有，就是毫无瓜葛的两个人。
+
+感情的屡屡受挫加重了大学的黑暗和压抑。
+被压抑的荷尔蒙也终会在未来报复性反弹。
+我的爱情观好像从那时起就开始渐渐走歪了。
+那时我跟李晓文说立志要久经沙场。
+如今你满意了吗？
+实际上我肯定不是什么道德君子。
+我甚至可以隐约感受到其中的某种命运必然性。
+对于我感兴趣的东西，我总会想方设法研究个透彻。
+
+#### 4 **关于丑陋和卑怯**而今我已经不会再把贫穷这种事略萦心上。贫穷没什么可忏悔的。
+但却不能不受到勇气和良心的审判。
+我为自己出于贫穷、欲望、虚荣种种缘由下做出过的丑陋行为而感到羞愧难当。
+
+I'm ashamed for being a pussy.
+我为自己被Q这种浮华装逼的人唬到而感羞愧。
+我为自己被各种想象的困难吓倒而感羞愧。
+我为自己只会哀嚎而不反抗感到羞愧。
+我为自己的自卑怯懦伤害到那些喜欢我们的人比如KYMM而感羞愧。
+
+『大逼飞』这绰号还真是恰如其分。
+
+I'm ashamed for being a jerk.
+我为自己时而极度自卑时而极度自大充满戾气的状态给别人造成困扰而感羞愧。
+我为自己对一些女生轻侮冒犯的行为而感羞愧。
+我为自己昧下别人一个网球的盗窃行为而羞愧。
+
+## **二、关于伤痛和治愈**说到伤痛，我到底在伤痛什么？
+
+我伤痛的是，对于大学时代荒废时光的悔恨，以及我自信心由此而遭受的严重伤害。
+我伤痛的是，没能拼尽全力和一国英才一较短长的遗憾，和十年来总想要弥补遗憾的不甘。
+我伤痛的是，欲求同学的认可和尊重而不可得，伤感于没能和很多本应成为朋友的人成为朋友。
+我伤痛的是，对于自己种种丑陋行为的羞耻，以及勇气和良心对自己的审判。
+
+这些伤痛十年来挥之不去，多少个午夜梦回，多少次长夜痛哭。
+实际上直到最近才好转和释然。
+
+#### **1 对信心的修复**like i said，我唯一关心的是别人对我能力的认可。
+这我在大学里从没得到。
+
+本科同学都是一些信心十足不轻易认可别人的人。
+他们太聪明了。
+在我极度自卑只想得到一句能力认可而去show off时，他们总是能及时地识破我卑鄙的动机，而果断地拒不施予，并且我感觉能肉眼可见地看到他们心中对我罪加一等的diss.
+
+那时有种流行的看法似乎是：内心强大的人不需要向别人寻求认可。
+可是即使内心强大如现今的我，也有当初那做梦都想得到一句别人认可的时候。
+
+参加工作先是在国企，所有人都知道我聪明，却总会在评价我时自作聪明地在『智商高』的后面加上一句『情商低』。
+人们总是期望你表现得像一个你不是的人。
+people expect you to behave like someone you're not.
+
+之后都是一些短暂的工作经历，相识既短也没什么值得一提的人，更遇到过一些让人不齿的领导，比如一个北大博士，比如权二。
+
+直到遇到杜总。
+杜总说『我们不是为了得到99%的人认可，我们只是为了那1%赏识我们的人』。
+就是这样一句在小S看来普通平常的话，我十年来的心结就被抚平。
+I'm comforted.
+
+#### 2 **对往事的释怀**这发生在更近的时间：香港事件时和王三的对话以后。
+因为他可以说是很有代表性的人物了，优秀毕业生代表。
+我们的争论并没有什么结论和共识。
+没有什么对错，真的只是因为他生在了地主家。
+
+这件事让我对往事释然。
+我见过好多同学感觉很多人毕业十来年了心智上也没个什么长进。
+
+引用我那段时间的微博：
+
+我大学这么渣根本不是因为我比他们任何人差，老子天赋比他们大多数人都更高。我一个放羊娃大学里花了很多力气重构世界观，根本就不是一个起跑线。
+
+现在再去看那些当年优秀的人当然现在很多也一样优秀，只是有些优秀并不让你佩服，只感觉不公。剥开地位财富名望职级收入这些强相关于先天环境的东西，纯剩下的心智方面还能打几分呢？很多人你其实已不愿再跟他多说一句话了。所以我现在觉得：慢点没什么不好。
+
+这件事让我的不甘和想要找补的心释然了。
+本来嘛，对于那些你已经不再佩服的人你还计较什么呢，一点再想跟他们争竞的心都没有了。
+
+#### **3 关于实力座次**前几天在水木上看到一个贴子问『最让你感觉智商碾压的事是什么』。
+我怎么也想不起来，就发在同学群里，结果他们开始商业吹捧。
+
+可是我是真的想不起来。
+我大学成绩明明极差却谁都不服。这当然是自尊心作怪，但更重要的是我认为他们强于我的只是存量的知识。而CPU转速明显高过我的我一个都想不出来，相反显著低于我的我则可以一数一把。
+我前晚掰着手指头挨个又数了一遍，我的真实实力肯定是被低估了。
+我数出来我的天赋要高于三分之二的人，真实实力可以排在前十而不分伯仲。
+但这件事再也没有办法证明，无可考证了。
+
+我服Mark是因为Mark人好。
+王三说我不服他，他当然没错，我就是从没服过他。从大一吃饭时他说他要更平易近人起，我就不能服他了。不服他更是因为他的ignorance. 
+小珊我系第一当然厉害。但因为女生接触少，想让我们这些狮子老虎服人必然要亲自过招的。但我们俩有限的交集只是一起做了个实验，过程吊打但结果卡在我没预习少抄个公式。
+相熟的人里论智商肯定要首推小廖，这我和阿汤前些日子聊起来的共识。我知道阿汤肯定说的数学能力。但我最近发现数学强的人，很多却在社科方面出奇薄弱。对洗脑和阴谋论抵抗力很差。所以这个我也存疑了，目前更倾向于术业有专攻。
+就是说数学能力是智力的唯一表征吗？我存疑。
+前些天看台大苑举正讲卢梭时说道：人类50年出一个数学天才，500年才出一个文字天才。似乎隐约印证我的猜疑。
+
+更重要的是，智力虽然重要但也并不是那最重要的。
+我们都终将被自己的勇气审判。
+对我们这些天赋过了线的人，决定成就的也不是智力，而是意志。
+《哈利波特》里拉文克拉和赫奇帕奇分别以智力和勤奋著称，但真正的主角却总是格兰芬多和斯莱特林勇气和野心的对决。
+
+这件事就到此为止吧，我知道这是你想要证明自己实力的深层渴望。
+但放弃吧。这件事再也无法考证，而且这种动摇别人成见和现存秩序的事情也决不会轻易得到承认。
+且抚平这不甘的心。
+
+话说回来：不管你是傻逼还是天才，只要你不承认，没有人能比你牛逼。
+我们且把所有主权都收回，收回所有曾经献出去的膝盖。
+谁以后再拿以前的成见来框我们，我就啐他脸上。
+
+#### 4 **关于认同和友情**最近清理朋友圈时发现，我和很多人可能是很多其他身份和关系，但却独独不是朋友。
+
+I never forget a thing. 
+即使当事人已经遗忘，我也不曾忘怀别人投过来的一丝一缕的善意。
+我记得乐珍、阿岑、燕梅、琛儿她们男生节送的礼物；
+我记得李子龙在我摔断牙后发来的问候短信；
+我记得王三儿在我找不到实习队伍时伸来的援手；
+我记得阿岑、石头、张小姗他们随口鼓励的话语……
+
+遗憾的是，其中的大部分人我们都谈不上是朋友，只能算是同学。
+那些从未获得过的认同和尊重，那些本应而未能结下的友情，这些都已经成为不变的永远，再也无可挽回和改变了。
+
+虽然真相让人伤感，但也无须过于介怀。
+人来人往，这些都是再正常不过的事情。
+
+#### **5 对丑陋行为的羞愧**像我们这样独立、决不盲从、什么都要亲自实验的人，想要别人给我们灌输什么是善什么是恶什么是美什么是丑，本就强人所难。
+
+在给定的条件下无所不为，无所不用其极，然后观察结果，观察别人的反馈，了解自己内心的体验……这些本来就是我生命中日常的一部分。
+
+过程中所展现出的美和丑、善与恶，那些单个的观察点重要吗？
+No.
+只有那些我们最终的选择，最深层的身份认同，连续重复的行为表现，才定义了我们是谁。
+
+## **三、我应该责怪谁**是谁造成我这样的伤痛，我又该责怪谁？
+
+Shall I forever reproach myself?
+我应该过于责备自己吗？
+I shall not blame myself because I am good enough.
+我不想再像过去无数次的那样责备自己，因为我表现已经足够好。
+
+你们现在很多人会想方设法教孩子阅读习惯，我只想到我中学时买一本9块钱盗版的《平凡的世界》，我父亲还要跟我墨唧半天。
+我在零投入的条件下，从63%的孩子没有上过高中的农村，上到南阳最好的高中，又从78万河南考生里排名40进到清华，我有那么不堪吗？
+
+我的同学们啊，易地而处，你们没有人能做到我做到的程度。
+如果你认为你能，那只是你把自己出身附带的教育和信息也算上了，这属于开挂。
+我才是你们当中那生命力最顽强的男人。
+
+#### **关于性格的影响**我前一段试图用MBTI理论来解释我大学时的行为表现。
+我和强哥作了参照对比。因为其他人条件差太多没有可比性。
+我INTJ，他INTP. 
+其中一句话说得很好：INTJ倾向于先结构化地认识世界。
+我大学里确实花了很大一部分的时间和精力在结构化认识世界上。
+实际上这仍然是我当前在做以及今后要做的事。
+
+我当时的认识水平和我的性格志趣决定了我会采取的行动。
+所以即使重新来过，重新把我们放回大学入学时赛道的起点，
+我可以预见：
+我仍然会先花时间精力熟悉周边这他们其他很多人已经熟悉的赛场，弄清楚我的参赛目的，然后再去研究比赛的规则，最后才是决定行动和策略。
+
+如果我无需过于责怪自己，那我应该主要怪谁？
+
+我曾经一次面试时说是因为穷，被女面试官diss.
+这种话说出来总是显得怨天尤人。作为职场人说来当然不合时宜。
+但我从来不是一个纯粹的职业人。我还有一重真实身份是社会学家。
+
+很多人把他们的教育和信息视为自己能力理所当然的一部分。
+但是，并不是。
+
+Whenever you feel like criticizing any one, just remember that all the people in this world haven’t had the advantages that you’ve had.
+
+每当你想要批评任何人的时候，你就记住，这个世界上所有的人，并不是个个都有过你拥有的那些优越条件。
+
+The Great Gatsby 《了不起的盖茨比》
+
+对发生在我自己身上的事，我没有什么值得抱怨的。
+因为我已经被赋予了绝大多数人无法拥有的万里挑一级的智力天赋。
+我已经属于那些被眷顾了的人。
+
+我现在要重新修正一下上面的说辞：
+造成我伤痛记忆的根本原因并不是贫穷，而是贫富差距。
+
+Do you know the difference？
+你能理解这两者中间的差别吗？
+所谓不患寡而患不均。
+以及
+如果单单只是贫穷，那我只需要让自己脱贫就够了。
+但是如果真正原因是贫富差距，那仅仅是让我自己脱贫使我一个人得救就没有太大意义。
+
+但凡有可能，我希望能致力于改变这不公的世道，无论我能做的有多少。
+正像马丁路德金的名篇《我有一个梦想》所言：
+
+我梦想有一天，这个国家会站立起来，真正实现其信条的真谛：我们认为这些真理是不言而喻的：人人生而平等。
+我梦想有一天，在乔治亚的红山上，昔日奴隶的儿子将能够和昔日奴隶主的儿子坐在一起，共叙兄弟情谊。
+我梦想有一天，甚至连密西西比州这个正义匿迹，压迫成风，如同沙漠般的地方，也将变成自由和正义的绿洲。
+我梦想有一天，我的四个孩子将在一个不是以他们的肤色，而是以他们的品格优劣来评价他们的国度里生活。
+
+《我有一个梦想》——马丁路德金
+
+I have a dream that one day this nation will rise up and live out the true meaning of its creed: We hold these truths to be self-evident: that all men are created equal.
+
+I have a dream that one day on the red hills of Georgia the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood.
+
+I have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice.
+
+I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.

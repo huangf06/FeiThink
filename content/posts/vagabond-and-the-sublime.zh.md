@@ -1,0 +1,176 @@
+---
+title: "《浪客行》和崇高"
+date: 2023-10-01
+lastmod: 2023-10-01
+draft: false
+categories: ["随笔"]
+tags: []
+summary: ""
+author: "Huang Fei"
+showToc: true
+TocOpen: false
+---
+
+Upon arriving in the Netherlands, there was a moment when I felt disoriented.
+
+Living in the free world, I could write political commentary again, but I found no interest in it.
+
+You opponents are too insignificant.
+
+True, they reign supreme, wielding immense power. In terms of the authority to give life and death, no one in the world can match them.
+
+But what of it?
+
+They are too small. Their character is despicable and shameless, their insight crude and shallow, their actions perverse and stubborn. They are even inferior to shoolchildren, yet they hold the reins of a nation.
+
+Tangling with them seems pointless to me.
+
+And this realization of the opponent's insignificance is not new to me.
+
+Around the Spring Festival, I read Inoue Takehiko's manga "Vagabond".
+
+A line in it reminded me:
+
+Without me, you would have no one to rebel against.
+
+It's about Musashi's father, who appears in his dreams as a childhood nightmare, saying this to him.
+
+Insignificant as they are, these things have entangled with us for half our lives.
+
+Your life's rebellion has been a struggle against them.
+
+Without them, who are you? What should you do?
+
+When the day comes that you cast all worries behind and are truly unbound, where will you go?
+
+The weight of freedom is the weight of morality.
+
+Since finishing "Vagabond" over the new year, a concept has lingered in my mind, refusing to leave.
+
+Not because it's novel, but because it encapsulates my part thirty-plus years of life---a pursuit of the sublime.
+
+Inoue's depth of thought naturally doesn't compare to philosophers like Kant, but he uses the art form of manga to concretely depict this pursuit of the sublime.
+
+Invincible under the sun.
+
+Invincible...it's merely a word.
+
+All martial arts in the world ultimately boil down to philosophy.
+
+This isn't because philosophy has some magical effect that can manipulate physical laws.
+
+Rather, it's that the authors, whether Inoue's swordsmanship or Jin Yong's martial arts, are writing their own life philosophies.
+
+And it's not just them, but all thinkers and literary figures throughout history.
+
+Recently, I asked ChatGPT who the most profound Chinese thinker of the past century was.
+
+It told me Lu Xun, which greatly disappointed and dissaftisfied me.
+
+Because, in my view, compared to the greats of all time, Lu Xun is really insignificant.
+
+If we were to compare the realms of thought to martial arts:
+
+Thinkers like Kant and Dostoevsky, who transcend their era, could be considered the "Five Greats";
+
+A wise figure of an era like Fukuzawa Yukichi could be likened to the "Seven Masters of Quanzhen";
+
+Those like Lu Xun, whose vision is limited and unclear even within their era, are only on par with the "Seven Freaks of Jiangnan";
+
+And those like Jin Yong and Liu Cixin, whose works are fanciful but lack depth of thought, could just barely be considered the "Four Ghosts of the Yellow River".
+
+What strikes me is that the West had great thinkers like Rousseau and Kant three hundred years ago; yet three hundred years later, when it comes to profound and influential thinkers, China only has Lu Xun.
+
+Quite boring.
+
+Go study philosophy in your free time, the path of wisdom. 
+
+It reminds me of a passage I randomly read in "The Legend of the Condor Heroes", where the Old Naughty discusses martial arts:
+
+There are many things to play with in this world, but after a while, they lose their taste. Only martial arts becomes more interesting the more you play with it.
+
+Philosophy is the same.
+
+The pursuit of truth is endless.
+
+初到荷兰，有那么一瞬间，恍惚失去了方向。
+
+身处自由世界，我又可以写政论了，但却提不起兴趣。
+
+你的对手太渺小了。
+
+没错，他们君临天下，权倾一时。论起生杀予夺的权力，当世无人能及。
+
+但那又怎么样呢？
+
+他太渺小了。其人格之卑劣无耻，见识之粗鄙短浅，行事之乖戾刚愎，比诸学童尚且不如，而竟掌一国权柄。
+
+与他们纠缠对我而言殊无意义。
+
+而这种幡然觉得对手渺小的经历，也不是头一次了。
+
+春节前后看井上雄彦的漫画《浪客行》。
+
+里面的一句话提醒了我：
+
+没有我，你将无人可以叛逆。
+
+说的是宫本武藏的父亲是他少时的梦魇，在他梦里父亲对他说了这句话。
+
+渺小归渺小，这些东西与我们半生纠缠。
+
+你半生的反抗都是在和他们搏斗。
+
+没有了他们，你还是谁？你该做什么？
+
+当有一天，你终于将一切烦恼都抛在脑后，无拘无束时，你将往何处去？
+
+自由的重量，就是道德的重量。
+
+从过年看完浪客行起，一个概念就在我心里萦绕，挥之不去。
+
+不是因为其新奇，而是其总结了我过往三十余年的生活——对崇高的追求。
+
+井上的思想深度自然还不及康德这样的哲学家们，但却用漫画这种艺术形式把这种追求崇高的过程具象化地展示在我们眼前。
+
+天下无双。
+
+何足道哉。
+
+天下武功，到头来竟都是哲学。
+
+这倒不是因为哲学有什么神奇功效，竟能左右体育和物理规律。
+
+而是写这些东西的作者，不管是井上的剑道，还是金庸的武侠，都是在写自己的人生哲学。
+
+也不止是他们，古往今来的思想文学家们都一样。
+
+前些日子，我在ChatGPT上问一百年来中国思想最深刻的人是谁？
+
+它跟我说是鲁迅。这让我大为失望和不满。
+
+因为在我看来，跟那些古往今来的大家相比，鲁迅实在是不入流了。
+
+若要拿武功来类比思想的境界：
+
+康德、陀思妥耶夫斯基这些能够超越时代的思想者，可以当「五绝」之尊；
+
+福泽谕吉这种一个时代的明智之士，则可以类比「全真七子」；
+
+鲁迅之流眼光局限于一个时代还看不分明的，只配和「江南七怪」同列；
+
+金庸、刘慈欣这些徒以作品见奇思想实无深度的，则勉强可充「黄河四鬼」。
+
+我感慨的是，三百年前西方就有卢梭和康德这样伟大的思想家了；而三百年过去，论起思想深刻的影响力人物，中国还只有鲁迅。
+
+无聊得很。
+
+没事儿就去学哲学吧，智慧之道。
+
+想起前段偶然翻起《射雕》看到老顽童论及武学的话：
+
+天下玩意儿虽多，可是玩得久了，终究没味。只有武功，才越玩越有趣。
+
+哲学也是一样。
+
+追求真理的路，没有穷尽。
