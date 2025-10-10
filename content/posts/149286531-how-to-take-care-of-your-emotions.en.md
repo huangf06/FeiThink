@@ -6,6 +6,7 @@ tags: [psychology, life-philosophy]
 
 # How to Take Care of Your Emotions
 
+
 A few days ago, I stumbled upon an old article I had written, "*Rereading Shen Pangpang*," and felt as if an arrow from the past had struck me. One sentence in particular stood out: 
 
 **When you make a few friends who appreciate you, do you find yourself suddenly becoming lively at the dinner table, as if you’ve transformed into a different person compared to your previously shy and introverted self**?

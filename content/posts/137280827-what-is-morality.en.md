@@ -6,15 +6,16 @@ tags: [moral-philosophy, critical-thinking]
 
 # What Is Morality?
 
+
 # **What Is Morality?**
 
-## I. What Is Morality?
+### **I. What Is Morality?**
 
 As I understand it, morality is about questions of right and wrong, good and evil.
 
 ---
 
-## II. Why Does Morality Matter?
+### **II. Why Does Morality Matter?**
 
 Morality guarantees neither wealth nor respect. It offers almost no visible benefits.
 
@@ -34,7 +35,7 @@ Wealth cannot resolve spiritual emptiness; social status does not guarantee resp
 
 ---
 
-## III. Tools for Thinking
+### **III. Tools for Thinking**
 
 Assumptions and logic.
 
@@ -52,7 +53,7 @@ If the premises are sound and the logic is valid, then no matter how shocking th
 
 ---
 
-## IV. Does Objective Morality Exist?
+### **IV. Does Objective Morality Exist?**
 
 Or put more commonly: Do you believe in universal values?
 
@@ -63,7 +64,7 @@ Nihilism believes they do not exist;
 Relativism believes they exist but are subjective;
 
 Objectivism believes they exist and are objective.
-### 1. Relativism
+### **1. Relativism**
 
 Let’s start with the weakest position.
 
@@ -82,7 +83,7 @@ Furthermore, it cannot explain moral progress. Was the morality of the past just
 And if you argue, “Morality must respect historical and cultural context,”--congratulations—you’ve just stepped into the light, because that statement itself is a universal moral judgment -- a claim you’re asking everyone to accept. In doing so, you’ve already abandoned relativism.
 
 If you insist on doubting universal values, you might as well go full nihilist.
-### 2. Nihilism
+### **2. Nihilism**
 
 Nihilism includes two major schools of thought:
 
@@ -101,7 +102,7 @@ When we say “heroic deeds are moral,” we’re really saying “Nice job! Thu
 When we say “rape and murder are immoral,” what we’re really expressing is, “Ugh, gross — stop that.”
 
 In short, moral language is just emotional expression. There’s no actual judgment being made — and therefore no question of right or wrong.
-### 3. Objectivism
+### **3. Objectivism**
 
 Objectivism holds that objective moral standards exist and believes in universal values.
 
@@ -141,9 +142,9 @@ So, for now, I stand with objectivism: I believe universal values exist.
 
 ---
 
-## V. What Counts as Moral?
+### **V. What Counts as Moral?**
 
-### 1. Divine Command Theory—God Creates Morality
+### **1. Divine Command Theory—God Creates Morality**
 
 Socrates asked Euthyphro: Do the gods love pious acts because they are pious, or are they pious because the gods love them?
 
@@ -188,7 +189,7 @@ More broadly: If the only reason someone behaves decently is the hope of some ex
 True moral motivation comes from a love and respect for the things in life that deserve moral regard.
 
 Religion is not a prerequisite for morality.
-### 2. Natural Law — The Laws of Nature
+### **2. Natural Law — The Laws of Nature**
 
 Natural law theory grounds morality in the natural order: Everything in nature has a purpose or essence. Whatever aligns with that natural essence is good; whatever violates it is bad.
 
@@ -199,7 +200,7 @@ Natural laws describe and predict behavior. They cannot be broken — you can’
 Natural laws can set the limits of human behavior — for example, jumping off a ten-story building will kill you — but they can’t tell you what you ought to do.
 
 They describe what is, not what should be.
-### 3. Egoism—Maximizing Personal Interest
+### **3. Egoism—Maximizing Personal Interest**
 
 #### 3.1 Psychological Egoism—Everyone Is Selfish
 
@@ -227,7 +228,7 @@ Psychological egoism is a claim about human nature. Ethical egoism is a moral th
 Ayn Rand represents this view: the best way to improve everyone’s condition is to have each person pursue their own good. Here’s a mahjong example: if every player kept accounting for everyone else’s wins and losses each round, things would get confusing fast; but if each keeps track only of their own score, the game runs smoothly all night.
 
 The problem arises when our interests conflict: where do others’ interests stand then? Under ethical egoism, others’ interests count for zero. “Sacrifice a hair for the benefit of all?” Sorry — that’s beyond my moral duty. Scarlett O’Hara’s famous line: If I have to lie, steal, cheat or kill. As God is my witness, I’ll never be hungry again. By that logic, if theft and murder prevent me from starving, then I have a moral obligation to commit them.
-### 4. Utilitarianism—Maximizing Overall Happiness
+### **4. Utilitarianism—Maximizing Overall Happiness**
 
 The moral principle of utilitarianism is simple: maximize overall happiness.
 
@@ -252,7 +253,7 @@ And who among us can ever predict all the consequences?
 To address this, some philosophers propose rule utilitarianism — the idea that morality equals the optimal set of social rules: if everyone followed these rules, the result would be best for all.
 
 Yet every rule, no matter how well designed, can fail in certain situations. So if you clearly see that your rule is failing — should you still follow it? Or should you abandon it in pursuit of the best outcome?
-### 5. Kantian Ethics—Justice Above All
+### **5. Kantian Ethics—Justice Above All**
 
 Kant elevated moral rules to the supreme position.
 
@@ -289,7 +290,7 @@ Goodwill is the only thing that has moral worth in all circumstances.
 We do what we see we must do morally — and we do it for that reason alone, without regard for public opinion or cost-benefit calculations.
 
 Act rightly; don’t worry if the heavens fall.
-### 6. Social Contract Theory—The Shared Choice of Free and Rational Beings
+### **6. Social Contract Theory—The Shared Choice of Free and Rational Beings**
 
 Social contract theory sees morality as essentially a social matter.
 
@@ -351,9 +352,9 @@ The social-contract view shows us how to live with others: reciprocity grounded 
 
 ---
 
-## VI. Some Real-World Moral Questions
+### **VI. Some Real-World Moral Questions**
 
-### 1. Are Ordinary People the Ultimate Measure of Morality?
+### **1. Are Ordinary People the Ultimate Measure of Morality?**
 
 What moral responsibility should residents of County X bear for human trafficking?
 
@@ -362,14 +363,14 @@ Are ordinary Russians affected by sanctions innocent?
 If innocent, why?
 
 If guilty, what moral responsibility do they bear for Putin’s war?
-### 2. Who Counts as “We”?
+### **2. Who Counts as “We”?**
 
 What moral obligations does a person have to their original community?
 
 How should one rightly respond to discrimination?
 
 If your moral beliefs sharply diverge from the majority in your group, who then remains your moral community?
-### 3. Justice vs. Forgiveness
+### **3. Justice vs. Forgiveness**
 
 Justice sounds noble, yet its goddess wields a sword.
 
@@ -384,7 +385,7 @@ The New Testament God -- preaching forgiveness and love for one’s neighbor: wh
 In youth, such teaching seemed absurd. With age and experience, its meaning grows clearer: vengeance is human; forgiveness is divine.
 
 When should we cling to our human nature and carry out justice, and when should we transcend it and choose forgiveness?
-### 4. What’s Wrong with Patriotism?
+### **4. What’s Wrong with Patriotism?**
 
 Lee Kuan Yew once observed that Scandinavian nationalism motivates citizens to accept high taxes for the good of their compatriots, while elsewhere nationalism turns into iron locks and clubs wielded against one’s own.
 
@@ -393,7 +394,7 @@ Obviously, there is good patriotism and bad. But how do we tell them apart? Perh
 Is national interest the highest principle for judging one’s moral stance?
 
 If so, why? If not, what is?
-### 5. What’s the Problem with the “White Left”?
+### **5. What’s the Problem with the “White Left”?**
 
 Do you agree with so-called white-left liberal ideas?
 

@@ -6,6 +6,7 @@ tags: [moral-philosophy, critical-thinking]
 
 # Why Discriminating Belittles You
 
+
 无端歧视别人的人比被他们歧视的人更加渺小。
 
 这是我最近对一些生活中的经历和见闻总结出来的感悟。写这篇文章的目的，就是通过这些经历探讨**歧视、优越感和道德上的自我超越**。

@@ -6,6 +6,7 @@ tags: [book-review, philosophy, literature]
 
 # Reading Notes on The Idiot: Christ-like Love
 
+
 上周五心里很不宁静，烦乱。早早回了家，但满腹郁闷无处发泄。
 
 寻常排遣不过打发一时，终究无味。不如读书，读些难读的书。

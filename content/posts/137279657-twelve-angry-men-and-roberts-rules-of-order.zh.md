@@ -6,7 +6,8 @@ tags: [book-review, critical-thinking, political-philosophy]
 
 # Twelve Angry Men and Robert's Rules of Order
 
-## 罗伯特议事规则
+
+### **罗伯特议事规则**
 
 之前做《联邦党人文集》读书会时，遇到一些问题。  
 于是想要重新构想一种组织形式，可以让不同观点的人坐在一起有序地讨论一些争议性的话题。
@@ -21,7 +22,7 @@ tags: [book-review, critical-thinking, political-philosophy]
 
 ---
 
-## 《十二怒汉》观后感
+### **《十二怒汉》观后感**
 
 理解了大致原理，接下来琢磨的是如何实践的问题。  
 不得不说，可供参考的素材太少。  
@@ -44,7 +45,7 @@ tags: [book-review, critical-thinking, political-philosophy]
 
 ---
 
-## 附：罗规八条
+### **附：罗规八条**
 
 最后附上我自己拣选重排编的“罗规八条”，准备在读书会上小试牛刀。
 

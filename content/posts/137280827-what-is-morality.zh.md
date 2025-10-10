@@ -6,6 +6,7 @@ tags: [moral-philosophy, critical-thinking]
 
 # What Is Morality?
 
+
 一、**什么是道德？**
 
 就我理解，道德就是关于什么是对什么是错什么是善什么是恶的问题。

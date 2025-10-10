@@ -6,8 +6,9 @@ tags: [education, life-philosophy]
 
 # To High School Students: Written to my sister
 
+
 My younger sister recently came to me for help. Academic pressure has left her trapped in an emotional spiral she can’t escape. I talked with her for ages, but I still feel pretty helpless about it. At the end of the day, no one can truly walk in another person’s shoes. I’ve been racking my brain trying to remember my own high school years, hoping to find something that might help her—or at least give her some perspective.
-## I. My High School Years
+### **I. My High School Years**
 
 Were my high school years smooth sailing? Not really. Looking back now, they were actually pretty rocky.
 
@@ -36,7 +37,7 @@ How does that Pushkin poem go—”If Life Deceives You”?
 And all that is past will become a cherished memory.
 
 Like our teachers always told us: the gaokao really is a treasure for life. Of course, like all famous sayings, there’s a second half: “For many of you at Tsinghua, the gaokao is the peak of your entire life.” Hahaha. Who knows? We’ll see.
-## II. Experience and Lessons
+### **II. Experience and Lessons**
 
 When I first got to college, I went to Nanzhao County to volunteer teach. I told the high school students there to learn to **force themselves**. That’s what I’d done senior year. But I don’t recommend it anymore. The side effects are huge.
 

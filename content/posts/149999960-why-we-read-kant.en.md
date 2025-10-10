@@ -6,6 +6,7 @@ tags: [philosophy, kant, education]
 
 # Why We Read Kant
 
+
 Kant stands as the most profound thinker I have ever encountered. His Groundwork of the Metaphysics of Morals had a deep impact on my moral framework, guiding me to organize my scattered thoughts into a systematic approach to ethical questions.
 
 Beyond this work, his other writings are also filled with insights. For instance, Perpetual Peace profoundly shaped my views on geopolitics and the future of the world, making it seem as if the last two centuries of history were simply a commentary on his vision. Similarly, ideas from Observations on the Feeling of the Beautiful and Sublime frequently come to mind, whether in discussions of aesthetics or gender dynamics.

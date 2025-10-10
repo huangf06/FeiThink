@@ -6,8 +6,9 @@ tags: [personal-essay, life-philosophy]
 
 # Things I Want to Do
 
+
 In my previous article on motivation systems, I mentioned something I want to do. Now let me indulge in the wildest fantasies and count the things we want to do. This is purely whistling in the dark to bolster our courage.
-## First, I Want to Be a Great Mind
+### **First, I Want to Be a Great Mind**
 
 First of all, I want to be a great mind. I still don’t know how to translate this properly: great thinker? Great philosopher? Great prophet? Whatever... If I could only choose one thing from everything I want, this is what I would keep no matter what.
 
@@ -18,7 +19,7 @@ If the pursuit of happiness means abandoning my mind, then I’ll choose sufferi
 I’ve found that this shift in thinking brings me all sorts of inexplicable courage to face things head-on. The logic behind my wild and presumptuous behavior is this: if I can’t enjoy myself now, what good is this iron staff? Even if there are many tomorrows ahead, what pleasure would they hold? Might as well enjoy each day and count it as profit.
 
 In previous articles and social media posts, I’ve repeatedly mentioned that my ideal is to pursue another PhD in humanities. My current level is still too amateur; I need more professional training. But the fact is, I still have no clue about this, no action plan. Because I don’t know what discipline my intended field of study actually falls under. So let’s eliminate them one by one. History? Though I love history, I have zero interest in textual research. In my view, historical research is just data cleaning—what interests me more is modeling, fortune-telling, prophecy: building models based on the big data of what actually happened in history to make predictions about the future. Other purely speculative humanities disciplines? Doesn’t seem like it either. What I want to study is some kind of interdisciplinary work combining arts and sciences, containing both qualitative and quantitative content. I scoff at disciplines that claim to explain everything. It must be able to make predictions. Economics? Perhaps closer, but the scope of my intended research isn’t limited to economic activity—it includes social politics, and even the spiritual realm. I haven’t yet found a specific discipline that fits. I vaguely sense that useful content includes philosophy, sociology, geopolitics, demography, economics, and so on. I need to continue researching this.
-## Second, I Want to Run for Congress
+### **Second, I Want to Run for Congress**
 
 One impression from my Hegel philosophy class: those great philosophers all harbored political ideals, didn’t they? Though they talked about the universe, existence and spirit, all sorts of things—to my ears it all sounded like politics, social ethics, relationships between people, relationships between people and the world. From the court above to the common people below, everyone dreams of some ideal world, without exception. Whether it’s professors devoted to scholarship at Fudan, or internet fiction authors like Maoni.
 
@@ -50,7 +51,7 @@ In reality I’ve met quite a few pragmatic types who worked their way up from t
 So, I’ll choose another way. First, what we need to do is research at the cognitive level, understand the true spirit and principles. Then study application-level matters, see what can actually be done.
 
 Of course, achieving this goal depends on many external factors—can’t assert it’s definitely achievable. Let’s tentatively set twenty years as the timeframe. Ten years to learn lessons, ten years to build strength.
-## Third, I Want to Continue Researching Financial Markets
+### **Third, I Want to Continue Researching Financial Markets**
 
 1. 
 
@@ -65,12 +66,12 @@ I think it might be an important means of ensuring financial independence in the
 **Why can’t I, as Liang suggests, devote myself fully to stock investing?**
 
 Stock investing gives people more motivation to study the world’s broad interconnections, to research current affairs and industry trends more, rather than limiting their gaze to their own little patch of land. But I’ve also seen quite a few full-time stock traders whose understanding is closed off, insufficient for grasping the whole picture. Lacking deep participation in social division of labor makes people prone to explaining everything with closed logical systems. This doesn’t align with our fundamental goals. In other words, financial investing is merely a byproduct of our process of understanding the world.
-## Fourth, I Need a Real Job with Deep Participation in Social Division of Labor
+### **Fourth, I Need a Real Job with Deep Participation in Social Division of Labor**
 
 Regarding work, my feelings are truly complicated right now—seriously dragging my feet, not a bit of motivation to work. If there’s really nothing particularly suited to me, I’d honestly rather trade stocks alone to support the family. A brilliant leader and a seamlessly cooperative team are truly rare finds. In ten years there have been only a few months when I encountered one or half of such people. Not that others have nothing worthwhile—leaders are leaders because they naturally have their unique qualities. It’s just that we have independent evaluation standards. Borrowing a line from our school song: character and insight come first, arts and letters follow.
 
 Just now lying in bed I thought of many reasons why I still need a real job, which rekindled a bit of motivation. First, I need to max out my data science skill points. This tool-like thing—before I have a clear research plan—still needs further mastery and proficient application. It’ll be useful in the future. Second, I’ve always wanted to research the hive mind. But I always feel my current capability is insufficient to handle it. Continuing to accumulate experience in social participation and collaborative division of labor is very necessary—many cognitive and skill-level things still need polishing. For the first goal, first-hand practical experience is direct material. I always worry about becoming an out-of-touch idiot. For the second goal, it’s the need to maintain keen perception and combat skills. If the eventual conclusion is confrontation, then we must be more cunning and more ruthless than the treacherous and evil. We scam the scammers. Of course, the work format isn’t limited—whether enterprise, NGO, association, or political party—but maintaining deep social participation is necessary.
-## Fifth, I Still Need a Generator/Discriminator/Enhancer
+### **Fifth, I Still Need a Generator/Discriminator/Enhancer**
 
 In plain language: I need a woman and a group of companions. I need some people to trigger inspiration, some people to help prune overly divergent ideas, and some people to coincidentally validate viewpoints we’re not so certain about.
 

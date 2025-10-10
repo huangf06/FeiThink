@@ -6,6 +6,7 @@ tags: [book-review, literature]
 
 # Starting from One Hundred Years of Solitude
 
+
 Netflix’s new adaptation of *One Hundred Years of Solitude* recently launched, giving me a chance to revisit this book.
 
 When we talk about magical realism, we reflexively think of Latin America. In my view, this is purely the pot calling the kettle black, with zero self-awareness.

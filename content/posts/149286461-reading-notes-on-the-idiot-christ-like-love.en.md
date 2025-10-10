@@ -6,6 +6,7 @@ tags: [book-review, philosophy, literature]
 
 # Reading Notes on The Idiot: Christ-like Love
 
+
 Last Friday, I felt deeply unsettled—restless and troubled. I went home early, but my frustration had nowhere to go.
 
 The usual distractions offered only temporary relief, ultimately hollow. Better to read something—something difficult.

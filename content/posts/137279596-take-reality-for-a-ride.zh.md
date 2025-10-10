@@ -6,6 +6,7 @@ tags: [philosophy, personal-essay]
 
 # Take Reality for a Ride
 
+
 我在Mark婚礼上出口伤了人。其后我反复琢磨整件事，想要想出一个普适性的行为规范。最后不知怎么个脑回路蹦出了下面这么一句：
 
 这世界没有善恶，只有因果。
@@ -48,7 +49,7 @@ Rick and Morty
 意志，想象力，智力，自然界限。
 
 die Freiheit des Geistes. 自由精神。
-## 2. **Take reality for a ride**逍遥游
+### **2. **Take reality for a ride**逍遥游**
 
 
 When you know nothing matters, the universe is yours.  
@@ -95,7 +96,7 @@ Rick and Morty
 ……
 
 世有险峻，非心性坚忍者不能至。
-## 3. W**ho am I? What do I do?**
+### **3. W**ho am I? What do I do?****
 
 
 Take off.

@@ -6,6 +6,7 @@ tags: [book-review, philosophy, aesthetics]
 
 # Vagabond and the Sublime
 
+
 初到荷兰，有那么一瞬间，恍惚失去了方向。
 
 身处自由世界，我又可以写政论了，但却提不起兴趣。

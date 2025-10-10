@@ -6,6 +6,7 @@ tags: [social-commentary, political-philosophy, moral-philosophy]
 
 # On Human Nature: What the White Paper Protests Taught Me
 
+
 **I. Human Nature**
 
 There was a time when I felt utterly disillusioned—this place seemed like a moral and intellectual desert.

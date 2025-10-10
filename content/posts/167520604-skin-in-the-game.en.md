@@ -6,18 +6,19 @@ tags: [book-review, philosophy, critical-thinking]
 
 # Skin in the Game
 
+
 I’ve been reading Taleb’s *Skin in the Game* these past few days. The book primarily explores the concept of asymmetric risk—the central idea being that if there’s any chance of total ruin, you shouldn’t touch it no matter how great the potential gains. Repeatedly exposing yourself to risk, however small the probability, will eventually destroy you.
 
 But what truly lingers with me is his moral insight and call to action: **Be entrepreneurs.**Courage is the highest virtue, and the essence of courage is taking on risk—sacrificing your own well-being for the sake of something greater than yourself. This suddenly connected a whole series of scattered thoughts I’d been having lately.
 
 ---
 
-## The Existential Problem
+### **The Existential Problem**
 
 Existentialism teaches us to engage with life. But what does that actually mean? As someone who’s never believed in hedonism, I’ve never gotten the appeal of beach vacations. Or those little everyday pleasures? They don’t ignite my passion either. Looking back, what I’ve truly enjoyed has always been non-material.
 
 Taleb’s “skin in the game” suddenly hit me. Always doing things that carry no risk—like endlessly thinking and running simulations in my head—gradually made me lose touch with reality, eventually trapping me in a nihilistic void about existence and meaning.
-## Practice Over Theory
+### **Practice Over Theory**
 
 We often think knowledge is invented by university scholars, but it’s actually craftsmen and practitioners who develop it through hands-on practice. The answers to life and the formation of self-identity work the same way.
 
@@ -27,7 +28,7 @@ I once considered an academic path, but always felt fundamentally at odds with a
 
 ---
 
-## Soul in the Game
+### **Soul in the Game**
 
 Safe imagination and simulation purely in your head can’t produce any meaningful answers. We need skin in the game. Even more so, we need **soul in the game.**
 
@@ -37,7 +38,7 @@ Investing your life’s time and energy in what matters most to you—things who
 
 ---
 
-## Creation Over Destruction
+### **Creation Over Destruction**
 
 A while back, when I wasn’t focusing on work, I reread the *Vagabond* manga. Then I saw a comment on Reddit that hit home:
 
@@ -48,7 +49,7 @@ Those simple moral commandments usually oversimplify everything—right and wron
 Why bother with thankless tasks? Maybe because I find life boring and think about death every day—if I don’t do something mentally demanding, I simply can’t go on living. Maybe it’s about aesthetics. Should we live in accordance with nature or against it? Drifting along and enjoying the moment versus diligence and discipline—people choose both, and the key is finding beauty and tranquility in whichever you choose. Some things just feel too cheap to me.
 
 In my understanding, what entrepreneurs create isn’t just concrete things—**human connection is equally part of it.**
-## The Courage to Build
+### **The Courage to Build**
 
 I rarely see forgiveness in Chinese people—another rare quality is integrity. Friendships fall apart at the drop of a hat but rarely mend. It’s so easy for people to hate each other, but loving others requires courage, patience, and skill.
 

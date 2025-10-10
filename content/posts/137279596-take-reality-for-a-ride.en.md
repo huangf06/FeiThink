@@ -6,7 +6,8 @@ tags: [philosophy, personal-essay]
 
 # Take Reality for a Ride
 
-## 1. Good and bad are artificial constructs
+
+### **1. Good and bad are artificial constructs**
 
 I hurt someone with my words at Mark’s wedding. Afterward, I kept turning the whole thing over in my mind, trying to figure out some universal code of conduct. Eventually, through some mental pathway, I arrived at this:
 
@@ -46,7 +47,7 @@ If we remove all human-made restrictions, what’s left to constrain us?
 Will. Imagination. Intellect. The limits of nature.
 
 *die Freiheit des Geistes*. Free spirit.
-## 2. Take reality for a ride
+### **2. Take reality for a ride**
 
 
 When you know nothing matters, the universe is yours. Smart people get a chance to climb on top, take reality for a ride. But it’ll never stop trying to throw you. And eventually it will. There’s no way off.
@@ -67,7 +68,7 @@ Ask yourself:
 Do you have the courage to stand alone against thousands? Can you withstand hundreds of challenges and still trust your judgment? When friends and loved ones let go and dismount, will you follow or keep gripping the reins? Can you ride on alone when there’s no one left like you? Can you spot the hidden assumptions when others dispense their “wisdom”? Can you stay unmoved when others shove their petty achievements in your face? Can you remain calm when others judge you by their values and logic? Can you stay true to yourself when friends, lovers, and family weaponize emotion? Can you hurt someone and feel no guilt, knowing the inevitability of it? Can you watch people come and go without flinching? …
 
 The world has treacherous peaks. Only those with iron resolve can reach them.
-## 3. Who am I? What do I do?
+### **3. Who am I? What do I do?**
 ![](https://substack-post-media.s3.amazonaws.com/public/images/327578c7-630b-47e0-a159-fdbffdc5c514_1024x640.jpeg)](https://substackcdn.com/image/fetch/$s_!r8Ft!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F327578c7-630b-47e0-a159-fdbffdc5c514_1024x640.jpeg)
 
 
@@ -77,4 +78,4 @@ Take off. Put a saddle on your universe. Let it kick itself out.
 
 ---
 
-## **1. Good and bad are artificial constructs.**遂舍善恶之心
+### ****1. Good and bad are artificial constructs.**遂舍善恶之心**

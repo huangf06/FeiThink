@@ -6,6 +6,7 @@ tags: [social-commentary, political-philosophy]
 
 # In Memory of an Ordinary Man: Dr. Li Wenliang
 
+
 Even as grief and rage flood social media, everyone knows things won’t change quickly.
 
 Power remains in the hands of the old guard of this dying era. They will fight to the death to protect their privileges.

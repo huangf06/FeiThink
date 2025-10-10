@@ -6,6 +6,7 @@ tags: [book-review, literature, philosophy, moral-philosophy]
 
 # Rereading The Brothers Karamazov
 
+
 I recently listened to *The Brothers Karamazov* as an audiobook. Back in the day (during the Zhengzhou floods), it took me months to finish reading it; this time I got through it in just a few days.
 
 Funny how when you’re supposed to be doing real work, even massive tomes become entertainment. To avoid actual work, I could even force myself through a few pages of the *Critique of Pure Reason*.
@@ -72,7 +73,7 @@ Love life, not life’s meaning; love concrete people, not abstract humanity.
 
 This reminds me of Honey in *A Brighter Summer Day*, a gang leader who reads * War and Peace*. He says people from ancient times are really like us. Look—two hundred years have passed, and we’re still troubled by similar problems. And predictably, two hundred years from now, there will still be people worrying just like us.
 
-This is why I say the intellectual gap between *Dream of the Red Chamber* and *The Brothers Karamazov* spans millennia. *Dream* is a portrait of life in clan society. Though three hundred years have passed, I can still empathize—the characters remain vivid as if before my eyes, because I too grew up in a large family and can understand the motives behind every word and action. But where does it have even half of *The Brothers Karamazov*‘s ultimate interrogation, pointing directly at the essence of human existential predicament? When you read the Zen dialogue parts between Jia Baoyu and Xue Baochai/Lin Daiyu in * Dream of the Red Chamber*, the deep feeling is of a bunch of middle school kids parroting responses, with the final answer being to become a monk and be done with it. But * The Brothers Karamazov*has both profound rebels like Ivan pointing directly at the problem’s essence, and genuinely attempts through Elder Zosima to solve these existential questions.
+This is why I say the intellectual gap between *Dream of the Red Chamber* and * The Brothers Karamazov* spans millennia. * Dream* is a portrait of life in clan society. Though three hundred years have passed, I can still empathize—the characters remain vivid as if before my eyes, because I too grew up in a large family and can understand the motives behind every word and action. But where does it have even half of * The Brothers Karamazov*‘s ultimate interrogation, pointing directly at the essence of human existential predicament? When you read the Zen dialogue parts between Jia Baoyu and Xue Baochai/Lin Daiyu in * Dream of the Red Chamber*, the deep feeling is of a bunch of middle school kids parroting responses, with the final answer being to become a monk and be done with it. But * The Brothers Karamazov* has both profound rebels like Ivan pointing directly at the problem’s essence, and genuinely attempts through Elder Zosima to solve these existential questions.
 
 ---
 

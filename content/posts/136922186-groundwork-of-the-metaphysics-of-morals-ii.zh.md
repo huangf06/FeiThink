@@ -6,6 +6,7 @@ tags: [philosophy, moral-philosophy, kant]
 
 # Groundwork of the Metaphysics of Morals (II)
 
+
 我有一个暴论：
 
 衡量一个人的思想深度，某种程度上，就是衡量其道德哲学的深浅。

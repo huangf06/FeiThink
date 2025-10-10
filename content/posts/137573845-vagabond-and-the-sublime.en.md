@@ -6,6 +6,7 @@ tags: [book-review, philosophy, aesthetics]
 
 # Vagabond and the Sublime
 
+
 Upon arriving in the Netherlands, there was a moment when I felt disoriented.
 
 Living in the free world, I could write political commentary again, but I found no interest in it.

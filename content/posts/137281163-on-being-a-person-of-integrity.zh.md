@@ -6,6 +6,7 @@ tags: [moral-philosophy, life-philosophy]
 
 # On Being a Person of Integrity
 
+
 真是让人羞愧。
 
 花了这么长时间，才渐渐明白自己想要什么。

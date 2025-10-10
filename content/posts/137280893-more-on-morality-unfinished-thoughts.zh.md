@@ -6,6 +6,7 @@ tags: [moral-philosophy, critical-thinking]
 
 # More on Morality: Unfinished Thoughts
 
+
 为什么我饭都吃不饱竟然还有心思大谈道德？
 
 实在是道德困扰比吃饱肚子更让人在意。

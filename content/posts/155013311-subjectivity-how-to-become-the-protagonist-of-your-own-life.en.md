@@ -18,7 +18,7 @@ I wouldn’t say I particularly lack subjectivity. I’ve always been unconventi
 
 ---
 
-## Inferiority and Transcendence
+### **Inferiority and Transcendence**
 
 I’ve always felt a deep sense of unworthiness, as if I don’t deserve the best things this world has to offer.
 
@@ -42,7 +42,7 @@ Shakespeare, *Hamlet*
 
 ---
 
-## The Origins of Unworthiness
+### **The Origins of Unworthiness**
 
 So how did this happen? When was this seed of unworthiness planted in me?
 
@@ -60,7 +60,7 @@ This can all be explained by survival-first philosophy and jungle society assump
 
 ---
 
-## Conform or Rebel?
+### **Conform or Rebel?**
 
 Should people conform to their nature or resist their instincts?
 
@@ -82,10 +82,10 @@ Natsume Sōseki, *My Individualism*
 
 ---
 
-## Misunderstanding Individualism
+### **Misunderstanding Individualism**
 
 When it comes to individualism, people often confuse it with egoism. Though they appear similar, the difference is vast. Egoism focuses only on maximizing one’s own interests and may harm others for self-benefit. Individualism, however, embodies a universal principle—it emphasizes individual freedom and rights while acknowledging and respecting others’ equal rights. Egoism leads to a war of all against all, a jungle society under dark forest rules; individualism can lead to a state where each person is free and fulfilled, without everyone becoming batteries serving the Matrix.
-## How to Practice Individualism
+### **How to Practice Individualism**
 
 A crucial concept is **separation of tasks**.
 
@@ -107,7 +107,7 @@ Regarding your own life, all you can do is choose the path you believe is best. 
 
 ---
 
-## The Individual as Subject
+### **The Individual as Subject**
 
 From my experience, I prefer people with subjectivity. I once talked with a Dutch girl who told me Chinese people have a habit of trying to figure out what others think, then saying what others want to hear. This behavior itself is annoying—more so than honestly expressing yourself and saying the wrong thing—because you’re ignoring my will and guessing what I want based on your own assumptions, trying to decide for me what I should like.
 
@@ -127,7 +127,7 @@ Healthy feelings of inferiority don’t come from comparing yourself with others
 
 ---
 
-### References
+### **References**
 
 1. 
 

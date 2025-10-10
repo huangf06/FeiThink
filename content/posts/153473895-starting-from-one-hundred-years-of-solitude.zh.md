@@ -6,6 +6,7 @@ tags: [book-review, literature]
 
 # Starting from One Hundred Years of Solitude
 
+
 最近奈飞的新剧《百年孤独》上线，借此又重温了这本书。
 
 说起魔幻现实主义，我们动不动就联想起拉丁美洲。在我看来，这纯粹是乌鸦嫌老鸹黑，一点儿不照镜子的。

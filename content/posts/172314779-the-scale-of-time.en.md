@@ -6,6 +6,7 @@ tags: [personal-essay, life-philosophy]
 
 # The Scale of Time
 
+
 This WeChat official account has been running for eight years now.  
 It may well be one of the best decisions I’ve ever made.
 

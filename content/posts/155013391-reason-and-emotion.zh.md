@@ -6,6 +6,7 @@ tags: [philosophy, psychology]
 
 # Reason and Emotion
 
+
 长久以来，我都轻视情感，偏重理智。
 
 我以往总认为情感是短暂易逝的，捉摸不定，充斥着混乱。

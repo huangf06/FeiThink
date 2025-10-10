@@ -6,6 +6,7 @@ tags: [psychology, philosophy, life-philosophy]
 
 # Essence of Existential Psychotherapy
 
+
 An introduction to existential philosophy that answers all the questions that have been lingering in my mind recently.
 
 The existential psychotherapy emphasizes a conflict that flows from the individual's confrontation with the givens of existence---certain ultimate concerns, certain intrinsic properties that are a part, and an inescapable part, of the human being's existence in the world.
@@ -36,7 +37,7 @@ Heidegger believed that there are two fundamental modes of existing in the world
 Ordinarily one lives in the first state. Forgetfulness of being is the everyday mode of existence, in which one is unaware of one's authorship of one's life and world, in which one "flees", "falls", and is tranquilized, in which one avoids choices by being "carried along by the nobody". When however, one enters the second mode of being (mindfulness of being), one exists authentically (hence, the frequent modern use of the term "authenticity" in psychology). In this state, one becomes fully self-aware---aware of oneself as a transcendental (constituting) ego as well as an empirical (constituted) ego; one embraces one's possibilities and limits; one faces absolute freedom and nothingness.
 
 Death is the condition that makes it possible for us to live life in an authentic fashion.
-### Defenses against Death
+### **Defenses against Death**
 
 There are tow fundamental defenses against death: one is the pursuit of specialness, and the other is the faith of an ultimate rescuer. 
 
@@ -48,7 +49,7 @@ It is dangerous to venture. And why? Because one may lose. Not to venture is shr
 
 Kierkegaard
 
-### Death Anxiety
+### **Death Anxiety**
 
 Death is a primary source of anxiety.
 
@@ -78,7 +79,7 @@ The phrase that creates vast problems for the libertarian is that the behavior o
 One's attitude towards one's situation is the very crux of being human, and conclusions about human nature based solely on measurable behavior are distortions of that nature. It cannot be denied that environment, genetics, or chance plays a role in one's life. The limiting circumstances are obvious: Sartre speaks of a "coefficient of adversity". All of us face natural adversities that influence our lives. But that does not mean that we have no responsibility (or choice) in the situation. We are responsible still for what we make out of our handicaps; for our attitudes toward them; for the bitterness, anger, or depression that act synergistically with the original "coefficient of adversity" to ensure that a handicap will defeat the individual. 
 
 When all else fails, when the coefficient of adversity is formidable, still one is responsible for the attitude one adopts toward the adversity---whether to live a life of bitter regret or to find a way to transcend the handicap and to fashion a meaningful life despite it.
-### Responsibility
+### **Responsibility**
 
 The world acquiresd significance only through the way it is constituted by the human being.
 
@@ -91,7 +92,7 @@ To experience existence in this manner is a dizzying sensation. Nothing is as it
 One avoids situations (for example, making decisions, isolation, autonomous action) that, if deeply considered, would make one aware of one's fundamental groundlessness. Thus one seeks structure, authority, grand designs, magic, something that is bigger than oneself. 
 
 To be taken in by any of these devices that allow us to flee from our freedom is to live "inauthentically" or in "bad faith". 
-### Willing
+### **Willing**
 
 The guileless expectation that an individual will change as a result of this approach stems directly from the moral philosophical belief that if one truly knows the good, one will act accordingly.
 
@@ -129,7 +130,7 @@ The longliness of being one's own parent. To the extent that one is responsible 
 Responsibility implies authorship; to be aware of one's authorship means to foresake the belief that there is another who creates and guards one. 
 
 Deep loneliness is inherent in tha act of self-creation, a lonely dread that is a wind blowing from one's own desert place---the nothing that is at the core of being.
-### Right Path
+### **Right Path**
 
 The major buttress against the terror of existential isolation is thus relational in nature. 
 
@@ -150,7 +151,7 @@ To care for another individual means to know and to experience the other as full
 With one's full knowledge, gleaned from genuine listening, one endeavors to help the other become fully alive in the moment of encounter.
 
 Mature caring is not without its rewards. One is altered, one is enriched, one is fulfilled, one's existential loneliness is attenuated. Through caring one is cared for. Yet these rewards flow from genuine caring; they do not instigate it. The rewards ensue but cannot be pursued.
-### Wrong Paths
+### **Wrong Paths**
 
 **Dependency**
 
@@ -186,7 +187,7 @@ Camus stated that we are moral creatures who demand that the world supply a basi
 Camus started from a position of nihilism---a position in which he despaired at the lack of meaning (and, thus, lack of purpose and values) in the world---and soon generated, gratuitously, a system of personal meaning---a system that encompasses several clear values and guidelines for conduct: courage, prideful rebellion, fraternal solidarity, love, secular saintliness.
 
 Sartre arrived at a position in his fiction that clearly values the search for meaning and even suggests paths to take in that search. These include finding a "home" and comradeship in the world, action, freedom, rebellion against oppression, service to others, enlightment, self-realization, and engagement---always and above all, engagement.
-### Engagement
+### **Engagement**
 
 On this one point most Western theological and atheistic existential systems agree: it is good and right to **immerse oneself in the stream of life.**
 

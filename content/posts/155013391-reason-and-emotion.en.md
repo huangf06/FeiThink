@@ -6,6 +6,7 @@ tags: [philosophy, psychology]
 
 # Reason and Emotion
 
+
 For the longest time, I’ve dismissed emotion and elevated reason.
 
 I’ve always believed emotions were fleeting and ephemeral, unpredictable and chaotic.

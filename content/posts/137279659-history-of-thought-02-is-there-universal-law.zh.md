@@ -6,6 +6,7 @@ tags: [philosophy, history-of-philosophy]
 
 # History of Thought [02]: Is There Universal Law?
 
+
 **(一)智者派**
 
 首先登场的是智者派，对于上面的问题，他们有以下很有代表性的观点：

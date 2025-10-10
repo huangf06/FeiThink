@@ -6,6 +6,7 @@ tags: [philosophy, moral-philosophy, kant]
 
 # Groundwork of the Metaphysics of Morals (I)
 
+
 I used to distrust the Communist Party, but still believed in the nation and its people; Later I lost faith in the nation too, but at least still believed in humanity; Eventually I lost faith in humanity as well.
 
 I couldn’t fully believe in God either, because that would contradict my long-held creed: “never follow blindly.”
@@ -79,15 +80,9 @@ What Kant does in *Groundwork of the Metaphysics of Morals*:
 Starting from these different levels of moral knowledge, he traces backward step by step until arriving at a single supreme principle—stripped of all empirical elements, universally valid—what he calls the metaphysics of morals.
 
 His approach is reflected in the book’s chapter titles:
-- 
-
-Chapter 1: Transition from ordinary rational moral cognition to philosophical rational moral cognition
-- 
-
-Chapter 2: Transition from popular moral philosophy to metaphysics of morals
-- 
-
-Chapter 3: Transition from metaphysics of morals to the critique of pure practical reason
+- Chapter 1: Transition from ordinary rational moral cognition to philosophical rational moral cognition
+- Chapter 2: Transition from popular moral philosophy to metaphysics of morals
+- Chapter 3: Transition from metaphysics of morals to the critique of pure practical reason
 
 He uses the first two chapters to find this supreme principle, and the third chapter to establish it.
 

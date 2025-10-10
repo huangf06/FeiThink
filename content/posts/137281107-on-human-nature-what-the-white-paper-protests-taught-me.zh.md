@@ -6,6 +6,7 @@ tags: [social-commentary, political-philosophy, moral-philosophy]
 
 # On Human Nature: What the White Paper Protests Taught Me
 
+
 **一、 人性**
 
 我一度对人如此失望，感觉这里是个道德和智力的洼地。

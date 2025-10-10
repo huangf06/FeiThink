@@ -6,6 +6,7 @@ tags: [personal-essay, critical-thinking]
 
 # Inspired by Matthew Pottinger
 
+
 This afternoon I read something about Mathew Pottinger, and I was inspired by his encouraging deeds. He said in 2005, "Living in China shows you a nondemocratic country can do to its citizens." While his experience of repression in China had fired his patriotism, I've fired my anti-patriotism. If you really love your country and people, how can you ignore their sufferings?   
   
 I've been told by many people that you shall see the better side. No. I said no. I choose the truth. Most of the better part has nothing to do with the government.In a larger and higher vision, achievements are just the success of market and nature. You loosen the control of your people and the prosperity is naturally guaranteed.  

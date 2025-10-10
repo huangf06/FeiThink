@@ -6,6 +6,7 @@ tags: [philosophy, history-of-philosophy]
 
 # History of Thought [02]: Is There Universal Law?
 
+
 The first period of philosophy concerned nature and the cosmos. The second period turned to knowledge itself, and to ethics and politics.
 
 After a hundred and fifty years of debate yielding various contradictory yet reasonable views, people began to doubt human knowledge itself. Meanwhile, as the Greeks expanded outward and colonized new lands, they encountered foreign peoples with vastly different customs and ways of life.

@@ -6,6 +6,7 @@ tags: [education, life-philosophy]
 
 # On Liberal Education and Free Will
 
+
 Today on SMTH BBS, I saw an article titled “For Rural Children Going to College, More Important Than Choosing a Major Is Elevating Thinking and Vision.” Though I’m a rural child myself, and a few years ago I might have considered this golden advice, today I can no longer relate to it.
 
 But one question posed in the article does align with my recent thinking:
@@ -14,7 +15,7 @@ In modern society, are techniques and skills more advanced than thinking and cog
 
 ---
 
-## Liberal Education
+### **Liberal Education**
 
 
 Many people don’t understand why the Romans called education “liberal education”—education for free citizens. My understanding is that once a person’s intelligence crosses a certain threshold, it means that for you, higher-level conscious self-awareness is far more important than any particular professional skill. Because spiritual self-awakening means the possibility of deeper exploration both inward and outward. The importance of this boundary expansion crushes the significance of any single craft to one’s life. This is why the more elite the university, the more it loves discussing “useless arts.” The lower the tier of the school, the more it resembles a vocational technical college.
@@ -29,7 +30,7 @@ Liberal education might be the only systematic opportunity to learn the big pict
 
 Zhihu @Feifeimao
 
-## Free Will
+### **Free Will**
 
 For most people, the existence of free will is doubtful.
 

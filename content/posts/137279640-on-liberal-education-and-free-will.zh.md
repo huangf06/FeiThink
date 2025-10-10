@@ -6,6 +6,7 @@ tags: [education, life-philosophy]
 
 # On Liberal Education and Free Will
 
+
 今天在水木上看到一篇文章《农村孩子上大学，比学专业更重要的，是提升思维和境界》。  
 虽然我是农村孩子，放在几年前我可能觉得是金玉良言，但时至今日我已无法感同身受。
 
@@ -15,7 +16,7 @@ tags: [education, life-philosophy]
 
 ---
 
-## 博雅教育
+### **博雅教育**
 
 
 很多人不理解为什么罗马人管教育要叫liberal education，自由民教育。  
@@ -35,7 +36,7 @@ tags: [education, life-philosophy]
 
 知乎@肥肥猫
 
-## 自由意志
+### **自由意志**
 
 自由意志对大多数人来说存在性是值得怀疑的。
 

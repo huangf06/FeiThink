@@ -6,6 +6,7 @@ tags: [social-commentary, critical-thinking, political-philosophy]
 
 # Questions About a Recent Viral Article (I)
 
+
 Lately I’ve seen far too much nonsense—stuff that shouldn’t fool anyone—hoodwink far too many people, including those who are highly intelligent, well-educated, and experienced in practical affairs.
 
 I’m writing this to set the record straight and inspire more discerning minds to engage in deeper thinking and discussion.
@@ -71,12 +72,8 @@ I haven’t figured it out yet. So I’m certainly not going to run around shout
 ---
 
 I originally set out today to critique two pieces:
-- 
-
-Deutsche Welle journalist’s video interview with Shao Lan
-- 
-
-Lu Kewen’s “The Hong Kong Issue and the Truth About the World”
+- Deutsche Welle journalist’s video interview with Shao Lan
+- Lu Kewen’s “The Hong Kong Issue and the Truth About the World”
 
 I’ve seen a few rebuttals of the second one, but they all miss the crucial points, and I’d look lazy just forwarding those. Haven’t seen anything on the first one yet. I meant to write my own critiques today, but just getting through this preamble has taken me to the late hours. I’ll leave the rest for next time.
 

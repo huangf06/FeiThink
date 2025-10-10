@@ -6,6 +6,7 @@ tags: [social-commentary, political-philosophy]
 
 # In Memory of an Ordinary Man: Dr. Li Wenliang
 
+
 即便悲愤在朋友圈弥漫，谁都知道事情也不会很快有转机。  
 权力还握在时代的残党手中。他们必然殊死保护自己的特权。  
 百万人数月的抗争都不能使权力翻然悔悟。  

@@ -6,6 +6,7 @@ tags: [personal-essay, existentialism, life-philosophy]
 
 # Dumbledore's Woolen Socks
 
+
 Every now and then I think of Dumbledore’s woolen socks.
 
 When Harry asked Dumbledore what he saw in the Mirror of Erised, Dumbledore said he saw himself holding a thick pair of woolen socks.
@@ -21,18 +22,10 @@ My WeChat profile picture hasn’t changed for six years. I’m not the kind of 
 But this led me to think further: If I clearly have needs, why I am always too ashamed to voice them?
 
 Maybe because I’ve experienced too many moments where saying it made no difference. Over time I developed this passive emotional mode:
-- 
-
-If you don’t say it, but others can still guess and meet the need—that’s a huge bonus, affection skyrockets.
-- 
-
-If you express it just lightly, and the other person goes to great lengths to meet your subtle need—that’s another bonus.
-- 
-
-If you say it and others ignore it or dismiss it—even after you emphasize it repeatedly—that’s a deduction.
-- 
-
-Worst of all, like my father: you tell him, and he mocks you for it.
+- If you don’t say it, but others can still guess and meet the need—that’s a huge bonus, affection skyrockets.
+- If you express it just lightly, and the other person goes to great lengths to meet your subtle need—that’s another bonus.
+- If you say it and others ignore it or dismiss it—even after you emphasize it repeatedly—that’s a deduction.
+- Worst of all, like my father: you tell him, and he mocks you for it.
 
 But this way of thinking is too twisted.
 

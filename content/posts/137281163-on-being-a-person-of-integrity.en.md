@@ -6,6 +6,7 @@ tags: [moral-philosophy, life-philosophy]
 
 # On Being a Person of Integrity
 
+
 It’s embarrassing, really.
 
 After all this time, I’m only now figuring out what I actually want.

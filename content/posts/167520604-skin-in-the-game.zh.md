@@ -6,6 +6,7 @@ tags: [book-review, philosophy, critical-thinking]
 
 # Skin in the Game
 
+
 这几天读了塔勒布的Skin in the Game，书里主要讲解了非对称风险的概念，比方说如果存在爆仓的风险，那么无论收益再大都不该碰。反复将自己暴露在风险中，无论多小的概率，最终都会死。
 
 但最让我念念不忘的是他关于道德的洞见和倡议：做企业家 (Be entrepreneurs). 勇气是最高的美德，勇气的本质就是承担风险，为更高的价值牺牲自我。这就一下子把我最近的一系列散乱想法都串了起来。

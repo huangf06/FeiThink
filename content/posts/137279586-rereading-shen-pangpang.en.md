@@ -6,11 +6,12 @@ tags: [personal-essay]
 
 # Rereading Shen Pangpang
 
+
 Shen Pangpang’s articles are evergreen—each reading brings fresh insights. Below I quote and annotate to share them with you.
 
 ---
 
-## Part One: On Life
+### **Part One: On Life**
 
 
 **Life is too short for roundabout strategies.**
@@ -23,7 +24,7 @@ Shen Pangpang’s articles are evergreen—each reading brings fresh insights. B
 
 ---
 
-## Part Two: On Friends
+### **Part Two: On Friends**
 
 
 **The most precious wealth in life is friends, followed by time. Both friends and time are more valuable than money.**
@@ -42,7 +43,7 @@ Shen Pangpang’s articles are evergreen—each reading brings fresh insights. B
 
 ---
 
-## Part Three: On Character
+### **Part Three: On Character**
 
 
 **No matter how much you admire someone’s strengths, if their character is flawed, you must keep your distance.**
@@ -90,7 +91,7 @@ Shen Pangpang’s articles are evergreen—each reading brings fresh insights. B
 
 ---
 
-## Part Four: On Going Abroad
+### **Part Four: On Going Abroad**
 
 
 **When you go abroad, don’t stick with Chinese people.**
@@ -113,7 +114,7 @@ He’s my brother. And not by something as accidental as blood...by something mu
 
 ---
 
-## Part Five: On Principles
+### **Part Five: On Principles**
 
 
 **Western elites work to better nurture their families; some mainland Chinese elites, however, make their families serve their work. Remember: superior species are those most successful at raising offspring. Of course, the essence of raising children is for the community, not for oneself—so it’s also fine not to have children, as long as you help close friends in your community better raise theirs.**

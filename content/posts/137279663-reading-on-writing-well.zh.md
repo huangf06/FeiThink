@@ -6,6 +6,7 @@ tags: [book-review, personal-essay]
 
 # Reading On Writing Well
 
+
 我喜欢写作。  
 写作让我感觉自由。
 
@@ -24,7 +25,7 @@ tags: [book-review, personal-essay]
 想要重新捡起磨炼一下写作的技能。  
 有一本书大合我胃口——On Writing Well.  
 其他的内容都是技巧性的，唯有下面三点重中之重甚得我心：
-## 1. 什么是好的写作？
+### **1. 什么是好的写作？**
 
 It is a question of using the English language in a way that will achieve the greatest clarity and strength.  
 **用语言达到最大的清晰和力度。**
@@ -44,7 +45,7 @@ It is a question of using the English language in a way that will achieve the gr
 **清晰的思考产生清晰的写作。**
 
 一脑子浆糊的人不可能写好。
-## 2. 怎么写？
+### **2. 怎么写？**
 
 **写作是一种关于自我的行为。**  
 **写你自己，写的东西就自然会发挥吸引力。**  
@@ -56,7 +57,7 @@ It is a question of using the English language in a way that will achieve the gr
 很多人非得觉得要等到自己是专家了以后，才敢说我想要怎样怎样、想要干嘛干嘛。  
 但是去他妈的。  
 就算是个教授来跟我讲课，我想听的也是他满怀热情地跟我们讲，为什么他讲的东西这么吸引他。
-## 3. 为谁而写？
+### **3. 为谁而写？**
 
 为自己写。
 

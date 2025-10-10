@@ -6,6 +6,7 @@ tags: [book-review, personal-essay]
 
 # Reading On Writing Well
 
+
 I love writing. Writing makes me feel free.
 
 I love writing because it allows me to slow down and think deeply. Socializing with people I can’t connect with feels boring and unrewarding. I despise superficiality in people and things. Everyone has different intellectual strengths. And I’m always drawn to exploring deeper and further. Things that float on the surface and quickly fade away mean nothing to me.
@@ -13,7 +14,7 @@ I love writing because it allows me to slow down and think deeply. Socializing w
 Lately I’ve been feeling creatively drained. All I do is transcribe from books. But that’s meaningless. What matters is personal experience and conviction, suffering and struggle, doubt and defiance... that’s where writing comes alive.
 
 I want to reclaim and refine my writing skills. There’s one book that speaks to me perfectly—*On Writing Well*. Most of it is technical advice, but these three points are what matter most, and they resonate deeply:
-## 1. What is good writing?
+### **1. What is good writing?**
 
 It is a question of using the English language in a way that will achieve the greatest clarity and strength. **Using language to achieve maximum clarity and force.**
 
@@ -28,14 +29,14 @@ But how do you truly free yourself from redundancy? How do you eliminate all fil
 **Clear thinking produces clear writing.**
 
 Someone with muddled thoughts can’t possibly write well.
-## 2. How to write?
+### **2. How to write?**
 
 **Writing is an act of self.****Write about yourself, and what you write will naturally attract readers.****Believe in your identity, believe in your perspectives.****Harness the power of the self.**
 
 Readers can tell when you’re putting on an act.
 
 Too many people think they need to be experts before they can say “I think” or “I want.” Fuck that. Even when a professor lectures me, what I want to hear is their passion—why this subject captivates *them*.
-## 3. For whom do you write?
+### **3. For whom do you write?**
 
 Write for yourself.
 

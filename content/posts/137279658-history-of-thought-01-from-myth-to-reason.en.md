@@ -6,6 +6,7 @@ tags: [philosophy, history-of-philosophy]
 
 # History of Thought [01]: From Myth to Reason
 
+
 Although I often sound opinionated in daily conversations, I haven’t actually read many serious books. My knowledge of philosophy is, frankly, at the level of an illiterate. Over the past six months, I’ve participated in quite a few reading groups and worked through some philosophy books. To my surprise, many of the ideas matched thoughts I’d had on my own through random speculation. I suddenly felt a bit tricked—maybe all those pretentious types who make philosophy sound impenetrable had been fooling me. If a philosophy book is translated in a way that makes it unreadable, that means it’s mistranslated. Someone said this recently, and I couldn’t agree more. This is what philosophy—or thought itself—is really about.
 
 I feel it’s time to systematically learn the history of thought. Experiencing two thousand years of human wisdom—the journey won’t be boring. If it is, that just means you’ve opened it the wrong way.
@@ -38,13 +39,13 @@ Another wondered: if everything is water, how does water become everything else?
 
 **The Second Generation of Philosophers**
 
-The first generation asked: *What is the unchanging element behind everything?* The second asked a deeper question: *Does change even exist?*
+The first generation asked: *What is the unchanging element behind everything?* The second asked a deeper question: * Does change even exist?*
 
 One side said: everything flows, nothing stays the same. The other said: change itself is impossible—it cannot even be thought.
 
 **Heraclitus**was the champion of change. He is remembered for saying: **“No one ever steps into the same river twice.”**He believed that all things are in flux, and what does not change is the law of the unity of opposites. Take ourselves, for instance. We may appear unchanged, but within us, the body is always aging. Life and death are locked in balance—for now, life holds the upper hand; someday, death will. What seems unchanging is merely a temporary harmony between two opposing forces.
 
-The one who denied change was **Parmenides**. He argued that only * what exists*can be known, and * what does not exist*cannot be conceived. To say that something “changes” is to say that what once existed has vanished and something new has appeared from nothing. But * nothing*cannot be thought—it has no place in reason. Thus, within thought itself, **change is impossible.**All being is one, indivisible, and unchanging. The illusion of change, he said, is merely the trickery of our senses. As absurd as this may sound, I think Parmenides was, in a way, anticipating the modern idea of the **conservation of matter**. When you see a leaf turn yellow, you think it has changed—but in truth, the substances that make up green and yellow are still all there, unchanged in quantity.
+The one who denied change was **Parmenides**. He argued that only * what exists* can be known, and * what does not exist* cannot be conceived. To say that something “changes” is to say that what once existed has vanished and something new has appeared from nothing. But * nothing* cannot be thought—it has no place in reason. Thus, within thought itself, **change is impossible.**All being is one, indivisible, and unchanging. The illusion of change, he said, is merely the trickery of our senses. As absurd as this may sound, I think Parmenides was, in a way, anticipating the modern idea of the **conservation of matter**. When you see a leaf turn yellow, you think it has changed—but in truth, the substances that make up green and yellow are still all there, unchanged in quantity.
 
 ---
 
