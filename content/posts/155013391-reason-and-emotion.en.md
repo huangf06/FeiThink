@@ -4,6 +4,8 @@ date: 2025-01-17
 tags: [philosophy, psychology]
 ---
 
+# Reason and Emotion
+
 For the longest time, I’ve dismissed emotion and elevated reason.
 
 I’ve always believed emotions were fleeting and ephemeral, unpredictable and chaotic.
@@ -17,6 +19,7 @@ Emotions, by contrast, exist only in the present moment, like sparks that vanish
 **Put simply: emotions are useless.**Reason guides us in understanding and transforming the world, while emotions prove utterly worthless against nature’s indifference and society’s brutal competition.
 
 Yet this view is ultimately one-sided.
+
 ---
 
 **The domain of reason extends beyond the natural sciences; its object isn’t always the external world—eventually, its gaze must turn toward humanity itself.**
@@ -32,7 +35,6 @@ If my first thirty years were spent seeking truth, attempting to understand as m
 The sophisticated egoism permeating Chinese society is essentially massive nihilism. **People don’t believe in anything higher than themselves, so everything becomes permissible.**
 
 Meanwhile, my long neglect of subjective emotion in pursuit of objective morality risks sliding to the opposite extreme. A concrete example that recently made me deeply reflect is Viktor from *Arcane*:
-> 
 
 I thought I could end the world’s suffering, but when every equation is solved, all that remains is dreamless solitude. Perfection brought no reward—it only killed the pursuit.
 
@@ -43,6 +45,7 @@ Even Viktor’s cosmic perspective, observing everything from the universe, and 
 **In constantly pursuing the sublime through reason, we’ve unexpectedly converged with the other path, sliding into nihilism, seeing everything as insignificant and worthless—another form of spiritual void.**
 
 **If objective moral truth exists, it must incorporate human subjectivity.**
+
 ---
 
 **To act wisely, intelligence alone isn’t enough—something higher is needed.¹**
@@ -56,6 +59,7 @@ If intelligence is only outward-facing, it’s merely instrumental rationality, 
 **The higher intelligence is self-awareness**—this is what Kant meant by reason. Only through this can people break free from external indoctrination, achieve moral transcendence, determine their own purposes rather than becoming tools of some ideology.
 
 But even this isn’t enough. **Excessive self-awareness leads to internal contradiction and suffering, paralyzing action.**
+
 ---
 
 **We need something higher still.**
@@ -65,6 +69,7 @@ But this absolutely isn’t as simple as the trendy phrase “reject internal fr
 Honestly, I don’t like how people constantly talk about “internal friction.” **How exactly can humans avoid internal friction? By becoming stones?**
 
 Or perhaps by taking Kierkegaard’s “leap of faith”—but his stage of faith comes after, and above, the aesthetic and ethical stages.
+
 ---
 
 **I’m inclined to believe that internal friction and inner conflict are necessary paths to spiritual growth. Prematurely cementing one’s moral system is ultimately shallow and prone to disillusionment. It’s certainly not the higher thing Dostoevsky spoke of.**
@@ -74,9 +79,11 @@ Speaking of intelligence, I suddenly recalled a line I once wrote:
 **For many of you from Tsinghua, the gaokao was your life’s peak.**
 
 Re-examining this now, I believe I’ve transcended this point. As a thinker, I’ve surpassed this identity. Perhaps not many will visibly acknowledge this, but that doesn’t matter—the heart knows its gains and losses.
+
 ---
 
 I used to deliberately avoid mentioning this, as it easily backfires. Some people enjoy humiliating elite school graduates; others unconsciously project hierarchies of respect. Even when I reflect on elitism’s drawbacks and the limitations of one-dimensional intelligence, some only notice that you consider yourself elite, that you claim high intelligence. I don’t welcome such misunderstanding and alienation. But whether deliberately mentioning or avoiding it, both ultimately show you value it deep down.
+
 ---
 
 **But there is something higher.**
@@ -84,6 +91,7 @@ I used to deliberately avoid mentioning this, as it easily backfires. Some peopl
 What exactly is this higher thing? I can’t yet articulate it clearly, only some vague impressions:
 
 **The leap of faith, subjectivity as truth, equality and universal love, independent spirit, free thought, character and integrity, passion and love…**
+
 ---
 
 **References**

@@ -4,6 +4,8 @@ date: 2022-03-22
 tags: [moral-philosophy, critical-thinking]
 ---
 
+# More on Morality: Unfinished Thoughts
+
 Why am I obsessing over morality when I can barely feed myself?
 
 Because moral dilemmas bother me more than hunger.
@@ -15,6 +17,7 @@ Three years ago I wrote thousands of words analyzing why I wanted to emigrate, d
 Yet the fundamental issue was actually moral: Is it morally acceptable to live in a totalitarian society that contradicts your values?
 
 I’m not writing this to provide ready answers, just to help myself think clearly.
+
 ---
 
 **1. Are cultures hierarchical?**
@@ -44,6 +47,7 @@ Compared to the world’s mainstream values of freedom and equality today, Chine
 Here’s advice for young people (yes, little sis, I’m talking to you):
 
 If you care about wisdom and self-actualization, abandon Chinese classics. Read more Western books.
+
 ---
 
 **2. Who is the moral community?**
@@ -76,7 +80,7 @@ But why no seeds of civilization here?
 
 Worshipping cunning and force alone wins no hearts.
 
-I first encountered the word “freedom” reading *City of Fantasy*in middle school.
+I first encountered the word “freedom” reading *City of Fantasy* in middle school.
 
 Reaching middle age, I’m still deepening my understanding of freedom’s meaning.
 
@@ -103,6 +107,7 @@ Because the thinking behind it stays collectivist—top-down, outside-in.
 A consistent libertarian would approach it inside-out, extending from self to others:
 
 Free association based on consent.
+
 ---
 
 **3. Is stupidity evil?**
@@ -138,6 +143,7 @@ And conversely, for consistency:
 Withdraw sympathy from stupidity and even the banality of evil.
 
 Malice, big or small, deserves punishment.
+
 ---
 
 **4. Is pride always sin?**
@@ -203,6 +209,7 @@ Time to consider quitting my favorite of the seven deadly sins.
 I remember what Shenpp said years ago:
 
 “Always be a docile lamb before God.”
+
 ---
 
 **5. False hope vs. false despair**
@@ -236,6 +243,7 @@ Sounds grand, but practice is far from simple.
 What I’m offering is just another angle on the problem.
 
 And I think it’s a more consistent, more scrutiny-proof way to live morally.
+
 ---
 
 On morality I’m still a beginner. Let me share with you just four words: “Do good deeds.”

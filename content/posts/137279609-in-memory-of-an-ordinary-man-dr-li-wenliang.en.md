@@ -4,6 +4,8 @@ date: 2020-02-09
 tags: [social-commentary, political-philosophy]
 ---
 
+# In Memory of an Ordinary Man: Dr. Li Wenliang
+
 Even as grief and rage flood social media, everyone knows things won’t change quickly.
 
 Power remains in the hands of the old guard of this dying era. They will fight to the death to protect their privileges.
@@ -11,6 +13,7 @@ Power remains in the hands of the old guard of this dying era. They will fight t
 Millions protesting for months couldn’t make those in power change course.
 
 Much less a few choked sobs stuck in your throats.
+
 ---
 
 If all they do is punish a few officials, if all they do is issue an apology, nothing will have changed.
@@ -28,6 +31,7 @@ If you meekly surrender your rights and freedoms without a fight, don’t ever c
 You think you can’t change anything?
 
 That just proves the one who needs changing most is you.
+
 ---
 
 **First: Educate yourself as best you can.**
@@ -41,11 +45,12 @@ So many people complain that the people are unenlightened.
 Setting aside the fact that there are methods in this world to transform barbarism into civilization—you just don’t know them.
 
 More importantly, you yourself are part of that unenlightened mass. Otherwise you wouldn’t be making such claims.
+
 ---
 
 **Second: Do everything in your power to tear down the wall.**
 
-The truth is, many of you *are*the wall itself.
+The truth is, many of you *are* the wall itself.
 
 A healthy society shouldn’t have only one voice.
 
@@ -66,6 +71,7 @@ When you wear down the backbone of every person with integrity in this society, 
 The government will naturally deploy resources to glorify itself. Does it need you speaking on its behalf?
 
 One fewer shameless flatterer singing the government’s praises would make this world a better place.
+
 ---
 
 **Third: You have a vote.**

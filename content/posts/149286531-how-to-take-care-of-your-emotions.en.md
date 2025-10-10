@@ -4,8 +4,9 @@ date: 2024-09-23
 tags: [psychology, life-philosophy]
 ---
 
+# How to Take Care of Your Emotions
+
 A few days ago, I stumbled upon an old article I had written, "*Rereading Shen Pangpang*," and felt as if an arrow from the past had struck me. One sentence in particular stood out: 
-> 
 
 **When you make a few friends who appreciate you, do you find yourself suddenly becoming lively at the dinner table, as if you’ve transformed into a different person compared to your previously shy and introverted self**?
 
@@ -26,7 +27,6 @@ But I can’t deny that EQ, in the sense of emotional management, does exist and
 I want to learn systematically how to treat myself kindly and take care of my emotions.
 
 So, I started reading some books on emotional management. After going through a few highly rated ones on Amazon, like *Master Your Emotions*, I felt they were just so-so, nothing too impressive. Instead, a simple admission of limitations in the book struck me deeply:
-> 
 
 You might think that with the knowledge gained from this book, you’ll never feel depressed again. Of course not! You will continue to experience sadness, frustration, and resentment. But each time these emotions arise, you can stay rational and remind yourself that it will all eventually pass.
 

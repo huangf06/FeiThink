@@ -4,14 +4,16 @@ date: 2024-10-18
 tags: [moral-philosophy, critical-thinking]
 ---
 
+# Why Discriminating Belittles You
+
 The ones who unjustly scorn others are ofttimes lesser than those they scorn.
 
 This is a realization I’ve come to recently based on some personal experiences and observations. The purpose of writing this piece is to explore discrimination, superiority, and moral self-transcendence through these experiences.
-### **An Argument in a Group Chat**
+### An Argument in a Group Chat
 
   
 Recently, I joined an INTJ WeChat group, and some of the female members kept using terms like “males” or “Chinese men”(a derogatory term) in a way that annoyed me. I pointed out that these terms were both racially and gender-discriminatory insults. Then, several women ganged up on me, saying I didn’t understand their context and was overly sensitive about language. Things didn’t end well, and I left the group.
-### **Moral Lowlands and Jungle Law**
+### Moral Lowlands and Jungle Law
 
 This is certainly not the first time I’ve faced this kind of baseless discrimination. I was born in a rural village in Henan, a moral lowland and the bottom of the hierarchy of contempt. I’m so used to facing discrimination that it’s practically second nature to me. But this issue goes far beyond just political correctness—it’s been a lifelong moral struggle for me.
 
@@ -22,7 +24,7 @@ What really harms people at the bottom is not the lack of resources, but the lac
 But the consequence of this is that you lose the right to criticize those who discriminate against you with their privilege. What makes you different from them? If their arrogance is based on power, status, wealth, or the privileges of education, and yours is based on your intelligence and talent—are these really that different? Aren’t both forms of privilege largely innate and difficult to change through effort alone?
 
 This contradiction has always weighed on my mind, making it impossible for me to fully embrace the “survival of the fittest” mentality or to indulge in cynicism.
-### **Superiority and Inner Worth**
+### Superiority and Inner Worth
 
 By the time I turned thirty, I’d learned to see things differently. When my mother came to visit me in Shanghai and was ignored by a shop assistant in a mall, I might have gotten angry in the past, but at that moment, it suddenly felt pointless. It was just a reflection of their own smallness. 
 
@@ -57,7 +59,6 @@ What defines your moral worth and character is not how high you elevate yourself
 Take, for instance, the recent case of the Japanese elementary school student murdered in Shenzhen. Many overseas Chinese on Twitter condemned the killer and even declared they wanted to distance themselves Chinese people. While this desire to disassociate is understandable, but something feels off.
 
 What exactly feels wrong? It’s the fact that this attitude misses the truth. The truth is, when confronting guilt, none of us can fully absolve ourselves, because we all share responsibility for the wrongs of others.
-> 
 
 All I shall also tell you, dear mother, that each of us is guilty in everything before everyone, and I most of all.
 

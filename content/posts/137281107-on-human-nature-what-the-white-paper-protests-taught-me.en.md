@@ -4,6 +4,8 @@ date: 2022-12-02
 tags: [social-commentary, political-philosophy, moral-philosophy]
 ---
 
+# On Human Nature: What the White Paper Protests Taught Me
+
 **I. Human Nature**
 
 There was a time when I felt utterly disillusioned—this place seemed like a moral and intellectual desert.
@@ -73,6 +75,7 @@ I know the backdrop is vast nothingness. I know searching for universal answers 
 I know there’s infinite chaos and shadow, places that crumble under close examination.
 
 But something transcends all that. When you see it, you just know—that’s goodness. That’s light.
+
 ---
 
 Besides, I’m so glad that you came back.

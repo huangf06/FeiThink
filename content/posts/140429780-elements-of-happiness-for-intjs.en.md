@@ -4,6 +4,8 @@ date: 2024-01-06
 tags: [psychology, life-philosophy]
 ---
 
+# Elements of Happiness for INTJs
+
 I feel like I'm living too heavily. Even drinking with a Romanian friend before Christmas, I found myself deep in conversation about Chinese society and politics. This sudden realization startled me.
 
 My mind is always occupied with grand, far-reaching thoughts, yet my own happiness never seems to be a concern. This shouldn't be the case.

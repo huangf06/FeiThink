@@ -4,6 +4,8 @@ date: 2021-04-07
 tags: [philosophy, history-of-philosophy]
 ---
 
+# History of Thought [04]: Overview and Reflections
+
 ## 1. 关于确定性知识的追求
 
 对确定性知识的追求，以及与之相对的怀疑论，贯穿了哲学史。  
@@ -70,7 +72,6 @@ What if I can only believe part of them, but can't believe all of them?
 
 所以关于信仰的问题，我是没什么答案的。  
 但唯有一件事是确定的，那就是要进窄门。
-> 
 
 Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.
 
@@ -128,6 +129,7 @@ Matthew 7:14
 无论是克尔恺郭尔的『信仰一跃』(a leap of faith)，  
 还是萨特的『选择』和『认同』。  
 且保留开放的一面，继续追寻『该死的答案』。
+
 ---
 
 『玄学』的研究暂且告一段落。  

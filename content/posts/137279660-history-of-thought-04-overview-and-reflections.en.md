@@ -4,6 +4,8 @@ date: 2021-04-07
 tags: [philosophy, history-of-philosophy]
 ---
 
+# History of Thought [04]: Overview and Reflections
+
 Over Spring Festival I finished Skirbekk’s history of philosophy. After this survey, I’ve found many problems have threads running back through the history of thought. Even when these thinkers can’t give direct answers, they provide categories and tools for thinking.
 
 Philosophy is the discipline of creating concepts. Claiming you think independently is obviously overreaching. We all face similar problems, and the concepts, categories, and propositions you think with are mostly transmitted through language by people smarter than you—whether from Weibo, books, or TV shows.
@@ -24,7 +26,7 @@ The question of existence and nothingness (meaning)
 
 ---
 
-## **1. The Pursuit of Certain Knowledge**
+## 1. The Pursuit of Certain Knowledge
 
 The pursuit of certain knowledge, and skepticism opposing it, runs through all of philosophy. Descartes’s “I think, therefore I am” is probably philosophy’s most famous line. His original intent wasn’t to tell everyone how precious thinking is. His real goal was to find an absolutely undeniable foundation for thought. Because no matter how much you doubt everything, you can’t doubt the very fact that you’re doubting (thinking). Building on things that are truly true, undeniably so, perhaps you could reason step by step and construct a knowledge system of absolute truth.
 
@@ -41,7 +43,7 @@ On this first question, I currently endorse several views:
 
 **An argumentative attitude (Habermas)**Knowledge has different interests: technical (about nature), practical (about society), emancipatory (about self). Scientific-technical knowledge is about control, while practical and emancipatory knowledge requires more mutual understanding. We should strive for the right balance among the three. Facing uncertainty and disagreement, we should appeal to procedural, reflective rationality as the ultimate court of appeal.
 
-## **2. The Boundary Between Reason and Faith**
+## 2. The Boundary Between Reason and Faith
 
 I was born in secular East Asian society, lacking the childhood religious experience common in Europe and America. But the question of faith doesn’t disappear just because you lack a particular religious form. That’s only a narrow understanding of faith.
 
@@ -51,14 +53,13 @@ Here I must correct my earlier dismissal of Hannah Arendt: Though Arendt isn’t
 
 Instrumental reason can’t prove or derive life’s meaning. Life’s meaning requires individual reflection and searching. The real world is chaotic and disordered, full of uncertainty. Reason won’t give you certainty. All theories are fallible. Everything that gives you meaning and certainty, in my view, comes from faith.
 
-Personally, I spiritually aspire to the Protestant state. Even watching *Pulp Fiction*recently I was moved by Jules—a stone-cold gangster who in one moment receives a calling, experiences amazing grace, and turns his life around completely. But what stops me from becoming religious is the question I asked that white guy trying to convert me at Düsseldorf station: What if I can only believe part of it, but can’t believe all of it?
+Personally, I spiritually aspire to the Protestant state. Even watching *Pulp Fiction* recently I was moved by Jules—a stone-cold gangster who in one moment receives a calling, experiences amazing grace, and turns his life around completely. But what stops me from becoming religious is the question I asked that white guy trying to convert me at Düsseldorf station: What if I can only believe part of it, but can’t believe all of it?
 
 So on the question of faith, I have no answers. But one thing is certain—you must enter through the narrow gate.
-> 
 
 Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it. Matthew 7:14
 
-## **3. The Search for Universal Good and Justice**
+## 3. The Search for Universal Good and Justice
 
 This question concerns morality, law, and politics. I originally approached philosophy hoping for political philosophy. Because I felt my understanding only reached the enlightenment and general education level, and I hoped philosophy would provide higher theoretical armament.
 
@@ -67,7 +68,7 @@ But honestly, I was disappointed. Social science offers little innovation. What 
 For liberal Chinese, “homeless dog” fits perfectly. Can’t accept being subjects under oppression, yet can’t fully escape racial and cultural divides.
 
 How should individuals choose their fate? In an age of rampant collectivism, think more about individual meaning and value, ask what the collective can do for us. Build your own values transcending era and nationality, on foundations that withstand deeper scrutiny and the test of time. Choose your identity based on later choice rather than birth, choose and join groups whose values align with yours.
-## **4. The Question of Existence and Nothingness**
+## 4. The Question of Existence and Nothingness
 
 In high school, art teacher Ji Xiaoyue introducing modern art told us: Some people feel nothing looking at Dalí’s paintings at first, but at a certain age they love them. Back then I couldn’t understand that feeling, but now I seem to be reaching the age of appreciation.
 
@@ -76,6 +77,7 @@ Actually, I doubt young, inexperienced people can really understand philosophy. 
 Nihilism is skepticism’s ultimate form. Take my repeatedly mentioned *Rick and Morty*—pure nihilism. And why do I love nihilism so much? Because it’s so damn convenient. For someone tormented by morality, hearing that morality is man-made—it’s like a drowning person grabbing straw, an unarmed person finding a weapon. This isn’t just a cognitive realm, it’s a willful choice. In a sense, deconstruction is liberation. Tear down the things that can’t withstand scrutiny, and freedom’s light can finally break through.
 
 Now I’ve painfully grasped nothingness, but still can’t clearly define existence. Whether it’s Kierkegaard’s “leap of faith” or Sartre’s “choice” and “commitment”—I’ll stay open and keep seeking “the damned answer.”
+
 ---
 
 The study of “mysticism” stops here for now. Next up: “caring about food and vegetables”—researching some practical problems.

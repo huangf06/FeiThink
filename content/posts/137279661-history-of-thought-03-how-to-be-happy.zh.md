@@ -4,7 +4,10 @@ date: 2021-01-17
 tags: [philosophy, history-of-philosophy, life-philosophy]
 ---
 
+# History of Thought [03]: How to Be Happy
+
 这一节我觉得是目前最有现实意义的。
+
 ---
 
 亚历山大征服了希腊诸城邦，建立了前无古人的大帝国，他死后帝国一分为四，直到后来全部被罗马征服。
@@ -22,6 +25,7 @@ tags: [philosophy, history-of-philosophy, life-philosophy]
 所以，哲学家们的思考主要集中在个体问题：
 
 **怎样才能获得个体的幸福？**
+
 ---
 
 **伊壁鸠鲁：精致的快乐主义**
@@ -59,6 +63,7 @@ tags: [philosophy, history-of-philosophy, life-philosophy]
 快乐似乎是人追逐其他东西过程中的副产物。
 
 所以，我个人倾向支持斯多葛学派。
+
 ---
 
 **斯多葛学派**
@@ -76,6 +81,7 @@ tags: [philosophy, history-of-philosophy, life-philosophy]
 通过理性。认识到万物都有规律，你不可能什么都机关算尽。
 
 所以无论发生什么都要愉快接受，养成强大的内心。
+
 ---
 
 上面这些答案没有能让人完全满意的。

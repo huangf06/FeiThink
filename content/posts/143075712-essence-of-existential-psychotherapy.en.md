@@ -4,6 +4,8 @@ date: 2024-03-29
 tags: [psychology, philosophy, life-philosophy]
 ---
 
+# Essence of Existential Psychotherapy
+
 An introduction to existential philosophy that answers all the questions that have been lingering in my mind recently.
 
 The existential psychotherapy emphasizes a conflict that flows from the individual's confrontation with the givens of existence---certain ultimate concerns, certain intrinsic properties that are a part, and an inescapable part, of the human being's existence in the world.
@@ -41,7 +43,6 @@ There are tow fundamental defenses against death: one is the pursuit of specialn
 The human being either fuses or separates, embeds or emerges. He affirms his autonomy by "standing out from nature", or seeks safety by merging with another force. Either he becomes his own father or he remains the ternal son.
 
 Overall the ultimate rescuer defense is less effective than the belief in personal specialness. Not only is it more likely to break down but it is intrinsically restrictive to the person.
-> 
 
 It is dangerous to venture. And why? Because one may lose. Not to venture is shrewd. And yet, by not venturing, it is so dreadfully easy to lose that which it would be difficult to lose in evey the most venturesome venture,...one's self. For if I have ventured amiss---very well, then life helps my by its punishment. But if I have not ventured at all---who then helps me? And moreover, if by not venturing at all in the highest sense (and to venture in the highest sense is precisely to become conscious of oneself) I have gained all earthly advantages...and lose myself. What of that?
 
@@ -95,7 +96,6 @@ To be taken in by any of these devices that allow us to flee from our freedom is
 The guileless expectation that an individual will change as a result of this approach stems directly from the moral philosophical belief that if one truly knows the good, one will act accordingly.
 
 However, "will power" constitutes only the first layer, and a thin layer at that, of "willing". 
-> 
 
 When I look back at the three or four choices in my life which have been decisive, I find that, at the time I made them, I had very little sense of the seriousness of what I was doing and only later did I discover what had seemed an unimportant brook was, in fact, a Rubicon.
 

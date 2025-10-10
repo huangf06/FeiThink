@@ -4,6 +4,8 @@ date: 2020-10-05
 tags: [book-review, critical-thinking, political-philosophy]
 ---
 
+# Twelve Angry Men and Robert's Rules of Order
+
 ## 罗伯特议事规则
 
 之前做《联邦党人文集》读书会时，遇到一些问题。  
@@ -16,6 +18,7 @@ tags: [book-review, critical-thinking, political-philosophy]
 说只适用极有限场合的，就好像那些跟我说“MBTI理论只适用于人力资源领域”的人一样，没有充分理解其中的精神原理。
 
 实质上，罗规是一门关于“群己权界”的艺术。
+
 ---
 
 ## 《十二怒汉》观后感
@@ -38,6 +41,7 @@ tags: [book-review, critical-thinking, political-philosophy]
 就连亨利·方达的角色一开始也只是一个合理怀疑，没有充分根据。但是辩论起来以后，其他人就不断补充出各自了解的信息，比如蝴蝶刀的用法、眼镜印痕…，最后就形成了一个更全面的图景。  
 如果强要说乌合之众也可以说得通，毕竟一开始只有主角一个人跳反，其他人都是一窝蜂地认为有罪。但是一旦有效交流起来以后，最后大家就都看到了一个，相比任何一个单人刚开始看到的，更全面的信息图景。  
 这就是我眼里看到的群体智慧。
+
 ---
 
 ## 附：罗规八条

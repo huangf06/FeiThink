@@ -28,7 +28,8 @@
       "Bash(tail:*)",
       "Bash(do echo \"\")",
       "Bash(BACKUP_DIR=\"/mnt/e/FeiThink/content/posts_backup_20251010\")",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(git pull:*)"
     ],
     "deny": [],
     "ask": []

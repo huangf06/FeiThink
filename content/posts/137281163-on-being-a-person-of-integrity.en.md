@@ -4,11 +4,14 @@ date: 2023-05-02
 tags: [moral-philosophy, life-philosophy]
 ---
 
+# On Being a Person of Integrity
+
 It’s embarrassing, really.
 
 After all this time, I’m only now figuring out what I actually want.
 
 I want to be a free scholar in a free land. I want to live this life on my own terms. I want to be proud of who I am.
+
 ---
 
 I used to think I could make it work anywhere. Turns out I was wrong. I can feel it—keep going like this and there’s only one outcome: death. And the spirit dies first, long before the body.
@@ -16,6 +19,7 @@ I used to think I could make it work anywhere. Turns out I was wrong. I can feel
 Run. Run for your life.
 
 This goddamn place—what’s the point of staying?
+
 ---
 
 Last year, during the pandemic lockdowns, I spent three months confined at home, on and off.
@@ -25,6 +29,7 @@ I’d had plans, projects, things to do. But once they actually locked down the 
 Some birds aren’t meant to be caged. What does freedom mean?
 
 Nothing. Everything. Worth nothing. Worth everything.
+
 ---
 
 The pandemic didn’t just wear me down—it severed whatever emotional ties I had left to this land and these people. I understand people’s choices and fates better now.
@@ -44,6 +49,7 @@ I thought about this worshipping Guanyin at Nanhai: you relieve suffering, sure�
 If someone makes a stupid choice bound to cause suffering, and you’re a compassionate deity, what do you do? Grant their wish and let them suffer? Or override their will and save them anyway?
 
 I lean toward respecting their will.
+
 ---
 
 It’s not just the system or strangers that grind you down.
@@ -57,6 +63,7 @@ How tiresome.
 Why do you think you get to police my thoughts? Because we happened to be born in the same place? So I’m automatically bound to your positions, required to think within your prescribed templates?
 
 I wish you’d just treat me like a foreigner. I don’t want to be your compatriot. Being your compatriot is nothing but bad luck—zero benefits, infinite obligations.
+
 ---
 
 I’ve been dancing around this, afraid to say it outright. Not anymore. Let me be clear:
@@ -72,6 +79,7 @@ I want to be a free scholar in a free land. I want to shed this narrow ethnic id
 *And ye shall know the truth, and the truth shall make you free.*
 
 I want to live on my own terms. I want to be proud of myself.
+
 ---
 
 So if not Chinese, what then?
@@ -97,6 +105,7 @@ Everything else? Shameless. Standing in safety while righteously demanding other
 That’s why Kantian ethics resonate with me. Always have.
 
 Justice first. No complex calculations required. Majorities and minorities irrelevant. Actions from good will have value regardless of outcome. And vice versa.
+
 ---
 
 Which brings me to the word that captures my position:
@@ -125,6 +134,7 @@ Honesty. No lies to others. No lies to yourself.
 This word encompasses everything I value. More important than kindness, even. Kindness without integrity? Insufferable sometimes.
 
 Example: A Beijing urbanite vacations at a Hebei farmhouse. Sincerely admires the fresh air. Earnestly advises the farmer to stay in the countryside and protect the environment.
+
 ---
 
 So what kind of person do I want to become? Someone with integrity. And if I’m lucky, part of a community of people with integrity.

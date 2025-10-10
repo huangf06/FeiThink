@@ -4,6 +4,8 @@ date: 2019-11-16
 tags: [social-commentary, critical-thinking, political-philosophy]
 ---
 
+# Questions About a Recent Viral Article (I)
+
 近期看到太多本以为不值一哂的玩意儿唬住了太多人，包括各种高智商、有智识、通实务的人。  
 写文以正视听，启发更多有识之士做更深入的思考和探讨。
 

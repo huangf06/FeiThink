@@ -4,9 +4,12 @@ date: 2022-03-11
 tags: [moral-philosophy, critical-thinking]
 ---
 
+# What Is Morality?
+
 一、**什么是道德？**
 
 就我理解，道德就是关于什么是对什么是错什么是善什么是恶的问题。
+
 ---
 
 **二、道德为什么重要？**
@@ -34,6 +37,7 @@ tags: [moral-philosophy, critical-thinking]
 到底什么才足以当得起人尊严的支点？
 
 思来想去，唯有那些能经得住内心审判的东西，自身理论的内和谐，所持原则的一致性，为人提供尊严的支点，撑起人钻石般坚不可摧的精神内核。
+
 ---
 
 **三、 思考的工具**
@@ -53,6 +57,7 @@ tags: [moral-philosophy, critical-thinking]
 检验一个命题正确与否唯一可靠的就是前提和逻辑。
 
 如果前提假设无误，逻辑也没有问题，那么不管结论怎样惊世骇俗，它也正确无误。
+
 ---
 
 **四、道德客观存在吗？**
@@ -152,6 +157,7 @@ tags: [moral-philosophy, critical-thinking]
 虽然两方争执还没有分出胜负，但我私心还是需要一座房子遮挡风雨。
 
 所以，目前我持客观主义立场——普世价值是存在的。
+
 ---
 
 **五、怎样才算道德？**
@@ -407,6 +413,7 @@ RUST: if the only thing keeping a person decent is the expectation of divine rew
 康德的理论给我们提供了一个道德自处的指导：通过理性为自己立法，坚持原则的一致性。
 
 社会契约理论给我们指出与人相处的道德启示：建立在同意和契约之上的互惠。
+
 ---
 
 **六、 一些现实的道德思考题**

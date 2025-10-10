@@ -4,6 +4,8 @@ date: 2023-07-01
 tags: [philosophy, moral-philosophy, kant]
 ---
 
+# Groundwork of the Metaphysics of Morals (I)
+
 I used to distrust the Communist Party, but still believed in the nation and its people; Later I lost faith in the nation too, but at least still believed in humanity; Eventually I lost faith in humanity as well.
 
 I couldn’t fully believe in God either, because that would contradict my long-held creed: “never follow blindly.”
@@ -13,12 +15,12 @@ Then came nihilism. But nihilism is a dead end. Just as I cannot actively affirm
 When thought confronts such conflicts, it desperately needs an answer. Otherwise one can hardly stand at all.
 
 Morality and faith became urgent problems demanding solutions. They are the foundation upon which all meaning and value must be constructed.
+
 ---
 
 This suffering sounds melodramatic, but fortunately I’m not alone in it.
 
 It’s exactly like Ivan in *The Brothers Karamazov*, and like Ivan, I found comfort in Elder Zosima’s words:
-> 
 
 **Zosima**: This problem has not been resolved in your heart, and therein lies your greatest unhappiness, because this problem demands resolution.
 
@@ -27,6 +29,7 @@ It’s exactly like Ivan in *The Brothers Karamazov*, and like Ivan, I found com
 **Zosima**: Even if it cannot be resolved in a positive direction, it will never be resolved in a negative direction either. You yourself know this peculiarity of your soul; this is the very reason your heart suffers so terribly. But you must thank the Creator, for he has given you a lofty heart capable of enduring such torment, capable of thinking upon and seeking things above—we are citizens of heaven. May God grant that your heart’s answer be given you even while you are still on earth. May God bless you on your path.
 
 Allow me this lengthy quotation—passages I’ve been reading over and over these past days. I offer them also to those who are suffering spiritually.
+
 ---
 
 Returning to the problem of morality, I mentioned above the creed of “never follow blindly.”
@@ -40,6 +43,7 @@ The value of philosophical reflection is that it grounds your wild ideas on firm
 If you carefully analyze the meaning of “never follow blindly,” you’ll find it’s essentially talking about “free will” and “reason.”
 
 And this is the entire foundation of Kantian moral philosophy.
+
 ---
 
 When I first encountered Kant’s theory, I mistakenly thought freedom was a kind of moral principle that could pass Kant’s universalizability test.
@@ -57,6 +61,7 @@ Logic involves no material substance—it’s purely formal philosophy.
 Physics studies the phenomena of nature and discovers natural laws.
 
 Ethics studies the phenomena of freedom and discovers moral laws.
+
 ---
 
 But facing the vast sea of social phenomena, how can we discover moral law the way Newton discovered the law of universal gravitation?
@@ -93,17 +98,14 @@ Below is this unique supreme principle (standard formula):
 From this supreme principle derive three formulations:
 
 **1. Formula of Universal Law of Nature**
-> 
 
 So act as if the maxim of your action were to become through your will a universal law of nature
 
 **2. Formula of Humanity as an End**
-> 
 
 So act that you use humanity, in your own person as well as in the person of any other, always at the same time as an end, never merely as a means
 
 **3. Formula of Autonomy**
-> 
 
 The will of every rational being as a will giving universal law
 
@@ -128,7 +130,6 @@ I’ve only gotten through about two-thirds of the book so far; I’ll discuss t
 For today, just some reflections.
 
 First, I found it deeply satisfying—like someone starving who finally gets food, finally encountering reading material befitting adult thought. Insights abound:
-> 
 
 “It is impossible to think of anything at all in the world, or indeed even beyond it, that could be considered good without limitation, except a good will.”
 
@@ -153,6 +154,7 @@ In the environment where I grew up, almost no one truly believed, deep down, tha
 And this is precisely the tragedy of myself and this society.
 
 Morality is a form of collective wisdom.
+
 ---
 
 I used to disdain morality, because back then morality meant ritual propriety to me—and how could ritual propriety possibly apply to someone like me?
@@ -184,17 +186,19 @@ This is what we call the objectivity of morality.
 Here I’ll borrow Kant’s hand to fill in the two missing pieces of my moral map.
 
 From now on, I’m adding “don’t lie” and “help others when you can” to my moral creeds.
+
 ---
 
 Finally, why did I say “for now” when talking about principles to guide my actions?
 
-Reading *Groundwork of the Metaphysics of Morals*, I detected a flavor similar to Max Weber’s *The Protestant Ethic and the Spirit of Capitalism*. This supreme good will that Kant says we reach through reason—isn’t it just the God in the hearts of Weber’s Protestants? And Kant’s absolute duty-based moral commands—the Categorical Imperative—closely resemble Protestant ethics with its relentless moral self-examination.
+Reading *Groundwork of the Metaphysics of Morals*, I detected a flavor similar to Max Weber’s * The Protestant Ethic and the Spirit of Capitalism*. This supreme good will that Kant says we reach through reason—isn’t it just the God in the hearts of Weber’s Protestants? And Kant’s absolute duty-based moral commands—the Categorical Imperative—closely resemble Protestant ethics with its relentless moral self-examination.
 
 So have I spent all this effort learning Christian morality dressed up as metaphysics of morals?
 
 So in the end, must I still face head-on the questions of “God’s existence” and “the immortality of the soul”?
 
 Kant touches on these issues in Chapter 3. I’ll save them for later.
+
 ---
 
 **References**:

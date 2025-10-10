@@ -4,6 +4,8 @@ date: 2025-08-30
 tags: [personal-essay, life-philosophy]
 ---
 
+# The Scale of Time
+
 This WeChat official account has been running for eight years now.  
 It may well be one of the best decisions I’ve ever made.
 
@@ -30,7 +32,7 @@ In the past, I thought strength meant a heart of stone—
 someone unshaken, untouched, and immune to inner turmoil.  
 But I no longer think this way.
 
-Now, a line from *Vagabond*speaks closer to my heart:  
+Now, a line from *Vagabond* speaks closer to my heart:  
 **“All the strong are gentle.”**
 
 Only the truly foolish cling stubbornly to exclusion,  
@@ -40,7 +42,7 @@ embracing everything with vast magnanimity,
 understanding the suffering and struggles of others,  
 and soothing the human heart.
 
-This account is called **Zheng Shiqi**(正十七), referring to the regular heptadecagon, a name taken from the novel *Yingxiong Zhi.*  
+This account is called **Zheng Shiqi**(正十七), referring to the regular heptadecagon, a name taken from the novel * Yingxiong Zhi.*  
 It means squaring the circle: the perfect circle belongs to the realm of the divine, while mortals can only transform circle into square, approaching it step by step.
 
 I can see that, in the past, God for me dwelled high above, in the heavens. What I sought then was truth at the very limits of knowledge—the hidden reality behind the world, the sun beyond Plato’s cave.

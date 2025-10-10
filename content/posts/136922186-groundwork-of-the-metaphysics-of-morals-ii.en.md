@@ -4,33 +4,36 @@ date: 2023-08-01
 tags: [philosophy, moral-philosophy, kant]
 ---
 
+# Groundwork of the Metaphysics of Morals (II)
+
 I have a bold claim:
 
 To measure the depth of a person’s thought is, to a certain degree, to measure the depth of their moral philosophy.
+
 ---
 
-## **I. Why Do We Need a Metaphysics of Morals?**
+## I. Why Do We Need a Metaphysics of Morals?
 
 Moral philosophy covers an enormous range—nearly every question concerning human beings falls under this category.
 
 In my limited view, law consists of settled moral questions, politics of unsettled ones.
 
 And moral questions exist on multiple levels:
-### **1. Ordinary Moral Knowledge**
+### 1. Ordinary Moral Knowledge
 
 The shallowest level is ordinary moral knowledge—knowing what to do in what situations.
 
 I’ve met many muddled people in this world, muddled precisely because they’re stuck at this shallowest first level.
 
 Because such knowledge is too closely tied to reality, it may not apply when the context changes.
-### **2. Philosophical Moral Knowledge**
+### 2. Philosophical Moral Knowledge
 
 Abstract one level up, and you get philosophical moral knowledge—various moral maxims and the like.
 
 The saying “I’ve heard all the advice but still can’t live well” refers to this kind of wisdom.
 
 Even at this step, it’s still not enough. Because these maxims are scattered, unsystematic. Different moral teachings may even contradict each other. When conflicting moral ideas can’t be unified, they only create internal friction, naturally failing to guide one’s life. So we need to go higher.
-### **3. Popular Moral Philosophy**
+### 3. Popular Moral Philosophy
 
 Going further up, we unify various moral maxims into a complete moral philosophy, forming a school’s general principle that encompasses the individual maxims. For example, utilitarianism’s general principle is the greatest happiness for the greatest number; nationalism’s general principle is the supreme interest of nation and state.
 
@@ -39,7 +42,7 @@ Rising to this level may suffice for many people. But for those seeking firmer g
 For instance, for those who put nation above all—if your nation becomes Nazi Germany murdering Jews, how do you reconcile yourself? For utilitarians, does pursuing the greatest happiness for the greatest number mean you can freely insult and harm the minority?
 
 So even though we’ve abstracted from knowledge to principles, and from principles synthesized into systems, it’s still not enough. We need a higher guiding principle that excludes all empirical reality.
-### **4. Metaphysics of Morals**
+### 4. Metaphysics of Morals
 
 For something to be called morality, it must apply to everyone, be universally valid. Otherwise your morality only applies to yourself, because not everyone shares your conditions, and you can never fully comprehend others’ joys and sorrows. If that were the case, no one would have the standing or right to criticize or make demands of others—morality would slide into nihilism.
 
@@ -78,9 +81,10 @@ From prime ministers and emperors down to peddlers and laborers, all hope the mo
 Morality, plainly speaking, is the path a person chooses for themselves when facing various free choices, guided by the principles they’ve set for themselves.
 
 Because of freedom, humans can generate will and purposes independent of natural laws. Free will is the cause, realization of purpose is the effect, and what connects cause to effect is moral law.
+
 ---
 
-## **II. Why Should We Obey Moral Law?**
+## II. Why Should We Obey Moral Law?
 
 But moral law gives us no absolute reason we must obey it.
 
@@ -105,6 +109,7 @@ If everything is predetermined, what freedom is there to speak of?
 Even with Buddhist karmic retribution, your very decision to accumulate merit and do good deeds would no longer be your free will. All your actions would be governed by that absolute reason, all your behavior subject to natural laws, unable to make any independent decisions. Originally you had the choice of whether to lay down the butcher’s knife, but in a world where absolute reasons exist, even that decision isn’t yours—it’s predetermined by an invisible hand.
 
 So as long as humans remain free, the necessity of obeying moral law—this absolute reason—lies beyond the limits of reason, belonging to what human reason absolutely cannot comprehend.
+
 ---
 
 So then, since I am free, why should I voluntarily take on morality’s shackles?
@@ -119,7 +124,8 @@ But precisely because there’s no practical reason for it, it also has no price
 
 **What is raised above all price, and therefore admits of no equivalent, has a dignity.**
 
-—Immanuel Kant
+> —Immanuel Kant
+
 ---
 
 **References**:

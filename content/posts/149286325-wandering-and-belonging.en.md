@@ -4,7 +4,9 @@ date: 2024-09-23
 tags: [personal-essay, life-philosophy]
 ---
 
-## **The Longchang Enlightenment**
+# Wandering and Belonging
+
+## The Longchang Enlightenment
 
 I was recently moved by a video from Luo Xiang: “Should we persist in integrity or choose worldly sophistication?”
 
@@ -16,8 +18,8 @@ Reality is nothing but endless conflict and contradiction. This is what existent
 
 There’s a line from an online novel I read in college, *Blasphemy*: “All things in the world, with their myriad colors, are merely the veiled human heart.” Back then I found it striking without quite understanding why. Now I recognize it as an expression of Kantian philosophy, the same insight Van Gogh captured in his paintings.
 
-Luo Xiang continued: “Later, when Wang Yangming served as an official and offended the powerful eunuch Liu Jin, he came to grasp the true meaning of *gewu*(investigation of things). The essence of *gewu*isn’t to understand heavenly principles by studying the external world, but to explore the Way of Heaven by examining one’s own heart.”
-## **Home and Freedom**
+Luo Xiang continued: “Later, when Wang Yangming served as an official and offended the powerful eunuch Liu Jin, he came to grasp the true meaning of *gewu*(investigation of things). The essence of * gewu*isn’t to understand heavenly principles by studying the external world, but to explore the Way of Heaven by examining one’s own heart.”
+## Home and Freedom
 
 These reflections resonated with me because I’ve been living abroad, recently adrift and purposeless.
 
@@ -34,7 +36,7 @@ The pursuit of freedom. The longing for home.
 Freedom drives us to flee places that cannot contain us, to drift and wander. The longing for home kindles hope again and again, propelling us forward.
 
 I recently read *Existential Psychotherapy*, which captured it well: finding a home, a sense of belonging with others in this world, freedom, resistance to oppression, enlightenment, self-realization.
-## **Cultures of Love and Hatred**
+## Cultures of Love and Hatred
 
 Have I found belonging in Europe? I’d say things are somewhat better.
 
@@ -43,7 +45,7 @@ A rough theory has been forming in my mind: cultures fall broadly into two types
 I recently saw a question making the rounds on Twitter: If there’s a fire, would you save your eight-year-old cat or an eight-year-old child you don’t know? I tracked down the original post on Xiaohongshu—80% chose the cat, and the comments were nearly unanimous. The coldness, the faint malice toward human life—it was genuinely shocking. I posed the same question to European friends. Some would save the cat, naturally, but most said they’d save the child. This aligns with my experience: in Europe, I occasionally encounter unprovoked kindness from strangers. Looking back on thirty-plus years in China, I struggle to recall even a single instance of such kindness, yet I can easily summon numerous memories of unprovoked hostility.
 
 These seem like trivial observations. But when you grow weary of everything and begin questioning life’s meaning, these small things suddenly loom large. What’s the point of living in a jungle among beasts, even if you’re the jungle’s king?
-## **The True Homeland**
+## The True Homeland
 
 So we drift and wander, moving from place to place, sampling the world’s different customs and cultures.
 
@@ -52,7 +54,7 @@ But perhaps the ideal state is ultimately impossible to find on earth. Our true 
 Everyone’s ideal world is different. I think of a South African friend—born into a wealthy white family, yet a fervent Maoist. The more concrete our visions become, the more they clash. Those unquestionable moral truths probably exist only at the metaphysical level, like the logic behind “I disapprove of what you say, but I will defend to the death your right to say it.” A perfect world capacious enough to contain us all can probably exist only in the transcendent realm outside Plato’s cave.
 
 As Luo Xiang quoted: “The individual’s inner self is an experiential thing, mixed with good and evil. We must await a kind of miracle—moving from experience to transcendence, leaping from inside the cave to outside, transcending individual experience. In the experiential world, we cannot draw a perfect circle. But outside the cave, the perfect circle exists.”
-## **My Problem**
+## My Problem
 
 What strikes me most about Europe is that the world finally feels normal—there aren’t so many absurdities violating my will. Away from those troublesome people and situations, the world has grown quieter.
 

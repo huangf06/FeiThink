@@ -4,7 +4,8 @@ date: 2025-01-17
 tags: [philosophy, existentialism, life-philosophy]
 ---
 
-> 
+# Subjectivity: How to Become the Protagonist of Your Own Life
+
 
 Ever since I firmly grasped self-centeredness in my own hands, I have become stronger than before, possessing the spirit of “what do they matter to me?”... My anxiety has completely disappeared, and I can now survey gloomy London with a relaxed heart.  
 Natsume Sōseki, *My Individualism*
@@ -14,9 +15,10 @@ Ever since I encountered the term “self-centeredness” in Natsume Sōseki’s
 **Subjectivity is the individual’s experience and perception of the world.**Philosophically, **subjective experience is the foundation of existence**—as Descartes put it, “I think, therefore I am.”
 
 I wouldn’t say I particularly lack subjectivity. I’ve always been unconventional, both in thought and experience. Yet this concept struck me immediately upon first encounter, keeping me up nights recently trying to understand it fully. First, because it perfectly encapsulates the cultural differences I’ve observed between East and West. Second, because it reveals something missing in my own framework—something about inferiority and transcendence.
+
 ---
 
-## **Inferiority and Transcendence**
+## Inferiority and Transcendence
 
 I’ve always felt a deep sense of unworthiness, as if I don’t deserve the best things this world has to offer.
 
@@ -33,7 +35,6 @@ From my crude understanding of intelligence: an intelligence just two levels abo
 Why is our image of perfection a chimera, a polygon of different dimensions, rather than a single mountain peak? Because each dimension of this polygon reflects different expectations others have of us, manifested in our consciousness. So here’s what’s likely happening: though we claim to pursue perfection, what we’re really craving deep down is simply acceptance from others.
 
 At its root, our sense of unworthiness may stem from having lived according to others’ expectations for so long—playing NPC-like supporting roles in their scripts, living the lives others expected of us, without true subjectivity of our own. Unable to declare from the depths of our being:
-> 
 
 O God, I could be bounded in a nutshell and count myself a king of infinite space—were it not that I have bad dreams.
 
@@ -41,7 +42,7 @@ Shakespeare, *Hamlet*
 
 ---
 
-## **The Origins of Unworthiness**
+## The Origins of Unworthiness
 
 So how did this happen? When was this seed of unworthiness planted in me?
 
@@ -52,14 +53,14 @@ My European friends ask why I never go home for holidays. I tell them I can’t 
 **Was it society’s hierarchical culture?**
 
 I once read a brilliantly apt summary:
-> 
 
 **China’s universal value is bullying the weak and fearing the strong; China’s traditional wisdom is identifying who’s weak and who’s strong in the shortest time with the least information.**
 
-This can all be explained by survival-first philosophy and jungle society assumptions. But I fundamentally question this survival philosophy. Is such a life really worth living? Why is survival such a luxury for us that people must sacrifice everything else noble to secure it? This is also why I don’t think much of Liu Cixin—his *Three-Body Problem*is entirely about this survival philosophy. As someone astutely observed: others write space opera; he writes space Yu opera.
+This can all be explained by survival-first philosophy and jungle society assumptions. But I fundamentally question this survival philosophy. Is such a life really worth living? Why is survival such a luxury for us that people must sacrifice everything else noble to secure it? This is also why I don’t think much of Liu Cixin—his *Three-Body Problem* is entirely about this survival philosophy. As someone astutely observed: others write space opera; he writes space Yu opera.
+
 ---
 
-## **Conform or Rebel?**
+## Conform or Rebel?
 
 Should people conform to their nature or resist their instincts?
 
@@ -74,7 +75,6 @@ I’d revise that and add one more:
 **Rediscovering your individual value and reclaiming center stage.**
 
 Natsume Sōseki beautifully described this journey from other-centeredness to self-centeredness in *My Individualism*:
-> 
 
 Ah, here lies my path forward! I’ve finally excavated this road! When such an exclamation cries out from the depths of your heart, the weight on your chest will finally lift. For those troubled by fog along the way, I believe that no matter what sacrifices they must make, they should dig until they reach the ore deposit. When they arrive there, they’ll discover this is truly where they belong. I believe this is how one gains lifelong self-confidence and finally settles one’s heart.
 
@@ -82,10 +82,10 @@ Natsume Sōseki, *My Individualism*
 
 ---
 
-## **Misunderstanding Individualism**
+## Misunderstanding Individualism
 
 When it comes to individualism, people often confuse it with egoism. Though they appear similar, the difference is vast. Egoism focuses only on maximizing one’s own interests and may harm others for self-benefit. Individualism, however, embodies a universal principle—it emphasizes individual freedom and rights while acknowledging and respecting others’ equal rights. Egoism leads to a war of all against all, a jungle society under dark forest rules; individualism can lead to a state where each person is free and fulfilled, without everyone becoming batteries serving the Matrix.
-## **How to Practice Individualism**
+## How to Practice Individualism
 
 A crucial concept is **separation of tasks**.
 
@@ -104,9 +104,10 @@ Mutual benefit is certainly healthy in relationships, but it must be agreed upon
 Separating tasks is the starting point of healthy relationships. We must begin by asking “whose task is this?” and separate our own tasks from others’. The criterion for distinguishing whose task it is: **who will ultimately bear the consequences of the choice?**
 
 Regarding your own life, all you can do is choose the path you believe is best. How others evaluate your choices is their task—you simply cannot control it. Trying to interfere with or shoulder others’ tasks makes your life heavy and painful, and often produces backlash.
+
 ---
 
-## **The Individual as Subject**
+## The Individual as Subject
 
 From my experience, I prefer people with subjectivity. I once talked with a Dutch girl who told me Chinese people have a habit of trying to figure out what others think, then saying what others want to hear. This behavior itself is annoying—more so than honestly expressing yourself and saying the wrong thing—because you’re ignoring my will and guessing what I want based on your own assumptions, trying to decide for me what I should like.
 
@@ -123,9 +124,10 @@ Wanting to progress, pursuing an ideal state—these are understandable, even he
 **But striving for superiority means continuously moving forward yourself, not placing yourself above others.**
 
 Healthy feelings of inferiority don’t come from comparing yourself with others, but from continuous self-transcendence—pursuing your ideal self.
+
 ---
 
-### **References**
+### References
 
 1. 
 
@@ -141,5 +143,3 @@ Kanji Izumiya, ***The Power of Depression***(うつの力)
 Søren Kierkegaard, ***Philosophical Fragments***, ***Concluding Unscientific Postscript***
 
 ---
-
-> 

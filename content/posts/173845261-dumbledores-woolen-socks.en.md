@@ -4,6 +4,8 @@ date: 2025-09-10
 tags: [personal-essay, existentialism, life-philosophy]
 ---
 
+# Dumbledore's Woolen Socks
+
 Every now and then I think of Dumbledore’s woolen socks.
 
 When Harry asked Dumbledore what he saw in the Mirror of Erised, Dumbledore said he saw himself holding a thick pair of woolen socks.

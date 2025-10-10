@@ -4,12 +4,14 @@ date: 2019-06-12
 tags: [personal-essay]
 ---
 
+# Rereading Shen Pangpang
+
 Shen Pangpang’s articles are evergreen—each reading brings fresh insights. Below I quote and annotate to share them with you.
+
 ---
 
-## **Part One: On Life**
+## Part One: On Life
 
-> 
 
 **Life is too short for roundabout strategies.**
 
@@ -18,11 +20,11 @@ Shen Pangpang’s articles are evergreen—each reading brings fresh insights. B
 **To achieve an ideal, you must be ready to sacrifice everything else you possess in the fight. Only this way do you have any real chance of making it happen.**
 
 *Pangpang has already expressed this perfectly, and I have nothing more to annotate. If I must add something, it would be this: for ordinary people who have no throne to inherit, being able to discover one’s true self, recognize one’s nature and genuine goals, understand where one’s real passion lies, and then charge straight toward it with focused effort—this is far more important than learning some meaningless tricks and strategies. Always being too embarrassed to admit your goals, as if there’s some dark forest where revealing your objectives will invite unnecessary attacks, all that “the nail that sticks out gets hammered down,” “the bird that leads the flock gets shot”... all this means is that you’re granting others far more importance and attention than they deserve. For me, my life experience has also taught me that the straight line is the shortest path.*
+
 ---
 
-## **Part Two: On Friends**
+## Part Two: On Friends
 
-> 
 
 **The most precious wealth in life is friends, followed by time. Both friends and time are more valuable than money.**
 
@@ -37,11 +39,11 @@ Shen Pangpang’s articles are evergreen—each reading brings fresh insights. B
 **For each friend, getting together once every two weeks is a reasonable frequency. Those who reject your invitation—even once—don’t appreciate you, and you should keep your respectful distance. Rejection is a universal expression of aversion across all cultures and peoples; it doesn’t vary by background.**
 
 *On the topic of friends, Shen Pangpang has said it perfectly—I can’t add anything better. I can only reflect that in the past, I didn’t value friendships nearly enough.*
+
 ---
 
-## **Part Three: On Character**
+## Part Three: On Character
 
-> 
 
 **No matter how much you admire someone’s strengths, if their character is flawed, you must keep your distance.**
 
@@ -66,9 +68,9 @@ Shen Pangpang’s articles are evergreen—each reading brings fresh insights. B
 **Composure**—ancient sayings have covered this thoroughly. Remain unshaken when crisis strikes suddenly, stay calm when provoked without cause. Face mockery and doubt with indifference. This truly requires cultivation—I still have much to learn from my friend Mark.
 
 **Generosity**—maintain an open mind, don’t be closed off. Hoarding knowledge like a treasure has never been my style; even as a student I never feared sharing study methods. For me, the key is to think aloud—to articulate and share my thoughts.
+
 ---
 
-> 
 
 **When choosing people to work for you, character comes first, loyalty second, and ability third.**
 
@@ -83,15 +85,13 @@ Shen Pangpang’s articles are evergreen—each reading brings fresh insights. B
 *Of course, this also reflects my own wavering faith and lack of confidence in my own judgment. But for young people with limited experience and no statistical validation, how can I know I’m right?*
 
 *Conversely, this exposes the flaws in our education system. Which brings us to another of Pangpang’s quotes:*
-> 
 
 **If you’re more capable than your parents, keep your distance and avoid their interference. I’ve seen quite a few talented people from mediocre families who, because they spent too much time with their parents, slowly regressed back to mediocrity.**
 
 ---
 
-## **Part Four: On Going Abroad**
+## Part Four: On Going Abroad
 
-> 
 
 **When you go abroad, don’t stick with Chinese people.**
 
@@ -104,18 +104,17 @@ Shen Pangpang’s articles are evergreen—each reading brings fresh insights. B
 *For someone like me—a country mouse from rural Henan, China, dwelling at the very bottom of the social hierarchy—Pangpang’s words strike a deep chord. In my youth, I fancied myself a Sakamoto Ryōma, determined to stay rooted in my homeland, stir up winds of change, and reform society. Before turning thirty, I never truly wanted (or felt motivated) to go abroad. I still remember ten years ago, drinking late into the night with Mark and Joey outside Tsinghua’s north gate, declaring that my roots were in China. It feels like yesterday. But now, past thirty, I’ve re-examined life through a more essential lens and realized that many of my attachments were baseless.*
 
 *If I oppose defining and treating people based on innate characteristics like birth origin, then I must equally oppose the household registration system, gender discrimination, racial discrimination, filial piety dogma, nepotism and favor-based society, crony capitalism, nationalism, patriotism... because all of these discriminate based on the accidents of one’s birth. As a line from Sense8 that deeply resonates with me puts it:*
-> 
 
 He’s my brother. And not by something as accidental as blood...by something much stronger. By choice.
 
 *Within the four seas, all are brothers—regardless of East or West.*
 
 *If none of these should serve as criteria for dividing humanity, then what principles should we uphold?*
+
 ---
 
-## **Part Five: On Principles**
+## Part Five: On Principles
 
-> 
 
 **Western elites work to better nurture their families; some mainland Chinese elites, however, make their families serve their work. Remember: superior species are those most successful at raising offspring. Of course, the essence of raising children is for the community, not for oneself—so it’s also fine not to have children, as long as you help close friends in your community better raise theirs.**
 

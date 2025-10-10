@@ -4,6 +4,8 @@ date: 2023-05-02
 tags: [moral-philosophy, life-philosophy]
 ---
 
+# On Being a Person of Integrity
+
 真是让人羞愧。
 
 花了这么长时间，才渐渐明白自己想要什么。
@@ -13,6 +15,7 @@ tags: [moral-philosophy, life-philosophy]
 我想要按自己的意志过完这一生；
 
 我想要为自己感到骄傲。
+
 ---
 
 我本以为自己在哪里都可以，但实际上发现行不通。
@@ -24,6 +27,7 @@ tags: [moral-philosophy, life-philosophy]
 Run. Run for life.
 
 这么个逼地方，呆着真没意思。
+
 ---
 
 面对疫情的封控政策，去年断续被关在家里三个月。  
@@ -39,6 +43,7 @@ Run. Run for life.
 Nothing. Everything. 
 
 一文不值。价值一切。
+
 ---
 
 被疫情消磨掉的还有对这片土地和人的感情羁绊。
@@ -66,6 +71,7 @@ Nothing. Everything. 
 假如当人做了一个愚蠢的选择，必将通向受苦受难的结果，而你是一个救苦救难的神佛，你现在应该怎么做？你是应该成全他的心愿去经历磨难，还是应该阻挠他的意志拔他出苦海？
 
 我目前的立场是倾向于尊重他人意志。
+
 ---
 
 消磨人的也不光是大环境和陌生人。
@@ -87,6 +93,7 @@ Nothing. Everything. 
 我心说你能把我当成外国人吗？我不想当你的同胞。
 
 当你的同胞真是倒霉得很，好处是一分没有的，有的只是无穷无尽的义务。
+
 ---
 
 一直遮遮掩掩想说不敢说，因为我以前没想好。
@@ -108,6 +115,7 @@ And ye shall know the truth, and the truth shall make you free.
 尔将识真理，真理必释尔。
 
 我想按自己意志过完这一生；我想为自己感到骄傲。
+
 ---
 
 不想做中国人，那我以后要做什么人？
@@ -139,6 +147,7 @@ And ye shall know the truth, and the truth shall make you free.
 正义至上，无需复杂的利益计算，无需顾虑多数还是少数。
 
 从善良意志出发的行为，无论结果如何，都有正面的价值。反之亦然。
+
 ---
 
 由此引申出一个词来概括我现在的立场：
@@ -166,6 +175,7 @@ And ye shall know the truth, and the truth shall make you free.
 丢失正直的善良，有时候对我们来说是难以忍受的冒犯。
 
 举个例子：一位北京城里的市民到河北效区的农家乐度假，真诚地羡慕农村空气好，劝老乡待在农村好好保护环境。
+
 ---
 
 所以如果一定要说今后我想成为什么人的话，那就但愿我能成为一个正直的人吧；如果再幸运一点，那就成为一群正直的人们中的一分子吧。

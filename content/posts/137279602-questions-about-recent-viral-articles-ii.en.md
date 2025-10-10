@@ -4,14 +4,16 @@ date: 2019-11-19
 tags: [social-commentary, critical-thinking, political-philosophy]
 ---
 
-## **I. On How to Properly Rebut Arguments**
+# Questions About Recent Viral Articles (II)
+
+## I. On How to Properly Rebut Arguments
 
 I read Lu Kewen’s “The Hong Kong Issue and the Truth About the World” again. Boiled down, it’s two parts: the first half claims Hong Kong hides behind democracy and freedom to demonize the mainland; the second half uses historical anecdotes to show the dangers of freedom and democracy.
 
 I’ve read a lot of rebuttals. Many attack the factual accuracy of the historical examples he cites. I think that misses the point. Fact-checking history is just data cleaning. To refute someone’s model, you need a better model. Even if the author invented his history wholesale, readers would still get his argument.
 
 No matter how much you tout democracy and freedom, the dangers of fragmentation and chaos are real. Without a concrete, workable solution for maintaining national unity and order, and for settling the messy aftermath of redistributing interests, you won’t convince anyone.
-## **II. The Problem with “The Truth About the World”**
+## II. The Problem with “The Truth About the World”
 
 Lu Kewen’s model is simple and easy to grasp. Its only flaw is that it’s wrong.
 
@@ -28,7 +30,7 @@ Finding that point—and more importantly, designing an algorithm (a system of i
 And when you add in all the other goals—national security, economy, technology, culture, education, public health, environment—can you even do the math?
 
 The computing power this requires means mobilizing society’s whole energy and intelligence.
-## **III. The Party Leads Everything? Does It Have What It Takes?**
+## III. The Party Leads Everything? Does It Have What It Takes?
 
 So when the Party shouts slogans like “The Party leads everything,” it must be opposed. Because the Party doesn’t have that capability.
 
@@ -51,7 +53,7 @@ Nothing stands up to scrutiny. One line from the top leader—”I’ll take ful
 So if the Party continues to strengthen its control over everything, that’s absolutely not good news for society as a whole.
 
 In my view, the optimal form of organization is probably some version of weak central government + regional autonomy. Central and local governments would have clear power boundaries. For instance: national defense and foreign affairs go to the center; economy and people’s welfare stay local. Different regions vary wildly in development levels and even ideologies. Top-down unified control by the central government actually exceeds what the government can handle.
-## **IV. Distributed Organization**
+## IV. Distributed Organization
 
 No matter how disappointed you are with democracy, you can’t deny the rationality and necessity of the idea and system of separation of powers.
 
@@ -66,7 +68,7 @@ The glaring problem now is that this central processor clearly lacks the computi
 All the tasks that could run in parallel are now queued up, bottlenecked by the central processor’s capacity.
 
 We could be doing so much more.
-## **V. Where Is the Cure for Civilization?**
+## V. Where Is the Cure for Civilization?
 
 I agree with Jeff Yang’s comment from the last piece: “Western values are not the cure for civilization.”
 

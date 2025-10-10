@@ -4,11 +4,13 @@ date: 2024-02-16
 tags: [film-review, history]
 ---
 
+# Reflections on 12.12: The Day
+
 I watched *12.12: The Day*(Seoul Spring) the day before yesterday. I’m not a professional film critic, so I’ll just share my impressions.
 
 Three years ago, on Professor Ti’s recommendation, I had already seen *The Fifth Republic*[^1], so the historical events of South Korea’s December 12 coup were not unfamiliar to me. What actually bothered me was the film’s use of altered character names—I couldn’t keep track of who was who, which added to my viewing difficulty. I don’t understand why, when political dramas can be made with real names, they suddenly become taboo when they hit the big screen.
 
-To heighten dramatic tension, the film forcibly manufactures some rather implausible plot points, making the coup seem absurdly casual. The coup had already begun, yet it still required General Jeon[^2] to personally rush around督战 supervising the frontlines and putting out fires everywhere. In this regard, I feel *The Fifth Republic*, unhindered by time constraints, was more logical. The members of Hanahoe were utterly determined to seize power for their own interests, and each key figure displayed considerable initiative during the coup. One scene that left a particularly deep impression on me was when Kim Jin-young (in reality, from the coup faction) single-handedly stopped anti-coup tanks—a kind of reverse “Tank Man” if you will. *Seoul Spring*basically portrays an organized and premeditated military coup by regular forces against a government side that lacked mental preparation, had weak resistance, and fought scattered battles.
+To heighten dramatic tension, the film forcibly manufactures some rather implausible plot points, making the coup seem absurdly casual. The coup had already begun, yet it still required General Jeon[^2] to personally rush around督战 supervising the frontlines and putting out fires everywhere. In this regard, I feel *The Fifth Republic*, unhindered by time constraints, was more logical. The members of Hanahoe were utterly determined to seize power for their own interests, and each key figure displayed considerable initiative during the coup. One scene that left a particularly deep impression on me was when Kim Jin-young (in reality, from the coup faction) single-handedly stopped anti-coup tanks—a kind of reverse “Tank Man” if you will. * Seoul Spring*basically portrays an organized and premeditated military coup by regular forces against a government side that lacked mental preparation, had weak resistance, and fought scattered battles.
 
 In the end, those patriotic soldiers on the side of justice in the coup didn’t fare too well, while the coup’s leaders—Chun Doo-hwan and Roh Tae-woo—each served as president in turn. Although later tried and convicted, they only spent a few years in prison before being pardoned by Kim Dae-jung. Both lived until 2021, dying in their hospital beds at ninety.
 
@@ -20,8 +22,7 @@ Another point of comparison: after the Gwangju incident, the tide of democratiza
 
 Of course, if you say that this kind of cycle is still better than what happened fourteen times in ancient China—those dynastic transitions where the population plummeted by seventy percent—that’s also true. But damn it, that’s too depressing. Don’t Chinese people deserve civilization? Look at South Korea and Taiwan—after thirty years, their democratic politics are already quite impressive. But look at China—it remains a barbaric society, both domestically and internationally. Their minds are full of “either you kill me or I kill you” thinking, with no understanding of responsibility, no idea how to coexist peacefully and equally with others.
 
-It’s clear that China’s century-long journey has been nothing but detours. Fukuzawa Yukichi wrote *An Outline of a Theory of Civilization*in 1874, and one hundred fifty years later it still resonates powerfully across time:
-> 
+It’s clear that China’s century-long journey has been nothing but detours. Fukuzawa Yukichi wrote *An Outline of a Theory of Civilization* in 1874, and one hundred fifty years later it still resonates powerfully across time:
 
 The external forms of civilization are easy to adopt, but its spirit is difficult to grasp. To adopt European civilization, one must begin with what is difficult and proceed to what is easy—first transform people’s hearts, then reform government ordinances, and finally achieve tangible material results. Following this sequence, though difficult, presents no real obstacles and can smoothly reach the goal. If the order is reversed, it may seem easier, but in reality the path is blocked, like standing before a wall unable to move forward an inch—either hesitating and making no progress, or trying to advance an inch only to retreat a foot.
 
@@ -36,9 +37,10 @@ And indeed, we can see it is step by step following Germany and Japan’s path, 
 So after watching *12.12: The Day*, who can help but think of Tiananmen? Who can help but sigh with regret at how that one failed moment brought such vastly different fates to the nation and people in the decades that followed? Though I know this is wishful thinking, with no basis in political reality—like hoping Emperor Kangxi would lead an industrial revolution—but the possibility did exist, after all.
 
 As for whether these dispirited subjects who’ve lost their courage still deserve saving—I have no answer. Since your bottom line is firmly in someone else’s grasp, your opponent’s optimal strategy is naturally to test just above your bottom line, and the current state is still far from that bottom. Since you’ve chosen a wretched life over a dignified death, then live wretchedly for now. When you can’t stand it anymore, then figure something out.
+
 ---
 
-[^1]: *The Fifth Republic*ranks among my personal top three political dramas, full of famous scenes and memorable lines, even spawning a field of study called “Fifth Studies.” Five-star recommendation.
+[^1]: *The Fifth Republic* ranks among my personal top three political dramas, full of famous scenes and memorable lines, even spawning a field of study called “Fifth Studies.” Five-star recommendation.
 
 [^2]: Because in *The Fifth Republic*, there was a prop error where the production team left off a stroke in the Chinese characters for “Major General” (少将) on Chun Doo-hwan’s nameplate, writing it as “Little General” (小将), thus giving Chun this nickname.
 

@@ -4,7 +4,10 @@ date: 2021-01-17
 tags: [philosophy, history-of-philosophy, life-philosophy]
 ---
 
+# History of Thought [03]: How to Be Happy
+
 This one feels the most relevant to our lives right now.
+
 ---
 
 Alexander conquered the Greek city-states and built an empire like none before. After his death, the empire fractured into four kingdoms, all eventually swallowed by Rome.
@@ -16,6 +19,7 @@ This reality shaped thought itself: People started avoiding social questions alt
 So philosophers turned their attention mainly to individual questions:
 
 **How can an individual achieve happiness?**
+
 ---
 
 **Epicurus: Refined Hedonism**
@@ -41,6 +45,7 @@ If you’re politically apathetic, you can find your people in Epicurus.
 But I don’t buy Epicureanism, mainly because pain and pleasure are too tangled for ordinary reason to calculate. Yesterday’s pleasure might taste completely different today. Sometimes great pleasure demands you suffer a bit first. And honestly, look at life as a whole—suffering surely outweighs joy. Does that mean you should just say fuck it and quit living?
 
 I don’t think happiness can be chased or calculated. Happiness seems like a side effect of chasing other things. So personally, I’m more drawn to the Stoics.
+
 ---
 
 **The Stoics**
@@ -58,6 +63,7 @@ But how does a person stay unmoved and calm facing whatever fate throws at them?
 Through reason. Understand that everything follows patterns. You can’t control it all.
 
 So accept whatever comes cheerfully. Build a strong inner core.
+
 ---
 
 But none of these answers really work.

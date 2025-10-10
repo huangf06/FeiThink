@@ -4,6 +4,8 @@ date: 2021-01-13
 tags: [philosophy, history-of-philosophy]
 ---
 
+# History of Thought [02]: Is There Universal Law?
+
 The first period of philosophy concerned nature and the cosmos. The second period turned to knowledge itself, and to ethics and politics.
 
 After a hundred and fifty years of debate yielding various contradictory yet reasonable views, people began to doubt human knowledge itself. Meanwhile, as the Greeks expanded outward and colonized new lands, they encountered foreign peoples with vastly different customs and ways of life.
@@ -13,6 +15,7 @@ All of this led the Greeks to ask two questions:
 **1. Can humans truly acquire certain knowledge?****2. Is there a universally valid moral and political ideal—something that holds true everywhere?**
 
 These two questions are connected: if people cannot obtain certain knowledge, if those holding completely different views are all equally correct, then on what grounds can we demand that others follow our ways, that people with different customs obey our laws?
+
 ---
 
 **(I) The Sophists**
@@ -42,6 +45,7 @@ For concrete objects, we can freely switch perspectives. But when we turn to soc
 From a normative angle, “man is the measure of all things” can also mean that the value and meaning of phenomena are relative to humans. Things themselves are neither good nor evil; good and evil are relative to individuals or groups. Good and evil are human constructs. So who ultimately gets to set the standard for good and evil? If individuals are the standard, we run into the previous problem—losing the foundation for rational political discourse. If society is the ultimate judge of normative questions, does that mean values and norms are valid only for the society that produced them, and inapplicable elsewhere? Laws that work for Greece don’t work for Persia; systems that work for Europe and America cannot work for China?
 
 These three positions remain remarkably resilient even today. But fundamentally, Sophist views are demoralizing. Skepticism denies from the ground up that humans can obtain certain knowledge. Relativism denies that people can rationally build good societies. Insisting on absolute perspectives inevitably fragments and scatters people’s hearts. Yet politics and law demand unified opinions and actions. So the Sophists gradually lost public support. Someone had to stand up and refute them, or civilization couldn’t go on.
+
 ---
 
 **(II) Socrates: Virtue is Knowledge**
@@ -51,11 +55,12 @@ Enter the great Socrates. How did he refute the Sophists? He affirmed the existe
 In his view, human virtue lies in fully realizing one’s true potential. For him, knowledge isn’t just empirical facts—it includes normative knowledge about good and evil, and ultimately knowledge of the self: “Know thyself.”
 
 Socrates believed virtue is knowledge, and can be learned. Right knowledge leads to right action. If you truly grasp justice, you’ll necessarily act justly, which makes you a just person. And right action necessarily produces happiness. Those people who “understand many great truths yet still can’t live well” don’t exist in Socrates’s world—that just means you’ve picked up scattered opinions from others without truly grasping and integrating the underlying principles. Socrates’s notion of happiness encompasses more than ordinary worldly happiness; it’s closer to inner peace, wholeness of character.
+
 ---
 
 **(III) Plato: The Theory of Forms**
 
-Socrates held that we can learn to recognize norms like good and justice. But what exactly *are*these norms? Do they exist objectively? Or only in our minds?
+Socrates held that we can learn to recognize norms like good and justice. But what exactly *are* these norms? Do they exist objectively? Or only in our minds?
 
 Why does this matter so much? It connects directly to our opening question—is there universal law? If Forms exist objectively, then whether you’re in Greece or Persia, East or West, as long as people use reason to investigate, they’ll eventually reach the same destination—discovering the universally and objectively existing “Good” and “Justice.” And then the theoretical foundation for world unity becomes rock-solid.
 
@@ -64,6 +69,7 @@ Plato’s Theory of Forms is exactly such a theory: The universe divides into tw
 Corresponding to the Theory of Forms, Plato’s political vision is his *Republic*. Forms exist objectively, but people’s capacity to know them varies—that’s the reality. Forms are difficult to understand; acquiring knowledge of Forms requires good intelligence and training. The inevitable result is that the few who can perceive Forms and possess virtue must guide the many down the right path.
 
 Because of Socrates’s death, Plato came to despise Athenian democracy, believing power should rest with those competent to wield it. He advocated establishing a universal education system where after years of study and training—learning both knowledge and practical experience, and learning to perceive the Form of the Good—”philosopher-kings” would be cultivated and selected to rule the state.
+
 ---
 
 **(IV) Aristotle**
@@ -94,4 +100,5 @@ That concludes our discussion of ethics and politics for now. The question “Is
 **2.  有没有一个普遍有效放之四海而皆准的道德政治理念？**
 
 这两个问题是有关联的：因为假如人们不能获得确定的知识，持完全不同观点的人都对，那么凭什么要求别人都来听我的，跟我们风俗习惯不一样的人也来遵守我们的法律？
+
 ---

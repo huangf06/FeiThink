@@ -4,6 +4,8 @@ date: 2023-10-01
 tags: [book-review, philosophy, aesthetics]
 ---
 
+# Vagabond and the Sublime
+
 初到荷兰，有那么一瞬间，恍惚失去了方向。
 
 身处自由世界，我又可以写政论了，但却提不起兴趣。
@@ -17,6 +19,7 @@ tags: [book-review, philosophy, aesthetics]
 他太渺小了。其人格之卑劣无耻，见识之粗鄙短浅，行事之乖戾刚愎，比诸学童尚且不如，而竟掌一国权柄。
 
 与他们纠缠对我而言殊无意义。
+
 ---
 
 而这种幡然觉得对手渺小的经历，也不是头一次了。
@@ -24,7 +27,6 @@ tags: [book-review, philosophy, aesthetics]
 春节前后看井上雄彦的漫画《浪客行》。
 
 里面的一句话提醒了我：
-> 
 
 没有我，你将无人可以叛逆。
 
@@ -39,6 +41,7 @@ tags: [book-review, philosophy, aesthetics]
 当有一天，你终于将一切烦恼都抛在脑后，无拘无束时，你将往何处去？
 
 自由的重量，就是道德的重量。
+
 ---
 
 从过年看完浪客行起，一个概念就在我心里萦绕，挥之不去。
@@ -82,7 +85,6 @@ tags: [book-review, philosophy, aesthetics]
 没事儿就去学哲学吧，智慧之道。
 
 想起前段偶然翻起《射雕》看到老顽童论及武学的话：
-> 
 
 天下玩意儿虽多，可是玩得久了，终究没味。只有武功，才越玩越有趣。
 

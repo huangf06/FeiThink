@@ -4,6 +4,8 @@ date: 2021-03-10
 tags: [book-review, personal-essay]
 ---
 
+# Reading On Writing Well
+
 我喜欢写作。  
 写作让我感觉自由。
 
@@ -63,6 +65,7 @@ It is a question of using the English language in a way that will achieve the gr
 不要预想谁是你的广大读者群。  
 如果你写起来是一种享受，你也会给值得为之写作的读者带来欢乐。  
 如果你失去傻逼的喜爱，那你本来也不需要他们。
+
 ---
 
 这些原则我以前也写过。  
@@ -73,7 +76,6 @@ It is a question of using the English language in a way that will achieve the gr
 而对自己特定身份的骄傲也同样束缚着你冲破牢笼。
 
 但是归根到底，fuck them all.
-> 
 
 It is the courage to continue that counts.  
 没有最终的胜利，也没有致命的失败，  

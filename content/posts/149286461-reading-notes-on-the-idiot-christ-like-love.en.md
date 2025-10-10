@@ -4,11 +4,13 @@ date: 2024-09-23
 tags: [book-review, philosophy, literature]
 ---
 
+# Reading Notes on The Idiot: Christ-like Love
+
 Last Friday, I felt deeply unsettled—restless and troubled. I went home early, but my frustration had nowhere to go.
 
 The usual distractions offered only temporary relief, ultimately hollow. Better to read something—something difficult.
 
-I recalled a Reddit thread where someone asked for book recommendations, and I had replied with *The Brothers Karamazov*. Someone commented underneath suggesting *The Idiot*.
+I recalled a Reddit thread where someone asked for book recommendations, and I had replied with *The Brothers Karamazov*. Someone commented underneath suggesting * The Idiot*.
 
 Though Dostoevsky is my favorite writer, I’ve actually only read a few of his works. So that was it—time for *The Idiot*.
 
@@ -82,7 +84,7 @@ I’ve never thought much of my university’s motto: “Virtue sustains all thi
 
 When you hear “virtue sustains all things,” can you picture a concrete example? Is it like Liu Bei or Song Jiang? Fake benevolence and phony righteousness. Mouths full of morality and virtue, hearts full of calculated self-interest.
 
-But Prince Myshkin in *The Idiot*suddenly brought this phrase to life for me, giving me a living example.
+But Prince Myshkin in *The Idiot* suddenly brought this phrase to life for me, giving me a living example.
 
 What “sustaining all things” really means is bearing others’ suffering. Put more simply: because you’ve been drenched by rain, you want to hold an umbrella for others. It’s the same idea. Drawing on our own rich experience of suffering, we offer spiritual support to other lost souls—so that at least they’re not alone on the path of pain.
 

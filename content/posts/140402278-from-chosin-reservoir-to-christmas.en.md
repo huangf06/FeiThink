@@ -4,82 +4,79 @@ date: 2024-01-05
 tags: [history, politics, social-commentary]
 ---
 
-### **Foreword**
+# From Chosin Reservoir to Christmas
+
+### Foreword
 
 This started when I saw a childhood friend post about the Chosin Reservoir on Christmas Day. I’m profoundly disgusted by juxtaposing Chosin—that symbol of extreme narrow nationalism—with Christmas, which embodies universal values. It’s truly self-humiliating; the superiority and inferiority are immediately apparent.
 
 I haven’t written in a long time, so I’m taking this opportunity to empty my head. Starting from Chosin, moving through the Korean War to Mao Zedong, I’ll talk about China’s present and future, and about traditional culture and the Christian spirit. Much of this is basic common knowledge, yet even these basics have been twisted beyond recognition in China.
 
 We should still spread knowledge and viewpoints as much as we can—perhaps it’ll help someone. Besides, what I write here isn’t easy to find elsewhere. Some of it is my own reflection, some are conclusions and judgments I’ve vetted through my knowledge and experience. These things are scarce and valuable.
-### **Why was Chosin Reservoir a crushing defeat?**
+### Why was Chosin Reservoir a crushing defeat?
 
 Chosin Reservoir was such a humiliating defeat that for seventy years no one even dared bring it up. Yet after some whitewashing in recent years, it’s somehow become material for patriotic education.
-> 
 
 In the Battle of Chosin Reservoir, an entire army group (three armies) surrounded the U.S. 1st Marine Division but failed to annihilate or even rout them. At ten times the enemy’s casualties (the 9th Army Group’s three armies—150,000 men—lost over two-thirds), they allowed the Marines to withdraw in full strength, taking all their wounded and equipment, and evacuating nearly 100,000 North Korean refugees (including the parents of former South Korean President Moon Jae-in).[^1]
 
 This was unquestionably a major victory for the U.S. military.
 
 If you were defending justice, perhaps such sacrifice at any cost would seem tragic and heroic. But the problem is: does what you did have even the slightest thing to do with justice?
-### **Why was China’s intervention in the Korean War unjust?**
+### Why was China’s intervention in the Korean War unjust?
 
 I find that many people don’t know that the Korean War started when North Korea violated the peace agreement and launched a surprise invasion of South Korea. “Resisting U.S. Aggression and Aiding Korea” has always been portrayed as China daring to cross swords with the world’s most powerful nation, while the war’s causes are left deliberately vague. China’s motivation for entering the war was partly Mao Zedong’s misjudgment of American intentions, and partly to curry favor with Stalin. The volunteers’ entry into the war was utterly without legitimate cause—hence the awkward, guilty name. On the Chinese side, they call it “Resisting America and Aiding Korea,” but in fact what you opposed wasn’t just the U.S. military—you sided with the aggressor and fought against UN forces.
 
 The motivation for participation was utterly dishonorable, and the war’s outcome is hardly comforting. The lasting consequence is that 26 million North Koreans still live under the Kim dynasty, still trapped in hunger and fear. Only heartless nationalists could continue to trumpet this as a victory. In Europe and America, the Korean War is a forgotten war. The “national prestige” that Little Pinks boast about exists mainly in their imagination, with no basis in reality.
 
 My grandfather was also a demobilized volunteer soldier. I never heard him mention this war, so I don’t know whether he felt proud of it. But 400,000 people like my grandfather died meaninglessly in a foreign land. From the perspective of human history, their opponents—the U.S. military (or rather, UN forces)—can proudly say they were defending peace and justice, while those 400,000 volunteer soldiers died meaninglessly, fighting for the wrong reasons, paying for a dictator’s mistakes.
-### **Why was Mao Zedong a butcher?**
+### Why was Mao Zedong a butcher?
 
 Those who recklessly disregard human life should be dragged out and held accountable for war crimes. But that old son of a bitch’s crimes are simply too many. Compared to his even more reprehensible later actions, the hundreds of thousands of war casualties actually seem not worth mentioning—completely overshadowed. According to Steven Pinker’s *The Better Angels of Our Nature*, which lists the top ten mass atrocities in human history, Mao Zedong ranks second with 40 million deaths—mostly from government-caused famine. Only World War II surpasses it in absolute numbers.
 
 On December 26, the top trending topic on SMTH BBS was commemorating the 130th anniversary of the Chairman’s birth. I looked through the comments—a full 95% were positive. To quote one commenter: A butcher who ranks among history’s worst, yet people pay homage every day.
 
 Chinese lives are truly worthless. Hundreds of thousands, tens of millions dying meaninglessly doesn’t even cause a ripple. The culprit’s portrait still hangs proudly on the gate tower. How did it come to this?
-### **Why is China still a dynasty?**
+### Why is China still a dynasty?
 
 China today has a Confucian core, a Marxist-Leninist veneer, and a despotic soul. Dynasty—that’s the most accurate label for China’s current social structure.
 
 I’ve been reflecting these past days. I always call myself an anti-communist, but does opposing communism really strike at the heart of the matter? Is communism truly the culprit? Thinking it through carefully, I find it’s not so simple. So-called communism is just a banner, essentially no different from Hong Xiuquan’s God Worshipping Society. The CCP’s rise to power was essentially just another peasant uprising, and Mao Zedong was simply the most recent peasant rebellion leader.
-> 
 
 Today’s China is a dynasty just like the Han, Tang, Ming, and Qing. Key economic resources are completely monopolized by the government and authorized top-down. Supreme ruling power is selected internally by the CCP elite and inherited internally. This is identical to the feudal dynasty governance model—the only difference is that the Ming and Qing were ruled by one family, while today is ruled by over 500 families.[^2]
 
-### **Why is China’s underclass so wretched yet so stable?**
+### Why is China’s underclass so wretched yet so stable?
 
 Every now and then we see news about how wretched the lower classes are—so why don’t they rebel? This comes down to the urban-rural dual system, history’s most scientifically designed enslavement system.
 
 The urban-rural dual system is a complete social enslavement system, a caste system, and an economic exploitation system. But it’s also the foundation of Chinese social super-stability—arguably the best political enslavement system in history. Its hidden harm exceeds slavery, yet it exists in a form more civilized-looking than slavery.
-#### **1. The urban-rural dual system enables identity switching and class mobility for Chinese people, releasing peasants’ confrontational pressure against the regime**
+#### 1. The urban-rural dual system enables identity switching and class mobility for Chinese people, releasing peasants’ confrontational pressure against the regime
 
 Peasants receive some land and shoulder state labor duties and taxes, but enjoy no social security benefits or retirement. Meanwhile, peasants’ agricultural products are subject to state purchasing monopolies—they cannot sell independently or set prices. This completely strips peasants of economic agency, reducing them to appendages of the Chinese economy, making them the exploited class.
 
 But the system of converting agricultural to non-agricultural household registration (*nongzhuanfei*) is an extremely powerful institutional design. Through this nationwide system, the best talent among peasants is entirely siphoned off through identity conversion, allowing them to achieve class mobility—jumping from exploited peasant status to status that enjoys social security benefits. Thus, those among peasants with the greatest consciousness and capacity for resistance stand on the opposite side of the peasants through this conversion system, becoming part of the ruling base. The threat peasants pose to the regime is thereby eliminated.
-#### **2. The urban-rural dual system is itself a class mutual constraint system—urban residents naturally rule over rural residents**
+#### 2. The urban-rural dual system is itself a class mutual constraint system—urban residents naturally rule over rural residents
 
 In the basic design of resource distribution, urban residents get first priority, then peasants. This inequality in resource allocation directly creates a situation where Chinese urban residents are inherently one rung higher than peasants in political status, ideology, and social position. Beyond the government itself, there’s a powerful urban citizenry ensuring the stability of the peasant class—a critical factor in Chinese social super-stability.
 
 The urban-rural dual system first divides identity classes, while preserving channels for class identity conversion, and achieves class constraint and balance. Before state machinery intervenes in lower-class crises, the urban-rural dual system itself has already controlled the crisis between urban and rural areas and self-resolved it.
 
 The urban-rural dual system has become the ultimate code for Chinese social super-stability, and history’s most stable and scientific enslavement system.
-### **How many years does the Chinese Communist Party have left?**
+### How many years does the Chinese Communist Party have left?
 
 I see quite a few Chinese liberals fantasizing that the CCP will automatically collapse the moment the economy takes a hit. I think we can abandon this illusion:
-> 
 
 There’s no relationship between economic collapse and the fall of the Chinese government. Even if the economy collapses to the point of cannibalism, the Chinese government won’t fall. It might even gain higher support during such chaos and maintain effective rule for an extremely long time.[^3]
 
 Both the Great Famine of the 1960s and the three-year zero-COVID policy have repeatedly proven this point. And the West has no interest in helping China rebuild order. What the free world can do to help China is this: as a point of contrast, they can continue to remain prosperous.
-> 
 
 The super-stable structure of Chinese society and the loss of popular mobilization capacity determine the current governance model. Only when this organization’s self-functioning moves from weakening to attenuation to dissolution to collapse—this process is quite long, even 50 years is optimistic. If you don’t believe it, look at the fall of the Qing Aisin Gioro clan: from 1840 when foreign powers blasted open China’s gates to 1912 when the Xuantong Emperor voluntarily abdicated—over 60 years.[^2]
 
 I often think: if China were to reform, where would it begin? Thinking it through, it can only be education.
-> 
 
 Education bears the political mission of shaping every generation of Chinese people. Currently, education’s three domains—family, school, society—maintain complete consistency, fully extinguishing Chinese people’s spirit of resistance and skepticism according to political needs. If education could loosen up, that itself would reflect that other social factors had already changed first. And the seed of that change comes from the previous generation’s cultivation—without the previous generation’s actual change efforts through their own actions, the next generation will only repeat the previous generation’s footsteps.[^2]
 
 But look at the Maoist leftist tide permeating society—clearly the new era hasn’t even truly begun yet.
-### **Why is China still a barbaric country?**
+### Why is China still a barbaric country?
 
 My friend captioned Chosin with: “Our peace and security are absolutely built on blood.” But what I’m thinking is: Our peace and security depend entirely on certain people dying at the right time. First Mao Anying, then Mao Zedong himself, and now the person everyone’s collectively hoping for.
 
@@ -88,20 +85,20 @@ But just thinking this makes me despondent. Facing despots and tyrants, you’re
 There are only two kinds of human civilizational systems: those that have put power in a cage, and others. The former can be called civilized societies, and China clearly belongs to the barbaric camp.
 
 Many people think we’re more civilized and progressive than Qing Dynasty people. In reality, we differ from Qing people only in having a smartphone, while Qing people differ from us only in having a queue braid.
-> 
 
 In three thousand years of Chinese history, regime change has only two power sources: first, bloodline inheritance; second, violent creation. Beyond these, China has yet to develop a third—constitutional contract. Political civilization has been treading water for two thousand years. Chinese culture hasn’t broken through the interpersonal relationship framework Confucius defined two thousand years ago, the depth of humanistic thinking Laozi defined, or the three-layer heaven-ruler-people relationship Dong Zhongshu created.[^2]
 
-I felt this especially keenly when reading *The Brothers Karamazov*, because before that my favorite literary work was *Dream of the Red Chamber*. But look—thousands of years down the line, no progress. In Su Dongpo’s time they sang “letting life’s misty rain fall as it will,” and by Jia Baoyu’s era it still hasn’t escaped that same old dichotomy between worldly engagement and spiritual withdrawal. Compare Cao Xueqin with Dostoevsky a hundred years later—the depth and breadth of thought are worlds apart.
+I felt this especially keenly when reading *The Brothers Karamazov*, because before that my favorite literary work was * Dream of the Red Chamber*. But look—thousands of years down the line, no progress. In Su Dongpo’s time they sang “letting life’s misty rain fall as it will,” and by Jia Baoyu’s era it still hasn’t escaped that same old dichotomy between worldly engagement and spiritual withdrawal. Compare Cao Xueqin with Dostoevsky a hundred years later—the depth and breadth of thought are worlds apart.
 
 Civilized societies are held together by love and freedom; barbaric societies maintain themselves through hatred and fear. And civilized societies, though religious influence has now waned, originated from the spirit of Protestant Christianity. Whether the Magna Carta establishing protection of private rights, or constitutional government—all arose from Christian society.
 
 One could say that current Western constitutional democracy is the only system humanity has successfully tested for peaceful coexistence and universal human rights. Other civilizational systems have yet to develop similarly inclusive frameworks. Traditional hierarchical systems, whether Confucian or theocratic, were designed to maintain order within specific cultural contexts rather than to protect individual rights universally. If such systems were to replace constitutional democracy globally, it would represent a step backward for human freedom and dignity.
 
 So in this sense, Christmas’s significance is far beyond anything that narrow nationalism like Chosin Reservoir could ever touch, and far surpasses the depth of thought represented by any traditional Chinese festival.
+
 ---
 
-## **References**
+## References
 
 [^1]: Korean War Chronicles [@ihanzhan]. Twitter/X, December 2023.
 
