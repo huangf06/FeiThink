@@ -22,7 +22,13 @@
       "Bash(if [ ! -f \"$base.en.md\" ])",
       "Bash(then rm \"$f\")",
       "Bash(echo:*)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(do echo \"Searching for: $id\")",
+      "Bash(cat:*)",
+      "Bash(tail:*)",
+      "Bash(do echo \"\")",
+      "Bash(BACKUP_DIR=\"/mnt/e/FeiThink/content/posts_backup_20251010\")",
+      "Bash(ls:*)"
     ],
     "deny": [],
     "ask": []
