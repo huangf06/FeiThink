@@ -1,0 +1,560 @@
+/* =====================================
+   FeiThink Custom Blog Styles
+   Modern, Minimal, Beautiful Typography
+   ===================================== */
+
+/* 1. Typography Enhancement
+   ========================= */
+
+/* Import better fonts */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Base typography */
+:root {
+    --font-serif: 'Crimson Text', Georgia, serif;
+    --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --reading-width: 680px;
+    --content-gap: 2rem;
+}
+
+/* Body text styling */
+.post-content {
+    font-family: var(--font-serif);
+    font-size: 1.125rem;
+    line-height: 1.8;
+    color: #2c3e50;
+    letter-spacing: -0.003em;
+}
+
+/* Dark mode text */
+.dark .post-content {
+    color: #d1d5db;
+}
+
+/* Headings */
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4 {
+    font-family: var(--font-sans);
+    font-weight: 600;
+    line-height: 1.3;
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+    color: #1a202c;
+}
+
+.dark .post-content h1,
+.dark .post-content h2,
+.dark .post-content h3,
+.dark .post-content h4 {
+    color: #f7fafc;
+}
+
+.post-content h1 {
+    font-size: 2.25rem;
+    font-weight: 700;
+    margin-top: 4rem;
+}
+
+.post-content h2 {
+    font-size: 1.875rem;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 0.5rem;
+}
+
+.dark .post-content h2 {
+    border-bottom-color: #374151;
+}
+
+.post-content h3 {
+    font-size: 1.5rem;
+}
+
+.post-content h4 {
+    font-size: 1.25rem;
+}
+
+/* 2. Post Layout Enhancement
+   ========================== */
+
+/* Post title styling */
+.post-title {
+    font-family: var(--font-sans);
+    font-size: 2.5rem;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.dark .post-title {
+    background: linear-gradient(135deg, #a78bfa 0%, #ec4899 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* Post meta information */
+.post-meta {
+    font-family: var(--font-sans);
+    font-size: 0.9rem;
+    color: #718096;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 2px solid #e2e8f0;
+}
+
+.dark .post-meta {
+    color: #9ca3af;
+    border-bottom-color: #374151;
+}
+
+/* Reading time badge */
+.post-meta .reading-time {
+    background: #f7fafc;
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.85rem;
+}
+
+.dark .post-meta .reading-time {
+    background: #374151;
+}
+
+/* 3. Paragraph and Quote Styling
+   ============================== */
+
+/* Paragraphs */
+.post-content p {
+    margin-bottom: 1.75rem;
+    text-align: justify;
+    hyphens: auto;
+}
+
+/* First paragraph (lead) */
+.post-content > p:first-of-type {
+    font-size: 1.25rem;
+    line-height: 1.7;
+    font-weight: 400;
+    color: #4a5568;
+}
+
+.dark .post-content > p:first-of-type {
+    color: #cbd5e0;
+}
+
+/* Drop cap for first letter */
+.post-content > p:first-of-type::first-letter {
+    float: left;
+    font-family: var(--font-sans);
+    font-size: 4rem;
+    line-height: 3.5rem;
+    padding-right: 0.5rem;
+    margin-top: 0.125rem;
+    font-weight: 700;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* Blockquotes */
+.post-content blockquote {
+    margin: 2rem 0;
+    padding: 1.5rem 2rem;
+    background: linear-gradient(135deg, #667eea08 0%, #764ba208 100%);
+    border-left: 4px solid #667eea;
+    font-style: italic;
+    position: relative;
+}
+
+.dark .post-content blockquote {
+    background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
+    border-left-color: #a78bfa;
+}
+
+.post-content blockquote::before {
+    content: """;
+    font-size: 3rem;
+    position: absolute;
+    top: -0.5rem;
+    left: 1rem;
+    color: #667eea;
+    opacity: 0.3;
+    font-family: var(--font-serif);
+}
+
+/* 4. List Styling
+   =============== */
+
+.post-content ul,
+.post-content ol {
+    margin: 1.5rem 0;
+    padding-left: 2rem;
+}
+
+.post-content li {
+    margin-bottom: 0.75rem;
+    line-height: 1.8;
+}
+
+.post-content ul li::marker {
+    color: #667eea;
+}
+
+.post-content ol li::marker {
+    color: #667eea;
+    font-weight: 600;
+}
+
+/* 5. Link Styling
+   =============== */
+
+.post-content a {
+    color: #667eea;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: all 0.3s ease;
+    font-weight: 500;
+}
+
+.post-content a:hover {
+    border-bottom-color: #667eea;
+}
+
+.dark .post-content a {
+    color: #a78bfa;
+}
+
+.dark .post-content a:hover {
+    border-bottom-color: #a78bfa;
+}
+
+/* 6. Code Block Enhancement
+   ========================= */
+
+.post-content code {
+    font-family: 'JetBrains Mono', 'Fira Code', monospace;
+    font-size: 0.9em;
+    padding: 0.2em 0.4em;
+    background: #f7fafc;
+    border-radius: 4px;
+    color: #e53e3e;
+}
+
+.dark .post-content code {
+    background: #374151;
+    color: #f87171;
+}
+
+.post-content pre {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    background: #f7fafc;
+    border-radius: 8px;
+    overflow-x: auto;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.dark .post-content pre {
+    background: #1f2937;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+}
+
+.post-content pre code {
+    background: none;
+    color: inherit;
+    padding: 0;
+}
+
+/* 7. Table Styling
+   ================ */
+
+.post-content table {
+    width: 100%;
+    margin: 2rem 0;
+    border-collapse: collapse;
+    font-family: var(--font-sans);
+    font-size: 0.95rem;
+}
+
+.post-content th {
+    background: #f7fafc;
+    padding: 0.75rem 1rem;
+    text-align: left;
+    font-weight: 600;
+    border-bottom: 2px solid #667eea;
+}
+
+.dark .post-content th {
+    background: #374151;
+}
+
+.post-content td {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.dark .post-content td {
+    border-bottom-color: #4b5563;
+}
+
+/* 8. Image Enhancement
+   ==================== */
+
+.post-content img {
+    max-width: 100%;
+    height: auto;
+    margin: 2rem auto;
+    display: block;
+    border-radius: 8px;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+.post-content figure {
+    margin: 2rem 0;
+}
+
+.post-content figcaption {
+    text-align: center;
+    font-size: 0.9rem;
+    color: #718096;
+    margin-top: 1rem;
+    font-family: var(--font-sans);
+}
+
+.dark .post-content figcaption {
+    color: #9ca3af;
+}
+
+/* 9. Horizontal Rule
+   ================== */
+
+.post-content hr {
+    margin: 3rem auto;
+    width: 50%;
+    border: none;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #cbd5e0, transparent);
+}
+
+.dark .post-content hr {
+    background: linear-gradient(90deg, transparent, #4b5563, transparent);
+}
+
+/* 10. Tag Pills Enhancement
+    ======================== */
+
+.post-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 2rem;
+}
+
+.post-tags a {
+    padding: 0.375rem 0.875rem;
+    background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
+    border: 1px solid #667eea30;
+    border-radius: 9999px;
+    font-size: 0.875rem;
+    font-family: var(--font-sans);
+    font-weight: 500;
+    color: #667eea;
+    transition: all 0.3s ease;
+}
+
+.post-tags a:hover {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px -1px rgba(102, 126, 234, 0.3);
+}
+
+.dark .post-tags a {
+    background: linear-gradient(135deg, #667eea20 0%, #764ba220 100%);
+    border-color: #667eea50;
+    color: #a78bfa;
+}
+
+.dark .post-tags a:hover {
+    background: linear-gradient(135deg, #a78bfa 0%, #ec4899 100%);
+    color: white;
+}
+
+/* 11. TOC (Table of Contents) Enhancement
+    ======================================= */
+
+.toc {
+    background: #f7fafc;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    border: 1px solid #e2e8f0;
+}
+
+.dark .toc {
+    background: #1f2937;
+    border-color: #374151;
+}
+
+.toc .details summary {
+    font-family: var(--font-sans);
+    font-weight: 600;
+    cursor: pointer;
+    user-select: none;
+}
+
+.toc ul {
+    margin-top: 1rem;
+    list-style: none;
+    padding-left: 0;
+}
+
+.toc ul li {
+    margin-bottom: 0.5rem;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+.toc ul li::before {
+    content: "▸";
+    position: absolute;
+    left: 0.5rem;
+    color: #667eea;
+}
+
+/* 12. Archive Page Enhancement
+    ============================ */
+
+.archive-posts {
+    margin-top: 2rem;
+}
+
+.archive-year {
+    font-family: var(--font-sans);
+    font-size: 1.875rem;
+    font-weight: 700;
+    color: #667eea;
+    margin: 2rem 0 1rem;
+}
+
+.dark .archive-year {
+    color: #a78bfa;
+}
+
+.archive-month {
+    font-family: var(--font-sans);
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #4a5568;
+    margin: 1.5rem 0 1rem;
+    padding-left: 1rem;
+}
+
+.dark .archive-month {
+    color: #cbd5e0;
+}
+
+.archive-entry {
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 1rem;
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.archive-entry:hover {
+    background: #f7fafc;
+}
+
+.dark .archive-entry:hover {
+    background: #374151;
+}
+
+.archive-entry time {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.9rem;
+    color: #718096;
+    min-width: 100px;
+}
+
+.dark .archive-entry time {
+    color: #9ca3af;
+}
+
+/* 13. Responsive Design
+    ==================== */
+
+@media (max-width: 768px) {
+    .post-title {
+        font-size: 2rem;
+    }
+
+    .post-content {
+        font-size: 1.05rem;
+    }
+
+    .post-content > p:first-of-type {
+        font-size: 1.15rem;
+    }
+
+    .post-content > p:first-of-type::first-letter {
+        font-size: 3rem;
+        line-height: 2.75rem;
+    }
+
+    .post-content h1 {
+        font-size: 1.875rem;
+    }
+
+    .post-content h2 {
+        font-size: 1.5rem;
+    }
+
+    .post-content h3 {
+        font-size: 1.25rem;
+    }
+}
+
+/* 14. Smooth Scrolling
+    =================== */
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* 15. Selection Color
+    =================== */
+
+::selection {
+    background: #667eea25;
+    color: inherit;
+}
+
+::-moz-selection {
+    background: #667eea25;
+    color: inherit;
+}
+
+/* 16. Focus Styles
+    ================ */
+
+a:focus,
+button:focus {
+    outline: 2px solid #667eea;
+    outline-offset: 2px;
+}
+
+.dark a:focus,
+.dark button:focus {
+    outline-color: #a78bfa;
+}

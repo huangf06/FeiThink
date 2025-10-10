@@ -21,7 +21,8 @@
       "Bash(do base=\"$f%.zh.md\")",
       "Bash(if [ ! -f \"$base.en.md\" ])",
       "Bash(then rm \"$f\")",
-      "Bash(echo:*)"
+      "Bash(echo:*)",
+      "WebSearch"
     ],
     "deny": [],
     "ask": []
