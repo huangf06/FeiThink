@@ -87,8 +87,8 @@ Beyond that—take a higher view of your learning. Treat it as a project you man
 
 **Second: be clear about your goals.**Understand how class content and homework relate. Know your priorities. Homework and practice are tools to reinforce content. What really matters is understanding and mastering the material. Most of my workbooks were blank at graduation. So what? Those diligent kids who filled theirs? Still scored lower. When I ranked third, the school photographed me and asked for my motto. Someone submitted “Heaven rewards diligence.” I despised that phrase. Every problem should teach you something. Quality over quantity.
 
-Some people have read *War and Peace* and think it’s merely an adventure story. Others can read the ingredient list on chewing gum and unlock the secrets of the universe.
-
+> Some people have read *War and Peace* and think it's merely an adventure story. Others can read the ingredient list on chewing gum and unlock the secrets of the universe.
+>
 > —Lex Luthor
 
 So, my dear sister: Don’t worry too much. I believe in you. You’ve shown me what you’re capable of. These aren’t empty words. If they were, you know I’d tell you. The gaokao matters—it really does. But even if you mess up, you’ve still got plenty of options. Have fun!

@@ -123,8 +123,8 @@ If such a reason existed, it would eliminate freedom—humans would be no differ
 
 But precisely because there’s no practical reason for it, it also has no price tag.
 
-**What is raised above all price, and therefore admits of no equivalent, has a dignity.**
-
+> **What is raised above all price, and therefore admits of no equivalent, has a dignity.**
+>
 > —Immanuel Kant
 
 ---

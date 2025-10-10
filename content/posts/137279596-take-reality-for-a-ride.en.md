@@ -16,8 +16,8 @@ This world has no good or evil, only cause and effect.
 
 Coincidentally, the very next day I saw a line in *Rick and Morty* that meant exactly the same thing:
 
-Good and bad are artificial constructs.
-
+> Good and bad are artificial constructs.
+>
 > — Rick and Morty
 
 So-called good and evil are just human-made concepts.
@@ -50,8 +50,8 @@ Will. Imagination. Intellect. The limits of nature.
 ### **2. Take reality for a ride**
 
 
-When you know nothing matters, the universe is yours. Smart people get a chance to climb on top, take reality for a ride. But it’ll never stop trying to throw you. And eventually it will. There’s no way off.
-
+> When you know nothing matters, the universe is yours. Smart people get a chance to climb on top, take reality for a ride. But it'll never stop trying to throw you. And eventually it will. There's no way off.
+>
 > — Rick and Morty
 
 #### How do we leap onto the horse’s back?
@@ -72,8 +72,8 @@ The world has treacherous peaks. Only those with iron resolve can reach them.
 ![](https://substack-post-media.s3.amazonaws.com/public/images/327578c7-630b-47e0-a159-fdbffdc5c514_1024x640.jpeg)](https://substackcdn.com/image/fetch/$s_!r8Ft!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F327578c7-630b-47e0-a159-fdbffdc5c514_1024x640.jpeg)
 
 
-Take off. Put a saddle on your universe. Let it kick itself out.
-
+> Take off. Put a saddle on your universe. Let it kick itself out.
+>
 > — Rick and Morty, S3E09
 
 ---

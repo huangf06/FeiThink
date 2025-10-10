@@ -43,8 +43,8 @@ Morality is ultimately not void. Regardless of what it’s rooted in, while it i
 
 What’s frustrating is that while I believe in the existence of objective moral absolute truth, I can’t articulate what it is at all, always doubting what to stand for. Meanwhile, those who verbally deny these things have bodies more honest than their mouths—each one certain and categorical. The contradiction here is: if there’s no absolute truth in the world, what gives you the right to advocate or insist on anything? Your position against absolute truth itself has nothing absolute about it. I understand many people oppose this from a stance of freedom, as if someone even thinking about these universal questions is trying to set rules for others, an offense to their free will. But isn’t the order implied by this idea that everyone is free and equal itself an absolute truth? This is the second-order abstraction of moral questions, what Kant explores in the metaphysics of morals.
 
-I must honestly admit that I am utterly incapable of solving such complex problems. My mind is a Euclidean, earthly mind, so how can I solve problems that are not of this world?
-
+> I must honestly admit that I am utterly incapable of solving such complex problems. My mind is a Euclidean, earthly mind, so how can I solve problems that are not of this world?
+>
 > —Ivan Karamazov
 
 Let’s leave these ultimate answers to those who are capable, though I’m skeptically doubtful they can be solved.
@@ -57,8 +57,8 @@ Dostoevsky said Ivan is profound—not like contemporary atheists whose lack of 
 
 Ivan’s heart isn’t the tranquility and liberation of unbelief; rather, behind rational disbelief, there’s always an interrogation of doubt about that disbelief.
 
-Though I cannot see the sun, I still know there is a sun. And isn’t knowing there is a sun the entire meaning of life?
-
+> Though I cannot see the sun, I still know there is a sun. And isn't knowing there is a sun the entire meaning of life?
+>
 > —Dmitri Karamazov
 
 ---
@@ -79,12 +79,12 @@ This is why I say the intellectual gap between *Dream of the Red Chamber* and * 
 
 My recent hobby is downloading academic papers from CNKI after finishing a book. Douban reviews always seem shallow; it’s more interesting to read analyses people spent years developing. Of course, quality varies—I’ve read some analyses of *The Brothers Karamazov* where master’s theses cobbled together by twenty-something young women are simply unreadable, just piling up flowery language without understanding the deeper meaning. I can’t get through even a little bit.
 
-However, one paper, “Dostoevsky’s Christian Thought Through ‘The Grand Inquisitor,’” contains some lines that resonate with me. I excerpt them here for remembrance of things forgotten:
+However, one paper, "Dostoevsky's Christian Thought Through 'The Grand Inquisitor,'" contains some lines that resonate with me. I excerpt them here for remembrance of things forgotten:
 
-Where there is guardianship over people, hypocritical concern for their happiness and enjoyment, while simultaneously despising them, not believing in their noble origin and noble mission—there lies the spirit of the Grand Inquisitor.
-
-Where happiness is valued over freedom, the temporary placed above the eternal, loving humanity used to oppose loving God—there lies the spirit of the Grand Inquisitor.
-
-Where it’s emphasized that truth is useless for human happiness, that life can be arranged without understanding life’s meaning—there it lies.
+> Where there is guardianship over people, hypocritical concern for their happiness and enjoyment, while simultaneously despising them, not believing in their noble origin and noble mission—there lies the spirit of the Grand Inquisitor.
+>
+> Where happiness is valued over freedom, the temporary placed above the eternal, loving humanity used to oppose loving God—there lies the spirit of the Grand Inquisitor.
+>
+> Where it's emphasized that truth is useless for human happiness, that life can be arranged without understanding life's meaning—there it lies.
 
 ---
