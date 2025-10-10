@@ -9,7 +9,7 @@ tags: [book-review, philosophy, critical-thinking]
 
 I’ve been reading Taleb’s *Skin in the Game* these past few days. The book primarily explores the concept of asymmetric risk—the central idea being that if there’s any chance of total ruin, you shouldn’t touch it no matter how great the potential gains. Repeatedly exposing yourself to risk, however small the probability, will eventually destroy you.
 
-But what truly lingers with me is his moral insight and call to action: **Be entrepreneurs.**Courage is the highest virtue, and the essence of courage is taking on risk—sacrificing your own well-being for the sake of something greater than yourself. This suddenly connected a whole series of scattered thoughts I’d been having lately.
+But what truly lingers with me is his moral insight and call to action: **Be entrepreneurs.** Courage is the highest virtue, and the essence of courage is taking on risk—sacrificing your own well-being for the sake of something greater than yourself. This suddenly connected a whole series of scattered thoughts I’d been having lately.
 
 ---
 
