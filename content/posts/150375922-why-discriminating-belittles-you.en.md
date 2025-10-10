@@ -4,7 +4,6 @@ date: 2024-10-18
 tags: [moral-philosophy, critical-thinking]
 ---
 
-# Why Discriminating Belittles You
 
 
 The ones who unjustly scorn others are ofttimes lesser than those they scorn.

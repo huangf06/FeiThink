@@ -4,7 +4,6 @@ date: 2020-05-11
 tags: [education, life-philosophy]
 ---
 
-# On Liberal Education and Free Will
 
 
 今天在水木上看到一篇文章《农村孩子上大学，比学专业更重要的，是提升思维和境界》。  

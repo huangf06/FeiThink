@@ -4,7 +4,6 @@ date: 2019-11-05
 tags: [philosophy, personal-essay]
 ---
 
-# Take Reality for a Ride
 
 
 ### **1. Good and bad are artificial constructs**
@@ -78,4 +77,4 @@ The world has treacherous peaks. Only those with iron resolve can reach them.
 
 ---
 
-### ****1. Good and bad are artificial constructs.**遂舍善恶之心**
+### ** **1. Good and bad are artificial constructs.**遂舍善恶之心**

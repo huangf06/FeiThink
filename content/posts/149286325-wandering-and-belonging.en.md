@@ -4,7 +4,6 @@ date: 2024-09-23
 tags: [personal-essay, life-philosophy]
 ---
 
-# Wandering and Belonging
 
 
 ### **The Longchang Enlightenment**

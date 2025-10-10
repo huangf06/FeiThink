@@ -4,7 +4,6 @@ date: 2024-09-23
 tags: [psychology, life-philosophy]
 ---
 
-# How to Take Care of Your Emotions
 
 
 A few days ago, I stumbled upon an old article I had written, "*Rereading Shen Pangpang*," and felt as if an arrow from the past had struck me. One sentence in particular stood out: 

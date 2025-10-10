@@ -4,7 +4,6 @@ date: 2023-07-01
 tags: [philosophy, moral-philosophy, kant]
 ---
 
-# Groundwork of the Metaphysics of Morals (I)
 
 
 以前虽说不相信共产党，但还相信国家民族；

@@ -4,7 +4,6 @@ date: 2024-02-16
 tags: [film-review, history]
 ---
 
-# Reflections on 12.12: The Day
 
 
 前天看了《首尔之春》，不是专业电影评论员，就聊聊自己观感。

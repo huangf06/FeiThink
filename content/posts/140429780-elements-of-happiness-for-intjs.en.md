@@ -4,7 +4,6 @@ date: 2024-01-06
 tags: [psychology, life-philosophy]
 ---
 
-# Elements of Happiness for INTJs
 
 
 I feel like I'm living too heavily. Even drinking with a Romanian friend before Christmas, I found myself deep in conversation about Chinese society and politics. This sudden realization startled me.

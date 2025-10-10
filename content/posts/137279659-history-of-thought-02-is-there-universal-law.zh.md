@@ -4,7 +4,6 @@ date: 2021-01-13
 tags: [philosophy, history-of-philosophy]
 ---
 
-# History of Thought [02]: Is There Universal Law?
 
 
 **(一)智者派**

@@ -4,7 +4,6 @@ date: 2020-02-10
 tags: [personal-essay]
 ---
 
-# Memories of College Life: On Pain and Healing
 
 
 最近清理朋友圈，又触碰到大学时代留下的伤疤。  

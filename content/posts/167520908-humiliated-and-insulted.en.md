@@ -4,7 +4,6 @@ date: 2025-05-03
 tags: [book-review, literature, moral-philosophy]
 ---
 
-# Humiliated and Insulted
 
 
 When watching Kurosawa’s films, I’ve always sensed something—this is Dostoevsky’s thought.
@@ -57,12 +56,12 @@ Conversely, when the book says “There are many, many good people in the world.
 
 But though the villains are villainous, the author spends more ink criticizing the father who won’t forgive his eloped daughter—who clearly loves her deeply yet, out of wounded pride, hardens his heart to disown and even curse her.
 
-So when the old father finally sees the light through the orphan Nelly’s tragic plight and chooses to forgive his daughter, his heartfelt hymn to love is especially moving:
+So when the old father finally sees the light through the orphan Nelly's tragic plight and chooses to forgive his daughter, his heartfelt hymn to love is especially moving:
 
-Oh, I thank You, God, I thank You for everything, everything, for Your wrath and for Your mercy! And for the sun that shines on us again after the storm has passed!
-
-For this priceless moment, I thank You! Oh! Though we are the insulted, though we are the injured, we are together again, so let those arrogant and mighty ones, let those who have insulted and injured us now triumph! Let them throw stones at us!
-
-Don’t be afraid, Natasha... We’ll go out hand in hand, and I’ll say to them: This is my beloved daughter, this is my precious one, this is my innocent daughter whom you have insulted and injured, but I love her and will bless her forever!
+> Oh, I thank You, God, I thank You for everything, everything, for Your wrath and for Your mercy! And for the sun that shines on us again after the storm has passed!
+>
+> For this priceless moment, I thank You! Oh! Though we are the insulted, though we are the injured, we are together again, so let those arrogant and mighty ones, let those who have insulted and injured us now triumph! Let them throw stones at us!
+>
+> Don't be afraid, Natasha... We'll go out hand in hand, and I'll say to them: This is my beloved daughter, this is my precious one, this is my innocent daughter whom you have insulted and injured, but I love her and will bless her forever!
 
 ---

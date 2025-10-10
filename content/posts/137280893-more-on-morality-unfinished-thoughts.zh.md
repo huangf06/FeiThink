@@ -4,7 +4,6 @@ date: 2022-03-22
 tags: [moral-philosophy, critical-thinking]
 ---
 
-# More on Morality: Unfinished Thoughts
 
 
 为什么我饭都吃不饱竟然还有心思大谈道德？

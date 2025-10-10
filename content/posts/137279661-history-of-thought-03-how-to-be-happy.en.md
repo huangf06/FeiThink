@@ -4,7 +4,6 @@ date: 2021-01-17
 tags: [philosophy, history-of-philosophy, life-philosophy]
 ---
 
-# History of Thought [03]: How to Be Happy
 
 
 This one feels the most relevant to our lives right now.

@@ -4,7 +4,6 @@ date: 2023-10-01
 tags: [book-review, philosophy, aesthetics]
 ---
 
-# Vagabond and the Sublime
 
 
 初到荷兰，有那么一瞬间，恍惚失去了方向。

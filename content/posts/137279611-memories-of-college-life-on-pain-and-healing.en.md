@@ -4,7 +4,6 @@ date: 2020-02-10
 tags: [personal-essay]
 ---
 
-# Memories of College Life: On Pain and Healing
 
 
 # **Memories of College Life: On Pain and Healing**

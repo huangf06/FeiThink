@@ -4,7 +4,6 @@ date: 2019-06-12
 tags: [personal-essay]
 ---
 
-# Rereading Shen Pangpang
 
 
 Shen Pangpang’s articles are evergreen—each reading brings fresh insights. Below I quote and annotate to share them with you.

@@ -4,7 +4,6 @@ date: 2021-03-10
 tags: [book-review, personal-essay]
 ---
 
-# Reading On Writing Well
 
 
 I love writing. Writing makes me feel free.
@@ -31,7 +30,7 @@ But how do you truly free yourself from redundancy? How do you eliminate all fil
 Someone with muddled thoughts can’t possibly write well.
 ### **2. How to write?**
 
-**Writing is an act of self.****Write about yourself, and what you write will naturally attract readers.****Believe in your identity, believe in your perspectives.****Harness the power of the self.**
+**Writing is an act of self.** **Write about yourself, and what you write will naturally attract readers.** **Believe in your identity, believe in your perspectives.** **Harness the power of the self.**
 
 Readers can tell when you’re putting on an act.
 
@@ -52,8 +51,8 @@ We’re prisoners of our own cognition and others’ judgments. For a highly sen
 
 But ultimately, fuck them all.
 
-It is the courage to continue that counts. There is no final victory, no fatal defeat— What’s most precious is the courage to keep moving forward.
-
-Churchill
+> It is the courage to continue that counts. There is no final victory, no fatal defeat— What's most precious is the courage to keep moving forward.
+>
+> —Churchill
 
 ---

@@ -4,7 +4,6 @@ date: 2019-11-05
 tags: [philosophy, personal-essay]
 ---
 
-# Take Reality for a Ride
 
 
 我在Mark婚礼上出口伤了人。其后我反复琢磨整件事，想要想出一个普适性的行为规范。最后不知怎么个脑回路蹦出了下面这么一句：
@@ -96,7 +95,7 @@ Rick and Morty
 ……
 
 世有险峻，非心性坚忍者不能至。
-### **3. W**ho am I? What do I do?****
+### **3. W**ho am I? What do I do?** **
 
 
 Take off.

@@ -4,7 +4,6 @@ date: 2019-10-14
 tags: [education, life-philosophy]
 ---
 
-# To High School Students: Written to my sister
 
 
 我妹最近因为学习压力陷于某种情绪困境不能自拔，向我求助。   

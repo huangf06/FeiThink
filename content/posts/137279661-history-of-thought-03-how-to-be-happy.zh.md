@@ -4,7 +4,6 @@ date: 2021-01-17
 tags: [philosophy, history-of-philosophy, life-philosophy]
 ---
 
-# History of Thought [03]: How to Be Happy
 
 
 这一节我觉得是目前最有现实意义的。

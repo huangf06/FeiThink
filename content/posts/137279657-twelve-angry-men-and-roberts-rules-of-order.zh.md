@@ -4,7 +4,6 @@ date: 2020-10-05
 tags: [book-review, critical-thinking, political-philosophy]
 ---
 
-# Twelve Angry Men and Robert's Rules of Order
 
 
 ### **罗伯特议事规则**

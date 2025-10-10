@@ -4,7 +4,6 @@ date: 2024-12-22
 tags: [book-review, literature]
 ---
 
-# Starting from One Hundred Years of Solitude
 
 
 最近奈飞的新剧《百年孤独》上线，借此又重温了这本书。

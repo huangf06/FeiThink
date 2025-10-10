@@ -4,7 +4,6 @@ date: 2019-10-14
 tags: [education, life-philosophy]
 ---
 
-# To High School Students: Written to my sister
 
 
 My younger sister recently came to me for help. Academic pressure has left her trapped in an emotional spiral she can’t escape. I talked with her for ages, but I still feel pretty helpless about it. At the end of the day, no one can truly walk in another person’s shoes. I’ve been racking my brain trying to remember my own high school years, hoping to find something that might help her—or at least give her some perspective.

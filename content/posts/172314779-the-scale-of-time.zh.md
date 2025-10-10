@@ -4,7 +4,6 @@ date: 2025-08-30
 tags: [personal-essay, life-philosophy]
 ---
 
-# The Scale of Time
 
 
 # **时间的刻度**

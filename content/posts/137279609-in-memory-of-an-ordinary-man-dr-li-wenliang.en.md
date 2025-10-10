@@ -4,7 +4,6 @@ date: 2020-02-09
 tags: [social-commentary, political-philosophy]
 ---
 
-# In Memory of an Ordinary Man: Dr. Li Wenliang
 
 
 Even as grief and rage flood social media, everyone knows things won’t change quickly.

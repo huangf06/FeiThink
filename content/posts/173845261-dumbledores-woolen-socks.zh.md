@@ -4,7 +4,6 @@ date: 2025-09-10
 tags: [personal-essay, existentialism, life-philosophy]
 ---
 
-# Dumbledore's Woolen Socks
 
 
 每每想起邓布利多的羊毛袜。

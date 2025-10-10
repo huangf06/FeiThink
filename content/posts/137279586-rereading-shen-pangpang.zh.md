@@ -4,7 +4,6 @@ date: 2019-06-12
 tags: [personal-essay]
 ---
 
-# Rereading Shen Pangpang
 
 
 神胖胖的文章，常读常新，下面引用注解以分享之。

@@ -4,7 +4,6 @@ date: 2025-06-05
 tags: [book-review, literature, philosophy, moral-philosophy]
 ---
 
-# Rereading The Brothers Karamazov
 
 
 I recently listened to *The Brothers Karamazov* as an audiobook. Back in the day (during the Zhengzhou floods), it took me months to finish reading it; this time I got through it in just a few days.

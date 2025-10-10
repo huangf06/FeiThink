@@ -4,7 +4,6 @@ date: 2024-03-29
 tags: [psychology, philosophy, life-philosophy]
 ---
 
-# Essence of Existential Psychotherapy
 
 
 一本存在主义哲学的导读，解答了所有最近在我脑子里盘桓不去的问题。

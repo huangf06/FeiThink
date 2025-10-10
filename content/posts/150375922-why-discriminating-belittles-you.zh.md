@@ -4,7 +4,6 @@ date: 2024-10-18
 tags: [moral-philosophy, critical-thinking]
 ---
 
-# Why Discriminating Belittles You
 
 
 无端歧视别人的人比被他们歧视的人更加渺小。

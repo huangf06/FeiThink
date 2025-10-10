@@ -4,7 +4,6 @@ date: 2024-01-06
 tags: [psychology, life-philosophy]
 ---
 
-# Elements of Happiness for INTJs
 
 
 感觉我活得太沉重了。就连在圣诞前和罗马尼亚的朋友一起喝酒的档口，我还在大谈中国的社会和政治。这让我蓦然惊觉。

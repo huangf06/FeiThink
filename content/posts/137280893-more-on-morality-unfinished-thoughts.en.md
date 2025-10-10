@@ -4,7 +4,6 @@ date: 2022-03-22
 tags: [moral-philosophy, critical-thinking]
 ---
 
-# More on Morality: Unfinished Thoughts
 
 
 Why am I obsessing over morality when I can barely feed myself?

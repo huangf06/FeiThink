@@ -4,7 +4,6 @@ date: 2024-12-22
 tags: [book-review, literature]
 ---
 
-# Starting from One Hundred Years of Solitude
 
 
 Netflix’s new adaptation of *One Hundred Years of Solitude* recently launched, giving me a chance to revisit this book.

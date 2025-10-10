@@ -4,7 +4,6 @@ date: 2019-12-10
 tags: [personal-essay, life-philosophy]
 ---
 
-# Things I Want to Do
 
 
 上篇动力系统的文里提到了一件我想做的事。  

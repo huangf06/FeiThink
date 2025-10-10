@@ -4,7 +4,6 @@ date: 2025-01-17
 tags: [philosophy, existentialism, life-philosophy]
 ---
 
-# Subjectivity: How to Become the Protagonist of Your Own Life
 
 
 Ever since I firmly grasped self-centeredness in my own hands, I have become stronger than before, possessing the spirit of “what do they matter to me?”... My anxiety has completely disappeared, and I can now survey gloomy London with a relaxed heart.  

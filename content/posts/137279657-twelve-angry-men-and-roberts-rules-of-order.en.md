@@ -4,7 +4,6 @@ date: 2020-10-05
 tags: [book-review, critical-thinking, political-philosophy]
 ---
 
-# Twelve Angry Men and Robert's Rules of Order
 
 
 ### **Robert’s Rules of Order**
@@ -17,7 +16,7 @@ In essence, Robert’s Rules is an art of defining the boundaries between the co
 
 ---
 
-### **Reflections on *****Twelve Angry Men***
+### **Reflections on ** ***Twelve Angry Men***
 
 Once I understood the basic principles, the question became: how do you actually put this into practice? I have to say, there’s precious little to go on. Partly this reflects the failures of our education—no one ever teaches you how to organize and work with others as equals in a self-governing way. But it’s also the cultural conditioning of everyday life: rigid hierarchies everywhere you turn. People are conditioned to be led, to wait passively for instructions, or else to become lone wolves who’d rather go it alone than waste breath on collaboration.
 

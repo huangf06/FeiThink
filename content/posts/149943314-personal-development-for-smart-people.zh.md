@@ -4,7 +4,6 @@ date: 2024-10-07
 tags: [book-review, life-philosophy]
 ---
 
-# Personal Development for Smart People
 
 
 最近看了一本比较难评的书，就是标题——《聪明人的个人成长》。

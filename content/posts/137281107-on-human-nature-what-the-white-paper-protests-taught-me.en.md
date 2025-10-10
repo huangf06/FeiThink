@@ -4,7 +4,6 @@ date: 2022-12-02
 tags: [social-commentary, political-philosophy, moral-philosophy]
 ---
 
-# On Human Nature: What the White Paper Protests Taught Me
 
 
 **I. Human Nature**

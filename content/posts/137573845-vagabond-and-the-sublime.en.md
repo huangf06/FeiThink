@@ -4,7 +4,6 @@ date: 2023-10-01
 tags: [book-review, philosophy, aesthetics]
 ---
 
-# Vagabond and the Sublime
 
 
 Upon arriving in the Netherlands, there was a moment when I felt disoriented.

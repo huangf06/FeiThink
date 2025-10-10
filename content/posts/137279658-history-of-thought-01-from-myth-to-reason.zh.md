@@ -4,7 +4,6 @@ date: 2020-12-25
 tags: [philosophy, history-of-philosophy]
 ---
 
-# History of Thought [01]: From Myth to Reason
 
 
 虽然日常大议恫人，但是正经书读得少。我对哲学不过文盲水准。  

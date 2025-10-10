@@ -4,7 +4,6 @@ date: 2023-05-02
 tags: [moral-philosophy, life-philosophy]
 ---
 
-# On Being a Person of Integrity
 
 
 真是让人羞愧。

@@ -4,7 +4,6 @@ date: 2020-02-09
 tags: [social-commentary, political-philosophy]
 ---
 
-# In Memory of an Ordinary Man: Dr. Li Wenliang
 
 
 即便悲愤在朋友圈弥漫，谁都知道事情也不会很快有转机。  

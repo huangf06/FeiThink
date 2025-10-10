@@ -4,7 +4,6 @@ date: 2024-03-29
 tags: [psychology, philosophy, life-philosophy]
 ---
 
-# Essence of Existential Psychotherapy
 
 
 An introduction to existential philosophy that answers all the questions that have been lingering in my mind recently.

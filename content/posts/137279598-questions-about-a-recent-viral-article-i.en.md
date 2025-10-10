@@ -4,7 +4,6 @@ date: 2019-11-16
 tags: [social-commentary, critical-thinking, political-philosophy]
 ---
 
-# Questions About a Recent Viral Article (I)
 
 
 Lately I’ve seen far too much nonsense—stuff that shouldn’t fool anyone—hoodwink far too many people, including those who are highly intelligent, well-educated, and experienced in practical affairs.

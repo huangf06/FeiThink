@@ -4,7 +4,6 @@ date: 2023-07-01
 tags: [philosophy, moral-philosophy, kant]
 ---
 
-# Groundwork of the Metaphysics of Morals (I)
 
 
 I used to distrust the Communist Party, but still believed in the nation and its people; Later I lost faith in the nation too, but at least still believed in humanity; Eventually I lost faith in humanity as well.

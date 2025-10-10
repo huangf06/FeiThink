@@ -4,7 +4,6 @@ date: 2024-09-23
 tags: [psychology, life-philosophy]
 ---
 
-# How to Take Care of Your Emotions
 
 
 前两天翻看从前写的文章《重读神胖胖》，突然感觉被来自过去的一箭射中了。尤其是看到下面这句时：「当你交上几个欣赏你的好朋友以后，看饭桌上你是不是突然变得活跃、跟你之前害羞、内向的性格相比好像变了一个人一样？」

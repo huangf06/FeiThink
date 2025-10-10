@@ -4,7 +4,6 @@ date: 2025-06-05
 tags: [book-review, literature, philosophy, moral-philosophy]
 ---
 
-# Rereading The Brothers Karamazov
 
 
 最近把《卡拉马佐夫兄弟》的书听了一遍。想当年（郑州大水那段时间），花了几个月才看完，这几天就听完了。

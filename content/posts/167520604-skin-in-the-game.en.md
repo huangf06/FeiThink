@@ -4,7 +4,6 @@ date: 2025-04-07
 tags: [book-review, philosophy, critical-thinking]
 ---
 
-# Skin in the Game
 
 
 I’ve been reading Taleb’s *Skin in the Game* these past few days. The book primarily explores the concept of asymmetric risk—the central idea being that if there’s any chance of total ruin, you shouldn’t touch it no matter how great the potential gains. Repeatedly exposing yourself to risk, however small the probability, will eventually destroy you.

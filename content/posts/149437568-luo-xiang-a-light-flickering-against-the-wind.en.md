@@ -4,7 +4,6 @@ date: 2024-09-26
 tags: [social-commentary, moral-philosophy]
 ---
 
-# Luo Xiang: A Light Flickering Against the Wind
 
 
 Last night I watched the episode of *Thirteen Invitations* where Xu Zhiyuan interviewed Luo Xiang on YouTube. I’d stumbled across someone on Twitter claiming that Luo’s intellectual depth in this episode was ten times greater than Xu’s, so I was curious to see what they meant by “greater.” Whether it’s ten times or not is hard to say, but watching it, the gap was indeed striking. Especially when Xu brought up the term “pan-moralization”—at that moment, I felt deep sympathy for Professor Luo. It was as if he were conversing with someone illiterate in moral philosophy. The so-called “pan-moralization” in China isn’t the proliferation of morality, but the proliferation of pseudo-morality. What true morality actually is rarely gets discussed publicly—it’s not allowed to be discussed. The moment Xu uttered this term, his lack of learning was exposed; his understanding remains at the most superficial level of the ordinary person. That’s why Luo paused for a moment before patiently explaining the basic concepts.

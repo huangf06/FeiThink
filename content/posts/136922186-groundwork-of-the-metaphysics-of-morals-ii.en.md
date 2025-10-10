@@ -4,7 +4,6 @@ date: 2023-08-01
 tags: [philosophy, moral-philosophy, kant]
 ---
 
-# Groundwork of the Metaphysics of Morals (II)
 
 
 I have a bold claim:

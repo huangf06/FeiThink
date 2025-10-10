@@ -4,7 +4,6 @@ date: 2019-11-19
 tags: [social-commentary, critical-thinking, political-philosophy]
 ---
 
-# Questions About Recent Viral Articles (II)
 
 
 ### **I. On How to Properly Rebut Arguments**

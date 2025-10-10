@@ -4,7 +4,6 @@ date: 2024-10-07
 tags: [book-review, life-philosophy]
 ---
 
-# Personal Development for Smart People
 
 
 I recently read a book that’s hard to evaluate—*Personal Development for Smart People* by Steve Pavlina.

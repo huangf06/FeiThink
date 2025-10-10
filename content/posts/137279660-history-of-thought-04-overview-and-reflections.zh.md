@@ -4,7 +4,6 @@ date: 2021-04-07
 tags: [philosophy, history-of-philosophy]
 ---
 
-# History of Thought [04]: Overview and Reflections
 
 
 ### **1. 关于确定性知识的追求**

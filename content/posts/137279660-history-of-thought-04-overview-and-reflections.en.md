@@ -4,7 +4,6 @@ date: 2021-04-07
 tags: [philosophy, history-of-philosophy]
 ---
 
-# History of Thought [04]: Overview and Reflections
 
 
 Over Spring Festival I finished Skirbekk’s history of philosophy. After this survey, I’ve found many problems have threads running back through the history of thought. Even when these thinkers can’t give direct answers, they provide categories and tools for thinking.

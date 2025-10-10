@@ -4,7 +4,6 @@ date: 2022-03-11
 tags: [moral-philosophy, critical-thinking]
 ---
 
-# What Is Morality?
 
 
 一、**什么是道德？**

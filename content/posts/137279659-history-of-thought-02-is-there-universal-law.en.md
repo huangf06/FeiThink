@@ -4,7 +4,6 @@ date: 2021-01-13
 tags: [philosophy, history-of-philosophy]
 ---
 
-# History of Thought [02]: Is There Universal Law?
 
 
 The first period of philosophy concerned nature and the cosmos. The second period turned to knowledge itself, and to ethics and politics.
@@ -13,7 +12,7 @@ After a hundred and fifty years of debate yielding various contradictory yet rea
 
 All of this led the Greeks to ask two questions:
 
-**1. Can humans truly acquire certain knowledge?****2. Is there a universally valid moral and political ideal—something that holds true everywhere?**
+**1. Can humans truly acquire certain knowledge?** **2. Is there a universally valid moral and political ideal—something that holds true everywhere?**
 
 These two questions are connected: if people cannot obtain certain knowledge, if those holding completely different views are all equally correct, then on what grounds can we demand that others follow our ways, that people with different customs obey our laws?
 
@@ -81,7 +80,7 @@ Plato wanted to transcend existing order to pursue ideal order; Aristotle sought
 
 What particularly strikes me is Aristotle’s conclusion after he and his students collected material on 158 Greek city-states, classified and extensively discussed them:
 
-**Limited democracy is the best polity we can hope for.****The state should be governed by law, democratic in quantity, aristocratic in quality.****Politics based on law ensures everyone is free and many have a voice.****Neither the rich nor the poor, but the middle class, has the greatest strength.****Government members numerous enough to cover public opinion, yet few enough to ensure political transparency.****This polity achieves the best balance between public opinion and wise governance.****More importantly, this is the most feasible polity.**
+**Limited democracy is the best polity we can hope for.** **The state should be governed by law, democratic in quantity, aristocratic in quality.** **Politics based on law ensures everyone is free and many have a voice.** **Neither the rich nor the poor, but the middle class, has the greatest strength.** **Government members numerous enough to cover public opinion, yet few enough to ensure political transparency.** **This polity achieves the best balance between public opinion and wise governance.** **More importantly, this is the most feasible polity.**
 
 I’m amazed—because two thousand years later, the world hasn’t surpassed Aristotle’s conclusions. America, Britain, Germany, Japan—every effective, well-functioning government in the world embodies principles from Aristotle’s vision. As of now, I’m with Aristotle.
 

@@ -4,7 +4,6 @@ date: 2024-02-16
 tags: [film-review, history]
 ---
 
-# Reflections on 12.12: The Day
 
 
 I watched *12.12: The Day*(Seoul Spring) the day before yesterday. I’m not a professional film critic, so I’ll just share my impressions.

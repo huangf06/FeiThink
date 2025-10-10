@@ -4,7 +4,6 @@ date: 2025-05-03
 tags: [book-review, literature, moral-philosophy]
 ---
 
-# Humiliated and Insulted
 
 
 原来我在看黑泽明电影的时候，就有种感觉，这是陀斯妥耶夫斯基的思想。

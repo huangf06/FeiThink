@@ -4,7 +4,6 @@ date: 2019-12-10
 tags: [personal-essay, life-philosophy]
 ---
 
-# Things I Want to Do
 
 
 In my previous article on motivation systems, I mentioned something I want to do. Now let me indulge in the wildest fantasies and count the things we want to do. This is purely whistling in the dark to bolster our courage.

@@ -4,7 +4,6 @@ date: 2020-12-25
 tags: [philosophy, history-of-philosophy]
 ---
 
-# History of Thought [01]: From Myth to Reason
 
 
 Although I often sound opinionated in daily conversations, I haven’t actually read many serious books. My knowledge of philosophy is, frankly, at the level of an illiterate. Over the past six months, I’ve participated in quite a few reading groups and worked through some philosophy books. To my surprise, many of the ideas matched thoughts I’d had on my own through random speculation. I suddenly felt a bit tricked—maybe all those pretentious types who make philosophy sound impenetrable had been fooling me. If a philosophy book is translated in a way that makes it unreadable, that means it’s mistranslated. Someone said this recently, and I couldn’t agree more. This is what philosophy—or thought itself—is really about.

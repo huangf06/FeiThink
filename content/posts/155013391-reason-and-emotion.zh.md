@@ -4,7 +4,6 @@ date: 2025-01-17
 tags: [philosophy, psychology]
 ---
 
-# Reason and Emotion
 
 
 长久以来，我都轻视情感，偏重理智。

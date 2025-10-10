@@ -4,7 +4,6 @@ date: 2025-01-17
 tags: [philosophy, psychology]
 ---
 
-# Reason and Emotion
 
 
 For the longest time, I’ve dismissed emotion and elevated reason.
@@ -97,8 +96,8 @@ What exactly is this higher thing? I can’t yet articulate it clearly, only som
 
 **References**
 
-**1. Dostoevsky, *****Crime and Punishment***
+**1. Dostoevsky, ** ***Crime and Punishment***
 
-**2. Dostoevsky, *****Notes from Underground***
+**2. Dostoevsky, ** ***Notes from Underground***
 
 ---

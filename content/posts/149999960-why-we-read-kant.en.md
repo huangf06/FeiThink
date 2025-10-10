@@ -4,7 +4,6 @@ date: 2024-10-09
 tags: [philosophy, kant, education]
 ---
 
-# Why We Read Kant
 
 
 Kant stands as the most profound thinker I have ever encountered. His Groundwork of the Metaphysics of Morals had a deep impact on my moral framework, guiding me to organize my scattered thoughts into a systematic approach to ethical questions.

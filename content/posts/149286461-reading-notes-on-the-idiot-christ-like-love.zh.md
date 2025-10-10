@@ -4,7 +4,6 @@ date: 2024-09-23
 tags: [book-review, philosophy, literature]
 ---
 
-# Reading Notes on The Idiot: Christ-like Love
 
 
 上周五心里很不宁静，烦乱。早早回了家，但满腹郁闷无处发泄。

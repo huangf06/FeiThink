@@ -4,7 +4,6 @@ date: 2024-01-05
 tags: [history, politics, social-commentary]
 ---
 
-# From Chosin Reservoir to Christmas
 
 
 ### **前言**

@@ -4,7 +4,6 @@ date: 2020-05-11
 tags: [education, life-philosophy]
 ---
 
-# On Liberal Education and Free Will
 
 
 Today on SMTH BBS, I saw an article titled “For Rural Children Going to College, More Important Than Choosing a Major Is Elevating Thinking and Vision.” Though I’m a rural child myself, and a few years ago I might have considered this golden advice, today I can no longer relate to it.
