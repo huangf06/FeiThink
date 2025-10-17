@@ -3,22 +3,12 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 lastmod: {{ .Date }}
 draft: false
-categories: []
-tags: []
-summary: ""
+categories: ["Essays"]
+tags: [tag1, tag2, tag3]
+summary: "Brief summary of your article (50-100 words)"
 weight: 999
-author: "Your Name"
+author: "FeiThink"
 showToc: true
 TocOpen: false
-hidemeta: false
-comments: true
-description: ""
-disableShare: false
-searchHidden: false
-cover:
-    image: ""
-    alt: ""
-    caption: ""
-    relative: false
 ---
 

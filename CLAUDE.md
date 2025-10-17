@@ -84,22 +84,30 @@ git push origin main
 - Customization points: `config.yml` params section, custom CSS via `assets/css/extended/`
 
 ## Front Matter Template
+
 All content files should include this front matter structure:
 ```yaml
 ---
 title: "Article Title"
 date: 2025-10-08
 lastmod: 2025-10-08
-draft: false  # Set to true for unpublished content
-categories: ["Philosophy"]  # or ["Literature"], ["Essays"]
-tags: ["tag1", "tag2"]
-summary: "Brief description"
-weight: 999  # Lower numbers appear first
-author: "Your Name"
+draft: false
+categories: ["Essays"]  # or ["Literature"], ["Philosophy"]
+tags: [tag1, tag2, tag3]  # Use kebab-case; minimum 3 tags
+summary: "Brief description (50-100 words)"
+weight: 999
+author: "FeiThink"
 showToc: true
 TocOpen: false
 ---
 ```
+
+**Important Notes:**
+- All required fields must be completed
+- Tags must use kebab-case (lowercase with hyphens)
+- Summary should be 50-100 words describing the article's core content
+- `weight: 999` is default; use lower numbers to promote articles
+- For detailed format guidelines, see `ARTICLE_FORMAT.md`
 
 ## Project-Specific Considerations
 
