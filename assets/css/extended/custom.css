@@ -558,3 +558,13 @@ button:focus {
 .dark button:focus {
     outline-color: #a78bfa;
 }
+
+/* 17. Hide External Image Hosting Links
+    ==================================== */
+
+/* Hide Substack and image hosting service links that clutter the page */
+.post-content a[href*="substackcdn"],
+.post-content a[href*="substack-post-media"] {
+    font-size: 0;
+    display: inline;
+}
