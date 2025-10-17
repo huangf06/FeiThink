@@ -5,7 +5,7 @@ lastmod: 2019-11-16
 draft: false
 categories: ["Essays"]
 tags: [social-commentary, critical-thinking, political-philosophy]
-summary: "Lately I’ve seen far too much nonsense—stuff that shouldn’t fool anyone—hoodwink far too many..."
+summary: "Lately I've seen far too much nonsense fool far too many intelligent, well-educated people. The author explores the Hong Kong situation, why mainlanders lack empathy, and whether democracy or authoritarianism offers a better path forward."
 weight: 999
 author: "FeiThink"
 showToc: true
@@ -14,7 +14,7 @@ TocOpen: false
 
 
 
-Lately I’ve seen far too much nonsense—stuff that shouldn’t fool anyone—hoodwink far too many people, including those who are highly intelligent, well-educated, and experienced in practical affairs.
+Lately I've seen far too much nonsense—stuff that shouldn't fool anyone—yet somehow hoodwinks far too many people, including those who are highly intelligent, well-educated, and experienced in practical affairs.
 
 I’m writing this to set the record straight and inspire more discerning minds to engage in deeper thinking and discussion.
 
@@ -38,9 +38,7 @@ Why do mainlanders find it so hard to empathize?
 
 Is it really so hard to imagine what it feels like to have freedoms you were promised suddenly stripped away?
 
-In the end, it all comes down to whether you actually own two cows or not.
-
-Mainlanders remain indifferent to the erosion of free speech and academic freedom simply because most have never experienced such freedoms in the first place.
+In the end, it comes down to practical experience—whether you've actually owned two cows or not. Mainlanders remain indifferent to the erosion of free speech and academic freedom simply because most have never experienced such freedoms in the first place.
 
 Why am I so sensitive to this? Because the commentators I follow—and I myself—get censored all the time. (And why do I always end up liking views that get banned? Because I’m smart, obviously. Smart within limits—I can’t conjure pork out of thin air, but I can at least smell it cooking.)
 

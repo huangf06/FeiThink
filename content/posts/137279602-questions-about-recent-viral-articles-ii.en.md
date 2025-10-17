@@ -5,7 +5,7 @@ lastmod: 2019-11-19
 draft: false
 categories: ["Essays"]
 tags: [social-commentary, critical-thinking, political-philosophy]
-summary: "I. On How to Properly Rebut Arguments I read Lu Kewen’s “The Hong Kong Issue and the Truth About the..."
+summary: "Critiquing Lu Kewen's 'Hong Kong Issue and the Truth About the World,' the author argues that refuting overly simplistic political models requires better models, not just fact-checking. He examines why strong central control is inefficient and advocates for distributed, decentralized governance."
 weight: 999
 author: "FeiThink"
 showToc: true
@@ -20,24 +20,20 @@ I read Lu Kewen’s “The Hong Kong Issue and the Truth About the World” agai
 
 I’ve read a lot of rebuttals. Many attack the factual accuracy of the historical examples he cites. I think that misses the point. Fact-checking history is just data cleaning. To refute someone’s model, you need a better model. Even if the author invented his history wholesale, readers would still get his argument.
 
-No matter how much you tout democracy and freedom, the dangers of fragmentation and chaos are real. Without a concrete, workable solution for maintaining national unity and order, and for settling the messy aftermath of redistributing interests, you won’t convince anyone.
+No matter how much you tout democracy and freedom, the dangers of fragmentation and chaos are real. The real challenge is proposing a concrete, workable solution: how to maintain national unity and order while fairly redistributing power and resources. Without such a solution, arguments for democracy will fail to convince anyone.
 ### **II. The Problem with “The Truth About the World”**
 
 Lu Kewen’s model is simple and easy to grasp. Its only flaw is that it’s wrong.
 
 But it’s also very hard to falsify. Because reality isn’t as simple as 0 and 1, black and white.
 
-What we’re actually facing is more like a hundred-point exam—an advanced calculus exam.
+What we're actually facing is far more complex—like an advanced calculus problem, not a simple true-false question.
 
 You don’t just pick an ideology and have national prosperity fall from the sky.
 
-Democracy and authoritarianism aren’t natural opposites. In fact, you can sense the optimal solution probably lies somewhere between them.
+Democracy and authoritarianism aren't natural opposites. In fact, the optimal solution probably lies somewhere between them. But finding that optimal point is incredibly difficult. More importantly, designing an effective system of institutions that keeps governance close to that optimal point is no simple matter.
 
-Finding that point—and more importantly, designing an algorithm (a system of institutions) that makes getting close to that point the norm—how the hell is that a multiple-choice question?
-
-And when you add in all the other goals—national security, economy, technology, culture, education, public health, environment—can you even do the math?
-
-The computing power this requires means mobilizing society’s whole energy and intelligence.
+And when you consider all the other competing goals—national security, economic development, technological innovation, cultural preservation, education, public health, environmental protection—the challenge becomes exponentially harder. Coordinating all these requires mobilizing society's entire energy and collective intelligence.
 ### **III. The Party Leads Everything? Does It Have What It Takes?**
 
 So when the Party shouts slogans like “The Party leads everything,” it must be opposed. Because the Party doesn’t have that capability.
@@ -52,7 +48,7 @@ This form of power structure is actually a waste of society’s intellectual res
 
 For example:
 
-When they were beating war drums a year ago as Trump threatened tariffs, did they grasp the massive power gap between the two countries? Could they have foreseen today’s outcome—tariffs imposed, concessions made?
+When the government was beating war drums two years ago as Trump threatened tariffs, did they accurately assess the power imbalance between the two countries? Could they have anticipated the outcome—that tariffs would be imposed and China would have to make concessions?
 
 When they petulantly refused to import American pork and turned to Russia instead, importing diseased pigs, what were the health and quarantine officials doing? Did they anticipate today’s result—no pork to eat?
 
@@ -71,7 +67,7 @@ I mentioned in my last piece that the Party-state is working hard to atomize cit
 
 Sure, this architecture is simple and easy to manage, but it obviously stifles the full potential of our resources.
 
-The glaring problem now is that this central processor clearly lacks the computing power it imagines—the kind that would make “governing a large country like cooking a small fish.”
+The glaring problem now is that this central processor clearly lacks the computing power to live up to its ambitions—the Confucian ideal of "governing a large country as carefully as one cooks a small fish."
 
 All the tasks that could run in parallel are now queued up, bottlenecked by the central processor’s capacity.
 
@@ -88,7 +84,7 @@ National development is an incredibly complex function. Influencing factors incl
 
 Values are just a small part of it.
 
-For instance, what stopped the German war machine wasn’t Britain’s democratic system—it was the English Channel. Otherwise Churchill wouldn’t have made it to America’s Lend-Lease Act. Stalin might not have beaten Hitler if Hitler had been able to focus on him.
+For instance, what stopped the Nazi invasion of Britain wasn't the British democratic system—it was the English Channel. Britain's geographic protection gave Churchill time to secure American Lend-Lease support. Similarly, without geographic advantages, Stalin might not have survived Hitler's invasion if Hitler could have focused all his forces against him.
 
 China’s economic miracle, honestly, was mainly about getting in with the US and joining the global trade system, right? Without that, our economy would have grown, but nowhere near as fast.
 
@@ -98,9 +94,7 @@ Too many factors influence a nation’s fate more than values or ideology.
 
 One key factor is whether the country can select talented, capable people to govern.
 
-When I look at America, I can’t help but marvel. Those who think America will decline quickly must be blind.
-
-When people can reject slick political elites like the lie-spewing Hillary Clinton and pick a pragmatic politician with sharp vision like Trump; when the rest of the world has no answer to automation displacing workers, America produces rising stars like Andrew Yang who think about the future.
+When I look at America, I can't help but marvel. Those who think America will decline quickly must be blind. Here's why: voters can reject establishment political elites when they underperform, and capable new thinkers emerge—people like Andrew Yang—who tackle future challenges while the rest of the world is still caught off guard by technological disruption.
 
 It makes you wonder: is the political IQ of the populace part of national strength?
 
@@ -116,7 +110,7 @@ Isn’t this the most common story in movies and novels? If you still don’t ge
 
 **From a spiritual perspective:**
 
-In *The Next 100 Years*, Friedman says our era will be seen as a dark period in human history. I think he’s right.
+In *The Next 100 Years*, George Friedman argues that our current era will be seen as a dark period in human history. I think he's right.
 
 The old values date back hundreds of years, and the new era hasn’t shown its dawn. We may be born and die in this long night.
 
