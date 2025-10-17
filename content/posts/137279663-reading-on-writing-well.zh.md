@@ -34,44 +34,63 @@ TocOpen: false
 其他的内容都是技巧性的，唯有下面三点重中之重甚得我心：
 ### **1. 什么是好的写作？**
 
-It is a question of using the English language in a way that will achieve the greatest clarity and strength.  
-**用语言达到最大的清晰和力度。**
+> It is a question of using the English language in a way that will achieve the greatest clarity and strength.
+>
+> 用语言达到最大的清晰和力度。
+>
+> *—威廉·齐瑟《On Writing Well》*
 
 今后就把这作为写作的最高原则。
 
-**去掉每一句话里的杂物，只留下最干净的成分。**
+> Strip away the clutter from every sentence, leaving only the cleanest components.
+>
+> 去掉每一句话里的杂物，只留下最干净的成分。
+>
+> *—威廉·齐瑟《On Writing Well》*
 
-每个无用的词，每个可以换成短词的长词，每个重复修饰的副词，每个让人搞不清对象的被动式，都是在削弱句子的力度。  
-要从文章里找出废话，无情地修剪。  
+每个无用的词，每个可以换成短词的长词，每个重复修饰的副词，每个让人搞不清对象的被动式，都是在削弱句子的力度。
+要从文章里找出废话，无情地修剪。
 不要因为写得词藻华丽就不舍得砍。
 
-更进一步地，到底怎么样才能彻底从冗余里获得自由？  
-怎么才能说话不废话都是干货？  
+更进一步地，到底怎么样才能彻底从冗余里获得自由？
+怎么才能说话不废话都是干货？
 答案是先把脑子里的水排出去。
 
-**清晰的思考产生清晰的写作。**
+> Clear thinking produces clear writing.
+>
+> 清晰的思考产生清晰的写作。
+>
+> *—威廉·齐瑟《On Writing Well》*
 
 一脑子浆糊的人不可能写好。
 ### **2. 怎么写？**
 
-**写作是一种关于自我的行为。**  
-**写你自己，写的东西就自然会发挥吸引力。**  
-**相信自己的身份，相信自己的见解。**  
-**利用好自我的力量。**
+> Writing is an act of self. Write about yourself, and what you write will naturally attract readers. Believe in your identity, believe in your perspectives. Harness the power of the self.
+>
+> 写作是一种关于自我的行为。
+> 写你自己，写的东西就自然会发挥吸引力。
+> 相信自己的身份，相信自己的见解。
+> 利用好自我的力量。
+>
+> *—威廉·齐瑟《On Writing Well》*
 
 读者能看出来你是不是在装。
 
-很多人非得觉得要等到自己是专家了以后，才敢说我想要怎样怎样、想要干嘛干嘛。  
-但是去他妈的。  
+很多人非得觉得要等到自己是专家了以后，才敢说我想要怎样怎样、想要干嘛干嘛。
+但是去他妈的。
 就算是个教授来跟我讲课，我想听的也是他满怀热情地跟我们讲，为什么他讲的东西这么吸引他。
 ### **3. 为谁而写？**
 
 为自己写。
 
-**写作主要目的是取悦自己。**
+> The primary purpose of writing is to please yourself.
+>
+> 写作主要目的是取悦自己。
+>
+> *—威廉·齐瑟《On Writing Well》*
 
-不要预想谁是你的广大读者群。  
-如果你写起来是一种享受，你也会给值得为之写作的读者带来欢乐。  
+不要预想谁是你的广大读者群。
+如果你写起来是一种享受，你也会给值得为之写作的读者带来欢乐。
 如果你失去傻逼的喜爱，那你本来也不需要他们。
 
 ---
@@ -85,8 +104,9 @@ It is a question of using the English language in a way that will achieve the gr
 
 但是归根到底，fuck them all.
 
-It is the courage to continue that counts.  
-没有最终的胜利，也没有致命的失败，  
-最可贵的是继续前进的勇气。
-
-丘吉尔
+> Success is not final, failure is not fatal: it is the courage to continue that counts.
+>
+> 成功不是终点，失败也非末日。
+> 最重要的是继续前进的勇气。
+>
+> *—温斯顿·丘吉尔*
