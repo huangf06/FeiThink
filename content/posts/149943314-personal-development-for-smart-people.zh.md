@@ -1,7 +1,15 @@
 ---
 title: "Personal Development for Smart People"
 date: 2024-10-07
+lastmod: 2024-10-07
+draft: false
+categories: ["Essays"]
 tags: [book-review, life-philosophy]
+summary: "最近看了一本比较难评的书，就是标题——《聪明人的个人成长》。 刚开始看的时候有种拜见神书的感觉，但后半部分感觉开始拼凑概念，越来越多神秘主义玄学。重点讲讲这本书最具启示性的部分。 ---..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

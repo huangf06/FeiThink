@@ -1,7 +1,15 @@
 ---
 title: "What Is Morality?"
 date: 2022-03-11
+lastmod: 2022-03-11
+draft: false
+categories: ["Essays"]
 tags: [moral-philosophy, critical-thinking]
+summary: "What Is Morality? I. What Is Morality? As I understand it, morality is about questions of right and..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

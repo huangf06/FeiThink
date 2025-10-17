@@ -1,7 +1,15 @@
 ---
 title: "Skin in the Game"
 date: 2025-04-07
+lastmod: 2025-04-07
+draft: false
+categories: ["Essays"]
 tags: [book-review, philosophy, critical-thinking]
+summary: "I’ve been reading Taleb’s Skin in the Game these past few days. The book primarily explores the..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

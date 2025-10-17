@@ -1,7 +1,15 @@
 ---
 title: "Groundwork of the Metaphysics of Morals (II)"
 date: 2023-08-01
+lastmod: 2023-08-01
+draft: false
+categories: ["Essays"]
 tags: [philosophy, moral-philosophy, kant]
+summary: "I have a bold claim: To measure the depth of a person’s thought is, to a certain degree, to measure..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

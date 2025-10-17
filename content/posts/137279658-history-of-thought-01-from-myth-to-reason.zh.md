@@ -1,7 +1,15 @@
 ---
 title: "History of Thought [01]: From Myth to Reason"
 date: 2020-12-25
+lastmod: 2020-12-25
+draft: false
+categories: ["Essays"]
 tags: [philosophy, history-of-philosophy]
+summary: "虽然日常大议恫人，但是正经书读得少。我对哲学不过文盲水准。 近半年参加不少活动，跟着读了一些哲学的书。 发现其中不少命题和独立的瞎想不谋而合。 顿时感觉上当了，以前可能被那些故作高深的装X犯忽悠了。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

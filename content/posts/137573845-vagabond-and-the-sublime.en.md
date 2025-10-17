@@ -1,7 +1,15 @@
 ---
 title: "Vagabond and the Sublime"
 date: 2023-10-01
+lastmod: 2023-10-01
+draft: false
+categories: ["Essays"]
 tags: [book-review, philosophy, aesthetics]
+summary: "Upon arriving in the Netherlands, there was a moment when I felt disoriented. Living in the free..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

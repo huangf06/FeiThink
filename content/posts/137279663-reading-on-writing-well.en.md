@@ -1,7 +1,15 @@
 ---
 title: "Reading On Writing Well"
 date: 2021-03-10
+lastmod: 2021-03-10
+draft: false
+categories: ["Essays"]
 tags: [book-review, personal-essay]
+summary: "I love writing. Writing makes me feel free. I love writing because it allows me to slow down and..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

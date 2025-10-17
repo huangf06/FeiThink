@@ -1,7 +1,15 @@
 ---
 title: "Questions About a Recent Viral Article (I)"
 date: 2019-11-16
+lastmod: 2019-11-16
+draft: false
+categories: ["Essays"]
 tags: [social-commentary, critical-thinking, political-philosophy]
+summary: "近期看到太多本以为不值一哂的玩意儿唬住了太多人，包括各种高智商、有智识、通实务的人。 写文以正视听，启发更多有识之士做更深入的思考和探讨。 香港这事情非常明白的是因为大陆挤压香港的自由权利。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

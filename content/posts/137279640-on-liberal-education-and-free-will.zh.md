@@ -1,7 +1,15 @@
 ---
 title: "On Liberal Education and Free Will"
 date: 2020-05-11
+lastmod: 2020-05-11
+draft: false
+categories: ["Essays"]
 tags: [education, life-philosophy]
+summary: "今天在水木上看到一篇文章《农村孩子上大学，比学专业更重要的，是提升思维和境界》。 虽然我是农村孩子，放在几年前我可能觉得是金玉良言，但时至今日我已无法感同身受。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

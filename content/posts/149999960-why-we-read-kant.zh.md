@@ -1,7 +1,15 @@
 ---
 title: "Why We Read Kant"
 date: 2024-10-09
+lastmod: 2024-10-09
+draft: false
+categories: ["Essays"]
 tags: [philosophy, kant, education]
+summary: "康德是我所知道的思想最深刻的作者了。他的《道德形而上学奠基》深刻地影响我的道德体系，帮我梳理了自己过往零碎的思想碎片，形成了在道德问题上成体系的分析框架和指南。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

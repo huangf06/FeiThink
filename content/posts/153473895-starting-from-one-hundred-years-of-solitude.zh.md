@@ -1,7 +1,15 @@
 ---
 title: "Starting from One Hundred Years of Solitude"
 date: 2024-12-22
+lastmod: 2024-12-22
+draft: false
+categories: ["Essays"]
 tags: [book-review, literature]
+summary: "最近奈飞的新剧《百年孤独》上线，借此又重温了这本书。 说起魔幻现实主义，我们动不动就联想起拉丁美洲。在我看来，这纯粹是乌鸦嫌老鸹黑，一点儿不照镜子的。 中国土地上的魔幻现实，一点不逊于拉美。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

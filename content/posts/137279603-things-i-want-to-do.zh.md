@@ -1,7 +1,15 @@
 ---
 title: "Things I Want to Do"
 date: 2019-12-10
+lastmod: 2019-12-10
+draft: false
+categories: ["Essays"]
 tags: [personal-essay, life-philosophy]
+summary: "上篇动力系统的文里提到了一件我想做的事。 现在不妨最狂妄地畅想一番，数数我们想做的事。 纯属走夜路吹口哨为自己壮胆。 第一，I want to be a great mind. First of..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

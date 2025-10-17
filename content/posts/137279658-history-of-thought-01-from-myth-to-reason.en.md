@@ -1,7 +1,15 @@
 ---
 title: "History of Thought [01]: From Myth to Reason"
 date: 2020-12-25
+lastmod: 2020-12-25
+draft: false
+categories: ["Essays"]
 tags: [philosophy, history-of-philosophy]
+summary: "Although I often sound opinionated in daily conversations, I haven’t actually read many serious..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

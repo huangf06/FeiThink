@@ -1,7 +1,15 @@
 ---
 title: "On Liberal Education and Free Will"
 date: 2020-05-11
+lastmod: 2020-05-11
+draft: false
+categories: ["Essays"]
 tags: [education, life-philosophy]
+summary: "Today on SMTH BBS, I saw an article titled “For Rural Children Going to College, More Important Than..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

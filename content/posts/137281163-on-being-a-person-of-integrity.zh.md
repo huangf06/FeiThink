@@ -1,7 +1,15 @@
 ---
 title: "On Being a Person of Integrity"
 date: 2023-05-02
+lastmod: 2023-05-02
+draft: false
+categories: ["Essays"]
 tags: [moral-philosophy, life-philosophy]
+summary: "真是让人羞愧。 花了这么长时间，才渐渐明白自己想要什么。 我想要在一片自由的土地上做一个自由的学者； 我想要按自己的意志过完这一生； 我想要为自己感到骄傲。 ---..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

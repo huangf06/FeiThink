@@ -1,7 +1,15 @@
 ---
 title: "Rereading Shen Pangpang"
 date: 2019-06-12
+lastmod: 2019-06-12
+draft: false
+categories: ["Essays"]
 tags: [personal-essay]
+summary: "神胖胖的文章，常读常新，下面引用注解以分享之。 --- 一、关于人生 人生太短，切不可玩曲线救国式的策略。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

@@ -1,7 +1,15 @@
 ---
 title: "Humiliated and Insulted"
 date: 2025-05-03
+lastmod: 2025-05-03
+draft: false
+categories: ["Essays"]
 tags: [book-review, literature, moral-philosophy]
+summary: "When watching Kurosawa’s films, I’ve always sensed something—this is Dostoevsky’s thought. Take..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

@@ -1,7 +1,15 @@
 ---
 title: "The Scale of Time"
 date: 2025-08-30
+lastmod: 2025-08-30
+draft: false
+categories: ["Essays"]
 tags: [personal-essay, life-philosophy]
+summary: "时间的刻度 这个公众号已经写了八年了。 可说是我过往做得最好的决定之一。 虽然还不到三百人的关注，日常阅读只有两位数。 但热度从来就不是目的。 回看当初的《序章》写得挺好：..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

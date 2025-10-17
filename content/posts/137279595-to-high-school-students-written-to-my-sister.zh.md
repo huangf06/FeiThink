@@ -1,7 +1,15 @@
 ---
 title: "To High School Students: Written to my sister"
 date: 2019-10-14
+lastmod: 2019-10-14
+draft: false
+categories: ["Essays"]
 tags: [education, life-philosophy]
+summary: "我妹最近因为学习压力陷于某种情绪困境不能自拔，向我求助。 虽然开导了半天但我自觉还是很无力。人和人之间终究难以感同身受。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

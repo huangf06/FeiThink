@@ -1,7 +1,15 @@
 ---
 title: "History of Thought [03]: How to Be Happy"
 date: 2021-01-17
+lastmod: 2021-01-17
+draft: false
+categories: ["Essays"]
 tags: [philosophy, history-of-philosophy, life-philosophy]
+summary: "This one feels the most relevant to our lives right now. --- Alexander conquered the Greek..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

@@ -1,7 +1,15 @@
 ---
 title: "Groundwork of the Metaphysics of Morals (II)"
 date: 2023-08-01
+lastmod: 2023-08-01
+draft: false
+categories: ["Essays"]
 tags: [philosophy, moral-philosophy, kant]
+summary: "我有一个暴论： 衡量一个人的思想深度，某种程度上，就是衡量其道德哲学的深浅。 --- 一、 为什么需要道德形而上学？ 道德哲学涵盖甚广，几乎所有与人相关的问题都归此类。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

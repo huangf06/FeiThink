@@ -1,7 +1,15 @@
 ---
 title: "History of Thought [04]: Overview and Reflections"
 date: 2021-04-07
+lastmod: 2021-04-07
+draft: false
+categories: ["Essays"]
 tags: [philosophy, history-of-philosophy]
+summary: "1. 关于确定性知识的追求 对确定性知识的追求，以及与之相对的怀疑论，贯穿了哲学史。 笛卡尔的『我思故我在』大概算得上哲学史上最广为人知的名言了。 他本来的用意并不是想要告诉大家思想有多么可贵。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

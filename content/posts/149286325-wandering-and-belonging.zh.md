@@ -1,7 +1,15 @@
 ---
 title: "Wandering and Belonging"
 date: 2024-09-23
+lastmod: 2024-09-23
+draft: false
+categories: ["Essays"]
 tags: [personal-essay, life-philosophy]
+summary: "龙场悟道 最近被罗翔的一段视频触动——「做人到底是坚持正直，还是选择圆滑世故」。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

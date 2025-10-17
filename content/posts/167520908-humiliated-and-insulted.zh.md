@@ -1,7 +1,15 @@
 ---
 title: "Humiliated and Insulted"
 date: 2025-05-03
+lastmod: 2025-05-03
+draft: false
+categories: ["Essays"]
 tags: [book-review, literature, moral-philosophy]
+summary: "原来我在看黑泽明电影的时候，就有种感觉，这是陀斯妥耶夫斯基的思想。 比如《生之欲》里渡边的重生，但只是转瞬的疑问，没有确实的证据。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

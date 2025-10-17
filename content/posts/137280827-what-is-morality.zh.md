@@ -1,7 +1,15 @@
 ---
 title: "What Is Morality?"
 date: 2022-03-11
+lastmod: 2022-03-11
+draft: false
+categories: ["Essays"]
 tags: [moral-philosophy, critical-thinking]
+summary: "一、什么是道德？ 就我理解，道德就是关于什么是对什么是错什么是善什么是恶的问题。 --- 二、道德为什么重要？ 道德既不保证物质富裕，也不保证受人尊重，几乎没有什么肉眼可见的好处。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

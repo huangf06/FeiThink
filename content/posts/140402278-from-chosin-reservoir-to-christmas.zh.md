@@ -1,7 +1,15 @@
 ---
 title: "From Chosin Reservoir to Christmas"
 date: 2024-01-05
+lastmod: 2024-01-05
+draft: false
+categories: ["Essays"]
 tags: [history, politics, social-commentary]
+summary: "前言 起因是我在朋友圈刷到童年玩伴在圣诞节发长津湖。我实在是非常反感拿长津湖这种极端狭隘的民族主义，来和圣诞节这样具有普世意义的价值放在一起作对比。简直是自取其辱，高下立判。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

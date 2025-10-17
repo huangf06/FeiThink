@@ -1,7 +1,15 @@
 ---
 title: "Reason and Emotion"
 date: 2025-01-17
+lastmod: 2025-01-17
+draft: false
+categories: ["Essays"]
 tags: [philosophy, psychology]
+summary: "For the longest time, I’ve dismissed emotion and elevated reason. I’ve always believed emotions were..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

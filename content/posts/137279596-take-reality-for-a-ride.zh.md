@@ -1,7 +1,15 @@
 ---
 title: "Take Reality for a Ride"
 date: 2019-11-05
+lastmod: 2019-11-05
+draft: false
+categories: ["Essays"]
 tags: [philosophy, personal-essay]
+summary: "我在Mark婚礼上出口伤了人。其后我反复琢磨整件事，想要想出一个普适性的行为规范。最后不知怎么个脑回路蹦出了下面这么一句： 这世界没有善恶，只有因果。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

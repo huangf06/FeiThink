@@ -1,7 +1,15 @@
 ---
 title: "Take Reality for a Ride"
 date: 2019-11-05
+lastmod: 2019-11-05
+draft: false
+categories: ["Essays"]
 tags: [philosophy, personal-essay]
+summary: "1. Good and bad are artificial constructs I hurt someone with my words at Mark’s wedding. Afterward,..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

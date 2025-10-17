@@ -1,7 +1,15 @@
 ---
 title: "Reading Notes on The Idiot: Christ-like Love"
 date: 2024-09-23
+lastmod: 2024-09-23
+draft: false
+categories: ["Essays"]
 tags: [book-review, philosophy, literature]
+summary: "上周五心里很不宁静，烦乱。早早回了家，但满腹郁闷无处发泄。 寻常排遣不过打发一时，终究无味。不如读书，读些难读的书。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

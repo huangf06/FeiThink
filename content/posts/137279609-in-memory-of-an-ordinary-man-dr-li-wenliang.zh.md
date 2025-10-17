@@ -1,7 +1,15 @@
 ---
 title: "In Memory of an Ordinary Man: Dr. Li Wenliang"
 date: 2020-02-09
+lastmod: 2020-02-09
+draft: false
+categories: ["Essays"]
 tags: [social-commentary, political-philosophy]
+summary: "即便悲愤在朋友圈弥漫，谁都知道事情也不会很快有转机。 权力还握在时代的残党手中。他们必然殊死保护自己的特权。 百万人数月的抗争都不能使权力翻然悔悟。 更不用说你们这只是哽在喉间的几声呜咽。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

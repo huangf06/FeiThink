@@ -1,7 +1,15 @@
 ---
 title: "History of Thought [02]: Is There Universal Law?"
 date: 2021-01-13
+lastmod: 2021-01-13
+draft: false
+categories: ["Essays"]
 tags: [philosophy, history-of-philosophy]
+summary: "The first period of philosophy concerned nature and the cosmos. The second period turned to..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

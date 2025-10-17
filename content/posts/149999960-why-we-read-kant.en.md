@@ -1,7 +1,15 @@
 ---
 title: "Why We Read Kant"
 date: 2024-10-09
+lastmod: 2024-10-09
+draft: false
+categories: ["Essays"]
 tags: [philosophy, kant, education]
+summary: "Kant stands as the most profound thinker I have ever encountered. His Groundwork of the Metaphysics..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

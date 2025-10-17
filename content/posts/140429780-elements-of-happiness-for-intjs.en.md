@@ -1,7 +1,15 @@
 ---
 title: "Elements of Happiness for INTJs"
 date: 2024-01-06
+lastmod: 2024-01-06
+draft: false
+categories: ["Essays"]
 tags: [psychology, life-philosophy]
+summary: "I feel like I'm living too heavily. Even drinking with a Romanian friend before Christmas, I found..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

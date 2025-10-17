@@ -1,7 +1,15 @@
 ---
 title: "Rereading The Brothers Karamazov"
 date: 2025-06-05
+lastmod: 2025-06-05
+draft: false
+categories: ["Essays"]
 tags: [book-review, literature, philosophy, moral-philosophy]
+summary: "最近把《卡拉马佐夫兄弟》的书听了一遍。想当年（郑州大水那段时间），花了几个月才看完，这几天就听完了。 反正就当你干正事的时候，大部头的书反而成了消遣。为了逃避干活，就连《纯粹理性批判》我都能啃上几页。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

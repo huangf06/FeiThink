@@ -1,7 +1,15 @@
 ---
 title: "Essence of Existential Psychotherapy"
 date: 2024-03-29
+lastmod: 2024-03-29
+draft: false
+categories: ["Essays"]
 tags: [psychology, philosophy, life-philosophy]
+summary: "An introduction to existential philosophy that answers all the questions that have been lingering in..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

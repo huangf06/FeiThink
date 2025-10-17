@@ -1,7 +1,15 @@
 ---
 title: "Subjectivity: How to Become the Protagonist of Your Own Life"
 date: 2025-01-17
+lastmod: 2025-01-17
+draft: false
+categories: ["Essays"]
 tags: [philosophy, existentialism, life-philosophy]
+summary: "Ever since I firmly grasped self-centeredness in my own hands, I have become stronger than before,..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

@@ -1,7 +1,15 @@
 ---
 title: "Starting from One Hundred Years of Solitude"
 date: 2024-12-22
+lastmod: 2024-12-22
+draft: false
+categories: ["Essays"]
 tags: [book-review, literature]
+summary: "Netflix’s new adaptation of One Hundred Years of Solitude recently launched, giving me a chance to..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

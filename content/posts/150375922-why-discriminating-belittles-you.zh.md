@@ -1,7 +1,15 @@
 ---
 title: "Why Discriminating Belittles You"
 date: 2024-10-18
+lastmod: 2024-10-18
+draft: false
+categories: ["Essays"]
 tags: [moral-philosophy, critical-thinking]
+summary: "无端歧视别人的人比被他们歧视的人更加渺小。 这是我最近对一些生活中的经历和见闻总结出来的感悟。写这篇文章的目的，就是通过这些经历探讨歧视、优越感和道德上的自我超越。 一场群聊中的争执..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

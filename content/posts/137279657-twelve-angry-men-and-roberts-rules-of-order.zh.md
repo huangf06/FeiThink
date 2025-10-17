@@ -1,7 +1,15 @@
 ---
 title: "Twelve Angry Men and Robert's Rules of Order"
 date: 2020-10-05
+lastmod: 2020-10-05
+draft: false
+categories: ["Essays"]
 tags: [book-review, critical-thinking, political-philosophy]
+summary: "罗伯特议事规则 之前做《联邦党人文集》读书会时，遇到一些问题。 于是想要重新构想一种组织形式，可以让不同观点的人坐在一起有序地讨论一些争议性的话题。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

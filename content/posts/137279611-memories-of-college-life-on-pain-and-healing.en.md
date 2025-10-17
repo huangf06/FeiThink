@@ -1,7 +1,15 @@
 ---
 title: "Memories of College Life: On Pain and Healing"
 date: 2020-02-10
+lastmod: 2020-02-10
+draft: false
+categories: ["Essays"]
 tags: [personal-essay]
+summary: "Memories of College Life: On Pain and Healing Cleaning up my social media recently, I stumbled upon..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

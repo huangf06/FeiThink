@@ -1,7 +1,15 @@
 ---
 title: "Questions About Recent Viral Articles (II)"
 date: 2019-11-19
+lastmod: 2019-11-19
+draft: false
+categories: ["Essays"]
 tags: [social-commentary, critical-thinking, political-philosophy]
+summary: "I. On How to Properly Rebut Arguments I read Lu Kewen’s “The Hong Kong Issue and the Truth About the..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

@@ -1,7 +1,15 @@
 ---
 title: "To High School Students: Written to my sister"
 date: 2019-10-14
+lastmod: 2019-10-14
+draft: false
+categories: ["Essays"]
 tags: [education, life-philosophy]
+summary: "My younger sister recently came to me for help. Academic pressure has left her trapped in an..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

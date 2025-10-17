@@ -1,7 +1,15 @@
 ---
 title: "History of Thought [02]: Is There Universal Law?"
 date: 2021-01-13
+lastmod: 2021-01-13
+draft: false
+categories: ["Essays"]
 tags: [philosophy, history-of-philosophy]
+summary: "一智者派 首先登场的是智者派，对于上面的问题，他们有以下很有代表性的观点： 1. 怀疑论高尔吉亚 什么都不存在；就算有东西存在，你也不可能认识；就算你能认识，也不能把这知识告诉别人。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

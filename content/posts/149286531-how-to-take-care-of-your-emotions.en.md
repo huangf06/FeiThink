@@ -1,7 +1,15 @@
 ---
 title: "How to Take Care of Your Emotions"
 date: 2024-09-23
+lastmod: 2024-09-23
+draft: false
+categories: ["Essays"]
 tags: [psychology, life-philosophy]
+summary: "A few days ago, I stumbled upon an old article I had written, \"Rereading Shen Pangpang,\" and felt as..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

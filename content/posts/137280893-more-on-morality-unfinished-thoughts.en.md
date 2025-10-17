@@ -1,7 +1,15 @@
 ---
 title: "More on Morality: Unfinished Thoughts"
 date: 2022-03-22
+lastmod: 2022-03-22
+draft: false
+categories: ["Essays"]
 tags: [moral-philosophy, critical-thinking]
+summary: "Why am I obsessing over morality when I can barely feed myself? Because moral dilemmas bother me..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

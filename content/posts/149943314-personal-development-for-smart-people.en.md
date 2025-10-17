@@ -1,7 +1,15 @@
 ---
 title: "Personal Development for Smart People"
 date: 2024-10-07
+lastmod: 2024-10-07
+draft: false
+categories: ["Essays"]
 tags: [book-review, life-philosophy]
+summary: "I recently read a book that’s hard to evaluate—Personal Development for Smart People by Steve..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

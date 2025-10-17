@@ -1,7 +1,15 @@
 ---
 title: "Reflections on 12.12: The Day"
 date: 2024-02-16
+lastmod: 2024-02-16
+draft: false
+categories: ["Essays"]
 tags: [film-review, history]
+summary: "I watched 12.12: The DaySeoul Spring the day before yesterday. I’m not a professional film critic,..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

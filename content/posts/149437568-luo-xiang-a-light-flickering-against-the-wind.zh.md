@@ -1,7 +1,15 @@
 ---
 title: "Luo Xiang: A Light Flickering Against the Wind"
 date: 2024-09-26
+lastmod: 2024-09-26
+draft: false
+categories: ["Essays"]
 tags: [social-commentary, moral-philosophy]
+summary: "..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

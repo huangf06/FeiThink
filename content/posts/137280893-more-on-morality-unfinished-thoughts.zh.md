@@ -1,7 +1,15 @@
 ---
 title: "More on Morality: Unfinished Thoughts"
 date: 2022-03-22
+lastmod: 2022-03-22
+draft: false
+categories: ["Essays"]
 tags: [moral-philosophy, critical-thinking]
+summary: "为什么我饭都吃不饱竟然还有心思大谈道德？ 实在是道德困扰比吃饱肚子更让人在意。 这困扰让人矛盾，缺少行事准则上的完整一致性，使人进退失据。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

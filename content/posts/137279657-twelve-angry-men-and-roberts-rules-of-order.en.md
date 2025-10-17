@@ -1,7 +1,15 @@
 ---
 title: "Twelve Angry Men and Robert's Rules of Order"
 date: 2020-10-05
+lastmod: 2020-10-05
+draft: false
+categories: ["Essays"]
 tags: [book-review, critical-thinking, political-philosophy]
+summary: "Robert’s Rules of Order When I was running a reading group on The Federalist Papers, we ran into..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

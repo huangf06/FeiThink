@@ -1,7 +1,15 @@
 ---
 title: "Dumbledore's Woolen Socks"
 date: 2025-09-10
+lastmod: 2025-09-10
+draft: false
+categories: ["Essays"]
 tags: [personal-essay, existentialism, life-philosophy]
+summary: "每每想起邓布利多的羊毛袜。 哈利问邓布利多在魔镜里看见什么时，邓布利多说，他看见自己拿着一双厚厚的羊毛袜。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

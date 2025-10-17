@@ -1,7 +1,15 @@
 ---
 title: "Rereading Shen Pangpang"
 date: 2019-06-12
+lastmod: 2019-06-12
+draft: false
+categories: ["Essays"]
 tags: [personal-essay]
+summary: "Shen Pangpang’s articles are evergreen—each reading brings fresh insights. Below I quote and..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

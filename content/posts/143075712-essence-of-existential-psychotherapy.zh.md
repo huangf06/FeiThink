@@ -1,7 +1,15 @@
 ---
 title: "Essence of Existential Psychotherapy"
 date: 2024-03-29
+lastmod: 2024-03-29
+draft: false
+categories: ["Essays"]
 tags: [psychology, philosophy, life-philosophy]
+summary: "一本存在主义哲学的导读，解答了所有最近在我脑子里盘桓不去的问题。 存在主义讲的是那些终极关怀，那些人之所以为人的必然特质。具体而言，四大基本问题：死亡、自由、孤独和无意义。 死亡：..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

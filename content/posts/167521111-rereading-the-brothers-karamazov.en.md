@@ -1,7 +1,15 @@
 ---
 title: "Rereading The Brothers Karamazov"
 date: 2025-06-05
+lastmod: 2025-06-05
+draft: false
+categories: ["Essays"]
 tags: [book-review, literature, philosophy, moral-philosophy]
+summary: "I recently listened to The Brothers Karamazov as an audiobook. Back in the day during the Zhengzhou..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

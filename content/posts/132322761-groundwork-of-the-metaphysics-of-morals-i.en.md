@@ -1,7 +1,15 @@
 ---
 title: "Groundwork of the Metaphysics of Morals (I)"
 date: 2023-07-01
+lastmod: 2023-07-01
+draft: false
+categories: ["Essays"]
 tags: [philosophy, moral-philosophy, kant]
+summary: "I used to distrust the Communist Party, but still believed in the nation and its people; Later I..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

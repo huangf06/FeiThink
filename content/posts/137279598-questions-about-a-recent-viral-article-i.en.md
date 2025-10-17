@@ -1,7 +1,15 @@
 ---
 title: "Questions About a Recent Viral Article (I)"
 date: 2019-11-16
+lastmod: 2019-11-16
+draft: false
+categories: ["Essays"]
 tags: [social-commentary, critical-thinking, political-philosophy]
+summary: "Lately I’ve seen far too much nonsense—stuff that shouldn’t fool anyone—hoodwink far too many..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

@@ -1,7 +1,15 @@
 ---
 title: "Skin in the Game"
 date: 2025-04-07
+lastmod: 2025-04-07
+draft: false
+categories: ["Essays"]
 tags: [book-review, philosophy, critical-thinking]
+summary: "这几天读了塔勒布的Skin in the Game，书里主要讲解了非对称风险的概念，比方说如果存在爆仓的风险，那么无论收益再大都不该碰。反复将自己暴露在风险中，无论多小的概率，最终都会死。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

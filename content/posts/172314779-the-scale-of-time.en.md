@@ -1,7 +1,15 @@
 ---
 title: "The Scale of Time"
 date: 2025-08-30
+lastmod: 2025-08-30
+draft: false
+categories: ["Essays"]
 tags: [personal-essay, life-philosophy]
+summary: "This WeChat official account has been running for eight years now. It may well be one of the best..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

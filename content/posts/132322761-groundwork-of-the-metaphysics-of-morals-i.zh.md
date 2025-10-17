@@ -1,7 +1,15 @@
 ---
 title: "Groundwork of the Metaphysics of Morals (I)"
 date: 2023-07-01
+lastmod: 2023-07-01
+draft: false
+categories: ["Essays"]
 tags: [philosophy, moral-philosophy, kant]
+summary: "以前虽说不相信共产党，但还相信国家民族； 后来国家民族也不信了，但至少还相信人民； 后来我连人民也不信了。 也无法全信上帝，因这与我长久以来「绝不盲从」的信条相背。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

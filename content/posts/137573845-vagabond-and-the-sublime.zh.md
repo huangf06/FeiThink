@@ -1,7 +1,15 @@
 ---
 title: "Vagabond and the Sublime"
 date: 2023-10-01
+lastmod: 2023-10-01
+draft: false
+categories: ["Essays"]
 tags: [book-review, philosophy, aesthetics]
+summary: "初到荷兰，有那么一瞬间，恍惚失去了方向。 身处自由世界，我又可以写政论了，但却提不起兴趣。 你的对手太渺小了。 没错，他们君临天下，权倾一时。论起生杀予夺的权力，当世无人能及。 但那又怎么样呢？..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

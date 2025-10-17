@@ -1,7 +1,15 @@
 ---
 title: "History of Thought [04]: Overview and Reflections"
 date: 2021-04-07
+lastmod: 2021-04-07
+draft: false
+categories: ["Essays"]
 tags: [philosophy, history-of-philosophy]
+summary: "Over Spring Festival I finished Skirbekk’s history of philosophy. After this survey, I’ve found many..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

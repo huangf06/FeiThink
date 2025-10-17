@@ -1,7 +1,15 @@
 ---
 title: "Why Discriminating Belittles You"
 date: 2024-10-18
+lastmod: 2024-10-18
+draft: false
+categories: ["Essays"]
 tags: [moral-philosophy, critical-thinking]
+summary: "The ones who unjustly scorn others are ofttimes lesser than those they scorn. This is a realization..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

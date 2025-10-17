@@ -1,7 +1,15 @@
 ---
 title: "Elements of Happiness for INTJs"
 date: 2024-01-06
+lastmod: 2024-01-06
+draft: false
+categories: ["Essays"]
 tags: [psychology, life-philosophy]
+summary: "感觉我活得太沉重了。就连在圣诞前和罗马尼亚的朋友一起喝酒的档口，我还在大谈中国的社会和政治。这让我蓦然惊觉。 脑子里整天想些不着边际的大事，但却唯独没有自己，不知道怎么让自己幸福。不应该这样。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

@@ -1,7 +1,15 @@
 ---
 title: "Memories of College Life: On Pain and Healing"
 date: 2020-02-10
+lastmod: 2020-02-10
+draft: false
+categories: ["Essays"]
 tags: [personal-essay]
+summary: "最近清理朋友圈，又触碰到大学时代留下的伤疤。 大学时代是我心中永远的痛，每每触碰总让我心情沉郁。 我觉得我有必要直面伤痛，最真实地自我剖析，一劳永逸地解决这个问题。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

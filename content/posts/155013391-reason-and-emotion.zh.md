@@ -1,7 +1,15 @@
 ---
 title: "Reason and Emotion"
 date: 2025-01-17
+lastmod: 2025-01-17
+draft: false
+categories: ["Essays"]
 tags: [philosophy, psychology]
+summary: "长久以来，我都轻视情感，偏重理智。 我以往总认为情感是短暂易逝的，捉摸不定，充斥着混乱。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

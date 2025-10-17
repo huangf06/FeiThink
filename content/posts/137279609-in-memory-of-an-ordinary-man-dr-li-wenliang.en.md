@@ -1,7 +1,15 @@
 ---
 title: "In Memory of an Ordinary Man: Dr. Li Wenliang"
 date: 2020-02-09
+lastmod: 2020-02-09
+draft: false
+categories: ["Essays"]
 tags: [social-commentary, political-philosophy]
+summary: "Even as grief and rage flood social media, everyone knows things won’t change quickly. Power remains..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

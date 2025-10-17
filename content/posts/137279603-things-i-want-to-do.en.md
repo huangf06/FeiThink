@@ -1,7 +1,15 @@
 ---
 title: "Things I Want to Do"
 date: 2019-12-10
+lastmod: 2019-12-10
+draft: false
+categories: ["Essays"]
 tags: [personal-essay, life-philosophy]
+summary: "In my previous article on motivation systems, I mentioned something I want to do. Now let me indulge..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

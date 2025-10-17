@@ -1,7 +1,15 @@
 ---
 title: "Subjectivity: How to Become the Protagonist of Your Own Life"
 date: 2025-01-17
+lastmod: 2025-01-17
+draft: false
+categories: ["Essays"]
 tags: [philosophy, existentialism, life-philosophy]
+summary: "自从我把自我本位紧紧地掌握在自己手中后，我变得比从前更加强大，拥有了「他们算得了什么」的气概……我的忐忑不安完全消失了，我已能带着轻松的心情纵目四望阴郁的伦敦。 夏目漱石 《我的个人主义》..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

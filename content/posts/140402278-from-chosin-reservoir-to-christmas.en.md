@@ -1,7 +1,15 @@
 ---
 title: "From Chosin Reservoir to Christmas"
 date: 2024-01-05
+lastmod: 2024-01-05
+draft: false
+categories: ["Essays"]
 tags: [history, politics, social-commentary]
+summary: "Foreword This started when I saw a childhood friend post about the Chosin Reservoir on Christmas..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

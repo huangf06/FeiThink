@@ -1,7 +1,15 @@
 ---
 title: "On Being a Person of Integrity"
 date: 2023-05-02
+lastmod: 2023-05-02
+draft: false
+categories: ["Essays"]
 tags: [moral-philosophy, life-philosophy]
+summary: "It’s embarrassing, really. After all this time, I’m only now figuring out what I actually want. I..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

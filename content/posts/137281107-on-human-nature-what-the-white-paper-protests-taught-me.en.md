@@ -1,7 +1,15 @@
 ---
 title: "On Human Nature: What the White Paper Protests Taught Me"
 date: 2022-12-02
+lastmod: 2022-12-02
+draft: false
+categories: ["Essays"]
 tags: [social-commentary, political-philosophy, moral-philosophy]
+summary: "I. Human Nature There was a time when I felt utterly disillusioned—this place seemed like a moral..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

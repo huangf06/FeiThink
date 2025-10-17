@@ -1,7 +1,15 @@
 ---
 title: "Wandering and Belonging"
 date: 2024-09-23
+lastmod: 2024-09-23
+draft: false
+categories: ["Essays"]
 tags: [personal-essay, life-philosophy]
+summary: "The Longchang Enlightenment I was recently moved by a video from Luo Xiang: “Should we persist in..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

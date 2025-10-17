@@ -1,7 +1,15 @@
 ---
 title: "Reading Notes on The Idiot: Christ-like Love"
 date: 2024-09-23
+lastmod: 2024-09-23
+draft: false
+categories: ["Essays"]
 tags: [book-review, philosophy, literature]
+summary: "Last Friday, I felt deeply unsettled—restless and troubled. I went home early, but my frustration..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

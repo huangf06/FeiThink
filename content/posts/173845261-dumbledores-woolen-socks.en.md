@@ -1,7 +1,15 @@
 ---
 title: "Dumbledore's Woolen Socks"
 date: 2025-09-10
+lastmod: 2025-09-10
+draft: false
+categories: ["Essays"]
 tags: [personal-essay, existentialism, life-philosophy]
+summary: "Every now and then I think of Dumbledore’s woolen socks. When Harry asked Dumbledore what he saw in..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

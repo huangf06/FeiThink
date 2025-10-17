@@ -1,7 +1,15 @@
 ---
 title: "Inspired by Matthew Pottinger"
 date: 2019-09-28
+lastmod: 2019-09-28
+draft: false
+categories: ["Essays"]
 tags: [personal-essay, critical-thinking]
+summary: "This afternoon I read something about Mathew Pottinger, and I was inspired by his encouraging deeds...."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 

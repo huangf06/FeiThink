@@ -1,7 +1,15 @@
 ---
 title: "On Human Nature: What the White Paper Protests Taught Me"
 date: 2022-12-02
+lastmod: 2022-12-02
+draft: false
+categories: ["Essays"]
 tags: [social-commentary, political-philosophy, moral-philosophy]
+summary: "一、 人性 我一度对人如此失望，感觉这里是个道德和智力的洼地。 毫无信仰的人无穷无尽，城市充满着愚昧。 你很难看到无缘无故的善意，思考能力突破不了苟且偷生和荣华富贵。..."
+weight: 999
+author: "FeiThink"
+showToc: true
+TocOpen: false
 ---
 
 
