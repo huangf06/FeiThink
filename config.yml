@@ -11,6 +11,7 @@ languages:
     weight: 1
     title: "FeiThink"
     params:
+      author: "Fei Huang"
       description: "Personal blog about philosophy, technology, and life"
       profileMode:
         enabled: true
@@ -52,6 +53,7 @@ languages:
     weight: 2
     title: "飞想"
     params:
+      author: "黄飞"
       description: "关于哲学、技术与生活的个人博客"
       profileMode:
         enabled: true
@@ -103,7 +105,6 @@ minify:
 
 params:
   env: production
-  author: "Huang Fei"
   keywords: [blog, philosophy, technology, life, essays, writing, thinking]
 
   # Theme settings
