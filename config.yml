@@ -109,8 +109,8 @@ params:
   # Theme settings
   defaultTheme: auto # auto, light, dark
   disableThemeToggle: false
-  ShowReadingTime: true
-  ShowShareButtons: true
+  ShowReadingTime: false
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -167,9 +167,9 @@ params:
     hiddenInSingle: false
 
   editPost:
-    URL: "https://github.com/huangf06/FeiThink/tree/main/content"
-    Text: "Suggest Changes"
-    appendFilePath: true
+    URL: ""
+    Text: ""
+    appendFilePath: false
 
   # Search
   fuseOpts:
