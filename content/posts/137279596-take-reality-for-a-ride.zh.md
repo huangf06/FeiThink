@@ -1,5 +1,5 @@
 ---
-title: "Take Reality for a Ride"
+title: "逍遥游"
 date: 2019-11-05
 lastmod: 2019-11-05
 draft: false
