@@ -1,9 +1,19 @@
 {{- if .Params.author }}
-{{- .Params.author }}
+  {{- if or (eq .Params.author "FeiThink") (eq .Params.author "") }}
+    {{- if eq .Lang "en" }}
+      {{- "Fei Huang" }}
+    {{- else if eq .Lang "zh" }}
+      {{- "黄飞" }}
+    {{- else }}
+      {{- .Params.author }}
+    {{- end }}
+  {{- else }}
+    {{- .Params.author }}
+  {{- end }}
 {{- else if eq .Lang "en" }}
-{{- "Fei Huang" }}
+  {{- "Fei Huang" }}
 {{- else if eq .Lang "zh" }}
-{{- "黄飞" }}
+  {{- "黄飞" }}
 {{- else }}
-{{- site.Params.author | default "Author" }}
+  {{- site.Params.author | default "Author" }}
 {{- end -}}

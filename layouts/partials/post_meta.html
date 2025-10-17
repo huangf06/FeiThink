@@ -11,7 +11,7 @@
 {{- if (.Param "ShowWordCount") -}}
 {{- $wordCount := .WordCount }}
 {{- $wordLabel := "" }}
-{{- if eq $.Lang "zh" }}
+{{- if eq .Lang "zh" }}
   {{- if eq $wordCount 1 }}
     {{- $wordLabel = "1 字" }}
   {{- else }}
