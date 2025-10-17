@@ -10,21 +10,15 @@
 
 {{- if (.Param "ShowWordCount") -}}
 {{- $wordCount := .WordCount }}
-{{- $wordLabel := "" }}
 {{- if eq .Lang "zh" }}
-  {{- if eq $wordCount 1 }}
-    {{- $wordLabel = "1 字" }}
-  {{- else }}
-    {{- $wordLabel = (printf "%d 字" $wordCount) }}
-  {{- end }}
+  {{- $scratch.Add "meta" (slice (printf "<span>%d 字</span>" $wordCount)) }}
 {{- else }}
   {{- if eq $wordCount 1 }}
-    {{- $wordLabel = "1 word" }}
+    {{- $scratch.Add "meta" (slice (printf "<span>1 word</span>")) }}
   {{- else }}
-    {{- $wordLabel = (printf "%d words" $wordCount) }}
+    {{- $scratch.Add "meta" (slice (printf "<span>%d words</span>" $wordCount)) }}
   {{- end }}
 {{- end }}
-{{- $scratch.Add "meta" (slice (printf "<span>%s</span>" $wordLabel)) }}
 {{- end }}
 
 {{- if not (.Param "hideAuthor") -}}
