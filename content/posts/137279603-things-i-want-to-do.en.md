@@ -30,9 +30,9 @@ In previous articles and social media posts, I’ve repeatedly mentioned that my
 
 One impression from my Hegel philosophy class: those great philosophers all harbored political ideals, didn’t they? Though they talked about the universe, existence and spirit, all sorts of things—to my ears it all sounded like politics, social ethics, relationships between people, relationships between people and the world. From the court above to the common people below, everyone dreams of some ideal world, without exception. Whether it’s professors devoted to scholarship at Fudan, or internet fiction authors like Maoni.
 
-I hope the people of the Qing Kingdom can all become unrestrained people. When abused by others, have an unyielding heart; when struck by disaster and evil, have an undefeated heart; when there is injustice, have a fearless heart to correct it; do not fawn before jackals and tigers.
-
-Maoni, *Joy of Life*
+> I hope the people of the Qing Kingdom can all become unrestrained people. When abused by others, have an unyielding heart; when struck by disaster and evil, have an undefeated heart; when there is injustice, have a fearless heart to correct it; do not fawn before jackals and tigers.
+>
+> — Maoni, *Joy of Life*
 
 This is a sentence that made a strong impression on me after watching a few episodes of *Joy of Life* at Qiang’s place. This is the author’s political ambition. So what does my ideal state look like? Right now I only have a vague outline, still many confusions and uncertainties. I will continue exploring in some form.
 
@@ -91,14 +91,9 @@ These are the five things I currently want to do. There are many other small mat
 *Explanation: Let me finally explain why I must speak out my thoughts. Because traditionally we’re always taught to hide our goals in our hearts, work hard step by step, do great things quietly. Those who speak out their ideas are often called people without ambition who keep making resolutions, or there’s that “the nail that sticks out gets hammered” or “the tallest tree catches the wind” nonsense. In fact, that used to be my creed and operating style too. But I intuitively feel such dogma is too stale, doesn’t fit the modern spirit. So I choose not.*
 
 *Three considerations:*
-1. 
 
-*Implement our principle of thinking aloud.*
-1. 
-
-*Train my ability to focus. Simply put, if speaking out makes you feel tremendous pressure, you’re giving others too much attention they don’t deserve. Making a fortune quietly isn’t exciting at all, doesn’t show capability. Getting things done under everyone’s watchful eyes—that’s real skill.*
-1. 
-
-*Attract kindred spirits.*
+1. *Implement our principle of thinking aloud.*
+2. *Train my ability to focus. Simply put, if speaking out makes you feel tremendous pressure, you're giving others too much attention they don't deserve. Making a fortune quietly isn't exciting at all, doesn't show capability. Getting things done under everyone's watchful eyes—that's real skill.*
+3. *Attract kindred spirits.*
 
 ---
