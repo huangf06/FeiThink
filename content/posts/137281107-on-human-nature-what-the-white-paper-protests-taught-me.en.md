@@ -18,9 +18,11 @@ TocOpen: false
 
 There was a time when I felt utterly disillusioned—this place seemed like a moral and intellectual desert.
 
-Faithless masses everywhere. Cities drowning in ignorance.
+> Faithless masses everywhere. Cities drowning in ignorance.
+>
+> *—Walt Whitman, "O Me! O Life!"*
 
-Genuine kindness was rare. People’s thinking couldn’t escape the gravity of survival and wealth.
+Genuine kindness was rare. People's thinking couldn't escape the gravity of survival and wealth.
 
 But any functioning system needs citizens who match its spirit.
 
