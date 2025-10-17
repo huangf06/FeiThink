@@ -1,0 +1,9 @@
+{{- if .Params.author }}
+{{- .Params.author }}
+{{- else if eq .Lang "en" }}
+{{- "Fei Huang" }}
+{{- else if eq .Lang "zh" }}
+{{- "黄飞" }}
+{{- else }}
+{{- site.Params.author | default "Author" }}
+{{- end -}}
