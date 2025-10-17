@@ -94,19 +94,3 @@ I’m amazed—because two thousand years later, the world hasn’t surpassed Ar
 
 That concludes our discussion of ethics and politics for now. The question “Is there universal law?” remains open—we’ll keep exploring it in future installments.
 
----
-
-第一个时期哲学家们讨论的自然和宇宙；  
-第二个时期哲学家们关心的则是认识本身和伦理政治问题。
-
-经过前面一百五十年的讨论，产生各种矛盾又各有道理的观点，人们开始怀疑起人的认识本身。  
-同时，希腊向外殖民的过程中遇到各种不同风俗习惯的异族人。
-
-由此，希腊人开始思考以下两个问题：
-
-**1.  人到底能不能获得确定的知识？**  
-**2.  有没有一个普遍有效放之四海而皆准的道德政治理念？**
-
-这两个问题是有关联的：因为假如人们不能获得确定的知识，持完全不同观点的人都对，那么凭什么要求别人都来听我的，跟我们风俗习惯不一样的人也来遵守我们的法律？
-
----
