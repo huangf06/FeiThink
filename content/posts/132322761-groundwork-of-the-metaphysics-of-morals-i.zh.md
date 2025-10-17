@@ -1,5 +1,5 @@
 ---
-title: "Groundwork of the Metaphysics of Morals (I)"
+title: "《道德形而上学奠基》（一）"
 date: 2023-07-01
 lastmod: 2023-07-01
 draft: false

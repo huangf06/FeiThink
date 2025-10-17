@@ -1,5 +1,5 @@
 ---
-title: "Reflections on 12.12: The Day"
+title: "《首尔之春》观后感"
 date: 2024-02-16
 lastmod: 2024-02-16
 draft: false

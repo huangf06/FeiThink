@@ -1,5 +1,5 @@
 ---
-title: "The Scale of Time"
+title: "时间的刻度"
 date: 2025-08-30
 lastmod: 2025-08-30
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "History of Thought [04]: Overview and Reflections"
+title: "思想史(四)完结篇：纵览"
 date: 2021-04-07
 lastmod: 2021-04-07
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "History of Thought [03]: How to Be Happy"
+title: "思想史(三)如何获得幸福"
 date: 2021-01-17
 lastmod: 2021-01-17
 draft: false

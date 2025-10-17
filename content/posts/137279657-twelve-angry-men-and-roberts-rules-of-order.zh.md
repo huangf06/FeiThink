@@ -1,5 +1,5 @@
 ---
-title: "Twelve Angry Men and Robert's Rules of Order"
+title: "《十二怒汉》和罗伯特议事规则"
 date: 2020-10-05
 lastmod: 2020-10-05
 draft: false

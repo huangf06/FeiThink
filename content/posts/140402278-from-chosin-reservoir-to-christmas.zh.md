@@ -1,5 +1,5 @@
 ---
-title: "From Chosin Reservoir to Christmas"
+title: "从长津湖到圣诞节"
 date: 2024-01-05
 lastmod: 2024-01-05
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Why We Read Kant"
+title: "为什么我们要读康德？"
 date: 2024-10-09
 lastmod: 2024-10-09
 draft: false

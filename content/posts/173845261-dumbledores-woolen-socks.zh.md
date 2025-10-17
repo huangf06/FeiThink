@@ -1,5 +1,5 @@
 ---
-title: "Dumbledore's Woolen Socks"
+title: "邓布利多的羊毛袜"
 date: 2025-09-10
 lastmod: 2025-09-10
 draft: false

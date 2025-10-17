@@ -1,5 +1,5 @@
 ---
-title: "Vagabond and the Sublime"
+title: "Vagabond and the Sublime:《浪客行》和崇高"
 date: 2023-10-01
 lastmod: 2023-10-01
 draft: false

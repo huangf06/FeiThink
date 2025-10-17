@@ -1,5 +1,5 @@
 ---
-title: "To High School Students: Written to my sister"
+title: "致高中生-写给我的妹妹"
 date: 2019-10-14
 lastmod: 2019-10-14
 draft: false

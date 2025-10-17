@@ -1,5 +1,5 @@
 ---
-title: "Memories of College Life: On Pain and Healing"
+title: "追忆大学时光——关于伤痛和治愈"
 date: 2020-02-10
 lastmod: 2020-02-10
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Wandering and Belonging"
+title: "漂泊和归属"
 date: 2024-09-23
 lastmod: 2024-09-23
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Elements of Happiness for INTJs"
+title: "Elements of Happiness for INTJs: INTJ的幸福元素"
 date: 2024-01-06
 lastmod: 2024-01-06
 draft: false

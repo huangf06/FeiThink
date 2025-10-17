@@ -1,5 +1,5 @@
 ---
-title: "On Being a Person of Integrity"
+title: "做一个正直的人"
 date: 2023-05-02
 lastmod: 2023-05-02
 draft: false

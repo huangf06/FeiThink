@@ -1,5 +1,5 @@
 ---
-title: "On Liberal Education and Free Will"
+title: "关于博雅教育和自由意志"
 date: 2020-05-11
 lastmod: 2020-05-11
 draft: false

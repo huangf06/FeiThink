@@ -1,5 +1,5 @@
 ---
-title: "Subjectivity: How to Become the Protagonist of Your Own Life"
+title: "主体性：如何成为自己人生的主角"
 date: 2025-01-17
 lastmod: 2025-01-17
 draft: false

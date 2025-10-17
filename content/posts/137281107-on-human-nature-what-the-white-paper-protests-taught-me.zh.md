@@ -1,5 +1,5 @@
 ---
-title: "On Human Nature: What the White Paper Protests Taught Me"
+title: "关于人性"
 date: 2022-12-02
 lastmod: 2022-12-02
 draft: false

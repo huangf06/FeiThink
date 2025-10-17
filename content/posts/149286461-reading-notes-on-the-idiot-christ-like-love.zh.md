@@ -1,5 +1,5 @@
 ---
-title: "Reading Notes on The Idiot: Christ-like Love"
+title: "《白痴》读后：基督式的爱"
 date: 2024-09-23
 lastmod: 2024-09-23
 draft: false

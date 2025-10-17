@@ -1,5 +1,5 @@
 ---
-title: "History of Thought [01]: From Myth to Reason"
+title: "思想史(一)从万物是水到原子论"
 date: 2020-12-25
 lastmod: 2020-12-25
 draft: false

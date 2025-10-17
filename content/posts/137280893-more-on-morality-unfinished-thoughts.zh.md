@@ -1,5 +1,5 @@
 ---
-title: "More on Morality: Unfinished Thoughts"
+title: "关于道德没说完的事"
 date: 2022-03-22
 lastmod: 2022-03-22
 draft: false

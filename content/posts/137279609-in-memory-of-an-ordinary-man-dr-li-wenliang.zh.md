@@ -1,5 +1,5 @@
 ---
-title: "In Memory of an Ordinary Man: Dr. Li Wenliang"
+title: "纪念一个普通人"
 date: 2020-02-09
 lastmod: 2020-02-09
 draft: false

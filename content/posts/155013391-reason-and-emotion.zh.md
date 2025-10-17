@@ -1,5 +1,5 @@
 ---
-title: "Reason and Emotion"
+title: "理智与情感"
 date: 2025-01-17
 lastmod: 2025-01-17
 draft: false

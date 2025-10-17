@@ -1,5 +1,5 @@
 ---
-title: "What Is Morality?"
+title: "道德是什么？"
 date: 2022-03-11
 lastmod: 2022-03-11
 draft: false

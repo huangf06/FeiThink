@@ -1,5 +1,5 @@
 ---
-title: "Questions About a Recent Viral Article (I)"
+title: "关于近期广为流传文章的几点质疑(一)"
 date: 2019-11-16
 lastmod: 2019-11-16
 draft: false

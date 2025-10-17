@@ -1,5 +1,5 @@
 ---
-title: "History of Thought [02]: Is There Universal Law?"
+title: "思想史(二)有普世的法吗？"
 date: 2021-01-13
 lastmod: 2021-01-13
 draft: false

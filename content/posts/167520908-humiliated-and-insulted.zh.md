@@ -1,5 +1,5 @@
 ---
-title: "Humiliated and Insulted"
+title: "《被侮辱与被损害的人》"
 date: 2025-05-03
 lastmod: 2025-05-03
 draft: false

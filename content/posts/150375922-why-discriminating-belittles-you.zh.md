@@ -1,5 +1,5 @@
 ---
-title: "Why Discriminating Belittles You"
+title: "为什么歧视让人更显渺小？"
 date: 2024-10-18
 lastmod: 2024-10-18
 draft: false

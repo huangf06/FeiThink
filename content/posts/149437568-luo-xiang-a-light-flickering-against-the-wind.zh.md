@@ -1,5 +1,5 @@
 ---
-title: "Luo Xiang: A Light Flickering Against the Wind"
+title: "罗翔翻车：逆风闪烁的光"
 date: 2024-09-26
 lastmod: 2024-09-26
 draft: false

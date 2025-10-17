@@ -1,5 +1,5 @@
 ---
-title: "Rereading The Brothers Karamazov"
+title: "【书评】重读《卡拉马佐夫兄弟》"
 date: 2025-06-05
 lastmod: 2025-06-05
 draft: false

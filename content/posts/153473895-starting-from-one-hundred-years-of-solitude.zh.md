@@ -1,5 +1,5 @@
 ---
-title: "Starting from One Hundred Years of Solitude"
+title: "从《百年孤独》讲起"
 date: 2024-12-22
 lastmod: 2024-12-22
 draft: false

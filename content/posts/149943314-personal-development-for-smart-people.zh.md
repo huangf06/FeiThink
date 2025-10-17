@@ -1,5 +1,5 @@
 ---
-title: "Personal Development for Smart People"
+title: "聪明人的个人成长"
 date: 2024-10-07
 lastmod: 2024-10-07
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Essence of Existential Psychotherapy"
+title: "《存在主义心理治疗》精要"
 date: 2024-03-29
 lastmod: 2024-03-29
 draft: false

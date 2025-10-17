@@ -1,5 +1,5 @@
 ---
-title: "How to Take Care of Your Emotions"
+title: "如何照顾自己的情绪"
 date: 2024-09-23
 lastmod: 2024-09-23
 draft: false
