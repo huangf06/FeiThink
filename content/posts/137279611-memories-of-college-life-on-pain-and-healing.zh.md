@@ -276,11 +276,11 @@ I shall not blame myself because I am good enough.
 很多人把他们的教育和信息视为自己能力理所当然的一部分。  
 但是，并不是。
 
-Whenever you feel like criticizing any one, just remember that all the people in this world haven’t had the advantages that you’ve had.
-
-每当你想要批评任何人的时候，你就记住，这个世界上所有的人，并不是个个都有过你拥有的那些优越条件。
-
-The Great Gatsby 《了不起的盖茨比》
+> Whenever you feel like criticizing any one, just remember that all the people in this world haven't had the advantages that you've had.
+>
+> 每当你想要批评任何人的时候，你就记住，这个世界上所有的人，并不是个个都有过你拥有的那些优越条件。
+>
+> *The Great Gatsby 《了不起的盖茨比》*
 
 对发生在我自己身上的事，我没有什么值得抱怨的。  
 因为我已经被赋予了绝大多数人无法拥有的万里挑一级的智力天赋。  
@@ -296,20 +296,23 @@ Do you know the difference？
 如果单单只是贫穷，那我只需要让自己脱贫就够了。  
 但是如果真正原因是贫富差距，那仅仅是让我自己脱贫使我一个人得救就没有太大意义。
 
-但凡有可能，我希望能致力于改变这不公的世道，无论我能做的有多少。  
+但凡有可能，我希望能致力于改变这不公的世道，无论我能做的有多少。
 正像马丁路德金的名篇《我有一个梦想》所言：
 
-我梦想有一天，这个国家会站立起来，真正实现其信条的真谛：我们认为这些真理是不言而喻的：人人生而平等。  
-我梦想有一天，在乔治亚的红山上，昔日奴隶的儿子将能够和昔日奴隶主的儿子坐在一起，共叙兄弟情谊。  
-我梦想有一天，甚至连密西西比州这个正义匿迹，压迫成风，如同沙漠般的地方，也将变成自由和正义的绿洲。  
-我梦想有一天，我的四个孩子将在一个不是以他们的肤色，而是以他们的品格优劣来评价他们的国度里生活。
-
-《我有一个梦想》——马丁路德金
-
-I have a dream that one day this nation will rise up and live out the true meaning of its creed: We hold these truths to be self-evident: that all men are created equal.
-
-I have a dream that one day on the red hills of Georgia the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood.
-
-I have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice.
-
-I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.
+> 我梦想有一天，这个国家会站立起来，真正实现其信条的真谛：我们认为这些真理是不言而喻的：人人生而平等。
+>
+> 我梦想有一天，在乔治亚的红山上，昔日奴隶的儿子将能够和昔日奴隶主的儿子坐在一起，共叙兄弟情谊。
+>
+> 我梦想有一天，甚至连密西西比州这个正义匿迹，压迫成风，如同沙漠般的地方，也将变成自由和正义的绿洲。
+>
+> 我梦想有一天，我的四个孩子将在一个不是以他们的肤色，而是以他们的品格优劣来评价他们的国度里生活。
+>
+> I have a dream that one day this nation will rise up and live out the true meaning of its creed: We hold these truths to be self-evident: that all men are created equal.
+>
+> I have a dream that one day on the red hills of Georgia the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood.
+>
+> I have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice.
+>
+> I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.
+>
+> *《我有一个梦想》——马丁路德金*

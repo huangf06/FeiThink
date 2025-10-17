@@ -161,9 +161,9 @@ Mentioned poverty in a job interview once—female interviewer rolled her eyes. 
 
 Many people think their education and information are naturally part of their own abilities. They’re not.
 
-Whenever you feel like criticizing any one, just remember that all the people in this world haven’t had the advantages that you’ve had.
-
-*The Great Gatsby*
+> Whenever you feel like criticizing any one, just remember that all the people in this world haven't had the advantages that you've had.
+>
+> *The Great Gatsby*
 
 About what happened to me personally—I have no complaints. I was given intelligence at the one-in-ten-thousand level. Talent most people never possess. I’m already among the favored.
 
@@ -173,14 +173,14 @@ See the difference? “Don’t resent scarcity—resent inequality.” And this:
 
 If possible, I want to dedicate myself to changing this unjust world. However much I can. As Martin Luther King said in his famous speech:
 
-I have a dream that one day this nation will rise up and live out the true meaning of its creed: We hold these truths to be self-evident: that all men are created equal.
-
-I have a dream that one day on the red hills of Georgia the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood.
-
-I have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice.
-
-I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.
-
-“I Have a Dream” — Martin Luther King Jr.
+> I have a dream that one day this nation will rise up and live out the true meaning of its creed: We hold these truths to be self-evident: that all men are created equal.
+>
+> I have a dream that one day on the red hills of Georgia the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood.
+>
+> I have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice.
+>
+> I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.
+>
+> "I Have a Dream" — Martin Luther King Jr.
 
 ---
