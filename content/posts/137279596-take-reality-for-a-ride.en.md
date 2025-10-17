@@ -82,7 +82,3 @@ The world has treacherous peaks. Only those with iron resolve can reach them.
 > Take off. Put a saddle on your universe. Let it kick itself out.
 >
 > — Rick and Morty, S3E09
-
----
-
-### ** **1. Good and bad are artificial constructs.**遂舍善恶之心**
