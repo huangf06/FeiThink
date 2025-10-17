@@ -9,10 +9,11 @@
 {{- end }}
 
 {{- if (.Param "ShowWordCount") -}}
-{{- $wordCount := .WordCount }}
 {{- if eq .Lang "zh" }}
-  {{- $scratch.Add "meta" (slice (printf "<span>[CUSTOM-ZH]%d字</span>" $wordCount)) }}
+  {{- $charCount := len .Plain }}
+  {{- $scratch.Add "meta" (slice (printf "<span>%d 字</span>" $charCount)) }}
 {{- else }}
+  {{- $wordCount := .WordCount }}
   {{- if eq $wordCount 1 }}
     {{- $scratch.Add "meta" (slice (printf "<span>1 word</span>")) }}
   {{- else }}
