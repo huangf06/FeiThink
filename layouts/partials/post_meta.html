@@ -10,7 +10,8 @@
 
 {{- if (.Param "ShowWordCount") -}}
 {{- if eq .Lang "zh" }}
-  {{- $charCount := len .Plain }}
+  {{- $chineseChars := findRE "[\\p{Han}]" .Plain }}
+  {{- $charCount := len $chineseChars }}
   {{- $scratch.Add "meta" (slice (printf "<span>%d 字</span>" $charCount)) }}
 {{- else }}
   {{- $wordCount := .WordCount }}
