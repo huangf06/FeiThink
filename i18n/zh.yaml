@@ -1,0 +1,4 @@
+- id: words
+  translation:
+    one: "1 字"
+    other: "{{ .Count }} 字"
