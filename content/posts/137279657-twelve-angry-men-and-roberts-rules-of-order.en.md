@@ -24,7 +24,7 @@ In essence, Robert’s Rules is an art of defining the boundaries between the co
 
 ---
 
-### **Reflections on ** ***Twelve Angry Men***
+### **Reflections on** *Twelve Angry Men*
 
 Once I understood the basic principles, the question became: how do you actually put this into practice? I have to say, there’s precious little to go on. Partly this reflects the failures of our education—no one ever teaches you how to organize and work with others as equals in a self-governing way. But it’s also the cultural conditioning of everyday life: rigid hierarchies everywhere you turn. People are conditioned to be led, to wait passively for instructions, or else to become lone wolves who’d rather go it alone than waste breath on collaboration.
 
@@ -60,7 +60,7 @@ Finally, here are my own distilled “Eight Principles from Robert’s Rules”�
 
 ---
 
-**Note:**Why do I want to run a reading group anyway? Isn’t it better to just research and think deeply on your own?
+**Note:** Why do I want to run a reading group anyway? Isn't it better to just research and think deeply on your own?
 
 For one thing, it helps with loneliness. Loneliness is a chronic disease. At one point I felt myself sliding toward depression, and the reading group genuinely helped pull me back. Plus, good conversation—really good conversation—is its own kind of joy. Probably only people who’ve experienced it know what I mean.
 
