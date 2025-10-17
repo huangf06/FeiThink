@@ -19,7 +19,7 @@ TocOpen: false
 I hurt someone with my words at Mark’s wedding. Afterward, I kept turning the whole thing over in my mind, trying to figure out some universal code of conduct. Eventually, through some mental pathway, I arrived at this:
 
 This world has no good or evil, only cause and effect.
-![](https://substack-post-media.s3.amazonaws.com/public/images/c2f8f059-78b0-4f09-833e-4a8d49e0633c_1024x640.jpeg)](https://substackcdn.com/image/fetch/$s_!s0so!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2f8f059-78b0-4f09-833e-4a8d49e0633c_1024x640.jpeg)
+![](https://substack-post-media.s3.amazonaws.com/public/images/c2f8f059-78b0-4f09-833e-4a8d49e0633c_1024x640.jpeg)
 
 Coincidentally, the very next day I saw a line in *Rick and Morty* that meant exactly the same thing:
 
@@ -76,7 +76,7 @@ Do you have the courage to stand alone against thousands? Can you withstand hund
 
 The world has treacherous peaks. Only those with iron resolve can reach them.
 ### **3. Who am I? What do I do?**
-![](https://substack-post-media.s3.amazonaws.com/public/images/327578c7-630b-47e0-a159-fdbffdc5c514_1024x640.jpeg)](https://substackcdn.com/image/fetch/$s_!r8Ft!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F327578c7-630b-47e0-a159-fdbffdc5c514_1024x640.jpeg)
+![](https://substack-post-media.s3.amazonaws.com/public/images/327578c7-630b-47e0-a159-fdbffdc5c514_1024x640.jpeg)
 
 
 > Take off. Put a saddle on your universe. Let it kick itself out.
