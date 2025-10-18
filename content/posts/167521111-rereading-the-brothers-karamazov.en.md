@@ -93,5 +93,7 @@ However, one paper, "Dostoevsky's Christian Thought Through 'The Grand Inquisito
 > Where happiness is valued over freedom, the temporary placed above the eternal, loving humanity used to oppose loving God—there lies the spirit of the Grand Inquisitor.
 >
 > Where it's emphasized that truth is useless for human happiness, that life can be arranged without understanding life's meaning—there it lies.
+>
+> *—from "Dostoevsky's Christian Thought Through 'The Grand Inquisitor'"*
 
 ---
