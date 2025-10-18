@@ -64,21 +64,9 @@ And educational change fundamentally begins with philosophical change. After rea
 
 Especially when reading this passage in intellectual history, I was struck with admiration:
 
-> "Limited democracy is the best form of government we can hope for.
+> Limited democracy is the best state we can hope for. The state is governed by law, a 'mixed government': democratic in quantity and aristocratic in quality. Politics is based on laws so that everyone can be free, and many citizens can have a say. The middle class should have the most power—neither rich nor poor. Government members are numerous enough for broad representation, yet few enough to ensure transparency. This provides the best balance between public opinion and intelligent administration. Most importantly, this is the most feasible form of government.
 >
-> The state is governed by law, democratic in quantity, aristocratic in quality.
->
-> Politics is based on law, thus everyone is free, and many have a voice.
->
-> Neither the rich nor the poor, but the middle class has the most power.
->
-> Government members are numerous enough to represent public opinion, yet few enough to ensure political transparency.
->
-> This system achieves the best balance between public opinion and wise management.
->
-> Most importantly, this is the most feasible system."
->
-> —Aristotle
+> —Aristotle, summarized in *A History of Western Thought*
 
 Two contemporaries—Aristotle’s thought encompassed patterns that two thousand years of global political development haven’t surpassed. Meanwhile, Confucius was still advocating for reviving Zhou rituals, which was already antiquated even then. And China’s two thousand years of culture has just been patching and mending on this foundation that wasn’t very advanced from birth, binding its own feet. This is the deep reason why China’s social organization hasn’t fundamentally changed in two thousand years. As Hegel said, “China has no history, only endless repetition of dynastic collapse and replacement, with the entire nation making no progress in the process.”
 
