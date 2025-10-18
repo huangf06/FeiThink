@@ -63,3 +63,8 @@ temp/
 public/
 resources/
 .hugo_build.lock
+
+# Personal and sensitive files
+*.pdf
+*.csv
+.claude/settings.local.json
