@@ -122,22 +122,13 @@ Which brings me to the word that captures my position:
 
 Usually translated as 正直 (zhengzhi) in Chinese.
 
-But this word deserves unpacking—it’s incredibly rich. My current understanding includes at least these layers:
-1. 
+But this word deserves unpacking—it's incredibly rich. My current understanding includes at least these layers:
 
-Moral law grounded in reason and universality
-1. 
-
-Principles that survive scrutiny—theoretically coherent, internally consistent
-1. 
-
-Unconditional commitment to those principles. Walk the talk. Find courage when scared. Stay uncorrupted, unbowed.
-1. 
-
-No exceptions—not for yourself, not for anyone. No discrimination. No special pleading.
-1. 
-
-Honesty. No lies to others. No lies to yourself.
+1. Moral law grounded in reason and universality
+2. Principles that survive scrutiny—theoretically coherent, internally consistent
+3. Unconditional commitment to those principles. Walk the talk. Find courage when scared. Stay uncorrupted, unbowed.
+4. No exceptions—not for yourself, not for anyone. No discrimination. No special pleading.
+5. Honesty. No lies to others. No lies to yourself.
 
 This word encompasses everything I value. More important than kindness, even. Kindness without integrity? Insufferable sometimes.
 
