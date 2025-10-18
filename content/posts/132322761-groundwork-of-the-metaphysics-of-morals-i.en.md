@@ -130,10 +130,16 @@ First, I found it deeply satisfying—like someone starving who finally gets foo
 
 > It is impossible to think of anything at all in the world, or indeed even beyond it, that could be considered good without limitation, except a good will.
 >
+> *—Immanuel Kant, Groundwork of the Metaphysics of Morals*
+
 > If all value were conditional and therefore contingent, no supreme practical principle could be found for reason at all.
 >
+> *—Immanuel Kant, Groundwork of the Metaphysics of Morals*
+
 > In the kingdom of ends everything has either a price or a dignity.
 >
+> *—Immanuel Kant, Groundwork of the Metaphysics of Morals*
+
 > That which constitutes the condition under which alone something can be an end in itself has not merely a relative worth, i.e., a price, but an inner worth, i.e., dignity.
 >
 > *—Immanuel Kant, Groundwork of the Metaphysics of Morals*
