@@ -12,11 +12,11 @@ languages:
     title: "FeiThink"
     params:
       author: "Fei Huang"
-      description: "Personal blog about philosophy, technology, and life"
+      description: "Where mathematical rigor meets philosophical inquiry"
       profileMode:
         enabled: true
         title: "FeiThink"
-        subtitle: "Thoughts on philosophy, technology, and life"
+        subtitle: "Bridging quantitative finance, AI, and philosophy"
         buttons:
           - name: Posts
             url: posts/
@@ -54,11 +54,11 @@ languages:
     title: "飞想"
     params:
       author: "黄飞"
-      description: "关于哲学、技术与生活的个人博客"
+      description: "数学精确与哲学深邃的交汇处"
       profileMode:
         enabled: true
         title: "飞想"
-        subtitle: "哲学、技术与生活的思考"
+        subtitle: "连接量化金融、人工智能与哲学思考"
         buttons:
           - name: 文章
             url: posts/
@@ -105,7 +105,7 @@ minify:
 
 params:
   env: production
-  keywords: [blog, philosophy, technology, life, essays, writing, thinking]
+  keywords: [quantitative finance, artificial intelligence, deep learning, reinforcement learning, philosophy, Kant, Dostoevsky, moral philosophy, trading strategies, uncertainty quantification]
 
   # Theme settings
   defaultTheme: auto # auto, light, dark
@@ -143,17 +143,17 @@ params:
   homeInfoParams:
     Title: "Welcome to FeiThink"
     Content: |
-      A place for exploring philosophy, technology, and the human experience.
+      Where mathematical rigor meets philosophical depth.
 
-      Feel free to explore my posts or browse by tags.
+      Exploring the intersections of quantitative finance, artificial intelligence, and moral philosophy.
 
   socialIcons:
     - name: github
       url: "https://github.com/huangf06"
     - name: linkedin
-      url: "https://linkedin.com/in/yourusername"
+      url: "https://www.linkedin.com/in/fei-huang-9a7b5a1b7/"
     - name: email
-      url: "mailto:your.email@example.com"
+      url: "mailto:huangf06@gmail.com"
     - name: rss
       url: "/index.xml"
 

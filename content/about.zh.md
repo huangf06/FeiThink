@@ -1,29 +1,25 @@
 ---
 title: "关于"
-date: 2025-01-15
+date: 2025-01-18
 draft: false
 showToc: false
 ---
 
-## 关于我
+黄飞。阿姆斯特丹自由大学AI硕士 (2025)，清华大学工业工程学士 (2010)。
 
-我是黄飞，一个热衷于哲学与技术的探索者，关注思想、语言与人类体验的交汇点。
+十年数据科学，七年量化交易经验。
 
-## 关于这个博客
+硕士研究深度强化学习的不确定性量化——让AI认识自身局限。
 
-飞想是一个双语平台，我在这里分享：
+崇尚康德、陀思妥耶夫斯基。核心问题：理性存在者如何在不确定中行动？
 
-- **哲学翻译**：在中英文之间传递重要的哲学文本
-- **文学作品**：原创与翻译的文学作品
-- **随笔**：关于技术、生活与文化的反思
+爱好写作，博客记录思考。
 
-## 联系方式
-
-欢迎联系：
-
+联系：
+- Email: huangf06@gmail.com
 - GitHub: [huangf06](https://github.com/huangf06)
-- 邮箱：your.email@example.com
+- LinkedIn: [Fei Huang](https://www.linkedin.com/in/huangf06/)
 
-## 技术信息
+---
 
-本站使用 [Hugo](https://gohugo.io/) 和 [PaperMod](https://github.com/adityatelange/hugo-PaperMod) 主题构建，部署在 GitHub Pages。
+*正圆是神的领域，凡人只好化圆为方渐趋逼近。计划研究精通十七个领域。*
