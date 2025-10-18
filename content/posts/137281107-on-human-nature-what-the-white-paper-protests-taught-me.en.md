@@ -18,7 +18,7 @@ TocOpen: false
 
 There was a time when I felt utterly disillusioned—this place seemed like a moral and intellectual desert.
 
-> Faithless masses everywhere. Cities drowning in ignorance.
+> Of the endless trains of the faithless, of cities fill'd with the foolish.
 >
 > *—Walt Whitman, "O Me! O Life!"*
 

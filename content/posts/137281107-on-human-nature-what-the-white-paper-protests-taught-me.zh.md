@@ -18,7 +18,7 @@ TocOpen: false
 
 我一度对人如此失望，感觉这里是个道德和智力的洼地。
 
-> 毫无信仰的人无穷无尽，城市充满着愚昧。
+> Of the endless trains of the faithless, of cities fill'd with the foolish.
 >
 > *—沃尔特·惠特曼《啊，我啊，生活！》*
 
