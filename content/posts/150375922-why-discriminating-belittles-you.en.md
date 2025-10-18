@@ -53,7 +53,7 @@ For instance, consider the women I mentioned earlier who mock "Chinese men" and 
 
 Or take the time I was chatting on Clubhouse with a group of Indians, and they proudly talked about how India is the world’s largest democracy. But what I was thinking was, democracy doesn’t guarantee you always do the right thing or stand up for justice. When I asked if most Indians supported Russia’s invasion of Ukraine, the conversation became awkwardly silent, and they mumbled something about being "neutral."
 
-Another example is my support for the causes of Hong Kong and Taiwan. But after repeatedly seeing posts on social media where people from TW & HK mock mainland Chinese as "Ch*nese," my support remains, but my respect fades.
+Another example is my support for the causes of Hong Kong and Taiwan. But after repeatedly seeing posts on social media where people from these regions mock mainland Chinese, my support remains, but my respect fades.
 
 All these experiences that trigger my disgust seem to hint at a deeper moral truth. This is reflected in the saying I came up with earlier: people who unjustly discriminate against others are often smaller than those they look down on. After all, you’re likely no different from the people you discriminate against, but by showing prejudice, you’ve added an extra layer of arrogance.
 
@@ -64,15 +64,15 @@ If the standard by which we measure greatness is how high a person can rise—wh
 What defines your moral worth and character is not how high you elevate yourself or how strong your sense of superiority is. The true measure lies in your shortcomings. If you view certain people as untouchable or beneath you, it’s as if a part of you has also become worthless. I don’t fully understand the principle behind this yet, but it seems that all of our moral instincts point in this direction.
 ### **Reflections on Guilt**
 
-Take, for instance, the recent case of the Japanese elementary school student murdered in Shenzhen. Many overseas Chinese on Twitter condemned the killer and even declared they wanted to distance themselves Chinese people. While this desire to disassociate is understandable, but something feels off.
+Take, for instance, the recent case of the Japanese elementary school student murdered in Shenzhen. Many overseas Chinese on Twitter condemned the killer and even declared they wanted to distance themselves from Chinese people. While this desire to disassociate is understandable, something still feels off.
 
-What exactly feels wrong? It’s the fact that this attitude misses the truth. The truth is, when confronting guilt, none of us can fully absolve ourselves, because we all share responsibility for the wrongs of others.
+What exactly feels wrong? It's the fact that this attitude misses the truth. The truth is, when confronting guilt, none of us can fully absolve ourselves, because we all share responsibility for the wrongs of others.
 
-All I shall also tell you, dear mother, that each of us is guilty in everything before everyone, and I most of all.
+> Each of us is guilty in everything before everyone, and I most of all.
+>
+> *—Dostoevsky, The Brothers Karamazov*
 
-The Brothers Karamazov
-
-The world is one great whole, and each individual is like a cell within it. You cannot fully separate yourself from responsibility, even if we all have different roles in this world. This is why any understanding that falls short of this feels morally uncomfortable. You might partially agree with the idea, but you’ll always sense that something is missing.
+The world is one great whole, and each individual is like a cell within it. You cannot fully separate yourself from responsibility, even if we all have different roles in this world. This is why any understanding that falls short of this feels morally uncomfortable. You might partially agree with the idea, but you'll always sense that something is missing.
 ### **Practicing Equality**
 
 Practice the belief that everyone is your equal. No one is inferior, no one is superior.
@@ -81,8 +81,8 @@ I know this is difficult. How can I treat those who insult and harm me with the 
 
 I don’t have a clear answer either. What I propose is a "15% Rule": no matter how great the differences may seem, all people share at least 85% in common. Those striking differences we see between people really only account for 15%. No matter how much you dislike or disregard someone, preserve at least 85% of your respect for them, if only for the 85% you share with them as fellow human beings.
 
-**Note**: 
+**Note:**
 
-Where does the 15% figure come from? It’s based on a rule of thumb I’ve developed after reflecting on several big issues lately. For example: How much free will do people really have? Are we primarily shaped by our environment? Can people change, and if so, how much? What percentage of people are truly able to break free from stereotypes? In my experience, the answer is much lower than we might assume. In many ways, people are largely determined by external factors—about 85%—including genetics, culture, education, and life experiences. Meanwhile, the influence of personal free will and choice makes up only about 15%.
+Where does the 15% figure come from? It's based on a rule of thumb I've developed after reflecting on several big issues lately. For example: How much free will do people really have? Are we primarily shaped by our environment? Can people change, and if so, how much? What percentage of people are truly able to break free from stereotypes? In my experience, the answer is much lower than we might assume. In many ways, people are largely determined by external factors—about 85%—including genetics, culture, education, and life experiences. Meanwhile, the influence of personal free will and choice makes up only about 15%.
 
 ---
