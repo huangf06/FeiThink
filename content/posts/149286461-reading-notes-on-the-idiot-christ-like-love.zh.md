@@ -1,7 +1,7 @@
 ---
 title: "《白痴》读后：基督式的爱"
-date: 2024-09-23
-lastmod: 2024-09-23
+date: 2024-09-14
+lastmod: 2024-09-14
 draft: false
 categories: ["Essays"]
 tags: [book-review, philosophy, literature]

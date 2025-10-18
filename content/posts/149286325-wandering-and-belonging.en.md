@@ -1,7 +1,7 @@
 ---
 title: "Wandering and Belonging"
-date: 2024-09-23
-lastmod: 2024-09-23
+date: 2024-08-06
+lastmod: 2024-08-06
 draft: false
 categories: ["Essays"]
 tags: [personal-essay, life-philosophy]

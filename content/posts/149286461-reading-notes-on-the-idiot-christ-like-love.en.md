@@ -1,7 +1,7 @@
 ---
 title: "Reading Notes on The Idiot: Christ-like Love"
-date: 2024-09-23
-lastmod: 2024-09-23
+date: 2024-09-14
+lastmod: 2024-09-14
 draft: false
 categories: ["Essays"]
 tags: [book-review, philosophy, literature]
