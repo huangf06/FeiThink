@@ -1,7 +1,7 @@
 ---
 title: "主体性：如何成为自己人生的主角"
-date: 2015-01-04
-lastmod: 2015-01-04
+date: 2025-01-04
+lastmod: 2025-01-04
 draft: false
 categories: ["Essays"]
 tags: [philosophy, existentialism, life-philosophy]

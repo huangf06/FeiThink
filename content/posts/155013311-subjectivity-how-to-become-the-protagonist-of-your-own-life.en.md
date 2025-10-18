@@ -1,7 +1,7 @@
 ---
 title: "Subjectivity: How to Become the Protagonist of Your Own Life"
-date: 2015-01-04
-lastmod: 2015-01-04
+date: 2025-01-04
+lastmod: 2025-01-04
 draft: false
 categories: ["Essays"]
 tags: [philosophy, existentialism, life-philosophy]
