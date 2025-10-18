@@ -18,9 +18,11 @@ Every now and then I think of Dumbledore’s woolen socks.
 
 When Harry asked Dumbledore what he saw in the Mirror of Erised, Dumbledore said he saw himself holding a thick pair of woolen socks.
 
-“One can never have enough socks. Another Christmas has come and gone and I didn’t get a single pair. People will insist on giving me books.” — *Harry Potter and the Philosopher’s Stone*
+> One can never have enough socks. Another Christmas has come and gone and I didn't get a single pair. People will insist on giving me books.
+>
+> *— Harry Potter and the Philosopher's Stone*
 
-Of course, Dumbledore wasn’t really short of socks. For a great wizard, conjuring socks is hardly a problem. Woolen socks stood for family affection.
+Of course, Dumbledore wasn't really short of socks. For a great wizard, conjuring socks is hardly a problem. Woolen socks stood for family affection.
 
 Just as Dumbledore wanted socks but kept receiving books, I too often have small, genuine needs that go unnoticed or suppressed.
 
