@@ -481,8 +481,8 @@
 
 .archive-entry-title {
     margin: 0 0 0.5rem 0;
-    font-size: 1.1rem;
-    font-weight: 500;
+    font-size: 1.35rem;
+    font-weight: 600;
     line-height: 1.4;
     color: #1a202c;
 }
@@ -492,7 +492,7 @@
 }
 
 .archive-meta {
-    font-size: 0.85rem;
+    font-size: 0.75rem;
     color: #718096;
     font-family: var(--font-sans);
     letter-spacing: 0.3px;
