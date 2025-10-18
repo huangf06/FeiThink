@@ -28,15 +28,17 @@ Morality and faith became urgent problems demanding solutions. They are the foun
 
 This suffering sounds melodramatic, but fortunately I’m not alone in it.
 
-It’s exactly like Ivan in *The Brothers Karamazov*, and like Ivan, I found comfort in Elder Zosima’s words:
+It's exactly like Ivan in *The Brothers Karamazov*, and like Ivan, I found comfort in Elder Zosima's words:
 
-**Zosima**: This problem has not been resolved in your heart, and therein lies your greatest unhappiness, because this problem demands resolution.
+> **Zosima**: This problem has not been resolved in your heart, and therein lies your greatest unhappiness, because this problem demands resolution.
+>
+> **Ivan**: But can it be resolved in my heart? Can it be resolved in a positive direction?
+>
+> **Zosima**: Even if it cannot be resolved in a positive direction, it will never be resolved in a negative direction either. You yourself know this peculiarity of your soul; this is the very reason your heart suffers so terribly. But you must thank the Creator, for he has given you a lofty heart capable of enduring such torment, capable of thinking upon and seeking things above—we are citizens of heaven. May God grant that your heart's answer be given you even while you are still on earth. May God bless you on your path.
+>
+> *—Dostoevsky, The Brothers Karamazov*
 
-**Ivan**: But can it be resolved in my heart? Can it be resolved in a positive direction?
-
-**Zosima**: Even if it cannot be resolved in a positive direction, it will never be resolved in a negative direction either. You yourself know this peculiarity of your soul; this is the very reason your heart suffers so terribly. But you must thank the Creator, for he has given you a lofty heart capable of enduring such torment, capable of thinking upon and seeking things above—we are citizens of heaven. May God grant that your heart’s answer be given you even while you are still on earth. May God bless you on your path.
-
-Allow me this lengthy quotation—passages I’ve been reading over and over these past days. I offer them also to those who are suffering spiritually.
+Allow me this lengthy quotation—passages I've been reading over and over these past days. I offer them also to those who are suffering spiritually.
 
 ---
 
@@ -112,18 +114,11 @@ So act that you use humanity, in your own person as well as in the person of any
 The will of every rational being as a will giving universal law
 
 Then he gives four examples to illustrate, divided into four quadrants by duties to self/others and perfect/imperfect:
-1. 
 
-Perfect duty to oneself: Don’t commit suicide
-1. 
-
-Perfect duty to others: Don’t lie
-1. 
-
-Imperfect duty to oneself: Develop your talents
-1. 
-
-Imperfect duty to others: Help others
+1. Perfect duty to oneself: Don't commit suicide
+2. Perfect duty to others: Don't lie
+3. Imperfect duty to oneself: Develop your talents
+4. Imperfect duty to others: Help others
 
 ---
 
@@ -133,13 +128,15 @@ For today, just some reflections.
 
 First, I found it deeply satisfying—like someone starving who finally gets food, finally encountering reading material befitting adult thought. Insights abound:
 
-“It is impossible to think of anything at all in the world, or indeed even beyond it, that could be considered good without limitation, except a good will.”
-
-“If all value were conditional and therefore contingent, no supreme practical principle could be found for reason at all.”
-
-“In the kingdom of ends everything has either a price or a dignity.”
-
-“That which constitutes the condition under which alone something can be an end in itself has not merely a relative worth, i.e., a price, but an inner worth, i.e., dignity.”
+> It is impossible to think of anything at all in the world, or indeed even beyond it, that could be considered good without limitation, except a good will.
+>
+> If all value were conditional and therefore contingent, no supreme practical principle could be found for reason at all.
+>
+> In the kingdom of ends everything has either a price or a dignity.
+>
+> That which constitutes the condition under which alone something can be an end in itself has not merely a relative worth, i.e., a price, but an inner worth, i.e., dignity.
+>
+> *—Immanuel Kant, Groundwork of the Metaphysics of Morals*
 
 ...
 
@@ -193,7 +190,7 @@ From now on, I’m adding “don’t lie” and “help others when you can” t
 
 Finally, why did I say “for now” when talking about principles to guide my actions?
 
-Reading *Groundwork of the Metaphysics of Morals*, I detected a flavor similar to Max Weber’s * The Protestant Ethic and the Spirit of Capitalism*. This supreme good will that Kant says we reach through reason—isn’t it just the God in the hearts of Weber’s Protestants? And Kant’s absolute duty-based moral commands—the Categorical Imperative—closely resemble Protestant ethics with its relentless moral self-examination.
+Reading *Groundwork of the Metaphysics of Morals*, I detected a flavor similar to Max Weber's *The Protestant Ethic and the Spirit of Capitalism*. This supreme good will that Kant says we reach through reason—isn't it just the God in the hearts of Weber's Protestants? And Kant's absolute duty-based moral commands—the Categorical Imperative—closely resemble Protestant ethics with its relentless moral self-examination.
 
 So have I spent all this effort learning Christian morality dressed up as metaphysics of morals?
 
