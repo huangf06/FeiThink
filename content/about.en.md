@@ -20,13 +20,13 @@ A wanderer between precision and meaning—seeking truth in mathematical rigor a
 - 10 years in data science and machine learning
 - 7 years in quantitative trading and financial modeling
 
-## Intellectual Orientation
+## Core Questions
 
 I seek out thinkers who confront the fundamental tensions of human existence—not from scholarly interest, but existential necessity. Born into poverty yet blessed with intellect, I needed a moral law to tame the wildness within.
 
 Kant taught me why we have dignity and our duties to others. Dostoevsky taught me how to love actively.
 
-Core questions: **Does the sublime exist? How should one live?**
+**Does the sublime exist? How should one live?**
 
 Real understanding means descending into complexity, not fleeing from it. Mathematics gives us the language of precision; philosophy, the language of meaning. We need both.
 
