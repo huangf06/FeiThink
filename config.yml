@@ -16,7 +16,7 @@ languages:
       profileMode:
         enabled: true
         title: "FeiThink"
-        subtitle: "Bridging quantitative finance, AI, and philosophy"
+        subtitle: "Only the descent into the hell of self-cognition can pave the way to godliness."
         buttons:
           - name: Posts
             url: posts/
@@ -58,7 +58,7 @@ languages:
       profileMode:
         enabled: true
         title: "飞想"
-        subtitle: "连接量化金融、人工智能与哲学思考"
+        subtitle: "只有下降到自我认知的地狱,才能铺就通往神性的道路。"
         buttons:
           - name: 文章
             url: posts/
