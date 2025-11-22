@@ -1,7 +1,7 @@
 ---
 title: "完美的友谊与苦涩的功绩"
-date: 2025-11-06
-lastmod: 2025-11-06
+date: 2025-11-10
+lastmod: 2025-11-10
 draft: false
 categories: ["Philosophy"]
 tags: [kant, friendship, virtue, moral-philosophy, dostoevsky]
