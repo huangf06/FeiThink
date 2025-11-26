@@ -51,14 +51,14 @@ languages:
     languageName: "中文"
     languageCode: zh-cn
     weight: 2
-    title: "飞想"
+    title: "正十七"
     params:
       author: "黄飞"
       description: "数学精确与哲学深邃的交汇处"
       profileMode:
         enabled: true
         title: "飞想"
-        subtitle: "割圆为方,以趋正圆。"
+        subtitle: "割圆为方，以趋正圆。"
         buttons:
           - name: 文章
             url: posts/
