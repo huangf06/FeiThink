@@ -5,7 +5,7 @@ lastmod: 2025-12-23
 draft: false
 categories: ["Essays"]
 tags: [philosophy, personal-reflection, ethics, trauma, sublimation]
-summary: "Reflections on trauma, vitality, and \"principled goodness.\" A response to Liang Hong's *To Have Light*, exploring whether trauma is the essence of life and how to find a third way between reason and faith—a gentle yet firm principled goodness."
+summary: "Reflections on trauma, vitality, and principled goodness. A response to Liang Hong's To Have Light, exploring whether trauma is the essence of life and how to find a third way between reason and faith—a gentle yet firm principled goodness."
 weight: 999
 author: "FeiThink"
 showToc: true

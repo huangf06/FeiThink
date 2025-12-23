@@ -5,7 +5,7 @@ lastmod: 2025-12-23
 draft: false
 categories: ["Essays"]
 tags: [philosophy, personal-reflection, ethics, trauma, sublimation]
-summary: "关于创伤、生命力与"有原则的善"的思考。通过对梁鸿《要有光》一书的回应，探讨创伤是否是生命的本质，以及如何在理性与信仰之间找到第三条路——一种温柔而坚定的有原则的善。"
+summary: "关于创伤、生命力与有原则的善的思考。通过对梁鸿《要有光》一书的回应，探讨创伤是否是生命的本质，以及如何在理性与信仰之间找到第三条路——一种温柔而坚定的有原则的善。"
 weight: 999
 author: "FeiThink"
 showToc: true
