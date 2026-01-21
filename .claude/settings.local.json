@@ -36,7 +36,9 @@
       "WebFetch(domain:huangf06.github.io)",
       "WebFetch(domain:feithink.substack.com)",
       "WebFetch(domain:mp.weixin.qq.com)",
-      "WebFetch(domain:www.mdnice.com)"
+      "WebFetch(domain:www.mdnice.com)",
+      "WebFetch(domain:latindiscussion.org)",
+      "WebFetch(domain:en.wikiquote.org)"
     ],
     "deny": [],
     "ask": []
