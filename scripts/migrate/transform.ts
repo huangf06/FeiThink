@@ -1,12 +1,3 @@
-const HUGO_ONLY_FIELDS = new Set([
-  'weight',
-  'showToc',
-  'TocOpen',
-  'categories',
-  'author',
-  'lastmod',
-])
-
 const ASTRO_PASSTHROUGH_FIELDS = [
   'title',
   'tags',
