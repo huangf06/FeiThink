@@ -1,0 +1,87 @@
+---
+import Layout from '@/layouts/Layout.astro'
+import { LINES, type Line } from '@/data/lines'
+import { getCollection } from 'astro:content'
+import { getPostPath } from '@/i18n/path'
+
+export async function getStaticPaths() {
+  return LINES.map(line => ({
+    params: { line: line.slug },
+    props: { line },
+  }))
+}
+
+interface Props {
+  line: Line
+}
+
+const { line } = Astro.props
+
+const allPosts = await getCollection('posts', ({ data }) =>
+  data.lang === 'en' && !data.draft,
+)
+const orderedPosts = line.readingOrder
+  .map(slug => allPosts.find(p => p.data.abbrlink === slug))
+  .filter((p): p is NonNullable<typeof p> => p !== undefined)
+---
+
+<Layout postTitle={line.title} postDescription={line.tagline}>
+  <article>
+    <header class="mb-8">
+      <h1 class="mb-2 text-5.5 font-bold leading-tight cjk:tracking-wide lg:text-6">
+        {line.title}
+      </h1>
+      <p class="text-3.8 leading-1.6 c-secondary lg:text-4">
+        {line.tagline}
+      </p>
+    </header>
+
+    {line.intro && !line.intro.startsWith('PLACEHOLDER') && (
+      <section class="heti mb-10">
+        <p>{line.intro}</p>
+      </section>
+    )}
+
+    <section class="mb-10">
+      <div class="uno-decorative-line" />
+      <p class="mb-4 text-3 font-semibold uppercase tracking-widest c-secondary lg:text-3.2">
+        Reading order
+      </p>
+      <ol>
+        {orderedPosts.map((post, i) => {
+          const slug = post.data.abbrlink || post.id
+          return (
+            <li class="mb-5.5 lg:mb-8">
+              <span class="mr-2 c-secondary font-time">{String(i + 1).padStart(2, '0')}</span>
+              <h3 class="inline transition-colors hover:c-primary">
+                <a
+                  class="cjk:tracking-wide lg:font-medium lg:text-4.5"
+                  href={getPostPath(slug, 'en')}
+                >
+                  {post.data.title}
+                </a>
+              </h3>
+              {post.data.description && (
+                <p class="heti mt-2 text-3.8 leading-1.6 lg:text-4">
+                  {post.data.description}
+                </p>
+              )}
+            </li>
+          )
+        })}
+      </ol>
+    </section>
+
+    <section>
+      <p class="text-3.8 c-secondary lg:text-4">
+        More essays — including work-in-progress — on
+        <a
+          class="highlight-hover transition-colors hover:c-primary"
+          href="https://feihuang.substack.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >Substack</a>.
+      </p>
+    </section>
+  </article>
+</Layout>

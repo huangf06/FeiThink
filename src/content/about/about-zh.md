@@ -2,4 +2,25 @@
 lang: zh
 ---
 
-Retypeset 是一款基于 [Astro](https://astro.build/) 框架的静态博客主题，中文名为重新编排。本主题以 [活版印字](https://astro-theme-typography.vercel.app/) 为设计灵感，通过建立全新的视觉规范，对所有页面进行重新编排，打造纸质书页般的阅读体验，再现版式之美。所见皆为细节，方寸尽显优雅。
+## 关于我
+
+黄飞，1988 年生于河南农村，现居荷兰阿姆斯特丹。道德哲学的读者与写作者——主要阅读康德与陀思妥耶夫斯基。职业在数据与人工智能方向。
+
+## 我在写什么
+
+这个站点的英文主站按阅读线（reading lines）组织，内容见[首页](/)。中文文章的更新目前主要在 [Substack](https://feihuang.substack.com)。
+
+## 专业背景
+
+阿姆斯特丹自由大学人工智能硕士（2025）。Databricks Certified Data Engineer Professional。十年数据与机器学习工程经验，其中七年在量化投研方向。
+
+## 为什么用英文写
+
+出身中文世界，但这个站点的目标读者是国际化的。中文写作仍在 [Substack](https://feihuang.substack.com) 继续。
+
+## 联系
+
+- 邮箱：[huangf06@gmail.com](mailto:huangf06@gmail.com)
+- GitHub: [huangf06](https://github.com/huangf06)
+- LinkedIn: [Fei Huang](https://www.linkedin.com/in/huangf06/)
+- Substack: [feihuang.substack.com](https://feihuang.substack.com)
