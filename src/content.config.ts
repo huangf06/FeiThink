@@ -25,6 +25,9 @@ const posts = defineCollection({
       abbrlink => !abbrlink || /^[a-z0-9\-]*$/.test(abbrlink),
       { message: 'Abbrlink can only contain lowercase letters, numbers and hyphens' },
     ),
+    // FeiThink curation
+    line: z.enum(['kant', 'dostoevsky-and-literature', 'existence-and-self', 'moral-life']).optional(),
+    standalone: z.boolean().optional(),
   }),
 })
 
