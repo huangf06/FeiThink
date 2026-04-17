@@ -14,7 +14,10 @@
     "new-post": "tsx scripts/new-post.ts",
     "apply-lqip": "tsx scripts/apply-lqip.ts",
     "format-posts": "tsx scripts/format-posts.ts",
-    "update-theme": "tsx scripts/update-theme.ts"
+    "update-theme": "tsx scripts/update-theme.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "migrate": "tsx scripts/migrate/migrate.ts"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.3",
@@ -58,13 +61,15 @@
     "eslint": "^10.2.0",
     "eslint-plugin-astro": "^1.7.0",
     "fast-glob": "^3.3.3",
+    "gray-matter": "^4.0.3",
     "lint-staged": "^16.4.0",
     "playwright": "^1.59.1",
     "simple-git-hooks": "^2.13.1",
     "tsx": "^4.21.0",
     "typescript": "~6.0.2",
     "unocss": "66.6.8",
-    "unocss-preset-theme": "^0.14.1"
+    "unocss-preset-theme": "^0.14.1",
+    "vitest": "^4.1.4"
   },
   "pnpm": {
     "patchedDependencies": {
