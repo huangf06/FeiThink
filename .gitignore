@@ -8,7 +8,9 @@ ehthumbs.db
 Thumbs.db
 
 # IDE and Editor Files
-.vscode/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
 .idea/
 *.swp
 *.swo
@@ -20,6 +22,7 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+pnpm-debug.log*
 
 # Runtime data
 pids
@@ -48,9 +51,14 @@ substack/
 
 # dotenv environment variables file
 .env
+.env.production
 
-# Build outputs
+# Astro build outputs
 dist/
+.output/
+.astro/
+
+# Generic build outputs
 build/
 *.min.js
 *.min.css
@@ -59,10 +67,9 @@ build/
 tmp/
 temp/
 
-# Hugo
-public/
-resources/
-.hugo_build.lock
+# Python artifacts (from root-level translation scripts)
+__pycache__/
+*.pyc
 
 # Personal and sensitive files
 *.pdf
