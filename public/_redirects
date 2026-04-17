@@ -1,0 +1,4 @@
+# Legacy Hugo/GitHub Pages paths — in case anything 301s into feithink.org via /GitStack/
+/GitStack/posts/*     /posts/:splat     301
+/GitStack/zh/posts/*  /zh/posts/:splat  301
+/GitStack/*           /:splat           301
