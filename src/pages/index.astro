@@ -1,0 +1,80 @@
+---
+import Layout from '@/layouts/Layout.astro'
+import { LINES } from '@/data/lines'
+import { getPinnedPosts } from '@/utils/content'
+import { getPostPath } from '@/i18n/path'
+
+const pinned = await getPinnedPosts('en')
+---
+
+<Layout>
+  <section class="hero mb-10">
+    <h1 class="mb-3 text-5.5 font-bold leading-tight cjk:tracking-wide lg:text-6.5">
+      Essays on moral philosophy, from a reader of Kant.
+    </h1>
+    <p class="text-3.8 leading-1.7 c-secondary lg:text-4">
+      Longform writing on Kant, Dostoevsky, and the moral life. Curated from
+      years at <a
+        class="highlight-hover transition-colors hover:c-primary"
+        href="https://feihuang.substack.com"
+        target="_blank"
+        rel="noopener noreferrer"
+      >FeiThink on Substack</a>. New work goes there first.
+    </p>
+  </section>
+
+  {pinned.length > 0 && (
+    <section class="mb-10">
+      <div class="uno-decorative-line" />
+      <p class="mb-4 text-3 font-semibold uppercase tracking-widest c-secondary lg:text-3.2">
+        Start here
+      </p>
+      <ul>
+        {pinned.map((post) => {
+          const slug = post.data.abbrlink || post.id
+          return (
+            <li class="mb-5.5 lg:mb-8">
+              <h3 class="inline transition-colors hover:c-primary">
+                <a
+                  class="cjk:tracking-wide lg:font-medium lg:text-4.5"
+                  href={getPostPath(slug, 'en')}
+                >
+                  {post.data.title}
+                </a>
+              </h3>
+              {post.data.description && (
+                <p class="heti mt-2 text-3.8 leading-1.6 lg:text-4">
+                  {post.data.description}
+                </p>
+              )}
+            </li>
+          )
+        })}
+      </ul>
+    </section>
+  )}
+
+  <section class="mb-10">
+    <div class="uno-decorative-line" />
+    <p class="mb-4 text-3 font-semibold uppercase tracking-widest c-secondary lg:text-3.2">
+      By reading line
+    </p>
+    <ul>
+      {LINES.map(line => (
+        <li class="mb-5.5 lg:mb-8">
+          <h3 class="inline transition-colors hover:c-primary">
+            <a
+              class="cjk:tracking-wide lg:font-medium lg:text-4.5"
+              href={`/essays/lines/${line.slug}/`}
+            >
+              {line.title}
+            </a>
+          </h3>
+          <p class="heti mt-2 text-3.8 leading-1.6 lg:text-4">
+            {line.tagline}
+          </p>
+        </li>
+      ))}
+    </ul>
+  </section>
+</Layout>

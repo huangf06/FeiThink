@@ -8,6 +8,9 @@ interface Translation {
   tags: string
   about: string
   toc: string
+  home: string
+  essays: string
+  work: string
 }
 
 export const ui: Record<Language, Translation> = {
@@ -19,15 +22,21 @@ export const ui: Record<Language, Translation> = {
     tags: 'Schlagwörter',
     about: 'Über',
     toc: 'Inhaltsverzeichnis',
+    home: 'Startseite',
+    essays: 'Essays',
+    work: 'Arbeit',
   },
   'en': {
-    title: 'Retypeset',
-    subtitle: 'Revive the beauty of typography',
-    description: 'Retypeset is a static blog theme based on the Astro framework. Inspired by Typography, Retypeset establishes a new visual standard and reimagines the layout of all pages, creating a reading experience reminiscent of paper books, reviving the beauty of typography. Details in every sight, elegance in every space.',
+    title: 'FeiThink',
+    subtitle: 'Essays on moral philosophy, from a reader of Kant.',
+    description: 'Essays on moral philosophy, from a reader of Kant.',
     posts: 'Posts',
     tags: 'Tags',
     about: 'About',
     toc: 'Table of Contents',
+    home: 'Home',
+    essays: 'Essays',
+    work: 'Work',
   },
   'es': {
     title: 'Retipografía',
@@ -37,6 +46,9 @@ export const ui: Record<Language, Translation> = {
     tags: 'Etiquetas',
     about: 'Sobre',
     toc: 'Índice',
+    home: 'Inicio',
+    essays: 'Ensayos',
+    work: 'Trabajo',
   },
   'fr': {
     title: 'Retypographie',
@@ -46,6 +58,9 @@ export const ui: Record<Language, Translation> = {
     tags: 'Étiquettes',
     about: 'À propos',
     toc: 'Table des matières',
+    home: 'Accueil',
+    essays: 'Essais',
+    work: 'Travail',
   },
   'ja': {
     title: '再組版',
@@ -55,6 +70,9 @@ export const ui: Record<Language, Translation> = {
     tags: 'タグ',
     about: '概要',
     toc: '目次',
+    home: 'ホーム',
+    essays: 'エッセイ',
+    work: '仕事',
   },
   'ko': {
     title: '재조판',
@@ -64,6 +82,9 @@ export const ui: Record<Language, Translation> = {
     tags: '태그',
     about: '소개',
     toc: '목차',
+    home: '홈',
+    essays: '에세이',
+    work: '작업',
   },
   'pl': {
     title: 'Przeskład',
@@ -73,6 +94,9 @@ export const ui: Record<Language, Translation> = {
     tags: 'Tagi',
     about: 'O stronie',
     toc: 'Spis treści',
+    home: 'Strona główna',
+    essays: 'Eseje',
+    work: 'Praca',
   },
   'pt': {
     title: 'Retipografia',
@@ -82,6 +106,9 @@ export const ui: Record<Language, Translation> = {
     tags: 'Tags',
     about: 'Sobre',
     toc: 'Sumário',
+    home: 'Início',
+    essays: 'Ensaios',
+    work: 'Trabalho',
   },
   'ru': {
     title: 'Переверстка',
@@ -91,15 +118,21 @@ export const ui: Record<Language, Translation> = {
     tags: 'Теги',
     about: 'О себе',
     toc: 'Оглавление',
+    home: 'Главная',
+    essays: 'Эссе',
+    work: 'Работа',
   },
   'zh': {
-    title: '重新编排',
-    subtitle: '再现版式之美',
-    description: 'Retypeset是一款基于Astro框架的静态博客主题，中文名为重新编排。本主题以活版印字为设计灵感，通过建立全新的视觉规范，对所有页面进行重新编排，打造纸质书页般的阅读体验，再现版式之美。所见皆为细节，方寸尽显优雅。',
+    title: 'FeiThink',
+    subtitle: '一个康德读者的道德哲学随笔',
+    description: '一个康德读者的道德哲学随笔。',
     posts: '文章',
     tags: '标签',
     about: '关于',
     toc: '目录',
+    home: '首页',
+    essays: '随笔',
+    work: '工作',
   },
   'zh-tw': {
     title: '重新編排',
@@ -109,5 +142,8 @@ export const ui: Record<Language, Translation> = {
     tags: '標籤',
     about: '關於',
     toc: '目錄',
+    home: '首頁',
+    essays: '隨筆',
+    work: '工作',
   },
 }

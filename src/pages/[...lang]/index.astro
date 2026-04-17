@@ -1,12 +1,14 @@
 ---
 import PostList from '@/components/PostList.astro'
-import { allLocales } from '@/config'
+import { moreLocales } from '@/config'
 import { getLangFromLocale, getLangRouteParam } from '@/i18n/lang'
 import Layout from '@/layouts/Layout.astro'
 import { getPinnedPosts, getPostsByYear } from '@/utils/content'
 
+// English homepage lives at src/pages/index.astro with a custom layout.
+// This dynamic route handles only non-default locales (e.g. /zh/).
 export async function getStaticPaths() {
-  return allLocales.map(lang => ({
+  return moreLocales.map(lang => ({
     params: { lang: getLangRouteParam(lang) },
   }))
 }
