@@ -7,7 +7,7 @@ published: 2024-09-23T00:00:00.000Z
 description: >-
   A few days ago, I stumbled upon an old article I had written, "Rereading Shen
   Pangpang," and felt as...
-draft: false
+draft: true
 lang: en
 abbrlink: how-to-take-care-of-your-emotions
 ---

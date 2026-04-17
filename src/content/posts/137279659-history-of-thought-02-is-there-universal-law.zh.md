@@ -7,7 +7,7 @@ published: 2021-01-13T00:00:00.000Z
 description: >-
   一智者派 首先登场的是智者派，对于上面的问题，他们有以下很有代表性的观点： 1. 怀疑论高尔吉亚
   什么都不存在；就算有东西存在，你也不可能认识；就算你能认识，也不能把这知识告诉别人。...
-draft: false
+draft: true
 lang: zh
 abbrlink: history-of-thought-02-is-there-universal-law
 ---

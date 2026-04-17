@@ -8,7 +8,7 @@ published: 2019-11-19T00:00:00.000Z
 description: >-
   一、 杂谈如何正确反驳
   又把卢克文的香港问题和世界真相看了一遍。提炼一下，大体两部分：前半部分讲香港如何以民主自由自居，妖魔化大陆；后半部分拿历史故事讲自由民主的危害。...
-draft: false
+draft: true
 lang: zh
 abbrlink: questions-about-recent-viral-articles-ii
 ---

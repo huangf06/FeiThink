@@ -8,7 +8,7 @@ published: 2024-01-05T00:00:00.000Z
 description: >-
   Foreword This started when I saw a childhood friend post about the Chosin
   Reservoir on Christmas...
-draft: false
+draft: true
 lang: en
 abbrlink: from-chosin-reservoir-to-christmas
 ---

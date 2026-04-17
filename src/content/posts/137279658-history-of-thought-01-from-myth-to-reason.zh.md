@@ -7,7 +7,7 @@ published: 2020-12-25T00:00:00.000Z
 description: >-
   虽然日常大议恫人，但是正经书读得少。我对哲学不过文盲水准。 近半年参加不少活动，跟着读了一些哲学的书。 发现其中不少命题和独立的瞎想不谋而合。
   顿时感觉上当了，以前可能被那些故作高深的装X犯忽悠了。...
-draft: false
+draft: true
 lang: zh
 abbrlink: history-of-thought-01-from-myth-to-reason
 ---

@@ -7,7 +7,7 @@ published: 2021-03-10T00:00:00.000Z
 description: >-
   我喜欢写作。 写作让我感觉自由。 我喜欢写作，还因为写作让我静下心来沉思。 和话不投机的人社交让我感觉无聊收获甚少。 我讨厌肤浅的人和事。
   每个人的智力加点是不一样的。 而我总喜欢向更深更远处探索。...
-draft: false
+draft: true
 lang: zh
 abbrlink: reading-on-writing-well
 ---

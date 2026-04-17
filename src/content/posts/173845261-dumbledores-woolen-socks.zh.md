@@ -9,6 +9,7 @@ description: 每每想起邓布利多的羊毛袜。 哈利问邓布利多在魔
 draft: false
 lang: zh
 abbrlink: dumbledores-woolen-socks
+standalone: true
 ---
 
 

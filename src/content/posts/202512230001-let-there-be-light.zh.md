@@ -12,6 +12,7 @@ description: >-
 draft: false
 lang: zh
 abbrlink: let-there-be-light
+standalone: true
 ---
 
 前一段刘涵推荐了梁鸿的这本《要有光》,这几天又在豆瓣年度榜上看到。

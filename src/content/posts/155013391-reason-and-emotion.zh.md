@@ -8,6 +8,7 @@ description: 长久以来，我都轻视情感，偏重理智。 我以往总认
 draft: false
 lang: zh
 abbrlink: reason-and-emotion
+line: existence-and-self
 ---
 
 

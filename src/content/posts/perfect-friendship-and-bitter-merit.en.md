@@ -15,6 +15,7 @@ description: >-
 draft: false
 lang: en
 abbrlink: perfect-friendship-and-bitter-merit
+standalone: true
 ---
 
 What strikes me most in Kant's *Metaphysics of Morals* is his discussion of our duties to others.

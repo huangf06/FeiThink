@@ -15,6 +15,7 @@ description: >-
 draft: false
 lang: en
 abbrlink: let-there-be-light
+standalone: true
 ---
 
 A while back, Liu Han recommended Liang Hong's book *To Have Light*, and recently I saw it on Douban's year-end list again.

@@ -14,6 +14,7 @@ description: >-
 draft: false
 lang: en
 abbrlink: the-dignity-of-man
+line: kant
 ---
 
 After finishing *The Metaphysics of Morals*, four themes struck me most deeply:

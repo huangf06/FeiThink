@@ -6,7 +6,7 @@ published: 2020-02-10T00:00:00.000Z
 description: >-
   最近清理朋友圈，又触碰到大学时代留下的伤疤。 大学时代是我心中永远的痛，每每触碰总让我心情沉郁。
   我觉得我有必要直面伤痛，最真实地自我剖析，一劳永逸地解决这个问题。...
-draft: false
+draft: true
 lang: zh
 abbrlink: memories-of-college-life-on-pain-and-healing
 ---

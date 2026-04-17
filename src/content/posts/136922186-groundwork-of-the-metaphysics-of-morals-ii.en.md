@@ -11,6 +11,7 @@ description: >-
 draft: false
 lang: en
 abbrlink: groundwork-of-the-metaphysics-of-morals-ii
+line: kant
 ---
 
 

@@ -7,7 +7,7 @@ published: 2019-12-10T00:00:00.000Z
 description: >-
   In my previous article on motivation systems, I mentioned something I want to
   do. Now let me indulge...
-draft: false
+draft: true
 lang: en
 abbrlink: things-i-want-to-do
 ---

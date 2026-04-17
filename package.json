@@ -6,18 +6,15 @@
   "repository": "https://github.com/radishzzz/astro-theme-retypeset",
   "scripts": {
     "dev": "astro check && astro dev",
-    "build": "astro check && astro build && pnpm apply-lqip",
+    "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "new-post": "tsx scripts/new-post.ts",
-    "apply-lqip": "tsx scripts/apply-lqip.ts",
-    "format-posts": "tsx scripts/format-posts.ts",
-    "update-theme": "tsx scripts/update-theme.ts",
     "test": "vitest run",
     "test:watch": "vitest",
-    "migrate": "tsx scripts/migrate/migrate.ts"
+    "migrate": "tsx scripts/migrate/migrate.ts",
+    "curate": "tsx scripts/curate/curate.ts"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.3",

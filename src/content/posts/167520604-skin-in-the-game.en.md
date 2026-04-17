@@ -8,7 +8,7 @@ published: 2025-04-07T00:00:00.000Z
 description: >-
   I’ve been reading Taleb’s Skin in the Game these past few days. The book
   primarily explores the...
-draft: false
+draft: true
 lang: en
 abbrlink: skin-in-the-game
 ---

@@ -7,7 +7,7 @@ published: 2021-04-07T00:00:00.000Z
 description: >-
   Over Spring Festival I finished Skirbekk’s history of philosophy. After this
   survey, I’ve found many...
-draft: false
+draft: true
 lang: en
 abbrlink: history-of-thought-04-overview-and-reflections
 ---

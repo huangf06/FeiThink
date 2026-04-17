@@ -7,7 +7,7 @@ published: 2024-10-07T00:00:00.000Z
 description: >-
   I recently read a book that’s hard to evaluate—Personal Development for Smart
   People by Steve...
-draft: false
+draft: true
 lang: en
 abbrlink: personal-development-for-smart-people
 ---

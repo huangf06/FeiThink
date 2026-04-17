@@ -10,6 +10,7 @@ description: >-
 draft: false
 lang: en
 abbrlink: on-being-a-person-of-integrity
+line: moral-life
 ---
 
 

@@ -10,6 +10,7 @@ description: >-
 draft: false
 lang: zh
 abbrlink: the-scale-of-time
+standalone: true
 ---
 
 

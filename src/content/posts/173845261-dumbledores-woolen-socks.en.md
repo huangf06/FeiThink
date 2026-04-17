@@ -11,6 +11,7 @@ description: >-
 draft: false
 lang: en
 abbrlink: dumbledores-woolen-socks
+standalone: true
 ---
 
 

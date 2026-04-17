@@ -10,7 +10,7 @@ description: >-
   author argues that refuting overly simplistic political models requires better
   models, not just fact-checking. He examines why strong central control is
   inefficient and advocates for distributed, decentralized governance.
-draft: false
+draft: true
 lang: en
 abbrlink: questions-about-recent-viral-articles-ii
 ---

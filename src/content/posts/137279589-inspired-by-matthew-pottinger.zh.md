@@ -5,7 +5,7 @@ tags:
   - critical-thinking
 published: 2019-09-28T00:00:00.000Z
 description: ...
-draft: false
+draft: true
 lang: zh
 abbrlink: inspired-by-matthew-pottinger
 ---

@@ -4,7 +4,7 @@ tags:
   - personal-essay
 published: 2019-06-12T00:00:00.000Z
 description: 神胖胖的文章，常读常新，下面引用注解以分享之。 --- 一、关于人生 人生太短，切不可玩曲线救国式的策略。...
-draft: false
+draft: true
 lang: zh
 abbrlink: rereading-shen-pangpang
 ---

@@ -5,7 +5,7 @@ tags:
   - history
 published: 2024-02-16T00:00:00.000Z
 description: 前天看了《首尔之春》，不是专业电影评论员，就聊聊自己观感。...
-draft: false
+draft: true
 lang: zh
 abbrlink: reflections-on-1212-the-day
 ---

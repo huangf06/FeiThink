@@ -10,7 +10,7 @@ description: >-
   well-educated people. The author explores the Hong Kong situation, why
   mainlanders lack empathy, and whether democracy or authoritarianism offers a
   better path forward.
-draft: false
+draft: true
 lang: en
 abbrlink: questions-about-a-recent-viral-article-i
 ---

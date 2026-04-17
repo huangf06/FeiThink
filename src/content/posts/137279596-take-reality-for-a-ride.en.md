@@ -7,7 +7,7 @@ published: 2019-11-05T00:00:00.000Z
 description: >-
   1. Good and bad are artificial constructs I hurt someone with my words at
   Mark’s wedding. Afterward,...
-draft: false
+draft: true
 lang: en
 abbrlink: take-reality-for-a-ride
 ---

@@ -11,6 +11,7 @@ description: >-
 draft: false
 lang: en
 abbrlink: essence-of-existential-psychotherapy
+line: existence-and-self
 ---
 
 

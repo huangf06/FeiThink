@@ -7,7 +7,7 @@ published: 2020-12-25T00:00:00.000Z
 description: >-
   Although I often sound opinionated in daily conversations, I haven’t actually
   read many serious...
-draft: false
+draft: true
 lang: en
 abbrlink: history-of-thought-01-from-myth-to-reason
 ---

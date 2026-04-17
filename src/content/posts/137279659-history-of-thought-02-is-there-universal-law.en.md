@@ -7,7 +7,7 @@ published: 2021-01-13T00:00:00.000Z
 description: >-
   The first period of philosophy concerned nature and the cosmos. The second
   period turned to...
-draft: false
+draft: true
 lang: en
 abbrlink: history-of-thought-02-is-there-universal-law
 ---

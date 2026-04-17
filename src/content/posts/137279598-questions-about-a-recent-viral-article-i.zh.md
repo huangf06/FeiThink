@@ -8,7 +8,7 @@ published: 2019-11-16T00:00:00.000Z
 description: >-
   近期看到太多本以为不值一哂的玩意儿唬住了太多人，包括各种高智商、有智识、通实务的人。 写文以正视听，启发更多有识之士做更深入的思考和探讨。
   香港这事情非常明白的是因为大陆挤压香港的自由权利。...
-draft: false
+draft: true
 lang: zh
 abbrlink: questions-about-a-recent-viral-article-i
 ---

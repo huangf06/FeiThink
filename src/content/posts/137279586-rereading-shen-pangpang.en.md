@@ -6,7 +6,7 @@ published: 2019-06-12T00:00:00.000Z
 description: >-
   Shen Pangpang’s articles are evergreen—each reading brings fresh insights.
   Below I quote and...
-draft: false
+draft: true
 lang: en
 abbrlink: rereading-shen-pangpang
 ---

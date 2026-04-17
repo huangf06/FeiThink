@@ -5,7 +5,7 @@ tags:
   - critical-thinking
 published: 2022-03-22T00:00:00.000Z
 description: 为什么我饭都吃不饱竟然还有心思大谈道德？ 实在是道德困扰比吃饱肚子更让人在意。 这困扰让人矛盾，缺少行事准则上的完整一致性，使人进退失据。...
-draft: false
+draft: true
 lang: zh
 abbrlink: more-on-morality-unfinished-thoughts
 ---

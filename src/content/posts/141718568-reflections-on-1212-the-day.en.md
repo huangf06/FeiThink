@@ -7,7 +7,7 @@ published: 2024-02-16T00:00:00.000Z
 description: >-
   I watched 12.12: The DaySeoul Spring the day before yesterday. I’m not a
   professional film critic,...
-draft: false
+draft: true
 lang: en
 abbrlink: reflections-on-1212-the-day
 ---

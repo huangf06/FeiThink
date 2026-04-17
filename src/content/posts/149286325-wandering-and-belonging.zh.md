@@ -8,6 +8,7 @@ description: 龙场悟道 最近被罗翔的一段视频触动——「做人到
 draft: false
 lang: zh
 abbrlink: wandering-and-belonging
+line: existence-and-self
 ---
 
 

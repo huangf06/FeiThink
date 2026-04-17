@@ -7,7 +7,7 @@ published: 2019-10-14T00:00:00.000Z
 description: >-
   My younger sister recently came to me for help. Academic pressure has left her
   trapped in an...
-draft: false
+draft: true
 lang: en
 abbrlink: to-high-school-students-written-to-my-sister
 ---

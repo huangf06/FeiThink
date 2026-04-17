@@ -10,6 +10,7 @@ description: >-
 draft: false
 lang: en
 abbrlink: what-is-morality
+line: kant
 ---
 
 

@@ -7,7 +7,7 @@ published: 2022-03-22T00:00:00.000Z
 description: >-
   Why am I obsessing over morality when I can barely feed myself? Because moral
   dilemmas bother me...
-draft: false
+draft: true
 lang: en
 abbrlink: more-on-morality-unfinished-thoughts
 ---

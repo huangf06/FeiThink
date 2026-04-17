@@ -7,7 +7,7 @@ published: 2020-02-09T00:00:00.000Z
 description: >-
   即便悲愤在朋友圈弥漫，谁都知道事情也不会很快有转机。 权力还握在时代的残党手中。他们必然殊死保护自己的特权。 百万人数月的抗争都不能使权力翻然悔悟。
   更不用说你们这只是哽在喉间的几声呜咽。...
-draft: false
+draft: true
 lang: zh
 abbrlink: in-memory-of-an-ordinary-man-dr-li-wenliang
 ---

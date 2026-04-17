@@ -5,7 +5,7 @@ tags:
   - personal-essay
 published: 2019-11-05T00:00:00.000Z
 description: 我在Mark婚礼上出口伤了人。其后我反复琢磨整件事，想要想出一个普适性的行为规范。最后不知怎么个脑回路蹦出了下面这么一句： 这世界没有善恶，只有因果。...
-draft: false
+draft: true
 lang: zh
 abbrlink: take-reality-for-a-ride
 ---

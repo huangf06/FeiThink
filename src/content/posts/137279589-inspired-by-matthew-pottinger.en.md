@@ -7,7 +7,7 @@ published: 2019-09-28T00:00:00.000Z
 description: >-
   This afternoon I read something about Mathew Pottinger, and I was inspired by
   his encouraging deeds....
-draft: false
+draft: true
 lang: en
 abbrlink: inspired-by-matthew-pottinger
 ---
