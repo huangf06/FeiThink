@@ -10,8 +10,8 @@ vi.mock('@/config', () => ({
 }))
 
 // Force production mode so _getPosts' draft filter runs
-vi.stubEnv('DEV', '')
-vi.stubEnv('PROD', '1')
+vi.stubEnv('DEV', false)
+vi.stubEnv('PROD', true)
 
 import { getCollection } from 'astro:content'
 import { getEssays, getMoments, groupMomentsByYear } from './content'

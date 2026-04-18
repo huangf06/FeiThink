@@ -11,6 +11,12 @@ interface Translation {
   home: string
   essays: string
   work: string
+  moments: string
+  momentsSubtitle: string
+  momentsEmpty: string
+  latestMoments: string
+  recentEssays: string
+  seeAll: string
 }
 
 export const ui: Record<Language, Translation> = {
@@ -25,6 +31,12 @@ export const ui: Record<Language, Translation> = {
     home: 'Startseite',
     essays: 'Essays',
     work: 'Arbeit',
+    moments: 'Momente',
+    momentsSubtitle: 'Dinge, an die ich mich erinnern möchte.',
+    momentsEmpty: 'Hier ist noch nichts.',
+    latestMoments: 'Neueste Momente',
+    recentEssays: 'Neueste Essays',
+    seeAll: 'Alle anzeigen →',
   },
   'en': {
     title: 'FeiThink',
@@ -37,6 +49,12 @@ export const ui: Record<Language, Translation> = {
     home: 'Home',
     essays: 'Essays',
     work: 'Work',
+    moments: 'Moments',
+    momentsSubtitle: 'Things I want to remember.',
+    momentsEmpty: 'Nothing here yet.',
+    latestMoments: 'Latest moments',
+    recentEssays: 'Recent essays',
+    seeAll: 'See all →',
   },
   'es': {
     title: 'Retipografía',
@@ -49,6 +67,12 @@ export const ui: Record<Language, Translation> = {
     home: 'Inicio',
     essays: 'Ensayos',
     work: 'Trabajo',
+    moments: 'Momentos',
+    momentsSubtitle: 'Cosas que quiero recordar.',
+    momentsEmpty: 'Nada por aquí todavía.',
+    latestMoments: 'Momentos recientes',
+    recentEssays: 'Ensayos recientes',
+    seeAll: 'Ver todo →',
   },
   'fr': {
     title: 'Retypographie',
@@ -61,6 +85,12 @@ export const ui: Record<Language, Translation> = {
     home: 'Accueil',
     essays: 'Essais',
     work: 'Travail',
+    moments: 'Moments',
+    momentsSubtitle: 'Choses que je veux me rappeler.',
+    momentsEmpty: 'Rien ici pour l\'instant.',
+    latestMoments: 'Moments récents',
+    recentEssays: 'Essais récents',
+    seeAll: 'Tout voir →',
   },
   'ja': {
     title: '再組版',
@@ -73,6 +103,12 @@ export const ui: Record<Language, Translation> = {
     home: 'ホーム',
     essays: 'エッセイ',
     work: '仕事',
+    moments: 'モーメント',
+    momentsSubtitle: '覚えておきたいこと。',
+    momentsEmpty: 'まだ何もありません。',
+    latestMoments: '最新のモーメント',
+    recentEssays: '最近のエッセイ',
+    seeAll: 'すべて見る →',
   },
   'ko': {
     title: '재조판',
@@ -85,6 +121,12 @@ export const ui: Record<Language, Translation> = {
     home: '홈',
     essays: '에세이',
     work: '작업',
+    moments: '순간',
+    momentsSubtitle: '기억하고 싶은 것들.',
+    momentsEmpty: '아직 아무것도 없습니다.',
+    latestMoments: '최근 순간',
+    recentEssays: '최근 에세이',
+    seeAll: '모두 보기 →',
   },
   'pl': {
     title: 'Przeskład',
@@ -97,6 +139,12 @@ export const ui: Record<Language, Translation> = {
     home: 'Strona główna',
     essays: 'Eseje',
     work: 'Praca',
+    moments: 'Chwile',
+    momentsSubtitle: 'Rzeczy, które chcę zapamiętać.',
+    momentsEmpty: 'Jeszcze nic tu nie ma.',
+    latestMoments: 'Ostatnie chwile',
+    recentEssays: 'Ostatnie eseje',
+    seeAll: 'Zobacz wszystkie →',
   },
   'pt': {
     title: 'Retipografia',
@@ -109,6 +157,12 @@ export const ui: Record<Language, Translation> = {
     home: 'Início',
     essays: 'Ensaios',
     work: 'Trabalho',
+    moments: 'Momentos',
+    momentsSubtitle: 'Coisas que quero lembrar.',
+    momentsEmpty: 'Nada aqui ainda.',
+    latestMoments: 'Momentos recentes',
+    recentEssays: 'Ensaios recentes',
+    seeAll: 'Ver tudo →',
   },
   'ru': {
     title: 'Переверстка',
@@ -121,6 +175,12 @@ export const ui: Record<Language, Translation> = {
     home: 'Главная',
     essays: 'Эссе',
     work: 'Работа',
+    moments: 'Моменты',
+    momentsSubtitle: 'То, что я хочу запомнить.',
+    momentsEmpty: 'Пока здесь ничего нет.',
+    latestMoments: 'Недавние моменты',
+    recentEssays: 'Недавние эссе',
+    seeAll: 'Показать все →',
   },
   'zh': {
     title: 'FeiThink',
@@ -133,6 +193,12 @@ export const ui: Record<Language, Translation> = {
     home: '首页',
     essays: '随笔',
     work: '工作',
+    moments: '时刻',
+    momentsSubtitle: '那些值得记得的时刻。',
+    momentsEmpty: '暂时还没有。',
+    latestMoments: '最近的时刻',
+    recentEssays: '最近的随笔',
+    seeAll: '查看全部 →',
   },
   'zh-tw': {
     title: '重新編排',
@@ -145,5 +211,11 @@ export const ui: Record<Language, Translation> = {
     home: '首頁',
     essays: '隨筆',
     work: '工作',
+    moments: '時刻',
+    momentsSubtitle: '那些值得記得的時刻。',
+    momentsEmpty: '暫時還沒有。',
+    latestMoments: '最近的時刻',
+    recentEssays: '最近的隨筆',
+    seeAll: '查看全部 →',
   },
 }
