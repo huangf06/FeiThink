@@ -6,7 +6,7 @@ export const themeConfig: ThemeConfig = {
     // site title
     title: 'FeiThink',
     // site subtitle
-    subtitle: 'Essays on moral philosophy',
+    subtitle: 'Thinking and living — mostly in prose, occasionally in photos.',
     // site description (placeholder — finalized in Phase 6)
     description: 'Essays on moral philosophy, from a reader of Kant.',
     // use i18n title/subtitle/description from src/i18n/ui.ts instead of static ones above
