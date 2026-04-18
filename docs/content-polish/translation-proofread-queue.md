@@ -2,6 +2,40 @@
 
 > Built 2026-04-18 from `src/content/posts/` snapshot. Tracks every visible post through the **translate → proofread → done** workflow that owner locked: *"我所有的文章，都需要翻译+校对的流程"*.
 
+## Decisions locked 2026-04-18
+
+- **Translation voice: idiomatic EN with philosophical precision** — see "Translation discipline" below.
+- **Only `why-we-read-kant` is owner-proofread upfront.** Every other EN row stays `en-mt` and goes through normal pass.
+- **Order: storefront first, then chronological walk.** Phase 1A (pin posts, 5) runs first so the site face is right. After that, Phase 1B (ZH-only 6) and Phase 2 (31 bilingual) are merged into one chronological queue ordered by publish date (≈ ID), so owner re-reads the essays in the order they were written. See "Revised walk order" below.
+- **Pin 97 still pulled** (active-love, awaiting owner final review before restore). **Pin 96 slot reassigned**: sublime-suffering permanently unpinned 2026-04-18 (owner: too heavy for storefront); `ikiru` picked as replacement, needs proofread before pin.
+
+## Translation discipline (for new EN drafts)
+
+Default mode: **idiomatic English sentence-level, philosophical density preserved**. Three hard rules:
+
+1. **Kant / philosophy terms lock to canonical English.** Use Allen Wood or Mary Gregor for Kant (*Groundwork of the Metaphysics of Morals*, *Critique of Practical Reason*), Pevear & Volokhonsky or Garnett for Dostoevsky, standard English titles for Tolstoy, Yalom, etc. No ad-hoc retranslations of known terms. **When the ZH cites or paraphrases a famous book line, the EN must use the canonical source wording (word pairs, phrasing), not my own paraphrase** — even if the ZH compresses the line into an aphoristic imperative. E.g., `爱具体的人，不爱抽象的人` → `love people in particular, not humanity in general` (the `in particular / in general` pair from Zosima's doctor's confession, Book II Ch 4), **not** `concrete persons, humanity in the abstract` (invented paraphrase).
+2. **No Chinese (or Japanese) characters in EN main text.** Owner finds them jarring in English prose. Replacement policy:
+   - **Proper nouns** (people, account names, places): pinyin (Mandarin) or romaji (Japanese), no characters. E.g., `正十七` → `"Zheng Shiqi"`; `天下無双` → `"invincible under the sun"` or romaji `tenka musō` if the original term matters.
+   - **Book/film/work titles**: English translation in italics. If no canonical English translation exists, use pinyin/romaji in italics. E.g., `《英雄志》` → `*Heroes' Record*`.
+   - **Philosophical/cultural concepts with no clean English match**: *italicized pinyin* + short inline gloss on first mention, e.g., `*chaxu geju* (the differential pattern of relationships)`, `*xiangyuan* (Confucius's hollow conformist)`. On second mention, English gloss alone is fine.
+   - **Exception — stroke-level etymology/puns**: when the character shape itself carries the meaning (e.g., the 少→小 one-stroke prop error in *The Fifth Republic*), preserve the characters, but **move them to a footnote** with explanation, not the main narrative.
+3. **Do not flatten intellectual density.** If the ZH sentence is tight, the EN stays tight. Don't smooth out the argument to make it "read easier", that kills the Kantian register. Idiom may shift at the sentence level; the *argument* must not be diluted.
+4. **No em-dashes (—) anywhere in translated EN.** Owner considers em-dashes an AI tell. Replace contextually: commas for light asides, colons for emphatic breaks, periods for hard stops, parentheses for parenthetical inserts, semicolons for tight contrast. For blockquote attribution use `*Name*` (italicized name) rather than `—Name`. This rule also applies retroactively when polishing `en-mt` rows.
+
+Anti-patterns to avoid:
+- Performative literary cadence mimicking Chinese rhythm in English (purple prose).
+- Auto-translating 乡愿 → "Mr. Nice Guy" without the gloss — the concept is not the same.
+- Turning short declarative Chinese beats into flowing multi-clause English.
+- Over-explaining allusions (*Vagabond*, *Brighter Summer Day*, *Dream of the Red Chamber*). A short parenthetical is enough; readers who care will look it up.
+
+## Revised walk order
+
+1. **Phase 1A — storefront (5 essays).** Pins, in pin order. Translate 97 + 96 first so pins can be restored; proofread 98 + 95; 99 already done.
+2. **Chronological walk (37 essays).** All remaining visible posts sorted by ID ascending. This mixes proofreading (Phase 2 bilingual) and translation (Phase 1B ZH-only) — whatever the essay needs, handled in publish order. Owner re-reads the intellectual journey from `prologue` forward.
+3. **Phase 3 deferred.** Draft-only essays untouched unless owner promotes one.
+
+Net work: 8 translations + ~34 proofreads. Batching per `Suggested batching` below.
+
 ## Workflow & status fields
 
 ```
@@ -28,10 +62,11 @@ These are the **face of the site** + **freshest content**. Do these first.
 | ID | Slug | Line | EN status | ZH status | Owner notes |
 |----|------|------|-----------|-----------|-------------|
 | 149999960 | why-we-read-kant | kant | **proofread** (owner has done this) | todo | pin:99 |
-| 167521111 | rereading-the-brothers-karamazov | dostoevsky | en-mt | todo | pin:98 |
-| 182970593 | active-love-grounded-as-mountain | moral-life | **missing** (translate) | todo | pin:97 — ZH only, EN must be created |
-| 187142537 | the-sublime-suffering | kant | **missing** (translate) | todo | pin:96 — ZH only, EN must be created |
-| 173845261 | dumbledores-woolen-socks | (none) | en-mt | todo | pin:95 |
+| 167521111 | rereading-the-brothers-karamazov | dostoevsky | **proofread** 2026-04-18 (owner signed off) | todo | pin:98 |
+| 182970593 | active-love-grounded-as-mountain | moral-life | en-draft (owner-edited, em-dash-free, **awaiting final review**) | todo | pin:97 pulled |
+| 187142537 | the-sublime-suffering | kant | **proofread** 2026-04-18 (10 polish edits applied, owner approved) | todo | **pin removed by owner 2026-04-18** (too heavy for storefront) |
+| 159302102 | ikiru | (none) | en-mt | todo | **pin:96 candidate** (owner pick 2026-04-18, awaiting proofread before restore) |
+| 173845261 | dumbledores-woolen-socks | (none) | **proofread** 2026-04-18 (owner signed off) | todo | pin:95 |
 
 ### 1B. ZH-only essays (6 remaining — need EN created, then proofread)
 

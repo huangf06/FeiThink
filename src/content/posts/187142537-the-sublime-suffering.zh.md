@@ -11,7 +11,6 @@ draft: false
 lang: zh
 abbrlink: the-sublime-suffering
 line: kant
-pin: 96
 ---
 
 
