@@ -5,9 +5,10 @@ tags:
   - life-philosophy
 published: 2024-09-23T00:00:00.000Z
 description: ...
-draft: true
+draft: false
 lang: zh
 abbrlink: how-to-take-care-of-your-emotions
+line: existence-and-self
 ---
 
 

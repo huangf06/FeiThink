@@ -6,9 +6,10 @@ tags:
   - political-philosophy
 published: 2020-10-05T00:00:00.000Z
 description: 罗伯特议事规则 之前做《联邦党人文集》读书会时，遇到一些问题。 于是想要重新构想一种组织形式，可以让不同观点的人坐在一起有序地讨论一些争议性的话题。...
-draft: true
+draft: false
 lang: zh
 abbrlink: twelve-angry-men-and-roberts-rules-of-order
+line: moral-life
 ---
 
 

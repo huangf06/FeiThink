@@ -8,7 +8,7 @@ published: 2021-01-17T00:00:00.000Z
 description: >-
   This one feels the most relevant to our lives right now. --- Alexander
   conquered the Greek...
-draft: true
+draft: false
 lang: en
 abbrlink: history-of-thought-03-how-to-be-happy
 ---

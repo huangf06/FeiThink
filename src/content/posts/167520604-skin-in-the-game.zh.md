@@ -8,9 +8,10 @@ published: 2025-04-07T00:00:00.000Z
 description: >-
   这几天读了塔勒布的Skin in the
   Game，书里主要讲解了非对称风险的概念，比方说如果存在爆仓的风险，那么无论收益再大都不该碰。反复将自己暴露在风险中，无论多小的概率，最终都会死。...
-draft: true
+draft: false
 lang: zh
 abbrlink: skin-in-the-game
+line: moral-life
 ---
 
 

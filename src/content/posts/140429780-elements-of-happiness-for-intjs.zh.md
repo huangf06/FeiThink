@@ -7,7 +7,7 @@ published: 2024-01-06T00:00:00.000Z
 description: >-
   感觉我活得太沉重了。就连在圣诞前和罗马尼亚的朋友一起喝酒的档口，我还在大谈中国的社会和政治。这让我蓦然惊觉。
   脑子里整天想些不着边际的大事，但却唯独没有自己，不知道怎么让自己幸福。不应该这样。...
-draft: false
+draft: true
 lang: zh
 abbrlink: elements-of-happiness-for-intjs
 line: existence-and-self

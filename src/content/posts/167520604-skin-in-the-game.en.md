@@ -8,9 +8,10 @@ published: 2025-04-07T00:00:00.000Z
 description: >-
   I’ve been reading Taleb’s Skin in the Game these past few days. The book
   primarily explores the...
-draft: true
+draft: false
 lang: en
 abbrlink: skin-in-the-game
+line: moral-life
 ---
 
 

@@ -7,9 +7,10 @@ published: 2020-02-09T00:00:00.000Z
 description: >-
   Even as grief and rage flood social media, everyone knows things won’t change
   quickly. Power remains...
-draft: true
+draft: false
 lang: en
 abbrlink: in-memory-of-an-ordinary-man-dr-li-wenliang
+line: moral-life
 ---
 
 

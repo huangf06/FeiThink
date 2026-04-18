@@ -7,9 +7,10 @@ published: 2020-05-11T00:00:00.000Z
 description: >-
   Today on SMTH BBS, I saw an article titled “For Rural Children Going to
   College, More Important Than...
-draft: true
+draft: false
 lang: en
 abbrlink: on-liberal-education-and-free-will
+line: kant
 ---
 
 

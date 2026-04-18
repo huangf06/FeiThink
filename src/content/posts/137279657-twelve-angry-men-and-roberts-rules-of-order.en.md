@@ -8,9 +8,10 @@ published: 2020-10-05T00:00:00.000Z
 description: >-
   Robert’s Rules of Order When I was running a reading group on The Federalist
   Papers, we ran into...
-draft: true
+draft: false
 lang: en
 abbrlink: twelve-angry-men-and-roberts-rules-of-order
+line: moral-life
 ---
 
 

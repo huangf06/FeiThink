@@ -6,7 +6,7 @@ published: 2020-02-10T00:00:00.000Z
 description: >-
   Memories of College Life: On Pain and Healing Cleaning up my social media
   recently, I stumbled upon...
-draft: true
+draft: false
 lang: en
 abbrlink: memories-of-college-life-on-pain-and-healing
 ---
