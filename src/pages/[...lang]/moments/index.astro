@@ -1,0 +1,49 @@
+---
+import MomentCard from '@/components/MomentCard.astro'
+import { allLocales } from '@/config'
+import { getLangFromLocale, getLangRouteParam } from '@/i18n/lang'
+import { ui } from '@/i18n/ui'
+import Layout from '@/layouts/Layout.astro'
+import { groupMomentsByYear } from '@/utils/content'
+
+export async function getStaticPaths() {
+  return allLocales.map(lang => ({
+    params: { lang: getLangRouteParam(lang) },
+  }))
+}
+
+const currentLang = getLangFromLocale(Astro.currentLocale)
+const t = ui[currentLang]
+const groups = await groupMomentsByYear(currentLang)
+---
+
+<Layout
+  postTitle={t.moments}
+  postDescription={t.momentsSubtitle}
+>
+  <header class="mb-8">
+    <h1 class="mb-2 text-5.5 font-bold leading-tight cjk:tracking-wide lg:text-6">
+      {t.moments}
+    </h1>
+    <p class="text-3.8 leading-1.6 c-secondary lg:text-4">
+      {t.momentsSubtitle}
+    </p>
+  </header>
+
+  {groups.length === 0 && (
+    <p class="c-secondary text-3.8 lg:text-4">
+      {t.momentsEmpty}
+    </p>
+  )}
+
+  {groups.map(({ year, moments }) => (
+    <section class="mb-10">
+      <h2 class="mb-4 text-4.5 font-semibold c-secondary lg:text-5">{year}</h2>
+      <div class="grid gap-6 lg:grid-cols-2">
+        {moments.map(moment => (
+          <MomentCard moment={moment} variant="index" lang={currentLang} />
+        ))}
+      </div>
+    </section>
+  ))}
+</Layout>
