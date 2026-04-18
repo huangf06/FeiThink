@@ -110,6 +110,54 @@ async function _getRegularPosts(lang?: Language) {
 export const getRegularPosts = memoize(_getRegularPosts)
 
 /**
+ * Get all essays (type=essay or unset, defaults to essay)
+ *
+ * @param lang The language code to filter by
+ * @returns Essays filtered by language, sorted by date desc, excluding drafts
+ */
+async function _getEssays(lang?: Language) {
+  const posts = await _getPosts(lang)
+  return posts.filter(post => (post.data.type ?? 'essay') === 'essay')
+}
+
+export const getEssays = memoize(_getEssays)
+
+/**
+ * Get all moments (type=moment)
+ *
+ * @param lang The language code to filter by
+ * @returns Moments filtered by language, sorted by date desc, excluding drafts
+ */
+async function _getMoments(lang?: Language) {
+  const posts = await _getPosts(lang)
+  return posts.filter(post => post.data.type === 'moment')
+}
+
+export const getMoments = memoize(_getMoments)
+
+/**
+ * Group moments by year, newest year first
+ *
+ * @param lang The language code to filter by
+ * @returns Array of { year, moments } groups sorted by year descending
+ */
+async function _groupMomentsByYear(lang?: Language) {
+  const moments = await _getMoments(lang)
+  const map = new Map<number, typeof moments>()
+  for (const m of moments) {
+    const year = m.data.published.getFullYear()
+    const arr = map.get(year) ?? []
+    arr.push(m)
+    map.set(year, arr)
+  }
+  return [...map.entries()]
+    .sort(([a], [b]) => b - a)
+    .map(([year, moments]) => ({ year, moments }))
+}
+
+export const groupMomentsByYear = memoize(_groupMomentsByYear)
+
+/**
  * Get pinned posts sorted by pin priority
  *
  * @param lang The language code to filter by, defaults to site's default language
