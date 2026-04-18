@@ -28,6 +28,11 @@ const posts = defineCollection({
     // FeiThink curation
     line: z.enum(['kant', 'dostoevsky-and-literature', 'existence-and-self', 'moral-life']).optional(),
     standalone: z.boolean().optional(),
+    // FeiThink journal redesign (2026-04-18)
+    type: z.enum(['essay', 'moment']).optional().default('essay'),
+    image: z.string().optional(),
+    images: z.array(z.string()).optional(),
+    relatedEssay: z.string().optional(),
   }),
 })
 
