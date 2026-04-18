@@ -4,24 +4,19 @@ lang: en
 
 ## Who I am
 
-Fei Huang. Writes on moral philosophy — primarily Kant and Dostoevsky. Works in AI. Lives in Amsterdam.
+Fei Huang, 37, in Amsterdam. B.Eng. in Industrial Engineering, Tsinghua (2010); ten years in data science and quant trading. Then I left the industry, turned to philosophy in earnest, and walked alone through a period of depression and existential crisis.
 
-## What I write about
+Moved to Europe in 2023; finished an M.Sc. in AI at Vrije Universiteit Amsterdam in 2025.
 
-PLACEHOLDER (Phase 6) — four short paragraphs, one per reading line, each linking to its line page.
+I am someone who seeks knowledge, someone who pursues the sublime. Technical skill is the least of what I bring. My real passion is always people and the humanities.
 
-- [Kant](/essays/lines/kant/) — moral law, rational freedom, and why duty matters.
-- [Dostoevsky & Literature](/essays/lines/dostoevsky-and-literature/) — entering moral philosophy through the novel.
-- [Existence & Self](/essays/lines/existence-and-self/) — authenticity, subjectivity, and the life worth living.
-- [Moral Life & Public Sphere](/essays/lines/moral-life/) — integrity, honesty, and courage under pressure.
+In my years of crisis, Kant's *Metaphysics of Morals* taught me integrity and our responsibility to others; Dostoevsky broke my complicity with nihilism, and taught me to practice active love.
 
-## Professional
+This is what I'm doing now — to engage life, to create, to build connection with others, to be an entrepreneur.
 
-M.Sc. Artificial Intelligence, Vrije Universiteit Amsterdam (2025). Databricks Certified Data Engineer Professional. Ten years in data engineering and machine learning; seven in quantitative trading. See [Work](/work/) for details.
+## What this site is
 
-## Why English
-
-Chinese by birth, but this site is for an international audience. Writing in Chinese continues on [Substack](https://feithink.substack.com).
+This site is my place on the internet — a home for what I'm thinking and how I'm living. New writing goes to Substack first; what survives a second reading comes here, alongside the occasional moment worth marking.
 
 ## Contact
 
