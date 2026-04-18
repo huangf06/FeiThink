@@ -8,7 +8,7 @@ lang: zh
 
 ## 我在写什么
 
-这个站点的英文主站按阅读线（reading lines）组织，内容见[首页](/)。中文文章的更新目前主要在 [Substack](https://feihuang.substack.com)。
+这个站点的英文主站按阅读线（reading lines）组织，内容见[首页](/)。中文文章的更新目前主要在 [Substack](https://feithink.substack.com)。
 
 ## 专业背景
 
@@ -16,11 +16,11 @@ lang: zh
 
 ## 为什么用英文写
 
-出身中文世界，但这个站点的目标读者是国际化的。中文写作仍在 [Substack](https://feihuang.substack.com) 继续。
+出身中文世界，但这个站点的目标读者是国际化的。中文写作仍在 [Substack](https://feithink.substack.com) 继续。
 
 ## 联系
 
 - 邮箱：[huangf06@gmail.com](mailto:huangf06@gmail.com)
 - GitHub: [huangf06](https://github.com/huangf06)
 - LinkedIn: [Fei Huang](https://www.linkedin.com/in/huangf06/)
-- Substack: [feihuang.substack.com](https://feihuang.substack.com)
+- Substack: [feithink.substack.com](https://feithink.substack.com)

@@ -21,11 +21,11 @@ M.Sc. Artificial Intelligence, Vrije Universiteit Amsterdam (2025). Databricks C
 
 ## Why English
 
-Chinese by birth, but this site is for an international audience. Writing in Chinese continues on [Substack](https://feihuang.substack.com).
+Chinese by birth, but this site is for an international audience. Writing in Chinese continues on [Substack](https://feithink.substack.com).
 
 ## Contact
 
 - Email: [huangf06@gmail.com](mailto:huangf06@gmail.com)
 - GitHub: [huangf06](https://github.com/huangf06)
 - LinkedIn: [Fei Huang](https://www.linkedin.com/in/huangf06/)
-- Substack: [feihuang.substack.com](https://feihuang.substack.com)
+- Substack: [feithink.substack.com](https://feithink.substack.com)
