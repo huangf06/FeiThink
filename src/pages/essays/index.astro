@@ -1,63 +1,41 @@
 ---
-import Layout from '@/layouts/Layout.astro'
 import { LINES } from '@/data/lines'
-import { getCollection } from 'astro:content'
+import { getEssays } from '@/utils/content'
 import { getPostPath } from '@/i18n/path'
+import Layout from '@/layouts/Layout.astro'
 
-const all = await getCollection('posts', ({ data }) =>
-  data.lang === 'en' && !data.draft,
-)
-const chronological = all.sort((a, b) =>
-  b.data.published.valueOf() - a.data.published.valueOf(),
-)
+const essays = await getEssays('en')
 
 function formatDate(d: Date): string {
   return d.toISOString().slice(0, 10)
 }
 ---
 
-<Layout postTitle="Essays" postDescription="All curated essays — by reading line and by date.">
+<Layout postTitle="Essays" postDescription="Longform on Kant, Dostoevsky, and the moral life.">
   <article>
     <header class="mb-8">
       <h1 class="mb-2 text-5.5 font-bold leading-tight cjk:tracking-wide lg:text-6">
         Essays
       </h1>
       <p class="text-3.8 leading-1.6 c-secondary lg:text-4">
-        Curated writing. Organised by reading line, or read chronologically below.
+        Longform on Kant, Dostoevsky, and the moral life.
       </p>
     </header>
 
-    <section class="mb-10">
-      <div class="uno-decorative-line" />
-      <p class="mb-4 text-3 font-semibold uppercase tracking-widest c-secondary lg:text-3.2">
-        Reading lines
-      </p>
-      <ul>
-        {LINES.map(line => (
-          <li class="mb-5.5 lg:mb-8">
-            <h3 class="inline transition-colors hover:c-primary">
-              <a
-                class="cjk:tracking-wide lg:font-medium lg:text-4.5"
-                href={`/essays/lines/${line.slug}/`}
-              >
-                {line.title}
-              </a>
-            </h3>
-            <p class="heti mt-2 text-3.8 leading-1.6 lg:text-4">
-              {line.tagline}
-            </p>
-          </li>
-        ))}
-      </ul>
+    <section class="mb-10 flex flex-wrap gap-3">
+      {LINES.map(line => (
+        <a
+          href={`/essays/lines/${line.slug}/`}
+          class="inline-block rounded-full border px-4 py-1.5 text-3.4 c-secondary transition-colors hover:c-primary lg:text-3.6"
+        >
+          {line.title}
+        </a>
+      ))}
     </section>
 
     <section>
-      <div class="uno-decorative-line" />
-      <p class="mb-4 text-3 font-semibold uppercase tracking-widest c-secondary lg:text-3.2">
-        All essays ({chronological.length})
-      </p>
       <ul>
-        {chronological.map((post) => {
+        {essays.map((post) => {
           const slug = post.data.abbrlink || post.id
           return (
             <li class="mb-4.5 lg:mb-6">
