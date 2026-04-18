@@ -1,0 +1,85 @@
+---
+import MomentCard from '@/components/MomentCard.astro'
+import PostList from '@/components/PostList.astro'
+import { moreLocales } from '@/config'
+import { getLangFromLocale, getLangRouteParam } from '@/i18n/lang'
+import { getLocalizedPath, getPostPath } from '@/i18n/path'
+import { ui } from '@/i18n/ui'
+import Layout from '@/layouts/Layout.astro'
+import { getEssays, getMoments, getPinnedPosts } from '@/utils/content'
+
+export async function getStaticPaths() {
+  return moreLocales.map(lang => ({
+    params: { lang: getLangRouteParam(lang) },
+  }))
+}
+
+const currentLang = getLangFromLocale(Astro.currentLocale)
+const t = ui[currentLang]
+
+const pinned = await getPinnedPosts(currentLang)
+const latestMoments = (await getMoments(currentLang)).slice(0, 2)
+const recentEssays = (await getEssays(currentLang))
+  .filter(post => !post.data.pin)
+  .slice(0, 5)
+
+function formatDate(d: Date): string {
+  return d.toISOString().slice(0, 10)
+}
+---
+
+<Layout>
+  {pinned.length > 0 && (
+    <section class="mb-10">
+      <div class="uno-decorative-line" />
+      <PostList posts={pinned} lang={currentLang} pinned={true} />
+    </section>
+  )}
+
+  {latestMoments.length > 0 && (
+    <section class="mb-10">
+      <div class="uno-decorative-line" />
+      <div class="mb-4 flex items-baseline justify-between">
+        <p class="text-3 font-semibold uppercase tracking-widest c-secondary lg:text-3.2">
+          {t.latestMoments}
+        </p>
+        <a
+          href={getLocalizedPath('/moments/', currentLang)}
+          class="text-3.2 c-secondary transition-colors hover:c-primary lg:text-3.4"
+        >
+          {t.seeAll}
+        </a>
+      </div>
+      <div class="grid gap-6 lg:grid-cols-2">
+        {latestMoments.map(moment => (
+          <MomentCard moment={moment} variant="home" lang={currentLang} />
+        ))}
+      </div>
+    </section>
+  )}
+
+  <section class="mb-10">
+    <div class="uno-decorative-line" />
+    <p class="mb-4 text-3 font-semibold uppercase tracking-widest c-secondary lg:text-3.2">
+      {t.recentEssays}
+    </p>
+    <ul>
+      {recentEssays.map((post) => {
+        const slug = post.data.abbrlink || post.id
+        return (
+          <li class="mb-4.5 lg:mb-6">
+            <time class="mr-2 c-secondary font-time text-3.5">
+              {formatDate(post.data.published)}
+            </time>
+            <a
+              class="highlight-hover cjk:tracking-wide transition-colors hover:c-primary"
+              href={getPostPath(slug, currentLang)}
+            >
+              {post.data.title}
+            </a>
+          </li>
+        )
+      })}
+    </ul>
+  </section>
+</Layout>

@@ -1,0 +1,125 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import type { Language } from '@/i18n/config'
+import { getCollection, render } from 'astro:content'
+import Comment from '@/components/Comment/Index.astro'
+import PostDate from '@/components/PostDate.astro'
+import TagList from '@/components/TagList.astro'
+import BackButton from '@/components/Widgets/BackButton.astro'
+import { allLocales } from '@/config'
+import { getLangFromLocale, getLangRouteParam } from '@/i18n/lang'
+import Layout from '@/layouts/Layout.astro'
+import { getPostDescription } from '@/utils/description'
+
+export async function getStaticPaths() {
+  const moments: CollectionEntry<'posts'>[] = (await getCollection('posts'))
+    .filter(p => p.data.type === 'moment')
+
+  const slugToLangsMap = new Map<string, Set<Language>>()
+  for (const m of moments) {
+    const slug = m.data.abbrlink || m.id
+    const lang = m.data.lang
+    let langSet = slugToLangsMap.get(slug)
+    if (!langSet) {
+      langSet = new Set()
+      slugToLangsMap.set(slug, langSet)
+    }
+    if (lang) {
+      langSet.add(lang as Language)
+    }
+    else {
+      allLocales.forEach(locale => langSet.add(locale))
+    }
+  }
+
+  const slugToLangs: Record<string, Language[]> = {}
+  for (const [slug, langs] of slugToLangsMap) {
+    slugToLangs[slug] = [...langs].sort((a, b) => allLocales.indexOf(a) - allLocales.indexOf(b))
+  }
+
+  return allLocales.flatMap(lang => moments
+    .filter(m => import.meta.env.DEV || !m.data.draft)
+    .filter(m => m.data.lang === lang || m.data.lang === '')
+    .map((m) => {
+      const slug = m.data.abbrlink || m.id
+      return {
+        params: { lang: getLangRouteParam(lang), slug },
+        props: { moment: m, supportedLangs: slugToLangs[slug] },
+      }
+    }),
+  )
+}
+
+interface Props {
+  moment: CollectionEntry<'posts'>
+  supportedLangs: Language[]
+}
+
+const { moment, supportedLangs } = Astro.props
+const currentLang = getLangFromLocale(Astro.currentLocale)
+const slug = moment.data.abbrlink || moment.id
+const description = getPostDescription(moment, 'meta')
+const { Content, remarkPluginFrontmatter } = await render(moment)
+
+const images = moment.data.images ?? (moment.data.image ? [moment.data.image] : [])
+---
+
+<Layout
+  postTitle={moment.data.title}
+  postDescription={description}
+  postSlug={moment.id}
+  supportedLangs={supportedLangs}
+>
+  <article class="heti">
+    <div class="relative">
+      <BackButton />
+      <h1 class="post-title">
+        <span
+          transition:name={`post-${slug}${currentLang ? `-${currentLang}` : ''}`}
+          data-disable-theme-toggle-transition
+        >
+          {moment.data.title}
+        </span>
+      </h1>
+    </div>
+
+    <div
+      id="post-date"
+      class="mb-8 block c-primary font-time"
+      transition:name={`time-${slug}${currentLang ? `-${currentLang}` : ''}`}
+      data-disable-theme-toggle-transition
+    >
+      <PostDate
+        date={moment.data.published}
+        updatedDate={moment.data.updated}
+        minutes={remarkPluginFrontmatter.minutes}
+      />
+    </div>
+
+    {images.length > 0 && (
+      <div class={images.length === 1 ? 'mb-8' : 'mb-8 grid gap-2 grid-cols-2'}>
+        {images.map(src => (
+          <img
+            src={src}
+            alt=""
+            class="w-full rounded object-cover"
+            loading="lazy"
+          />
+        ))}
+      </div>
+    )}
+
+    <div id="post-content">
+      <Content />
+      <div id="post-copyright" />
+      {moment.data.tags?.length > 0 && (
+        <div class="mt-12.6 uno-decorative-line" />
+        <TagList
+          tags={moment.data.tags}
+          lang={currentLang}
+        />
+      )}
+      <Comment />
+    </div>
+  </article>
+</Layout>

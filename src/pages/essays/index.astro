@@ -1,0 +1,57 @@
+---
+import { LINES } from '@/data/lines'
+import { getEssays } from '@/utils/content'
+import { getPostPath } from '@/i18n/path'
+import Layout from '@/layouts/Layout.astro'
+
+const essays = await getEssays('en')
+
+function formatDate(d: Date): string {
+  return d.toISOString().slice(0, 10)
+}
+---
+
+<Layout postTitle="Essays" postDescription="Longform on Kant, Dostoevsky, and the moral life.">
+  <article>
+    <header class="mb-8">
+      <h1 class="mb-2 text-5.5 font-bold leading-tight cjk:tracking-wide lg:text-6">
+        Essays
+      </h1>
+      <p class="text-3.8 leading-1.6 c-secondary lg:text-4">
+        Longform on Kant, Dostoevsky, and the moral life.
+      </p>
+    </header>
+
+    <section class="mb-10 flex flex-wrap gap-3">
+      {LINES.map(line => (
+        <a
+          href={`/essays/lines/${line.slug}/`}
+          class="inline-block rounded-full border px-4 py-1.5 text-3.4 c-secondary transition-colors hover:c-primary lg:text-3.6"
+        >
+          {line.title}
+        </a>
+      ))}
+    </section>
+
+    <section>
+      <ul>
+        {essays.map((post) => {
+          const slug = post.data.abbrlink || post.id
+          return (
+            <li class="mb-4.5 lg:mb-6">
+              <time class="mr-2 c-secondary font-time text-3.5">
+                {formatDate(post.data.published)}
+              </time>
+              <a
+                class="highlight-hover cjk:tracking-wide transition-colors hover:c-primary"
+                href={getPostPath(slug, 'en')}
+              >
+                {post.data.title}
+              </a>
+            </li>
+          )
+        })}
+      </ul>
+    </section>
+  </article>
+</Layout>

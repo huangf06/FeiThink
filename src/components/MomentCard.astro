@@ -1,0 +1,54 @@
+---
+import type { Language } from '@/i18n/config'
+import type { Post } from '@/types'
+import PostDate from '@/components/PostDate.astro'
+import { defaultLocale } from '@/config'
+
+interface Props {
+  moment: Post
+  variant: 'home' | 'index'
+  lang: Language
+}
+
+const { moment, variant, lang } = Astro.props
+const slug = moment.data.abbrlink || moment.id
+const href = lang === defaultLocale
+  ? `/moments/${slug}/`
+  : `/${lang}/moments/${slug}/`
+
+const cover = moment.data.image ?? moment.data.images?.[0]
+const minutes = moment.remarkPluginFrontmatter?.minutes ?? 1
+---
+
+<article
+  class:list={[
+    'moment-card',
+    variant === 'home' ? 'moment-card--home mb-6' : 'moment-card--index mb-6',
+  ]}
+>
+  <a href={href} class="block group">
+    {cover && (
+      <img
+        src={cover}
+        alt=""
+        class="moment-card__img aspect-16/9 w-full rounded object-cover"
+        loading="lazy"
+      />
+    )}
+    <div class={cover ? 'mt-3' : ''}>
+      {moment.data.title && (
+        <h3 class="text-4.5 font-medium leading-tight cjk:tracking-wide transition-colors lg:text-5 group-hover:c-primary">
+          {moment.data.title}
+        </h3>
+      )}
+      <div class="mt-1 text-3.4 c-secondary font-time lg:text-3.5">
+        <PostDate date={moment.data.published} minutes={minutes} />
+      </div>
+      {moment.data.description && (
+        <p class="heti mt-2 text-3.8 leading-1.6 lg:text-4 line-clamp-3">
+          {moment.data.description}
+        </p>
+      )}
+    </div>
+  </a>
+</article>

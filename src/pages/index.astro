@@ -1,0 +1,116 @@
+---
+import MomentCard from '@/components/MomentCard.astro'
+import { getEssays, getMoments, getPinnedPosts } from '@/utils/content'
+import { getPostPath } from '@/i18n/path'
+import Layout from '@/layouts/Layout.astro'
+
+const pinned = await getPinnedPosts('en')
+const latestMoments = (await getMoments('en')).slice(0, 2)
+const recentEssays = (await getEssays('en'))
+  .filter(post => !post.data.pin)
+  .slice(0, 5)
+
+function formatDate(d: Date): string {
+  return d.toISOString().slice(0, 10)
+}
+---
+
+<Layout>
+  <section class="hero mb-10">
+    <p class="heti text-3.8 lg:text-4">
+      I'm Fei Huang. This is where my essays, moments, and work live.
+      New writing goes out on <a
+        class="highlight-hover transition-colors hover:c-primary"
+        href="https://feithink.substack.com"
+        target="_blank"
+        rel="noopener noreferrer"
+      >Substack</a> first; a few come home here.
+    </p>
+  </section>
+
+  {pinned.length > 0 && (
+    <section class="mb-10">
+      <div class="uno-decorative-line" />
+      <p class="mb-4 text-3 font-semibold uppercase tracking-widest c-secondary lg:text-3.2">
+        Start here
+      </p>
+      <ul>
+        {pinned.map((post) => {
+          const slug = post.data.abbrlink || post.id
+          return (
+            <li class="mb-5.5 lg:mb-8">
+              <h3 class="inline transition-colors hover:c-primary">
+                <a
+                  class="cjk:tracking-wide lg:font-medium lg:text-4.5"
+                  href={getPostPath(slug, 'en')}
+                >
+                  {post.data.title}
+                </a>
+              </h3>
+              {post.data.description && (
+                <p class="heti mt-2 text-3.8 leading-1.6 lg:text-4">
+                  {post.data.description}
+                </p>
+              )}
+            </li>
+          )
+        })}
+      </ul>
+    </section>
+  )}
+
+  {latestMoments.length > 0 && (
+    <section class="mb-10">
+      <div class="uno-decorative-line" />
+      <div class="mb-4 flex items-baseline justify-between">
+        <p class="text-3 font-semibold uppercase tracking-widest c-secondary lg:text-3.2">
+          Latest moments
+        </p>
+        <a
+          href="/moments/"
+          class="text-3.2 c-secondary transition-colors hover:c-primary lg:text-3.4"
+        >
+          See all →
+        </a>
+      </div>
+      <div class="grid gap-6 lg:grid-cols-2">
+        {latestMoments.map(moment => (
+          <MomentCard moment={moment} variant="home" lang="en" />
+        ))}
+      </div>
+    </section>
+  )}
+
+  <section class="mb-10">
+    <div class="uno-decorative-line" />
+    <div class="mb-4 flex items-baseline justify-between">
+      <p class="text-3 font-semibold uppercase tracking-widest c-secondary lg:text-3.2">
+        Recent essays
+      </p>
+      <a
+        href="/essays/"
+        class="text-3.2 c-secondary transition-colors hover:c-primary lg:text-3.4"
+      >
+        See all →
+      </a>
+    </div>
+    <ul>
+      {recentEssays.map((post) => {
+        const slug = post.data.abbrlink || post.id
+        return (
+          <li class="mb-4.5 lg:mb-6">
+            <time class="mr-2 c-secondary font-time text-3.5">
+              {formatDate(post.data.published)}
+            </time>
+            <a
+              class="highlight-hover cjk:tracking-wide transition-colors hover:c-primary"
+              href={getPostPath(slug, 'en')}
+            >
+              {post.data.title}
+            </a>
+          </li>
+        )
+      })}
+    </ul>
+  </section>
+</Layout>
