@@ -75,3 +75,13 @@ __pycache__/
 *.pdf
 *.csv
 .claude/settings.local.json
+
+# Local-only working files (not part of the site)
+/Screenshot*.png
+/*.zip
+/wechat_draft_*.md
+/substack_export/
+
+# Translation tooling runtime output (keep dir, ignore generated files)
+/output/*
+!/output/.gitkeep
