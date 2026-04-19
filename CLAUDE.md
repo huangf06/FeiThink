@@ -104,7 +104,7 @@ Use the `curate` script (`scripts/curate/curate.ts`) to attach `line` / `pin` / 
 
 ### Home-page composition
 
-`hero paragraph → 3 pinned essays → Latest moments (2) → Recent essays (5)`. Pin slots (as of 2026-04): 99 *Why We Read Kant* / 98 *Brothers Karamazov* / 97 *积极之爱* / 96 *崇高的痛苦* / 95 *Dumbledore*.
+`hero paragraph → 3 pinned essays → Latest moments (2) → Recent essays (5)`. Pin slots (as of 2026-04): 99 *Why We Read Kant* / 98 *Brothers Karamazov* / 97 *积极之爱* / 96 *Ikiru* / 95 *Dumbledore*.
 
 ### i18n
 

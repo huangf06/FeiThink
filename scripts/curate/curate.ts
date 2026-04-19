@@ -20,7 +20,7 @@ const CURATION: Record<string, Curation> = {
   'why-we-read-kant':                              { line: 'kant', pin: 99 },
   'rereading-the-brothers-karamazov':              { line: 'dostoevsky-and-literature', pin: 98 },
   'active-love-grounded-as-mountain':              { line: 'moral-life', pin: 97 },
-  'the-sublime-suffering':                         { line: 'kant', pin: 96 },
+  'ikiru':                                         { standalone: true, pin: 96 },
   'dumbledores-woolen-socks':                      { standalone: true, pin: 95 },
 
   // Kant line
@@ -31,6 +31,7 @@ const CURATION: Record<string, Curation> = {
   'feminism-vs-kantianism':                        { line: 'kant' },
   'love-and-evil-by-the-measure-of-freedom':       { line: 'kant' },
   'the-dignity-of-man':                            { line: 'kant' },
+  'the-sublime-suffering':                         { line: 'kant' },
 
   // Dostoevsky & Literature
   'vagabond-and-the-sublime':                      { line: 'dostoevsky-and-literature' },
@@ -62,7 +63,6 @@ const CURATION: Record<string, Curation> = {
   'beyond-the-differential-pattern':               { line: 'moral-life' },
 
   // Standalone gems
-  'ikiru':                                         { standalone: true },
   'the-scale-of-time':                             { standalone: true },
   'let-there-be-light':                            { standalone: true },
   'perfect-friendship-and-bitter-merit':           { standalone: true },
