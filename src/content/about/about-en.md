@@ -16,7 +16,9 @@ This is what I'm doing now — to engage life, to create, to build connection wi
 
 ## What this site is
 
-This site is my place on the internet — a home for what I'm thinking and how I'm living. New writing goes to Substack first; what survives a second reading comes here, alongside the occasional moment worth marking.
+This site is my place on the internet — a home for what I'm thinking and how I'm living. 
+
+New writing goes to Substack first; what survives a second reading comes here, alongside the occasional moment worth marking.
 
 ## Contact
 
