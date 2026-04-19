@@ -1,15 +1,15 @@
 ---
-title: "Active Love: Grounded as a Mountain"
+title: 'Active Love: Grounded as a Mountain'
 tags:
   - philosophy
   - life-philosophy
   - kant
 published: 2025-12-30T16:19:31.452Z
 description: >-
-  Lately I have been pressing the idea of active love. But when it comes down
-  to practice, how do we actually live it out? Many readers find the farming
-  arc of *Vagabond* tedious, but the more I return to it, the more I am
-  convinced it is the soul of the whole work...
+  Lately I have been pressing the idea of active love. But when it comes down to
+  practice, how do we actually live it out? Many readers find the farming arc of
+  *Vagabond* tedious, but the more I return to it, the more I am convinced it is
+  the soul of the whole work...
 draft: false
 lang: en
 abbrlink: active-love-grounded-as-mountain

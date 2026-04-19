@@ -5,8 +5,7 @@ tags:
   - kant
   - social-commentary
 published: 2026-01-21T13:11:05.799Z
-description: >-
-  上一篇文章写完刘大说我在肆意挥洒对同类的恶意。为了避免有人误读，我得多写一些以示澄清，让更多人理解我们写文章的意图...
+description: 上一篇文章写完刘大说我在肆意挥洒对同类的恶意。为了避免有人误读，我得多写一些以示澄清，让更多人理解我们写文章的意图...
 draft: false
 lang: zh
 abbrlink: love-and-evil-by-the-measure-of-freedom

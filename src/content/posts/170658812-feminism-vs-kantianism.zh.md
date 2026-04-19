@@ -5,8 +5,7 @@ tags:
   - kant
   - social-commentary
 published: 2025-07-30T04:26:00.000Z
-description: >-
-  前天在 Reddit 上看到一篇从国男视角总结当下中国女性主义光谱的文章，感觉写得犀利又让人震惊...
+description: 前天在 Reddit 上看到一篇从国男视角总结当下中国女性主义光谱的文章，感觉写得犀利又让人震惊...
 draft: false
 lang: zh
 abbrlink: feminism-vs-kantianism

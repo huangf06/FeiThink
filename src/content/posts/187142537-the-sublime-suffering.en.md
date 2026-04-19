@@ -7,9 +7,9 @@ tags:
 published: 2026-02-06T22:08:26.217Z
 description: >-
   I often feel I am climbing a heavenly ladder. People tend to assume that the
-  higher the intelligence, the better, but this is not so. Most high-IQ
-  people live their whole lives tangled in misunderstanding and pain. Cheap
-  happiness, or sublime suffering: which will you choose?...
+  higher the intelligence, the better, but this is not so. Most high-IQ people
+  live their whole lives tangled in misunderstanding and pain. Cheap happiness,
+  or sublime suffering: which will you choose?...
 draft: false
 lang: en
 abbrlink: the-sublime-suffering

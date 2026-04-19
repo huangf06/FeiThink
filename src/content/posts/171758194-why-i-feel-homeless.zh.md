@@ -5,8 +5,7 @@ tags:
   - life-philosophy
   - existentialism
 published: 2025-08-23T18:29:44.214Z
-description: >-
-  回想了下，一些事件，一步步的吧。我本来就INTJ性格，内向话少。让我失去和父母交流欲望的一件事是，大学第一学期国庆放假回家...
+description: 回想了下，一些事件，一步步的吧。我本来就INTJ性格，内向话少。让我失去和父母交流欲望的一件事是，大学第一学期国庆放假回家...
 draft: false
 lang: zh
 abbrlink: why-i-feel-homeless

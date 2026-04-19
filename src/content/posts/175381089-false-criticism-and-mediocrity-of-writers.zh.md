@@ -5,8 +5,7 @@ tags:
   - philosophy
   - personal-essay
 published: 2025-10-05T23:26:52.201Z
-description: >-
-  看完电影《长安的荔枝》，一口气憋着，说不上来。好像电影沉痛批判了现实，但你去细想他又啥也没说。我只是想从电影和小说的立意上，感叹作家思想的平庸性...
+description: 看完电影《长安的荔枝》，一口气憋着，说不上来。好像电影沉痛批判了现实，但你去细想他又啥也没说。我只是想从电影和小说的立意上，感叹作家思想的平庸性...
 draft: false
 lang: zh
 abbrlink: false-criticism-and-mediocrity-of-writers

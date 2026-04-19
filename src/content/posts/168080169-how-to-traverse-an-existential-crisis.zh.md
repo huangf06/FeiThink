@@ -5,8 +5,7 @@ tags:
   - life-philosophy
   - existentialism
 published: 2025-07-10T04:07:00.000Z
-description: >-
-  最近抑郁大爆发。持续性摆烂。感觉疲惫，怎么都恢复不过来。孤独感爆棚。感觉在这世上孤独一人，无家可归...
+description: 最近抑郁大爆发。持续性摆烂。感觉疲惫，怎么都恢复不过来。孤独感爆棚。感觉在这世上孤独一人，无家可归...
 draft: false
 lang: zh
 abbrlink: how-to-traverse-an-existential-crisis

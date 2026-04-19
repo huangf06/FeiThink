@@ -3,65 +3,97 @@ import { join, resolve } from 'node:path'
 import matter from 'gray-matter'
 
 type Line = 'kant' | 'dostoevsky-and-literature' | 'existence-and-self' | 'moral-life'
-interface Curation { line?: Line; standalone?: true; pin?: number }
+interface Curation {
+  line?: Line
+  standalone?: true
+  pin?: number
+  /** Explicitly drafted even though listed (preserves line while hiding post). */
+  draft?: true
+}
 
 const POSTS_DIR = resolve(process.cwd(), 'src', 'content', 'posts')
 
+// Source of truth. Any abbrlink missing here is treated as draft, line/standalone/pin stripped.
+// Keep in sync with src/content/posts/*.md frontmatter — running this script is a no-op when aligned.
 const CURATION: Record<string, Curation> = {
+  // Pinned (home page hero)
+  'why-we-read-kant':                              { line: 'kant', pin: 99 },
+  'rereading-the-brothers-karamazov':              { line: 'dostoevsky-and-literature', pin: 98 },
+  'active-love-grounded-as-mountain':              { line: 'moral-life', pin: 97 },
+  'the-sublime-suffering':                         { line: 'kant', pin: 96 },
+  'dumbledores-woolen-socks':                      { standalone: true, pin: 95 },
+
   // Kant line
-  'groundwork-of-the-metaphysics-of-morals-i': { line: 'kant' },
-  'groundwork-of-the-metaphysics-of-morals-ii': { line: 'kant' },
-  'why-we-read-kant': { line: 'kant', pin: 99 },
-  'the-dignity-of-man': { line: 'kant' },
-  'what-is-morality': { line: 'kant' },
+  'groundwork-of-the-metaphysics-of-morals-i':     { line: 'kant' },
+  'groundwork-of-the-metaphysics-of-morals-ii':    { line: 'kant' },
+  'on-liberal-education-and-free-will':            { line: 'kant' },
+  'what-is-morality':                              { line: 'kant' },
+  'feminism-vs-kantianism':                        { line: 'kant' },
+  'love-and-evil-by-the-measure-of-freedom':       { line: 'kant' },
+  'the-dignity-of-man':                            { line: 'kant' },
 
   // Dostoevsky & Literature
-  'rereading-the-brothers-karamazov': { line: 'dostoevsky-and-literature', pin: 98 },
-  'reading-notes-on-the-idiot-christ-like-love': { line: 'dostoevsky-and-literature' },
-  'humiliated-and-insulted': { line: 'dostoevsky-and-literature' },
-  'vagabond-and-the-sublime': { line: 'dostoevsky-and-literature' },
-  'starting-from-one-hundred-years-of-solitude': { line: 'dostoevsky-and-literature' },
+  'vagabond-and-the-sublime':                      { line: 'dostoevsky-and-literature' },
+  'reading-notes-on-the-idiot-christ-like-love':   { line: 'dostoevsky-and-literature' },
+  'starting-from-one-hundred-years-of-solitude':   { line: 'dostoevsky-and-literature' },
+  'humiliated-and-insulted':                       { line: 'dostoevsky-and-literature' },
+  'vagabond-go-farm':                              { line: 'dostoevsky-and-literature' },
 
   // Existence & Self
-  'essence-of-existential-psychotherapy': { line: 'existence-and-self' },
+  'essence-of-existential-psychotherapy':          { line: 'existence-and-self' },
+  'wandering-and-belonging':                       { line: 'existence-and-self' },
+  'how-to-take-care-of-your-emotions':             { line: 'existence-and-self' },
   'subjectivity-how-to-become-the-protagonist-of-your-own-life': { line: 'existence-and-self' },
-  'reason-and-emotion': { line: 'existence-and-self' },
-  'wandering-and-belonging': { line: 'existence-and-self' },
-  'elements-of-happiness-for-intjs': { line: 'existence-and-self' },
+  'reason-and-emotion':                            { line: 'existence-and-self' },
+  'how-to-traverse-an-existential-crisis':         { line: 'existence-and-self' },
+  'why-i-feel-homeless':                           { line: 'existence-and-self' },
+  'elements-of-happiness-for-intjs':               { line: 'existence-and-self', draft: true },
 
   // Moral Life & Public
-  'on-being-a-person-of-integrity': { line: 'moral-life' },
-  'do-not-lie': { line: 'moral-life' },
-  'why-discriminating-belittles-you': { line: 'moral-life' },
+  'in-memory-of-an-ordinary-man-dr-li-wenliang':   { line: 'moral-life' },
+  'twelve-angry-men-and-roberts-rules-of-order':   { line: 'moral-life' },
   'on-human-nature-what-the-white-paper-protests-taught-me': { line: 'moral-life' },
+  'on-being-a-person-of-integrity':                { line: 'moral-life' },
+  'do-not-lie':                                    { line: 'moral-life' },
   'luo-xiang-a-light-flickering-against-the-wind': { line: 'moral-life' },
+  'why-discriminating-belittles-you':              { line: 'moral-life' },
+  'skin-in-the-game':                              { line: 'moral-life' },
+  'false-criticism-and-mediocrity-of-writers':     { line: 'moral-life' },
+  'beyond-the-differential-pattern':               { line: 'moral-life' },
 
   // Standalone gems
-  'ikiru': { standalone: true, pin: 97 },
-  'the-scale-of-time': { standalone: true },
-  'dumbledores-woolen-socks': { standalone: true },
-  'let-there-be-light': { standalone: true },
-  'perfect-friendship-and-bitter-merit': { standalone: true },
+  'ikiru':                                         { standalone: true },
+  'the-scale-of-time':                             { standalone: true },
+  'let-there-be-light':                            { standalone: true },
+  'perfect-friendship-and-bitter-merit':           { standalone: true },
+
+  // Uncategorized but published (archive only, no line/standalone)
+  'prologue':                                      {},
+  'to-high-school-students-written-to-my-sister':  {},
+  'memories-of-college-life-on-pain-and-healing':  {},
+  'history-of-thought-01-from-myth-to-reason':     {},
+  'history-of-thought-02-is-there-universal-law':  {},
+  'history-of-thought-03-how-to-be-happy':         {},
+  'history-of-thought-04-overview-and-reflections':{},
 }
 
 function applyCuration(abbrlink: string, front: Record<string, any>): Record<string, any> {
   const curated = CURATION[abbrlink]
   const next: Record<string, any> = { ...front }
 
-  // Reset curation-controlled fields (idempotent re-runs)
+  // Map is authoritative — reset all curation-controlled fields every run.
   delete next.line
   delete next.standalone
-  if (next.pin === 0) delete next.pin
+  delete next.pin
 
   if (curated) {
     if (curated.line) next.line = curated.line
     if (curated.standalone) next.standalone = true
     if (curated.pin !== undefined) next.pin = curated.pin
-    next.draft = false
+    next.draft = curated.draft ?? false
   }
   else {
     next.draft = true
-    delete next.pin
   }
 
   return next
@@ -88,12 +120,12 @@ function main() {
     else counts.published++
   }
 
-  console.log(`Curated ${files.length} files (both en+zh):`)
-  console.log(`  lined:     ${counts.lined}  (target 40 = 20×2)`)
-  console.log(`  standalone:${counts.standalone}  (target 10 = 5×2)`)
-  console.log(`  pinned:    ${counts.pinned}  (target 6 = 3×2)`)
-  console.log(`  drafted:   ${counts.drafted}  (target 46 = 23×2)`)
-  console.log(`  published: ${counts.published}  (target 50 = 25×2)`)
+  console.log(`Curated ${files.length} files:`)
+  console.log(`  lined:     ${counts.lined}`)
+  console.log(`  standalone:${counts.standalone}`)
+  console.log(`  pinned:    ${counts.pinned}`)
+  console.log(`  drafted:   ${counts.drafted}`)
+  console.log(`  published: ${counts.published}`)
 }
 
 main()

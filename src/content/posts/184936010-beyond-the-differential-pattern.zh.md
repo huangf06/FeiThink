@@ -5,8 +5,7 @@ tags:
   - moral-life
   - philosophy
 published: 2026-01-18T08:17:23.891Z
-description: >-
-  最近一个老问题又重新浮出水面：去年参加了一年的读书会，认识了一些中国人。以为自己交到了一些新朋友，可是友谊的小船说翻就翻...
+description: 最近一个老问题又重新浮出水面：去年参加了一年的读书会，认识了一些中国人。以为自己交到了一些新朋友，可是友谊的小船说翻就翻...
 draft: false
 lang: zh
 abbrlink: beyond-the-differential-pattern

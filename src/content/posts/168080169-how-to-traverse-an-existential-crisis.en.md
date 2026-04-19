@@ -6,7 +6,9 @@ tags:
   - existentialism
 published: 2025-07-10T04:07:00.000Z
 description: >-
-  Recently, a major wave of depression hit me. A prolonged slump with no end. I felt exhausted—no matter what I did, I couldn't recover. The loneliness was overwhelming...
+  Recently, a major wave of depression hit me. A prolonged slump with no end. I
+  felt exhausted—no matter what I did, I couldn't recover. The loneliness was
+  overwhelming...
 draft: false
 lang: en
 abbrlink: how-to-traverse-an-existential-crisis

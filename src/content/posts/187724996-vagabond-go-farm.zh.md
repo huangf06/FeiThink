@@ -4,8 +4,7 @@ tags:
   - book-review
   - life-philosophy
 published: 2026-02-12T09:17:52.197Z
-description: >-
-  昨天和一帮一起读研的朋友们喝酒。看着这些聪明、善良、前途光明的年轻朋友们，忽然心中有感，自己其实根本没有原来想象的那么孤独...
+description: 昨天和一帮一起读研的朋友们喝酒。看着这些聪明、善良、前途光明的年轻朋友们，忽然心中有感，自己其实根本没有原来想象的那么孤独...
 draft: false
 lang: zh
 abbrlink: vagabond-go-farm
