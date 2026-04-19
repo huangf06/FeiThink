@@ -14,6 +14,7 @@ draft: false
 lang: en
 abbrlink: active-love-grounded-as-mountain
 line: moral-life
+pin: 97
 ---
 
 
