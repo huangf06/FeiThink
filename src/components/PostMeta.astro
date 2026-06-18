@@ -1,0 +1,42 @@
+---
+// Post meta line — date · reading time · line · lang, separated by middots.
+// The date is set in mono with tabular figures so ISO dates stay aligned
+// (Snell script is reserved for the wordmark and large year headers).
+interface Props {
+  date: Date
+  minutes?: number
+  line?: string
+  lang?: string
+  class?: string
+}
+
+const { date, minutes, line, lang, class: className = '' } = Astro.props
+const iso = date.toISOString().slice(0, 10)
+---
+
+<div
+  class:list={[
+    'flex flex-wrap items-baseline font-serif text-3.6 c-secondary/40',
+    className,
+  ]}
+>
+  <time datetime={iso} class="text-[0.85em] tracking-wide font-mono tabular-nums">{iso}</time>
+  {minutes && (
+    <>
+      <span class="mx-1.5 c-secondary/25" aria-hidden="true">·</span>
+      <span>{minutes} min</span>
+    </>
+  )}
+  {line && (
+    <>
+      <span class="mx-1.5 c-secondary/25" aria-hidden="true">·</span>
+      <span class="italic">{line}</span>
+    </>
+  )}
+  {lang && (
+    <>
+      <span class="mx-1.5 c-secondary/25" aria-hidden="true">·</span>
+      <span class="text-[0.85em] tracking-wider font-mono uppercase">{lang}</span>
+    </>
+  )}
+</div>

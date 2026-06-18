@@ -17,6 +17,15 @@ interface Translation {
   latestMoments: string
   recentEssays: string
   seeAll: string
+  // FeiThink editorial redesign (2026-06) — optional; only en/zh are routed
+  now?: string
+  leadEssay?: string
+  pinned?: string
+  allEssays?: string
+  allMoments?: string
+  readingLines?: string
+  backToEssays?: string
+  aboutMore?: string
 }
 
 export const ui: Record<Language, Translation> = {
@@ -55,6 +64,14 @@ export const ui: Record<Language, Translation> = {
     latestMoments: 'Latest moments',
     recentEssays: 'Recent essays',
     seeAll: 'See all →',
+    now: 'Now',
+    leadEssay: 'The lead essay',
+    pinned: 'Pinned',
+    allEssays: 'All essays →',
+    allMoments: 'All moments →',
+    readingLines: 'Reading lines',
+    backToEssays: '← Essays',
+    aboutMore: 'About →',
   },
   'es': {
     title: 'Retipografía',
@@ -199,6 +216,14 @@ export const ui: Record<Language, Translation> = {
     latestMoments: '最近的时刻',
     recentEssays: '最近的随笔',
     seeAll: '查看全部 →',
+    now: '近况',
+    leadEssay: '近期主文',
+    pinned: '置顶',
+    allEssays: '全部随笔 →',
+    allMoments: '全部时刻 →',
+    readingLines: '阅读线索',
+    backToEssays: '← 随笔',
+    aboutMore: '关于 →',
   },
   'zh-tw': {
     title: '重新編排',

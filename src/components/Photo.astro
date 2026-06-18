@@ -1,0 +1,59 @@
+---
+// A black-&-white photo frame (the brand's halftone imagery). Desaturates to
+// match the cover art. With `hover`, scales subtly when its `.group` ancestor
+// is hovered. Renders a quiet empty state when no `src` is given.
+interface Props {
+  src?: string
+  alt?: string
+  ratio?: string
+  caption?: string
+  hover?: boolean
+  objectPosition?: string
+  rounded?: boolean
+  class?: string
+}
+
+const {
+  src,
+  alt = '',
+  ratio = '3 / 2',
+  caption = 'Photo',
+  hover = false,
+  objectPosition = '50% 50%',
+  rounded = true,
+  class: className = '',
+} = Astro.props
+---
+
+<div
+  class:list={[
+    'relative overflow-hidden bg-secondary/5',
+    rounded ? 'rounded' : '',
+    className,
+  ]}
+  style={`aspect-ratio:${ratio}`}
+>
+  {src
+? (
+    <img
+      src={src}
+      alt={alt}
+      loading="lazy"
+      class:list={[
+        'h-full w-full object-cover transition-transform duration-300 ease-out',
+        hover ? 'group-hover:scale-[1.03]' : '',
+      ]}
+      style={`object-position:${objectPosition};filter:grayscale(1) contrast(1.05)`}
+    />
+  )
+: (
+    <div
+      class:list={[
+        'absolute inset-0 grid place-items-center border border-dashed border-secondary/15 c-secondary/40 font-mono text-3 uppercase tracking-wide',
+        rounded ? 'rounded' : '',
+      ]}
+    >
+      {caption}
+    </div>
+  )}
+</div>

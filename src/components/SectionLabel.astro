@@ -1,0 +1,25 @@
+---
+// Small uppercase section label with an optional italic action link on the
+// right ("All essays →"). Used across the home and listing pages.
+interface Props {
+  action?: string
+  actionHref?: string
+  class?: string
+}
+
+const { action, actionHref, class: className = '' } = Astro.props
+---
+
+<div class:list={['mb-5 flex items-baseline justify-between gap-4', className]}>
+  <h2 class="m-0 text-3.1 c-secondary/40 font-semibold tracking-[0.14em] font-serif uppercase">
+    <slot />
+  </h2>
+  {action && actionHref && (
+    <a
+      href={actionHref}
+      class="shrink-0 text-3.8 c-secondary font-serif italic no-underline transition-colors hover:c-primary"
+    >
+      {action}
+    </a>
+  )}
+</div>

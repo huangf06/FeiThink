@@ -81,6 +81,10 @@ __pycache__/
 /*.zip
 /wechat_draft_*.md
 /substack_export/
+/_review_shots/
+
+# Brand/design-system reference bundle (kept locally, not part of the site build)
+/FeiThink Design System/
 
 # Translation tooling runtime output (keep dir, ignore generated files)
 /output/*

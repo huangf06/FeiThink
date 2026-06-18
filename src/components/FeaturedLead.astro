@@ -1,0 +1,55 @@
+---
+import type { Language } from '@/i18n/config'
+import type { Post } from '@/types'
+import { getLineTitle } from '@/data/lines'
+import { getPostPath } from '@/i18n/path'
+import Photo from './Photo.astro'
+import PostMeta from './PostMeta.astro'
+import Tag from './Tag.astro'
+
+// The lead essay — magazine treatment on the home page. Shows a B&W image
+// beside the text when the essay carries one; otherwise a clean typographic
+// lead. The whole block is one link; the title wipes on hover.
+interface Props {
+  essay: Post
+  lang: Language
+  label?: string
+}
+
+const { essay, lang, label } = Astro.props
+const slug = essay.data.abbrlink || essay.id
+const href = getPostPath(slug, lang)
+const line = getLineTitle(essay.data.line)
+const minutes = essay.remarkPluginFrontmatter?.minutes
+const image = essay.data.image
+const dek = essay.data.description
+---
+
+<a
+  href={href}
+  class:list={[
+    'group grid items-center gap-[clamp(1.5rem,4vw,3rem)] no-underline',
+    image ? 'min-[720px]:grid-cols-[0.85fr_1fr]' : '',
+  ]}
+>
+  {image && <Photo src={image} ratio="4 / 3" hover />}
+  <div>
+    {label && (
+      <div class="mb-3 text-2.8 c-secondary/40 tracking-[0.14em] font-mono uppercase">
+        {label}
+      </div>
+    )}
+    <h2 class="m-0 text-balance text-[clamp(1.875rem,5vw,3rem)] c-primary font-bold leading-[1.12] font-serif cjk:tracking-wide">
+      <span class="highlight-group">{essay.data.title}</span>
+    </h2>
+    {dek && (
+      <p class="mb-5 mt-4 max-w-32rem text-pretty text-[clamp(1rem,2.2vw,1.1875rem)] c-secondary leading-[1.6] font-serif">
+        {dek}
+      </p>
+    )}
+    <div class="flex flex-wrap items-center gap-3.4">
+      <PostMeta date={essay.data.published} minutes={minutes} />
+      {line && <Tag size="sm">{line}</Tag>}
+    </div>
+  </div>
+</a>

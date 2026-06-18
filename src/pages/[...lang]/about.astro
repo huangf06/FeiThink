@@ -1,7 +1,12 @@
 ---
 import { getCollection, render } from 'astro:content'
-import { allLocales } from '@/config'
+import Photo from '@/components/Photo.astro'
+import SectionLabel from '@/components/SectionLabel.astro'
+import Tag from '@/components/Tag.astro'
+import { allLocales, themeConfig } from '@/config'
+import { LINES } from '@/data/lines'
 import { getLangFromLocale, getLangRouteParam } from '@/i18n/lang'
+import { ui } from '@/i18n/ui'
 import Layout from '@/layouts/Layout.astro'
 
 export async function getStaticPaths() {
@@ -11,18 +16,52 @@ export async function getStaticPaths() {
 }
 
 const currentLang = getLangFromLocale(Astro.currentLocale)
-// Get about page content with different language
+const t = ui[currentLang] ?? ui.en
+
+// About body comes from the bilingual markdown collection
 const allAboutEntries = await getCollection('about')
 const aboutEntry = allAboutEntries.find(entry => entry.data.lang === currentLang)
   ?? allAboutEntries.find(entry => entry.data.lang === '')
 const { Content } = aboutEntry ? await render(aboutEntry) : { Content: null }
+
+const { author, portrait } = themeConfig.site
+
+// Display title (Wordsworth's line), highlight on the last word
+const titleMap: Record<string, { l1: string, l2: string, hi: string }> = {
+  en: { l1: 'Plain living,', l2: 'high ', hi: 'thinking.' },
+  zh: { l1: '朴素生活,', l2: '高尚', hi: '思考。' },
+}
+const title = titleMap[currentLang] ?? titleMap.en
 ---
 
-<Layout>
-  <!-- Decorative Line -->
-  <div class="uno-decorative-line" />
-  <!-- About Page Content -->
-  <div class="heti">
-    {Content && <Content />}
+<Layout postTitle={t.about}>
+  <div class="pt-[clamp(2rem,5vw,3.5rem)] font-serif">
+    <div class="grid items-start gap-[clamp(1.8rem,5vw,3.5rem)] min-[720px]:grid-cols-[1fr_18rem]">
+      <div>
+        <h1 class="m-0 mb-[clamp(1.4rem,3vw,2rem)] text-[clamp(2.125rem,7vw,3.5rem)] c-primary font-bold leading-[1.1] font-serif cjk:tracking-wide">
+          {title.l1}<br />{title.l2}<span class="highlight-static">{title.hi}</span>
+        </h1>
+        <div class="heti">
+          {Content && <Content />}
+        </div>
+      </div>
+
+      <aside class="min-[720px]:max-w-18rem">
+        <Photo src={portrait} ratio="3 / 4" objectPosition="55% 22%" caption="Portrait" />
+        <div class="mt-3.6 text-2.9 c-secondary/40 tracking-wide font-mono">
+          {author} · Amsterdam
+        </div>
+      </aside>
+    </div>
+
+    {/* Reading lines */}
+    <section class="mt-[clamp(2.5rem,6vw,4rem)] border-t border-secondary/5 border-solid pt-[clamp(2rem,5vw,2.5rem)]">
+      <SectionLabel>{t.readingLines ?? 'Reading lines'}</SectionLabel>
+      <div class="flex flex-wrap gap-2.4">
+        {LINES.map(line => (
+          <Tag href={`/essays/lines/${line.slug}/`}>{line.title}</Tag>
+        ))}
+      </div>
+    </section>
   </div>
 </Layout>

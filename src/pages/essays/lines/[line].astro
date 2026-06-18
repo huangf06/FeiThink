@@ -1,8 +1,9 @@
 ---
-import Layout from '@/layouts/Layout.astro'
-import { LINES, type Line } from '@/data/lines'
+import type { Line } from '@/data/lines'
 import { getCollection } from 'astro:content'
+import { LINES } from '@/data/lines'
 import { getPostPath } from '@/i18n/path'
+import Layout from '@/layouts/Layout.astro'
 
 export async function getStaticPaths() {
   return LINES.map(line => ({
@@ -18,8 +19,7 @@ interface Props {
 const { line } = Astro.props
 
 const allPosts = await getCollection('posts', ({ data }) =>
-  data.lang === 'en' && !data.draft,
-)
+  data.lang === 'en' && !data.draft)
 const orderedPosts = line.readingOrder
   .map(slug => allPosts.find(p => p.data.abbrlink === slug))
   .filter((p): p is NonNullable<typeof p> => p !== undefined)
@@ -28,10 +28,10 @@ const orderedPosts = line.readingOrder
 <Layout postTitle={line.title} postDescription={line.tagline}>
   <article>
     <header class="mb-8">
-      <h1 class="mb-2 text-5.5 font-bold leading-tight cjk:tracking-wide lg:text-6">
+      <h1 class="mb-2 text-5.5 font-bold leading-tight lg:text-6 cjk:tracking-wide">
         {line.title}
       </h1>
-      <p class="text-3.8 leading-1.6 c-secondary lg:text-4">
+      <p class="text-3.8 c-secondary leading-[1.6] lg:text-4">
         {line.tagline}
       </p>
     </header>
@@ -44,7 +44,7 @@ const orderedPosts = line.readingOrder
 
     <section class="mb-10">
       <div class="uno-decorative-line" />
-      <p class="mb-4 text-3 font-semibold uppercase tracking-widest c-secondary lg:text-3.2">
+      <p class="mb-4 text-3 c-secondary font-semibold tracking-widest uppercase lg:text-3.2">
         Reading order
       </p>
       <ol>
@@ -55,14 +55,14 @@ const orderedPosts = line.readingOrder
               <span class="mr-2 c-secondary font-time">{String(i + 1).padStart(2, '0')}</span>
               <h3 class="inline transition-colors hover:c-primary">
                 <a
-                  class="cjk:tracking-wide lg:font-medium lg:text-4.5"
+                  class="lg:text-4.5 lg:font-medium cjk:tracking-wide"
                   href={getPostPath(slug, 'en')}
                 >
                   {post.data.title}
                 </a>
               </h3>
               {post.data.description && (
-                <p class="heti mt-2 text-3.8 leading-1.6 lg:text-4">
+                <p class="heti mt-2 text-3.8 leading-[1.6] lg:text-4">
                   {post.data.description}
                 </p>
               )}

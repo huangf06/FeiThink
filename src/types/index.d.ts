@@ -17,6 +17,13 @@ export interface ThemeConfig {
     url: string
     base: string
     favicon: string
+    // FeiThink editorial redesign (2026-06)
+    // present-tense "Now" note shown in the home masthead, per language
+    now?: Partial<Record<Language, string>>
+    // one-line author bio shown in the essay author card, per language
+    authorBio?: Partial<Record<Language, string>>
+    // portrait image (B&W) used on About + the essay author card
+    portrait?: string
   }
   color: {
     mode: 'light' | 'dark' | 'auto'

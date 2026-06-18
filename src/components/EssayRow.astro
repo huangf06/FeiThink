@@ -1,0 +1,37 @@
+---
+import type { Language } from '@/i18n/config'
+import type { Post } from '@/types'
+import { getLineTitle } from '@/data/lines'
+import { getPostPath } from '@/i18n/path'
+import PostMeta from './PostMeta.astro'
+import Tag from './Tag.astro'
+
+// A single essay row for the Essays index — title (wipes on hover), dek, meta.
+interface Props {
+  essay: Post
+  lang: Language
+}
+
+const { essay, lang } = Astro.props
+const slug = essay.data.abbrlink || essay.id
+const href = getPostPath(slug, lang)
+const line = getLineTitle(essay.data.line)
+const minutes = essay.remarkPluginFrontmatter?.minutes
+const dek = essay.data.description
+---
+
+<a
+  href={href}
+  class="group block border-b border-secondary/5 border-solid py-[clamp(1.2rem,3vw,1.6rem)] no-underline"
+>
+  <h3 class="m-0 mb-1.6 text-[clamp(1.25rem,3vw,1.625rem)] c-primary font-semibold leading-[1.25] font-serif cjk:tracking-wide">
+    <span class="highlight-group">{essay.data.title}</span>
+  </h3>
+  {dek && (
+    <p class="mb-2.8 max-w-40rem text-pretty text-4 c-secondary leading-[1.6] font-serif">{dek}</p>
+  )}
+  <div class="flex flex-wrap items-center gap-3.4">
+    <PostMeta date={essay.data.published} minutes={minutes} />
+    {line && <Tag size="sm">{line}</Tag>}
+  </div>
+</a>

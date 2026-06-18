@@ -1,0 +1,40 @@
+---
+import type { Language } from '@/i18n/config'
+import { themeConfig } from '@/config'
+import { ui } from '@/i18n/ui'
+
+// Author card at the foot of an essay — round B&W portrait, name, one-line bio,
+// and an About link. Content comes from site config (author / authorBio /
+// portrait), so it stays bilingual without per-post boilerplate.
+interface Props {
+  lang: Language
+  aboutHref: string
+}
+
+const { lang, aboutHref } = Astro.props
+const { author, authorBio, portrait } = themeConfig.site
+const t = ui[lang] ?? ui.en
+const bio = authorBio?.[lang] ?? authorBio?.en
+const aboutLabel = t.aboutMore ?? 'About →'
+---
+
+<div class="mt-[clamp(2.5rem,6vw,3.5rem)] flex items-center gap-4.4 border-t border-secondary/5 border-solid pt-7">
+  {portrait && (
+    <div class="h-16 w-16 flex-none overflow-hidden rounded-full bg-secondary/5">
+      <img
+        src={portrait}
+        alt={author}
+        loading="lazy"
+        class="h-full w-full object-cover"
+        style="object-position:55% 18%;filter:grayscale(1) contrast(1.05)"
+      />
+    </div>
+  )}
+  <div>
+    <div class="c-primary font-semibold font-serif">{author}</div>
+    <p class="m-0 mt-1 text-3.6 c-secondary leading-[1.6] font-serif">
+      {bio}
+      <a href={aboutHref} class="c-primary italic no-underline hover:underline">{aboutLabel}</a>
+    </p>
+  </div>
+</div>

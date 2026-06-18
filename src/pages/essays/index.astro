@@ -1,54 +1,29 @@
 ---
+import EssayRow from '@/components/EssayRow.astro'
+import Tag from '@/components/Tag.astro'
 import { LINES } from '@/data/lines'
-import { getEssays } from '@/utils/content'
-import { getPostPath } from '@/i18n/path'
 import Layout from '@/layouts/Layout.astro'
+import { getEssays } from '@/utils/content'
 
 const essays = await getEssays('en')
-
-function formatDate(d: Date): string {
-  return d.toISOString().slice(0, 10)
-}
 ---
 
 <Layout postTitle="Essays">
-  <article>
-    <header class="mb-8">
-      <h1 class="mb-2 text-5.5 font-bold leading-tight cjk:tracking-wide lg:text-6">
+  <div class="pt-[clamp(2rem,5vw,3.5rem)]">
+    <header class="mb-[clamp(1.5rem,4vw,2.2rem)]">
+      <h1 class="m-0 mb-[clamp(1rem,3vw,1.3rem)] text-[clamp(2.125rem,7vw,3.25rem)] c-primary font-bold leading-tight font-serif">
         Essays
       </h1>
+      <div class="flex flex-wrap gap-2.2">
+        <Tag active href="/essays/">All</Tag>
+        {LINES.map(line => (
+          <Tag href={`/essays/lines/${line.slug}/`}>{line.title}</Tag>
+        ))}
+      </div>
     </header>
 
-    <section class="mb-10 flex flex-wrap gap-3">
-      {LINES.map(line => (
-        <a
-          href={`/essays/lines/${line.slug}/`}
-          class="inline-block rounded-full border px-4 py-1.5 text-3.4 c-secondary transition-colors hover:c-primary lg:text-3.6"
-        >
-          {line.title}
-        </a>
-      ))}
-    </section>
-
-    <section>
-      <ul>
-        {essays.map((post) => {
-          const slug = post.data.abbrlink || post.id
-          return (
-            <li class="mb-4.5 lg:mb-6">
-              <time class="mr-2 c-secondary font-time text-3.5">
-                {formatDate(post.data.published)}
-              </time>
-              <a
-                class="highlight-hover cjk:tracking-wide transition-colors hover:c-primary"
-                href={getPostPath(slug, 'en')}
-              >
-                {post.data.title}
-              </a>
-            </li>
-          )
-        })}
-      </ul>
-    </section>
-  </article>
+    <div>
+      {essays.map(essay => <EssayRow essay={essay} lang="en" />)}
+    </div>
+  </div>
 </Layout>

@@ -21,6 +21,18 @@ export const themeConfig: ThemeConfig = {
     // favicon url
     // recommended formats: svg, png or ico
     favicon: '/icons/favicon.svg', // or https://example.com/favicon.svg
+    // present-tense "Now" note for the home masthead (per language)
+    now: {
+      en: 'Reading Ulysses, a few pages at a time. Training hard to cut fat and build muscle — set on a six-pack. Learning a new language.',
+      zh: '在读《尤利西斯》,每次几页。认真训练、减脂增肌——目标是练出腹肌。在学一门新语言。',
+    },
+    // one-line author bio for the essay author card (per language)
+    authorBio: {
+      en: 'Writes from Amsterdam on Kant, Dostoevsky, and the moral life.',
+      zh: '在阿姆斯特丹书写康德、陀思妥耶夫斯基与道德生活。',
+    },
+    // portrait (B&W) used on About and the essay author card
+    portrait: '/images/fei-portrait.jpeg',
   },
   // SITE INFORMATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> END
 
@@ -63,7 +75,7 @@ export const themeConfig: ThemeConfig = {
     // not fill in the locale code above again, can be an empty array []
     moreLocales: ['zh'], // ['de', 'en', 'es', 'fr', 'ja', 'ko', 'pl', 'pt', 'ru', 'zh', 'zh-tw']
     // post font style
-    fontStyle: 'sans', // sans | serif
+    fontStyle: 'serif', // sans | serif
     // post date format
     dateFormat: 'YYYY-MM-DD', // YYYY-MM-DD | MM-DD-YYYY | DD-MM-YYYY | MMM D YYYY | D MMM YYYY
     // enable table of contents

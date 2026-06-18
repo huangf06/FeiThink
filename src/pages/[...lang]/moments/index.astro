@@ -17,29 +17,27 @@ const t = ui[currentLang]
 const groups = await groupMomentsByYear(currentLang)
 ---
 
-<Layout
-  postTitle={t.moments}
-  postDescription={t.momentsSubtitle}
->
-  <header class="mb-8">
-    <h1 class="mb-2 text-5.5 font-bold leading-tight cjk:tracking-wide lg:text-6">
+<Layout postTitle={t.moments} postDescription={t.momentsSubtitle}>
+  <header class="pb-[clamp(2rem,5vw,3rem)] pt-[clamp(2rem,5vw,3.5rem)]">
+    <h1 class="m-0 mb-2 text-[clamp(2.125rem,7vw,3.25rem)] c-primary font-bold leading-tight font-serif cjk:tracking-wide">
       {t.moments}
     </h1>
-    <p class="text-3.8 leading-1.6 c-secondary lg:text-4">
+    <p class="m-0 text-[clamp(1.0625rem,3vw,1.375rem)] c-secondary font-serif italic">
       {t.momentsSubtitle}
     </p>
   </header>
 
   {groups.length === 0 && (
-    <p class="c-secondary text-3.8 lg:text-4">
-      {t.momentsEmpty}
-    </p>
+    <p class="text-4 c-secondary font-serif">{t.momentsEmpty}</p>
   )}
 
   {groups.map(({ year, moments }) => (
-    <section class="mb-10">
-      <h2 class="mb-4 text-4.5 font-semibold c-secondary lg:text-5">{year}</h2>
-      <div class="grid gap-6 lg:grid-cols-2">
+    <section class="mb-[clamp(2rem,5vw,3rem)]">
+      <div class="mb-5 flex items-center gap-4">
+        <span class="text-[clamp(1.75rem,5vw,2.5rem)] c-primary font-bold leading-none font-title">{year}</span>
+        <span class="h-px flex-1 bg-secondary/25"></span>
+      </div>
+      <div class="grid gap-6 min-[560px]:grid-cols-2">
         {moments.map(moment => (
           <MomentCard moment={moment} variant="index" lang={currentLang} />
         ))}

@@ -1,0 +1,39 @@
+---
+import type { Language } from '@/i18n/config'
+import type { Post } from '@/types'
+import { getLineTitle } from '@/data/lines'
+import { getPostPath } from '@/i18n/path'
+import PostMeta from './PostMeta.astro'
+import Tag from './Tag.astro'
+
+// A pinned-essay card for the home 3-up grid. Top hairline-to-ink rule, meta,
+// title (wipes on hover), dek, line tag pinned to the bottom.
+interface Props {
+  essay: Post
+  lang: Language
+}
+
+const { essay, lang } = Astro.props
+const slug = essay.data.abbrlink || essay.id
+const href = getPostPath(slug, lang)
+const line = getLineTitle(essay.data.line)
+const dek = essay.data.description
+---
+
+<a
+  href={href}
+  class="group h-full flex flex-col border-t-2 border-primary border-solid pt-4 no-underline"
+>
+  <PostMeta date={essay.data.published} class="mb-2.4" />
+  <h3 class="m-0 mb-2 text-[clamp(1.1875rem,2.5vw,1.4375rem)] c-primary font-semibold leading-[1.25] font-serif cjk:tracking-wide">
+    <span class="highlight-group">{essay.data.title}</span>
+  </h3>
+  {dek && (
+    <p class="mb-3.6 text-pretty text-3.6 c-secondary leading-[1.6] font-serif">{dek}</p>
+  )}
+  {line && (
+    <div class="mt-auto">
+      <Tag size="sm">{line}</Tag>
+    </div>
+  )}
+</a>

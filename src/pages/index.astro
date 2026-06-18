@@ -1,116 +1,99 @@
 ---
+import FeaturedLead from '@/components/FeaturedLead.astro'
 import MomentCard from '@/components/MomentCard.astro'
-import { getEssays, getMoments, getPinnedPosts } from '@/utils/content'
+import PinnedCard from '@/components/PinnedCard.astro'
+import SectionLabel from '@/components/SectionLabel.astro'
+import Wordmark from '@/components/Wordmark.astro'
+import { themeConfig } from '@/config'
 import { getPostPath } from '@/i18n/path'
+import { ui } from '@/i18n/ui'
 import Layout from '@/layouts/Layout.astro'
+import { getEssays, getMoments, getPinnedPosts } from '@/utils/content'
 
-const pinned = await getPinnedPosts('en')
+const t = ui.en
+// Lead = the newest essay, so the hero reflects new writing (not a frozen pin).
+const essays = await getEssays('en')
+const lead = essays[0]
+// Pinned grid = curated evergreen, minus the lead to avoid duplication.
+const pinned = (await getPinnedPosts('en'))
+  .filter(post => post.id !== lead?.id)
+  .slice(0, 3)
 const latestMoments = (await getMoments('en')).slice(0, 2)
-const recentEssays = (await getEssays('en'))
-  .filter(post => !post.data.pin)
+const recentEssays = essays
+  .filter(post => post.id !== lead?.id && !post.data.pin)
   .slice(0, 5)
+const now = themeConfig.site.now?.en
 
-function formatDate(d: Date): string {
+function iso(d: Date): string {
   return d.toISOString().slice(0, 10)
 }
+
+const sectionPad = 'py-[clamp(2.5rem,6vw,4rem)]'
+const ruled = 'border-b border-secondary/5 border-solid'
 ---
 
 <Layout>
-  <section class="hero mb-10">
-    <p class="heti text-3.8 lg:text-4">
-      I'm Fei Huang. This is where my essays, moments, and work live.
-      New writing goes out on <a
-        class="highlight-hover transition-colors hover:c-primary"
-        href="https://feithink.substack.com"
-        target="_blank"
-        rel="noopener noreferrer"
-      >Substack</a> first; a few come home here.
+  {/* Masthead */}
+  <section class:list={['py-[clamp(2.6rem,7vw,5rem)]', ruled]}>
+    <Wordmark as="h1" class="m-0 block text-[clamp(3.25rem,12vw,6.5rem)]" />
+    <p class="mt-[clamp(0.8rem,2vw,1.2rem)] max-w-34rem text-[clamp(1.125rem,3.5vw,1.625rem)] c-secondary leading-[1.4] font-serif italic">
+      A continuous record of <span class="highlight-static">thinking and living</span> — essays on life, and the moments worth keeping.
     </p>
+    {now && (
+      <div class="mt-[clamp(1.4rem,3vw,2rem)] max-w-40rem flex items-baseline gap-3">
+        <span class="shrink-0 pt-0.6 text-2.7 c-secondary/40 tracking-[0.14em] font-mono uppercase">{t.now}</span>
+        <span class="text-3.75 c-secondary leading-[1.7] font-serif">{now}</span>
+      </div>
+    )}
   </section>
 
+  {/* Featured lead essay */}
+  {lead && (
+    <section class:list={[sectionPad, ruled]}>
+      <FeaturedLead essay={lead} lang="en" label={t.leadEssay} />
+    </section>
+  )}
+
+  {/* Pinned essays */}
   {pinned.length > 0 && (
-    <section class="mb-10">
-      <div class="uno-decorative-line" />
-      <p class="mb-4 text-3 font-semibold uppercase tracking-widest c-secondary lg:text-3.2">
-        Start here
-      </p>
-      <ul>
-        {pinned.map((post) => {
+    <section class:list={[sectionPad, ruled]}>
+      <SectionLabel action={t.allEssays} actionHref="/essays/">{t.pinned}</SectionLabel>
+      <div class="grid gap-[clamp(1.4rem,3vw,2.2rem)] min-[720px]:grid-cols-3">
+        {pinned.map(essay => <PinnedCard essay={essay} lang="en" />)}
+      </div>
+    </section>
+  )}
+
+  {/* Latest moments */}
+  {latestMoments.length > 0 && (
+    <section class:list={[sectionPad, ruled]}>
+      <SectionLabel action={t.allMoments} actionHref="/moments/">{t.latestMoments}</SectionLabel>
+      <div class="grid gap-6 min-[560px]:grid-cols-2">
+        {latestMoments.map(moment => <MomentCard moment={moment} variant="home" lang="en" />)}
+      </div>
+    </section>
+  )}
+
+  {/* Recent essays */}
+  {recentEssays.length > 0 && (
+    <section class={sectionPad}>
+      <SectionLabel action={t.seeAll} actionHref="/essays/">{t.recentEssays}</SectionLabel>
+      <ul class="m-0 list-none p-0">
+        {recentEssays.map((post) => {
           const slug = post.data.abbrlink || post.id
           return (
-            <li class="mb-5.5 lg:mb-8">
-              <h3 class="inline transition-colors hover:c-primary">
-                <a
-                  class="cjk:tracking-wide lg:font-medium lg:text-4.5"
-                  href={getPostPath(slug, 'en')}
-                >
-                  {post.data.title}
-                </a>
-              </h3>
-              {post.data.description && (
-                <p class="heti mt-2 text-3.8 leading-1.6 lg:text-4">
-                  {post.data.description}
-                </p>
-              )}
+            <li class="flex flex-wrap items-baseline gap-x-3 border-b border-secondary/5 border-solid py-3.5">
+              <time class="text-3.1 c-secondary/40 font-mono tabular-nums">{iso(post.data.published)}</time>
+              <a
+                href={getPostPath(slug, 'en')}
+                class="text-4 c-primary font-serif no-underline cjk:tracking-wide"
+              >
+                <span class="highlight-hover">{post.data.title}</span>
+              </a>
             </li>
           )
         })}
       </ul>
     </section>
   )}
-
-  {latestMoments.length > 0 && (
-    <section class="mb-10">
-      <div class="uno-decorative-line" />
-      <div class="mb-4 flex items-baseline justify-between">
-        <p class="text-3 font-semibold uppercase tracking-widest c-secondary lg:text-3.2">
-          Latest moments
-        </p>
-        <a
-          href="/moments/"
-          class="text-3.2 c-secondary transition-colors hover:c-primary lg:text-3.4"
-        >
-          See all →
-        </a>
-      </div>
-      <div class="grid gap-6 lg:grid-cols-2">
-        {latestMoments.map(moment => (
-          <MomentCard moment={moment} variant="home" lang="en" />
-        ))}
-      </div>
-    </section>
-  )}
-
-  <section class="mb-10">
-    <div class="uno-decorative-line" />
-    <div class="mb-4 flex items-baseline justify-between">
-      <p class="text-3 font-semibold uppercase tracking-widest c-secondary lg:text-3.2">
-        Recent essays
-      </p>
-      <a
-        href="/essays/"
-        class="text-3.2 c-secondary transition-colors hover:c-primary lg:text-3.4"
-      >
-        See all →
-      </a>
-    </div>
-    <ul>
-      {recentEssays.map((post) => {
-        const slug = post.data.abbrlink || post.id
-        return (
-          <li class="mb-4.5 lg:mb-6">
-            <time class="mr-2 c-secondary font-time text-3.5">
-              {formatDate(post.data.published)}
-            </time>
-            <a
-              class="highlight-hover cjk:tracking-wide transition-colors hover:c-primary"
-              href={getPostPath(slug, 'en')}
-            >
-              {post.data.title}
-            </a>
-          </li>
-        )
-      })}
-    </ul>
-  </section>
 </Layout>

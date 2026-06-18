@@ -1,0 +1,21 @@
+---
+// Tag / reading-line filter pill. Quiet by default; `active` fills with ink.
+// Renders an <a> when `href` is given, otherwise a <span>.
+interface Props {
+  active?: boolean
+  href?: string
+  size?: 'sm' | 'md'
+  class?: string
+}
+
+const { active = false, href, size = 'md', class: className = '' } = Astro.props
+const Element = href ? 'a' : 'span'
+
+const base = 'inline-flex items-center rounded-full border border-solid font-serif font-medium leading-[1.4] tracking-wide no-underline transition-colors ease-out'
+const sizeCls = size === 'sm' ? 'text-3 px-2.4 py-0.6' : 'text-3.25 px-3 py-1'
+const stateCls = active
+  ? 'bg-primary c-background border-primary'
+  : `c-secondary border-secondary/15${href ? ' hover:(c-primary border-secondary/25)' : ''}`
+---
+
+<Element href={href} class:list={[base, sizeCls, stateCls, className]}><slot /></Element>

@@ -64,3 +64,9 @@ export const LINES: Line[] = [
 export function getLineBySlug(slug: string): Line | undefined {
   return LINES.find(l => l.slug === slug)
 }
+
+export function getLineTitle(slug?: string | null): string | undefined {
+  if (!slug)
+    return undefined
+  return LINES.find(l => l.slug === slug)?.title
+}

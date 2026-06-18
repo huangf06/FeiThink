@@ -33,6 +33,30 @@ body::selection {
   --at-apply: 'origin-bottom-right scale-x-0 transition-transform ease-out lg:duration-300';
 }
 
+/* Group-hover highlight wipe — for card titles where the whole card is the
+   hover target (featured lead, pinned cards, essay rows). */
+.highlight-group {
+  --at-apply: 'relative inline';
+}
+.highlight-group::after {
+  --at-apply: 'absolute bottom-0.05em left-0 z--1 h-0.42em w-full origin-bottom-right scale-x-0 bg-highlight transition-transform ease-out lg:duration-300';
+  content: '';
+}
+.group:hover .highlight-group::after {
+  --at-apply: 'origin-bottom-left scale-x-100';
+}
+
+/* Theme toggle glyph swap — class-based to match the html.dark toggle */
+.theme-toggle-button .icon-sun {
+  display: none;
+}
+html.dark .theme-toggle-button .icon-moon {
+  display: none;
+}
+html.dark .theme-toggle-button .icon-sun {
+  display: inline;
+}
+
 /* Heading Anchor Link >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 .heading-anchor-link {
   --at-apply: 'inline-block translate-y-0.1em';

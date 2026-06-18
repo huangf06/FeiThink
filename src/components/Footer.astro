@@ -1,43 +1,50 @@
 ---
-import { themeConfig } from '@/config'
-import { getLangFromPath } from '@/i18n/lang'
-import { getLocalizedPath } from '@/i18n/path'
+import { moreLocales, themeConfig } from '@/config'
+import { getLangFromPath, getNextGlobalLang } from '@/i18n/lang'
+import { getLocalizedPath, getNextGlobalLangPath } from '@/i18n/path'
+import { isEssaysPage, isPostPage, isWorkPage } from '@/utils/page'
+import Wordmark from './Wordmark.astro'
 
 const { author } = themeConfig.site
 const { links, startYear } = themeConfig.footer
 
 const currentYear = new Date().getFullYear()
 const year = Number(startYear) === currentYear
-  ? startYear
-  : `${startYear}-${currentYear}`
+  ? `${startYear}`
+  : `${startYear}–${currentYear}`
 
-const currentLang = getLangFromPath(Astro.url.pathname)
+const path = Astro.url.pathname
+const currentLang = getLangFromPath(path)
+const homeHref = getLocalizedPath('/', currentLang)
+
+const taglines: Record<string, string> = {
+  en: 'A continuous record of thinking and living. New writing on Substack first; what lasts comes here.',
+  zh: '持续记录思想与生活。新文先发 Substack,能扛过二读的回到这里。',
+}
+const tagline = taglines[currentLang] ?? taglines.en
+
+// English-only routes (essays index, line pages, work) have no localized
+// counterpart — fall back to the other language's home rather than 404.
+const enOnlyRoute = (isEssaysPage(path) && !isPostPage(path)) || isWorkPage(path)
+const showLanguageSwitcher = moreLocales.length > 0
+const nextUrl = enOnlyRoute
+  ? getLocalizedPath('/', getNextGlobalLang(currentLang))
+  : getNextGlobalLangPath(path)
+const langLabel = currentLang.startsWith('zh') ? 'English' : '中文'
+
 const socialLinks = links.map(({ name, url }) => {
   const isRSS = url === '/atom.xml' || url === '/rss.xml'
   const isEmail = /^[\w.-]+@[\w.-]+\.[a-z]{2,}$/i.test(url)
 
   if (isRSS) {
     const localizedPath = getLocalizedPath(url, currentLang)
-    const href = import.meta.env.DEV
-      ? localizedPath
-      : localizedPath.slice(0, -1)
-
-    return {
-      name,
-      href,
-      target: '_blank',
-      rel: 'noopener noreferrer',
-    }
+    const href = import.meta.env.DEV ? localizedPath : localizedPath.slice(0, -1)
+    return { name, href, target: '_blank', rel: 'noopener noreferrer' }
   }
 
   if (isEmail) {
     const href = `mailto:${url}`
-    return {
-      name,
-      href,
-      'data-umami-event': 'outbound-link-click',
-      'data-umami-event-url': href,
-    }
+    return { name, href, 'data-umami-event': 'outbound-link-click', 'data-umami-event-url': href }
   }
 
   return {
@@ -51,24 +58,27 @@ const socialLinks = links.map(({ name, url }) => {
 })
 ---
 
-<footer
-  class="text-3 leading-1.25em font-navbar"
-  lg="uno-desktop-column bottom-20 text-3.5"
->
-  <p>
-    {socialLinks.map((link, index) => (
-      <>
-        <a class="highlight-hover py-0.8 transition-colors after:bottom-0.35em hover:c-primary" {...link}>{link.name}</a>
-        {index < socialLinks.length - 1 && '/'}
-      </>
-    ))}
-  </p>
+<footer class="mt-[clamp(3rem,8vw,6rem)] border-t border-secondary/5 border-solid">
+  <div class="mx-auto max-w-60rem px-[clamp(1.2rem,4vw,2.5rem)] py-[clamp(2.5rem,6vw,4rem)]">
+    <div class="flex flex-wrap items-start justify-between gap-x-8 gap-y-6">
+      <div class="max-w-22rem">
+        <a href={homeHref} class="no-underline" aria-label={themeConfig.site.title}>
+          <Wordmark class="text-[1.6rem]" />
+        </a>
+        <p class="mt-2.4 text-3.4 c-secondary leading-[1.6] font-serif italic">{tagline}</p>
+      </div>
+      <nav class="flex flex-wrap gap-x-4.8 gap-y-2 text-3.4 font-serif" aria-label="Social links">
+        {socialLinks.map(link => (
+          <a class="c-secondary no-underline transition-colors hover:c-primary" {...link}>{link.name}</a>
+        ))}
+      </nav>
+    </div>
 
-  <p>
-    © {year} {author}
-  </p>
-
-  <p>
-    Powered by <a class="highlight-hover py-0.8 transition-colors after:bottom-0.35em hover:c-primary" href="https://astro.build/" target="_blank" rel="noopener noreferrer" data-umami-event="outbound-link-click" data-umami-event-url="https://astro.build/">Astro</a> and <a class="highlight-hover py-0.8 transition-colors after:bottom-0.35em hover:c-primary" href="https://github.com/radishzzz/astro-theme-retypeset" target="_blank" rel="noopener noreferrer" data-umami-event="outbound-link-click" data-umami-event-url="https://github.com/radishzzz/astro-theme-retypeset">Retypeset</a>
-  </p>
+    <div class="mt-[clamp(2rem,5vw,3rem)] flex flex-wrap items-center justify-between gap-2 text-3 c-secondary/40 font-serif">
+      <span>© {year} {author} · Amsterdam</span>
+      {showLanguageSwitcher && (
+        <a href={nextUrl} class="c-secondary/40 no-underline transition-colors hover:c-primary">{langLabel}</a>
+      )}
+    </div>
+  </div>
 </footer>

@@ -2,8 +2,6 @@
 lang: en
 ---
 
-![Fei Huang — Living & Thinking](/feithink-brand.png)
-
 ## Who I am
 
 Fei Huang, 37, in Amsterdam. B.Eng. in Industrial Engineering, Tsinghua (2010); ten years in data science and quant trading. Then I left the industry, turned to philosophy in earnest, and walked alone through a period of depression and existential crisis.

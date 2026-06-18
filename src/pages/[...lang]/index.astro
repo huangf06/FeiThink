@@ -1,7 +1,10 @@
 ---
+import FeaturedLead from '@/components/FeaturedLead.astro'
 import MomentCard from '@/components/MomentCard.astro'
-import PostList from '@/components/PostList.astro'
-import { moreLocales } from '@/config'
+import PinnedCard from '@/components/PinnedCard.astro'
+import SectionLabel from '@/components/SectionLabel.astro'
+import Wordmark from '@/components/Wordmark.astro'
+import { moreLocales, themeConfig } from '@/config'
 import { getLangFromLocale, getLangRouteParam } from '@/i18n/lang'
 import { getLocalizedPath, getPostPath } from '@/i18n/path'
 import { ui } from '@/i18n/ui'
@@ -17,69 +20,91 @@ export async function getStaticPaths() {
 const currentLang = getLangFromLocale(Astro.currentLocale)
 const t = ui[currentLang]
 
-const pinned = await getPinnedPosts(currentLang)
+// Lead = the newest essay, so the hero reflects new writing (not a frozen pin).
+const essays = await getEssays(currentLang)
+const lead = essays[0]
+// Pinned grid = curated evergreen, minus the lead to avoid duplication.
+const pinned = (await getPinnedPosts(currentLang))
+  .filter(post => post.id !== lead?.id)
+  .slice(0, 3)
 const latestMoments = (await getMoments(currentLang)).slice(0, 2)
-const recentEssays = (await getEssays(currentLang))
-  .filter(post => !post.data.pin)
+const recentEssays = essays
+  .filter(post => post.id !== lead?.id && !post.data.pin)
   .slice(0, 5)
+const now = themeConfig.site.now?.[currentLang]
+const essaysHref = getLocalizedPath('/essays/', currentLang)
+const momentsHref = getLocalizedPath('/moments/', currentLang)
 
-function formatDate(d: Date): string {
+function iso(d: Date): string {
   return d.toISOString().slice(0, 10)
 }
+
+const sectionPad = 'py-[clamp(2.5rem,6vw,4rem)]'
+const ruled = 'border-b border-secondary/5 border-solid'
 ---
 
 <Layout>
-  {pinned.length > 0 && (
-    <section class="mb-10">
-      <div class="uno-decorative-line" />
-      <PostList posts={pinned} lang={currentLang} pinned={true} />
-    </section>
-  )}
-
-  {latestMoments.length > 0 && (
-    <section class="mb-10">
-      <div class="uno-decorative-line" />
-      <div class="mb-4 flex items-baseline justify-between">
-        <p class="text-3 font-semibold uppercase tracking-widest c-secondary lg:text-3.2">
-          {t.latestMoments}
-        </p>
-        <a
-          href={getLocalizedPath('/moments/', currentLang)}
-          class="text-3.2 c-secondary transition-colors hover:c-primary lg:text-3.4"
-        >
-          {t.seeAll}
-        </a>
-      </div>
-      <div class="grid gap-6 lg:grid-cols-2">
-        {latestMoments.map(moment => (
-          <MomentCard moment={moment} variant="home" lang={currentLang} />
-        ))}
-      </div>
-    </section>
-  )}
-
-  <section class="mb-10">
-    <div class="uno-decorative-line" />
-    <p class="mb-4 text-3 font-semibold uppercase tracking-widest c-secondary lg:text-3.2">
-      {t.recentEssays}
+  {/* Masthead */}
+  <section class:list={['py-[clamp(2.6rem,7vw,5rem)]', ruled]}>
+    <Wordmark as="h1" class="m-0 block text-[clamp(3.25rem,12vw,6.5rem)]" />
+    <p class="mt-[clamp(0.8rem,2vw,1.2rem)] max-w-34rem text-[clamp(1.125rem,3.5vw,1.625rem)] c-secondary leading-[1.6] font-serif italic cjk:tracking-wide">
+      持续记录<span class="highlight-static">思想与生活</span>——关于人生的随笔,和那些值得留住的时刻。
     </p>
-    <ul>
-      {recentEssays.map((post) => {
-        const slug = post.data.abbrlink || post.id
-        return (
-          <li class="mb-4.5 lg:mb-6">
-            <time class="mr-2 c-secondary font-time text-3.5">
-              {formatDate(post.data.published)}
-            </time>
-            <a
-              class="highlight-hover cjk:tracking-wide transition-colors hover:c-primary"
-              href={getPostPath(slug, currentLang)}
-            >
-              {post.data.title}
-            </a>
-          </li>
-        )
-      })}
-    </ul>
+    {now && (
+      <div class="mt-[clamp(1.4rem,3vw,2rem)] max-w-40rem flex items-baseline gap-3">
+        <span class="shrink-0 pt-0.6 text-2.7 c-secondary/40 tracking-[0.14em] font-mono uppercase">{t.now}</span>
+        <span class="text-3.75 c-secondary leading-[1.8] font-serif cjk:tracking-wide">{now}</span>
+      </div>
+    )}
   </section>
+
+  {/* Featured lead essay */}
+  {lead && (
+    <section class:list={[sectionPad, ruled]}>
+      <FeaturedLead essay={lead} lang={currentLang} label={t.leadEssay} />
+    </section>
+  )}
+
+  {/* Pinned essays */}
+  {pinned.length > 0 && (
+    <section class:list={[sectionPad, ruled]}>
+      <SectionLabel action={t.allEssays} actionHref={essaysHref}>{t.pinned}</SectionLabel>
+      <div class="grid gap-[clamp(1.4rem,3vw,2.2rem)] min-[720px]:grid-cols-3">
+        {pinned.map(essay => <PinnedCard essay={essay} lang={currentLang} />)}
+      </div>
+    </section>
+  )}
+
+  {/* Latest moments */}
+  {latestMoments.length > 0 && (
+    <section class:list={[sectionPad, ruled]}>
+      <SectionLabel action={t.allMoments} actionHref={momentsHref}>{t.latestMoments}</SectionLabel>
+      <div class="grid gap-6 min-[560px]:grid-cols-2">
+        {latestMoments.map(moment => <MomentCard moment={moment} variant="home" lang={currentLang} />)}
+      </div>
+    </section>
+  )}
+
+  {/* Recent essays */}
+  {recentEssays.length > 0 && (
+    <section class={sectionPad}>
+      <SectionLabel action={t.seeAll} actionHref={essaysHref}>{t.recentEssays}</SectionLabel>
+      <ul class="m-0 list-none p-0">
+        {recentEssays.map((post) => {
+          const slug = post.data.abbrlink || post.id
+          return (
+            <li class="flex flex-wrap items-baseline gap-x-3 border-b border-secondary/5 border-solid py-3.5">
+              <time class="text-3.1 c-secondary/40 font-mono tabular-nums">{iso(post.data.published)}</time>
+              <a
+                href={getPostPath(slug, currentLang)}
+                class="text-4 c-primary font-serif no-underline cjk:tracking-wide"
+              >
+                <span class="highlight-hover">{post.data.title}</span>
+              </a>
+            </li>
+          )
+        })}
+      </ul>
+    </section>
+  )}
 </Layout>

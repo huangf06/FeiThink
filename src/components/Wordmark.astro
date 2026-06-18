@@ -1,0 +1,13 @@
+---
+// FeiThink wordmark — the site name set in Snell Roundhand script (font-title).
+// Ink by default; size is controlled by the caller via `class`.
+interface Props {
+  as?: 'span' | 'h1' | 'div'
+  class?: string
+}
+
+const { as = 'span', class: className = '' } = Astro.props
+const Tag = as
+---
+
+<Tag class:list={['font-title font-bold leading-none c-primary', className]}>FeiThink</Tag>
